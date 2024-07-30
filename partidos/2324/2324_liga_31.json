@@ -1,0 +1,384 @@
+{
+    "titulo": "Temporada 2023/24 - Liga - Jornada 31",
+    "atras": "2324_liga.html",
+    "estadio": {
+        "ciudad": "Palma de Mallorca",
+        "nombre": "Estadio Mallorca Son Moix",
+        "imagen": "sonmoix.jpg",
+        "espectadores": "23.244"
+    },
+    "fecha": "SAB 13/04/2024",
+    "hora": "18:30",
+    "arbitro": "Sánchez Martínez (colegio murciano)",
+    "local": {
+        "nombre": "RCD Mallorca",
+        "escudo": "mll.png",
+        "goles": "0",
+        "golesp": 0,
+        "entrenador": "Javier Aguirre"
+    },
+    "visitante": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Rajković",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Maffeo ",
+            "salida": "0",
+            "cambio": "78'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Gio González",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Raíllo ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Nastasić",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Lato",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Manu Morlanes ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Samú Costa ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Antonio Sánchez ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Dani Rodríguez ",
+            "salida": "0",
+            "cambio": "86'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Muriqi ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "10",
+            "nombre": "Darder ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Abdón Prats ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Mascarell ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Radonjić ",
+            "salida": "78'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Larin ",
+            "salida": "86'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "13",
+            "nombre": "Lunin ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Lucas Vázquez ",
+            "salida": "0",
+            "cambio": "90'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Mendy",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Tchouaméni ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Modrić ",
+            "salida": "0",
+            "cambio": "86'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Bellingham ",
+            "salida": "0",
+            "cambio": "64'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Brahim ",
+            "salida": "0",
+            "cambio": "64'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Joselu",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "64'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Vini Jr. ",
+            "salida": "64'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal ",
+            "salida": "86'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão ",
+            "salida": "90'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "0-1",
+            "minuto": "48'",
+            "descripcion": "Disparo de <span class=\"azul\">Tchouaméni</span> desde fuera del área que toca en Morlanes y se vuelve imposible para Rajković."
+        }
+    ],
+    "penaltis": []
+}

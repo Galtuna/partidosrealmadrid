@@ -1,0 +1,404 @@
+{
+    "titulo": "Temporada 2023/24 - Liga - Jornada 36",
+    "atras": "2324_liga.html",
+    "estadio": {
+        "ciudad": "Madrid",
+        "nombre": "Estadio Santiago Bernabéu",
+        "imagen": "bernabeu.jpg",
+        "espectadores": "68.954"
+    },
+    "fecha": "MAR 14/05/2024",
+    "hora": "21:30",
+    "arbitro": "Busquets Ferrer (colegio balear)",
+    "local": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "5",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "visitante": {
+        "nombre": "Deportivo Alavés",
+        "escudo": "ala.jpg",
+        "goles": "0",
+        "golesp": 0,
+        "entrenador": "Luis García Plaza"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Courtois",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Mendy",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Kroos ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde ",
+            "salida": "0",
+            "cambio": "82'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Bellingham ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Rodrygo",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Vini Jr. ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 2,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "24",
+            "nombre": "Arda Güler ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ceballos ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "28",
+            "nombre": "Mario Martín ",
+            "salida": "82'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "31",
+            "nombre": "Owono",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Gorosabel ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Abqar",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Rafa Marín",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Rubén Duarte ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Antonio Blanco",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Guevara ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Álex Sola ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Luis Rioja",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Hagi ",
+            "salida": "0",
+            "cambio": "71'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "32",
+            "nombre": "Omorodion ",
+            "salida": "0",
+            "cambio": "78'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "14",
+            "nombre": "Tenaglia ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Guridi ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Alkain ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "29",
+            "nombre": "Panichelli ",
+            "salida": "71'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Rebbach ",
+            "salida": "78'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "10'",
+            "descripcion": "Centro pasado al segundo palo de Kroos que remata <span class=\"azul\">Bellingham</span> de volea por encima de Owono."
+        },
+        {
+            "gol": "2-0",
+            "minuto": "27'",
+            "descripcion": "Camavinga recibe en la frontal, se gira, supera a Blanco y la pone al área pequeña donde remata <span class=\"azul\">Vini Jr</span>."
+        },
+        {
+            "gol": "3-0",
+            "minuto": "45+1'",
+            "descripcion": "<span class=\"azul\">Valverde</span> recibe solo en el pico del área y suelta un tremendo disparo a la escuadra del primer palo."
+        },
+        {
+            "gol": "4-0",
+            "minuto": "70'",
+            "descripcion": "Pase filtrado de Bellingham a <span class=\"azul\">Vini Jr.</span> que algo escorado se saca un derechazo a la escuadra del palo largo."
+        },
+        {
+            "gol": "5-0",
+            "minuto": "81'",
+            "descripcion": "<span class=\"azul\">Arda Güler</span> aprovecha un rechace de la defensa tras una buena jugada y disparo de Rodrygo."
+        }
+    ],
+    "penaltis": []
+}

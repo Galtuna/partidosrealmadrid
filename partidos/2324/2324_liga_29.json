@@ -1,0 +1,420 @@
+{
+    "titulo": "Temporada 2023/24 - Liga - Jornada 29",
+    "atras": "2324_liga.html",
+    "estadio": {
+        "ciudad": "Pamplona",
+        "nombre": "Estadio El Sadar",
+        "imagen": "elsadar.jpg",
+        "espectadores": "22.430"
+    },
+    "fecha": "SAB 16/03/2024",
+    "hora": "16:15",
+    "arbitro": "Martínez Munuera (colegio valenciano)",
+    "local": {
+        "nombre": "CA Osasuna",
+        "escudo": "osa.png",
+        "goles": "2",
+        "golesp": 0,
+        "entrenador": "Jagoba Arrasate"
+    },
+    "visitante": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "4",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Sergio Herrera",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Areso",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Unai García ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Catena ",
+            "salida": "0",
+            "cambio": "70'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "28",
+            "nombre": "Herrando ",
+            "salida": "0",
+            "cambio": "79'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Mojica",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Lucas Torró ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Moncayola",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Moi Gómez ",
+            "salida": "0",
+            "cambio": "70'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Arnaiz ",
+            "salida": "0",
+            "cambio": "70'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Budimir ",
+            "salida": "0",
+            "cambio": "70'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "34",
+            "nombre": "Iker Muñoz ",
+            "salida": "70'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Raúl García ",
+            "salida": "70'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Rubén García ",
+            "salida": "70'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ibáñez ",
+            "salida": "70'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Juan Cruz ",
+            "salida": "79'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "13",
+            "nombre": "Lunin",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Tchouaméni",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Mendy ",
+            "salida": "0",
+            "cambio": "85'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Kroos ",
+            "salida": "0",
+            "cambio": "77'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Brahim ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Rodrygo",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Vini Jr. ",
+            "salida": "0",
+            "cambio": "85'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 2,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "6",
+            "nombre": "Nacho ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Modrić ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "77'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Fran García ",
+            "salida": "85'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Arda Güler ",
+            "salida": "85'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "0-1",
+            "minuto": "4'",
+            "descripcion": "Robo de <span class=\"azul\">Vini Jr.</span> a Catena siendo el último hombre, y el brasileño no perdona ante Sergio Herrera."
+        },
+        {
+            "gol": "1-1",
+            "minuto": "7'",
+            "descripcion": "Córner que toca Carvajal en el primer palo hacia atrás, Herrando la devuelve al área pequeña y <span class=\"azul\">Budimir</span> remacha."
+        },
+        {
+            "gol": "1-2",
+            "minuto": "18'",
+            "descripcion": "Brahim encuentra a Valverde en el área, este centra sin bajar el balón y aparece <span class=\"azul\">Carvajal</span> para marcar con el exterior."
+        },
+        {
+            "gol": "1-3",
+            "minuto": "61'",
+            "descripcion": "Balón largo de Lunin, prolonga Valverde y <span class=\"azul\">Brahim</span> gana la carrera para plantarse ante Sergio Herrera y marcar por bajo."
+        },
+        {
+            "gol": "1-4",
+            "minuto": "64'",
+            "descripcion": "Balón profundo de Rüdiger a Valverde, que se la deja a <span class=\"azul\">Vini Jr.</span> para encarar al portero y superarlo con un leve toque."
+        },
+        {
+            "gol": "2-4",
+            "minuto": "90+1'",
+            "descripcion": "Centro raso de Areso desde la línea de fondo para <span class=\"azul\">Iker Muñoz</span>, y su disparo entra entre las piernas de Lunin."
+        }
+    ],
+    "penaltis": []
+}

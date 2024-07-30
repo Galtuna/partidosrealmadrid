@@ -1,0 +1,384 @@
+{
+    "titulo": "Temporada 2023/24 - Liga - Jornada 33",
+    "atras": "2324_liga.html",
+    "estadio": {
+        "ciudad": "San Sebastián",
+        "nombre": "Estadio Reale Arena",
+        "imagen": "anoeta.jpg",
+        "espectadores": "37.109"
+    },
+    "fecha": "VIE 26/04/2024",
+    "hora": "21:00",
+    "arbitro": "Munuera Montero (colegio andaluz)",
+    "local": {
+        "nombre": "Real Sociedad",
+        "escudo": "rso.jpg",
+        "goles": "0",
+        "golesp": 0,
+        "entrenador": "Imanol Alguacil"
+    },
+    "visitante": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Remiro",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Odriozola ",
+            "salida": "0",
+            "cambio": "75'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Zubeldia ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Le Normand ",
+            "salida": "0",
+            "cambio": "89'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "25",
+            "nombre": "Javi Galán",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Zubimendi",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Turrientes ",
+            "salida": "0",
+            "cambio": "67'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Merino ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Kubo",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Barrenetxea ",
+            "salida": "0",
+            "cambio": "75'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Oyarzábal",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "12",
+            "nombre": "Zakharyan ",
+            "salida": "67'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Elustondo ",
+            "salida": "75'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Becker ",
+            "salida": "75'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "André Silva ",
+            "salida": "89'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "25",
+            "nombre": "Kepa",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Militão",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Fran García ",
+            "salida": "0",
+            "cambio": "76'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Tchouaméni ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ceballos ",
+            "salida": "0",
+            "cambio": "68'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Modrić ",
+            "salida": "0",
+            "cambio": "84'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Arda Güler ",
+            "salida": "0",
+            "cambio": "68'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Brahim ",
+            "salida": "0",
+            "cambio": "76'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Joselu",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "7",
+            "nombre": "Vini Jr. ",
+            "salida": "68'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde ",
+            "salida": "68'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger ",
+            "salida": "76'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "76'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "84'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "0-1",
+            "minuto": "29'",
+            "descripcion": "Gran cambio de juego de Tchouaméni, Carvajal la pone en el área de primeras y <span class=\"azul\">Arda Güler</span> remata en el segundo palo."
+        }
+    ],
+    "penaltis": []
+}

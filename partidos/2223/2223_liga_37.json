@@ -1,0 +1,394 @@
+{
+    "titulo": "Temporada 2022/23 - Liga - Jornada 37",
+    "atras": "2223_liga.html",
+    "estadio": {
+        "ciudad": "Sevilla",
+        "nombre": "Estadio Ramón Sánchez Pizjuán",
+        "imagen": "pizjuan.jpg",
+        "espectadores": "29.856"
+    },
+    "fecha": "SAB 27/05/2023",
+    "hora": "19:00",
+    "arbitro": "Soto Grado (colegio riojano)",
+    "local": {
+        "nombre": "Sevilla FC",
+        "escudo": "sev.jpg",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "José Luis Mendilíbar"
+    },
+    "visitante": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "2",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "13",
+            "nombre": "Bono",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Montiel",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Gudelj ",
+            "salida": "0",
+            "cambio": "81'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Rekik",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Acuña ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "83'",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "43",
+            "nombre": "Manu Bueno",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Rakitić ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "25",
+            "nombre": "Bryan Gil ",
+            "salida": "0",
+            "cambio": "62'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "'Papu' Gómez ",
+            "salida": "0",
+            "cambio": "74'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lamela ",
+            "salida": "0",
+            "cambio": "74'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Rafa Mir ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "7",
+            "nombre": "Suso ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Joan Jordán ",
+            "salida": "62'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Óliver Torres ",
+            "salida": "74'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Corona ",
+            "salida": "74'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Badé ",
+            "salida": "81'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "1",
+            "nombre": "Courtois",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "0",
+            "cambio": "81'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Alaba",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Mendy ",
+            "salida": "0",
+            "cambio": "65'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Tchouaméni ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Kroos",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Modrić",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ceballos ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde ",
+            "salida": "0",
+            "cambio": "54'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Rodrygo ",
+            "salida": "0",
+            "cambio": "1'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 2,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "54'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "39",
+            "nombre": "Álvaro Rodríguez ",
+            "salida": "65'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger ",
+            "salida": "81'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho ",
+            "salida": "81'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "3'",
+            "descripcion": "<span class=\"azul\">Rafa Mir</span> aprovecha un balón suelto en el área después de un disparo de Bryan Gil bloqueado por Militão."
+        },
+        {
+            "gol": "1-1",
+            "minuto": "29'",
+            "descripcion": "<span class=\"azul\">Rodrygo</span> convierte una falta directa desde fuera del área por el palo del portero."
+        },
+        {
+            "gol": "1-2",
+            "minuto": "69'",
+            "descripcion": "Contragolpe que lanza Kroos para <span class=\"azul\">Rodrygo</span> y este avanza, recorta a Montiel y supera a Bono."
+        }
+    ],
+    "penaltis": []
+}

@@ -1,0 +1,400 @@
+{
+    "titulo": "Temporada 2023/24 - Liga F - Jornada 14",
+    "atras": "2324_ligaf.html",
+    "estadio": {
+        "ciudad": "Alcalá de Henares",
+        "nombre": "Centro deportivo Wanda",
+        "imagen": "cdwanda.jpg",
+        "espectadores": "1.845"
+    },
+    "fecha": "MIE 14/02/2024",
+    "hora": "21:00",
+    "arbitro": "Acevedo Dudley (colegio catalán)",
+    "local": {
+        "nombre": "Atlético Madrid",
+        "escudo": "atm.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Manolo Cano"
+    },
+    "visitante": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Alberto Toril"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Lola Gallardo",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Sheila García ",
+            "salida": "0",
+            "cambio": "87'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Cinta Rodríguez",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Carmen Menayo ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Ainhoa Moraza ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Bøe Risa ",
+            "salida": "0",
+            "cambio": "87'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Gaby García ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Eva Navarro ",
+            "salida": "0",
+            "cambio": "75'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Rasheedat Ajibade ",
+            "salida": "0",
+            "cambio": "75'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Sheila Guijarro ",
+            "salida": "0",
+            "cambio": "67'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Ludmila da Silva",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "21",
+            "nombre": "Ana Crnogorčević ",
+            "salida": "67'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Ana Vitória ",
+            "salida": "75'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Marta Cardona ",
+            "salida": "75'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Xènia Pérez ",
+            "salida": "87'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Estefanía Banini ",
+            "salida": "87'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "1",
+            "nombre": "'Misa' Rodríguez",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Oihane Hernández ",
+            "salida": "0",
+            "cambio": "80'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Kathellen Sousa",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Ivana Andrés",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Olga Carmona ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Sandie Toletti",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Claudia Zornoza",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Athenea del Castillo ",
+            "salida": "0",
+            "cambio": "87'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Linda Caicedo ",
+            "salida": "0",
+            "cambio": "87'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Caroline Møller ",
+            "salida": "0",
+            "cambio": "70'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Signe Bruun ",
+            "salida": "0",
+            "cambio": "80'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "15",
+            "nombre": "Hayley Raso ",
+            "salida": "70'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Kenti Robles ",
+            "salida": "80'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Freja Olofsson ",
+            "salida": "80'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Maite Oroz ",
+            "salida": "87'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Naomie Feller ",
+            "salida": "87'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "5'",
+            "descripcion": "Córner muy cerrado que despeja Misa, toca Menayo y <span class=\"azul\">Sheila García</span> mete la cabeza para marcar."
+        },
+        {
+            "gol": "1-1",
+            "minuto": "22'",
+            "descripcion": "Penalti por mano de Gaby García que transforma <span class=\"azul\">Olga</span>."
+        }
+    ],
+    "penaltis": []
+}

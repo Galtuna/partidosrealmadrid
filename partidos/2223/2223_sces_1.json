@@ -1,0 +1,410 @@
+{
+    "titulo": "Temporada 2022/23 - Supercopa de España - Semifinal",
+    "atras": "2223_sces.html",
+    "estadio": {
+        "ciudad": "Riad",
+        "nombre": "Estadio Internacional Rey Fahd",
+        "imagen": "reyfahd.jpg",
+        "espectadores": "50.492"
+    },
+    "fecha": "MIE 11/01/2023",
+    "hora": "20:00",
+    "arbitro": "Hernández Hernández (colegio canario)",
+    "local": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "1",
+        "golesp": 4,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "visitante": {
+        "nombre": "Valencia CF",
+        "escudo": "val.png",
+        "goles": "1",
+        "golesp": 3,
+        "entrenador": "Genaro Gattuso"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Courtois",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão ",
+            "salida": "0",
+            "cambio": "74'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Rüdiger",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "0",
+            "cambio": "68'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Camavinga ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Kroos",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde ",
+            "salida": "0",
+            "cambio": "106'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Rodrygo ",
+            "salida": "0",
+            "cambio": "84'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Vini Jr.",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Benzema ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "10",
+            "nombre": "Modrić ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal ",
+            "salida": "68'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Mendy ",
+            "salida": "74'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Asensio ",
+            "salida": "84'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ceballos ",
+            "salida": "106'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "25",
+            "nombre": "Mamardashvili",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Correia",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Cömert ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Özkacar",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Gayà",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Lato ",
+            "salida": "0",
+            "cambio": "95'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Musah ",
+            "salida": "0",
+            "cambio": "90'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Almeida ",
+            "salida": "0",
+            "cambio": "115'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Kluivert ",
+            "salida": "0",
+            "cambio": "73'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Lino ",
+            "salida": "0",
+            "cambio": "82'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Cavani ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "19",
+            "nombre": "Hugo Duro ",
+            "salida": "73'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "29",
+            "nombre": "Fran Pérez ",
+            "salida": "82'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Foulquier ",
+            "salida": "90'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Ilaix Moriba ",
+            "salida": "95'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Guillamón ",
+            "salida": "115'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "39'",
+            "descripcion": "Penalti de Cömert a <span class=\"azul\">Benzema</span> que él mismo se encarga de transformar."
+        },
+        {
+            "gol": "1-1",
+            "minuto": "46'",
+            "descripcion": "Centro de Lato al segundo palo que remata <span class=\"azul\">Lino</span>."
+        }
+    ],
+    "penaltis": [
+        {"gol": 1, "parcial": "0-1", "tirador": "Cavani", "error": ""},
+        {"gol": 1, "parcial": "1-1", "tirador": "Benzema", "error": ""},
+        {"gol": 0, "parcial": "1-1", "tirador": "Cömert", "error": "fuera"},
+        {"gol": 1, "parcial": "1-2", "tirador": "Modrić", "error": ""},
+        {"gol": 1, "parcial": "2-2", "tirador": "Ilaix Moriba", "error": ""},
+        {"gol": 1, "parcial": "2-3", "tirador": "Kroos", "error": ""},
+        {"gol": 1, "parcial": "3-3", "tirador": "Guillamón", "error": ""},
+        {"gol": 1, "parcial": "3-4", "tirador": "Asensio", "error": ""},
+        {"gol": 0, "parcial": "3-4", "tirador": "Gayà", "error": "para Courtois"}
+    ]
+}

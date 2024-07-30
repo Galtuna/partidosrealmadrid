@@ -1,0 +1,425 @@
+{
+    "titulo": "Temporada 2021/22 - Liga - Jornada 6",
+    "atras": "2122_liga.html",
+    "estadio": {
+        "ciudad": "Madrid",
+        "nombre": "Estadio Santiago Bernabéu",
+        "imagen": "bernabeu.jpg",
+        "espectadores": "20.113"
+    },
+    "fecha": "MIE 22/09/2021",
+    "hora": "22:00",
+    "arbitro": "Alberola Rojas (colegio castellanomanchego)",
+    "local": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "6",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "visitante": {
+        "nombre": "RCD Mallorca",
+        "escudo": "mll.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Luis García Plaza"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Courtois",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Nacho ",
+            "salida": "0",
+            "cambio": "80'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Alaba",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "35",
+            "nombre": "Miguel Gutiérrez",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "25",
+            "nombre": "Camavinga ",
+            "salida": "0",
+            "cambio": "60'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "15",
+            "nombre": "Valverde",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Asensio ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 3,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Rodrygo ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Vini Jr.",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Benzema ",
+            "salida": "0",
+            "cambio": "80'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 2,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "27",
+            "nombre": "Antonio Blanco ",
+            "salida": "60'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Isco ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "43",
+            "nombre": "Sergio Santos ",
+            "salida": "80'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Jović ",
+            "salida": "80'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "1",
+            "nombre": "Reina",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Joan Sastre",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Valjent",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "29",
+            "nombre": "Josep Gayá ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Brian Oliván",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Febas ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Battaglia",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Kubo ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Lago Júnior ",
+            "salida": "0",
+            "cambio": "76'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Kang-in Lee ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "25",
+            "nombre": "Hoppe ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "12",
+            "nombre": "Baba ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Jaume Costa ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Antonio Sánchez ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Abdón Prats ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Mboula ",
+            "salida": "76'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "3'",
+            "descripcion": "<span class=\"azul\">Benzema</span> roba el balón a Josep Gayá, se planta ante Reina y le supera de tiro cruzado."
+        },
+        {
+            "gol": "2-0",
+            "minuto": "24'",
+            "descripcion": "<span class=\"azul\">Asensio</span> aprovecha un rechace de Reina tras un centro desviado de Rodrygo desde la línea de fondo."
+        },
+        {
+            "gol": "2-1",
+            "minuto": "25'",
+            "descripcion": "Arrancada de <span class=\"azul\">Kang-in Lee</span> que finaliza con un disparo desde la frontal ajustado a la base del palo."
+        },
+        {
+            "gol": "3-1",
+            "minuto": "29'",
+            "descripcion": "Buena descarga de espaldas de Benzema para la llegada de <span class=\"azul\">Asensio</span>, que no perdona ante Reina."
+        },
+        {
+            "gol": "4-1",
+            "minuto": "55'",
+            "descripcion": "<span class=\"azul\">Asensio</span> controla en la corona del área y dispara con la zurda ajustado a la base del palo."
+        },
+        {
+            "gol": "5-1",
+            "minuto": "78'",
+            "descripcion": "Pase largo de Alaba a <span class=\"azul\">Benzema</span>, que controla con la espalda y dispara a la media vuelta."
+        },
+        {
+            "gol": "6-1",
+            "minuto": "84'",
+            "descripcion": "Vini Jr. se interna en el área desde la izquierda y le cede el gol en el segundo palo a <span class=\"azul\">Isco</span>."
+        }
+    ],
+    "penaltis": []
+}

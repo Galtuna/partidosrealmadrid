@@ -1,0 +1,415 @@
+{
+    "titulo": "Temporada 2021/22 - Liga - Jornada 27",
+    "atras": "2122_liga.html",
+    "estadio": {
+        "ciudad": "Madrid",
+        "nombre": "Estadio Santiago Bernabéu",
+        "imagen": "bernabeu.jpg",
+        "espectadores": "52.410"
+    },
+    "fecha": "SAB 05/03/2022",
+    "hora": "21:00",
+    "arbitro": "Gil Manzano (colegio extremeño)",
+    "local": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "4",
+        "golesp": 0,
+        "entrenador": "Carlo Ancelotti"
+    },
+    "visitante": {
+        "nombre": "Real Sociedad",
+        "escudo": "rso.jpg",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Imanol Alguacil"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "Courtois",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Carvajal ",
+            "salida": "0",
+            "cambio": "84'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Militão",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Alaba",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Mendy",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Casemiro",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "25",
+            "nombre": "Camavinga ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Modrić ",
+            "salida": "0",
+            "cambio": "82'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Rodrygo ",
+            "salida": "0",
+            "cambio": "77'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Vini Jr. ",
+            "salida": "0",
+            "cambio": "82'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Benzema ",
+            "salida": "0",
+            "cambio": "84'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "11",
+            "nombre": "Asensio ",
+            "salida": "77'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Ceballos ",
+            "salida": "82'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "12",
+            "nombre": "Marcelo ",
+            "salida": "82'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "17",
+            "nombre": "Lucas Vázquez ",
+            "salida": "84'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Mariano ",
+            "salida": "84'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "1",
+            "nombre": "Remiro",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Gorosabel",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Zubeldia",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "24",
+            "nombre": "Le Normand",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "26",
+            "nombre": "Jon Pacheco ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "Illarramendi ",
+            "salida": "0",
+            "cambio": "64'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Mikel Merino ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "2",
+            "nombre": "Zaldúa ",
+            "salida": "0",
+            "cambio": "64'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Oyarzábal ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Silva ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "19",
+            "nombre": "Isak ",
+            "salida": "0",
+            "cambio": "81'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "17",
+            "nombre": "Rafinha ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "37",
+            "nombre": "Djouahra ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Zubimendi ",
+            "salida": "64'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Elustondo ",
+            "salida": "64'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Sørloth ",
+            "salida": "81'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "0-1",
+            "minuto": "10'",
+            "descripcion": "Penalti de Carvajal por pisar a Silva que transforma <span class=\"azul\">Oyarzábal</span>."
+        },
+        {
+            "gol": "1-1",
+            "minuto": "40'",
+            "descripcion": "Disparo con la zurda desde fuera del área de <span class=\"azul\">Camavinga</span> que entra pegado al palo."
+        },
+        {
+            "gol": "2-1",
+            "minuto": "43'",
+            "descripcion": "Recorte y disparo con la zurda desde la corona del área de <span class=\"azul\">Modrić</span> que entra por la escuadra."
+        },
+        {
+            "gol": "3-1",
+            "minuto": "76'",
+            "descripcion": "Penalti de Elustondo a Vini Jr. que transforma <span class=\"azul\">Benzema</span>."
+        },
+        {
+            "gol": "4-1",
+            "minuto": "79'",
+            "descripcion": "Carvajal llega a la línea de fondo y su pase atrás lo convierte en gol <span class=\"azul\">Asensio</span>."
+        }
+    ],
+    "penaltis": []
+}

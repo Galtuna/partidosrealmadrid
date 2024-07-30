@@ -1,0 +1,430 @@
+{
+    "titulo": "Temporada 2023/24 - Liga F - Jornada 16",
+    "atras": "2324_ligaf.html",
+    "estadio": {
+        "ciudad": "Madrid",
+        "nombre": "Estadio Alfredo di Stéfano",
+        "imagen": "distefano.jpg",
+        "espectadores": "1.676"
+    },
+    "fecha": "SAB 03/02/2024",
+    "hora": "20:30",
+    "arbitro": "Sánchez Miguel (colegio catalán)",
+    "local": {
+        "nombre": "Real Madrid CF",
+        "escudo": "rma.png",
+        "goles": "7",
+        "golesp": 0,
+        "entrenador": "Alberto Toril"
+    },
+    "visitante": {
+        "nombre": "Valencia CF",
+        "escudo": "val.png",
+        "goles": "1",
+        "golesp": 0,
+        "entrenador": "Jesús Oliva"
+    },
+    "titularesLocal": [
+        {
+            "dorsal": "1",
+            "nombre": "'Misa' Rodríguez",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Oihane Hernández",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Ivana Andrés",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Kathellen Sousa ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "7",
+            "nombre": "Olga Carmona ",
+            "salida": "0",
+            "cambio": "63'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Tere Abelleira",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Sandie Toletti ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Naomie Feller ",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Athenea del Castillo ",
+            "salida": "0",
+            "cambio": "46'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "18",
+            "nombre": "Linda Caicedo ",
+            "salida": "0",
+            "cambio": "63'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Caroline Møller ",
+            "salida": "0",
+            "cambio": "75'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 3,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesLocal": [
+        {
+            "dorsal": "21",
+            "nombre": "Claudia Zornoza ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "27",
+            "nombre": "Olaya Enrique ",
+            "salida": "46'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "23",
+            "nombre": "Sofie Svava ",
+            "salida": "63'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Signe Bruun ",
+            "salida": "63'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "8",
+            "nombre": "Maite Oroz ",
+            "salida": "75'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "titularesVisitante": [
+        {
+            "dorsal": "13",
+            "nombre": "Antonia Canales",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "3",
+            "nombre": "Jimena López ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "6",
+            "nombre": "Claudia Florentino",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "4",
+            "nombre": "María Molina",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Pauleta Sancho",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Liced Serna ",
+            "salida": "0",
+            "cambio": "72'",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "5",
+            "nombre": "Marta Carro ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 1
+        },
+        {
+            "dorsal": "10",
+            "nombre": "Fiamma Benítez",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "20",
+            "nombre": "Asun Martínez ",
+            "salida": "0",
+            "cambio": "59'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "11",
+            "nombre": "Maca Portales",
+            "salida": "0",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "9",
+            "nombre": "Anita Marcos ",
+            "salida": "0",
+            "cambio": "84'",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 1,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "suplentesVisitante": [
+        {
+            "dorsal": "19",
+            "nombre": "Kerlly Real ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "21",
+            "nombre": "Estela Fernández ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "1",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "16",
+            "nombre": "Ivonne Chacón ",
+            "salida": "59'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "22",
+            "nombre": "Ainhoa Alguacil ",
+            "salida": "72'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        },
+        {
+            "dorsal": "14",
+            "nombre": "Elena Gil ",
+            "salida": "84'",
+            "cambio": "0",
+            "amarilla": "0",
+            "roja": "0",
+            "gol": 0,
+            "golpp": 0,
+            "lesion": 0
+        }
+    ],
+    "goles": [
+        {
+            "gol": "1-0",
+            "minuto": "29'",
+            "descripcion": "Pase filtrado de Toletti a <span class=\"azul\">Linda</span>, que dispara y el balón entra tras tocar en Molina."
+        },
+        {
+            "gol": "2-0",
+            "minuto": "38'",
+            "descripcion": "Feller se interna por la derecha y su pase al área lo remata <span class=\"azul\">Møller</span> lanzándose al suelo."
+        },
+        {
+            "gol": "3-0",
+            "minuto": "45'",
+            "descripcion": "Athenea entra sola por la izquierda y su centro al primer palo lo remata <span class=\"azul\">Møller</span>."
+        },
+        {
+            "gol": "4-0",
+            "minuto": "53'",
+            "descripcion": "De nuevo Feller se escapa por la derecha y centra al segundo palo para que <span class=\"azul\">Møller</span> anote su hat-trick."
+        },
+        {
+            "gol": "4-1",
+            "minuto": "56'",
+            "descripcion": "Centro de Asun Martínez desde la derecha que remata <span class=\"azul\">Anita Marcos</span> de espaldas a la portería."
+        },
+        {
+            "gol": "5-1",
+            "minuto": "65'",
+            "descripcion": "Centro de Svava desde el pico del área que remata de cabeza <span class=\"azul\">Bruun</span> pegado al palo."
+        },
+        {
+            "gol": "6-1",
+            "minuto": "81'",
+            "descripcion": "Centro de Zornoza desde la línea de fondo que cabecea en el segundo palo <span class=\"azul\">Feller</span>."
+        },
+        {
+            "gol": "7-1",
+            "minuto": "90+1'",
+            "descripcion": "Tere recupera el balón muy arriba y la pone a la entrada de <span class=\"azul\">Maite Oroz</span>, que supera por bajo a Canales."
+        }
+    ],
+    "penaltis": []
+}

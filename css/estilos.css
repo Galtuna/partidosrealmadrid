@@ -1,0 +1,199 @@
+body {
+    background-color: navy ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.borde{
+    width: 20%;    
+}
+
+.contenedor {    
+    display: flex;
+    justify-content: center;
+}
+
+.contenido {
+    align-self: center;
+    width: 90%;
+    background-color: white;
+    border-color: cornflowerblue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+#tblResultado {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    width: 80%;
+}
+
+#tblResultado td:nth-child(1){
+    width: 20%;
+}
+
+#tblResultado td:nth-child(2){
+    width: 26%;
+}
+
+#tblResultado td:nth-child(3){
+    width: 8%;
+}
+
+#tblResultado td:nth-child(4){
+    width: 26%;
+}
+
+#tblResultado td:nth-child(5){
+    width: 20%;
+}
+
+#tblAlineaciones {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    width: 60%;
+}
+
+#tblDatos {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 50%;
+}
+
+#tblGoles {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 60%;
+}
+
+#tblPenaltis {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 60%;
+}
+
+#tblLiga {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 60%;
+}
+
+#tblClasificacion {    
+    margin-left: auto;
+    margin-right: auto;    
+    border-collapse: collapse; 
+}
+
+#tblClasificacion tr td {
+    border-color: cornflowerblue;
+    border-width: 1px;
+    border-style: solid;    
+    padding: 5px;
+}
+
+.imagen {
+    border-color: cornflowerblue;
+    border-width: 3px;
+    border-style: solid;
+}
+
+#btnCasa {
+    float:left;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#btnVolver {
+    float:right;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+}
+
+.tabladerecha {
+    float: right;
+}
+
+.azul {
+    color: cornflowerblue;
+    font-weight: bolder;
+}
+
+.col1gol {
+    width: 30px;
+}
+
+.col2gol {
+    width: 50px;
+}
+
+.medio {
+    vertical-align: middle;
+}
+
+.listado {
+    padding-top: 20px;
+    width: 100%;
+}
+
+.grupochamp {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.escudo {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tblCuadro1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+.tblCuadro1 td{
+    padding-top: 10px;
+    width: 50%;
+}
+
+.tblCuadro2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.tblCuadro2 td{
+    padding-top: 10px;
+    width: 33%;
+}
+
+.enlace {
+    text-align: center;    
+    font-weight: bolder;
+    padding-top: 30px;
+}
+
+.enlace a{
+    text-decoration: none;    
+    color: cornflowerblue;
+}
