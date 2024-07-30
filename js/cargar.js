@@ -1,6 +1,6 @@
 const urlParams = new URLSearchParams(window.location.search);
 const codigo = urlParams.get("cod");
-const filePath = '/partidos/' + codigo.substring(0, 4) + '/' + codigo + '.json';
+const filePath = 'partidos/' + codigo.substring(0, 4) + '/' + codigo + '.json';
 const jsonData = JSON();
 
 function JSON(){    
@@ -91,32 +91,32 @@ function cargarJugadores(jsonDataJugadores, tabla){
         let td2 = document.createElement("td");
         td2.innerHTML = jsonDataJugadores[i].nombre;
         if (jsonDataJugadores[i].salida != "0") {
-            td2.innerHTML += " <img src='../../img/ico/arriba.png'></img>" + jsonDataJugadores[i].salida;
+            td2.innerHTML += " <img src='img/ico/arriba.png'></img>" + jsonDataJugadores[i].salida;
         }
         if (jsonDataJugadores[i].amarilla == "1") {
-            td2.innerHTML += " <img src='../../img/ico/amarilla.png'></img>";
+            td2.innerHTML += " <img src='img/ico/amarilla.png'></img>";
         }
         if (jsonDataJugadores[i].gol > 0) {
             for (var j = 0; j < jsonDataJugadores[i].gol; j++) {
-                td2.innerHTML += " <img src='../../img/ico/gol.png'></img>";
+                td2.innerHTML += " <img src='img/ico/gol.png'></img>";
             }
         }
         if (jsonDataJugadores[i].golpp > 0) {
             for (var j = 0; j < jsonDataJugadores[i].golpp; j++) {
-                td2.innerHTML += " <img src='../../img/ico/golpp.png'></img>";
+                td2.innerHTML += " <img src='img/ico/golpp.png'></img>";
             }
         }
         if (jsonDataJugadores[i].amarilla != "0" && jsonDataJugadores[i].amarilla != "1") {
-            td2.innerHTML += " <img src='../../img/ico/amarilla.png'></img>" + "<img src='../../img/ico/amarilla.png'></img>" + jsonDataJugadores[i].amarilla;
+            td2.innerHTML += " <img src='img/ico/amarilla.png'></img>" + "<img src='img/ico/amarilla.png'></img>" + jsonDataJugadores[i].amarilla;
         }
         if (jsonDataJugadores[i].roja != "0") {
-            td2.innerHTML += " <img src='../../img/ico/roja.png'></img>" + jsonDataJugadores[i].roja;
+            td2.innerHTML += " <img src='img/ico/roja.png'></img>" + jsonDataJugadores[i].roja;
         }
         if (jsonDataJugadores[i].cambio != "0") {
-            td2.innerHTML += " <img src='../../img/ico/abajo.png'></img>" + jsonDataJugadores[i].cambio;
+            td2.innerHTML += " <img src='img/ico/abajo.png'></img>" + jsonDataJugadores[i].cambio;
         }
         if (jsonDataJugadores[i].lesion > 0) {
-            td2.innerHTML += " <img src='../../img/ico/lesion.png'></img>";
+            td2.innerHTML += " <img src='img/ico/lesion.png'></img>";
         }
         tr.appendChild(td2);
         tblJugadores.appendChild(tr);
@@ -178,13 +178,13 @@ function cargarPenaltis(jsonData){
                 td1.textContent = jsonData.penaltis[i].parcial;
                 tr.appendChild(td1);
                 let td2 = document.createElement("td");
-                td2.innerHTML = jsonData.penaltis[i].tirador + " <img src='../../img/ico/gol.png'></img>";
+                td2.innerHTML = jsonData.penaltis[i].tirador + " <img src='img/ico/gol.png'></img>";
                 tr.appendChild(td2);
             } else {
                 let td1 = document.createElement("td");
                 td1.classList.add("col1gol");
                 td1.classList.add("centrado");
-                td1.innerHTML = "<img src='../../img/ico/error.png'></img>";
+                td1.innerHTML = "<img src='img/ico/error.png'></img>";
                 tr.appendChild(td1);
                 let td2 = document.createElement("td");
                 td2.innerHTML = jsonData.penaltis[i].tirador + ", " + jsonData.penaltis[i].error + ".";
