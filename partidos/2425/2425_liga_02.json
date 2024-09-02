@@ -48,8 +48,8 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "50'", "descripcion": "Falta desde la frontal que manda al fondo de la portería <span class=\"azul\">Valverde</span> de fuerte disparo raso."},
-        {"gol": "2-0", "minuto": "88'", "descripcion": "XXXXXX <span class=\"azul\">Brahim</span> XXXXXX."},
-        {"gol": "3-0", "minuto": "90+6'", "descripcion": "XXXXXX <span class=\"azul\">Endrick</span> XXXXXX."}
+        {"gol": "2-0", "minuto": "88'", "descripcion": "Pelotazo largo de Militão, no despeja Ndiaye y <span class=\"azul\">Brahim</span> se la lleva y la pone por encima de Hein."},
+        {"gol": "3-0", "minuto": "90+6'", "descripcion": "Salida desde atrás de Brahim que cede a <span class=\"azul\">Endrick</span> que la revienta con la derecha al palo corto."}
     ],
     "penaltis": []
 }

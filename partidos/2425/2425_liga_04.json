@@ -4,7 +4,7 @@
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "70.072"},
     "fecha": "DOM 01/09/2024",
     "hora": "21:30",
-    "arbitro": "XX (XX)",
+    "arbitro": "Alberola Rojas (colegio castellanomanchego)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Carlo Ancelotti"},
     "visitante": {"nombre": "Real Betis Balompié", "escudo": "bet.png", "goles": 0, "golesp": 0, "entrenador": "Manuel Pellegrini"},
     "titularesLocal": [
