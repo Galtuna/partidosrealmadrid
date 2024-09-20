@@ -27,7 +27,7 @@
     "titularesLocal": [
         {
             "dorsal": "1",
-            "nombre": "'Misa' Rodríguez ",
+            "nombre": "Misa Rodríguez ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "1",
@@ -240,7 +240,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "'Jujuba' Cardozo",
+            "nombre": "Jujuba Cardozo",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",

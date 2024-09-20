@@ -4,7 +4,7 @@
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "71.288"},
     "fecha": "MAR 17/09/2024",
     "hora": "21:00",
-    "arbitro": "Halil Umut Meler (turco)",
+    "arbitro": "Halil Umut Meler (Turquía)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Carlo Ancelotti"},
     "visitante": {"nombre": "VfB Stuttgart", "escudo": "stu.png", "goles": 1, "golesp": 0, "entrenador": "Sebastian Hoeneß"},
     "titularesLocal": [
@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "46'", "descripcion": "Pase largo de Tchouámeni a la espalda de la defensa para Rodrygo, que llega al área y le regala el gol a <span class=\"azul\">Mbappé</span>."},
-        {"gol": "1-1", "minuto": "68'", "descripcion": "Córner que llega al segundo palo a Leweling que la vuelve a poner al área pequeña para que cabecee <span class=\"azul\">Undav</span>."},
+        {"gol": "1-1", "minuto": "68'", "descripcion": "Córner que llega al segundo palo donde Leweling la vuelve a poner al área pequeña para que cabecee <span class=\"azul\">Undav</span>."},
         {"gol": "2-1", "minuto": "83'", "descripcion": "Córner que bota Modrić y remata de cabeza <span class=\"azul\">Rüdiger</span> aprovechando la mala salida de Nübel."},
         {"gol": "3-1", "minuto": "90+5'", "descripcion": "Contragolpe que conduce y culmina <span class=\"azul\">Endrick</span> con un potente disparo desde veinte metros."}
     ],
