@@ -47,8 +47,8 @@
         {"dorsal": 11, "nombre": "Pere Milla", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "54'", "descripcion": "Saque largo de Joan García para Jofre, que llega a línea de fondo y su centro lo desvía a su propia portería <span class=\"azul\">Courtois</span>."},
-        {"gol": "1-1", "minuto": "58'", "descripcion": "Error de Romero en un control dentro de su área, el centro Bellingham pasa por debajo de Joan García y <span class=\"azul\">Carvajal</span> la empuja a placer."},
+        {"gol": "0-1", "minuto": "54'", "descripcion": "Saque largo de Joan García para Jofre que llega a línea de fondo, y su centro lo desvía a su propia portería <span class=\"azul\">Courtois</span>."},
+        {"gol": "1-1", "minuto": "58'", "descripcion": "Error de Romero en un control dentro de su área, el centro de Bellingham pasa por debajo de Joan García y <span class=\"azul\">Carvajal</span> remacha."},
         {"gol": "2-1", "minuto": "75'", "descripcion": "Vini Jr. encara desde la izquierda y mete un centro con el exterior perfecto para el remate de <span class=\"azul\">Rodrygo</span>."},
         {"gol": "3-1", "minuto": "78'", "descripcion": "Pérdida de Aguado en salida que aprovecha Mbappé para lanzar a <span class=\"azul\">Vini Jr.</span> que no falla ante Joan García."},
         {"gol": "4-1", "minuto": "90'", "descripcion": "Penalti por agarrón continuado de Romero a Endrick que transforma <span class=\"azul\">Mbappé</span>."}
