@@ -4,7 +4,7 @@
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "2.673"},
     "fecha": "DOM 13/10/2024",
     "hora": "20:00",
-    "arbitro": "XX (XX)",
+    "arbitro": "Cebollada López (colegio aragonés)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Alberto Toril"},
     "visitante": {"nombre": "Atlético Madrid", "escudo": "atm.png", "goles": 1, "golesp": 0, "entrenador": "Víctor Martín"},
     "titularesLocal": [
