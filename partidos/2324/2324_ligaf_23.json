@@ -82,7 +82,7 @@
         },
         {
             "dorsal": "3",
-            "nombre": "Tere Abelleira ",
+            "nombre": "Teresa Abelleira ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",
@@ -388,7 +388,7 @@
         {
             "gol": "1-0",
             "minuto": "27'",
-            "descripcion": "Balón largo de Tere para <span class=\"azul\">Linda</span>, que entra en el área y supera a Romero con un tiro cruzado."
+            "descripcion": "Balón largo de Teresa para <span class=\"azul\">Linda</span>, que entra en el área y supera a Romero con un tiro cruzado."
         },
         {
             "gol": "2-0",
@@ -408,7 +408,7 @@
         {
             "gol": "5-0",
             "minuto": "70'",
-            "descripcion": "Pared entre <span class=\"azul\">Tere</span> y Maite Oroz que culmina la gallega dentro del área con un tiro con el exterior."
+            "descripcion": "Pared entre <span class=\"azul\">Teresa</span> y Maite Oroz que culmina la gallega dentro del área con un tiro con el exterior."
         }
     ],
     "penaltis": []

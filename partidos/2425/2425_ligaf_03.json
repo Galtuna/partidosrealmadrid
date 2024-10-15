@@ -14,7 +14,7 @@
         {"dorsal": 4, "nombre": "Rocío Gálvez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 3, "nombre": "Tere Abelleira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Teresa Abelleira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Filippa Angeldal", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 24, "nombre": "Melanie Leupolz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "18'", "descripcion": "Penalti de Nevado a Bruun que transforma <span class=\"azul\">Olga</span>."},
-        {"gol": "2-0", "minuto": "23'", "descripcion": "Córner que bota Tere, roza Bruun en el primer palo y el balón pega en <span class=\"azul\">Zubieta</span> y entra en la portería."}
+        {"gol": "2-0", "minuto": "23'", "descripcion": "Córner que bota Teresa, roza Bruun en el primer palo y el balón pega en <span class=\"azul\">Zubieta</span> y entra en la portería."}
     ],
     "penaltis": []
 }

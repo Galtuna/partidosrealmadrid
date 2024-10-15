@@ -33,7 +33,7 @@
         {"dorsal": 23, "nombre": "Maëlle Lakrar", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 4, "nombre": "Rocío Gálvez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "86'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 3, "nombre": "Tere Abelleira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Teresa Abelleira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Filippa Angeldal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
@@ -51,7 +51,7 @@
         {"gol": "0-1", "minuto": "29'", "descripcion": "Centro de Eva Navarro desde el pico del área que remata <span class=\"azul\">Møller</span> en el área pequeña."},
         {"gol": "0-2", "minuto": "31'", "descripcion": "<span class=\"azul\">Linda</span> recibe un pase largo, desborda hacia el área, recorta a Ramos y a Bicho, y marca."},
         {"gol": "1-2", "minuto": "35'", "descripcion": "Penalti de Linda a N'Guessan que transforma <span class=\"azul\">Babajide</span>."},
-        {"gol": "1-3", "minuto": "45'", "descripcion": "Falta lateral que bota Tere, falla Ramos en la salida y el balón le cae a <span class=\"azul\">Møller</span> que marca a placer."},
+        {"gol": "1-3", "minuto": "45'", "descripcion": "Falta lateral que bota Teresa, falla Ramos en la salida y el balón le cae a <span class=\"azul\">Møller</span> que marca a placer."},
         {"gol": "1-4", "minuto": "90+2'", "descripcion": "<span class=\"azul\">Angeldal</span> recibe de Toletti en la frontal y se saca un derechazo pegado al palo imposible para Ramos."}
     ],
     "penaltis": []

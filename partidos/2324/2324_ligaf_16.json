@@ -82,7 +82,7 @@
         },
         {
             "dorsal": "3",
-            "nombre": "Tere Abelleira",
+            "nombre": "Teresa Abelleira",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",
@@ -423,7 +423,7 @@
         {
             "gol": "7-1",
             "minuto": "90+1'",
-            "descripcion": "Tere recupera el balón muy arriba y la pone a la entrada de <span class=\"azul\">Maite Oroz</span>, que supera por bajo a Canales."
+            "descripcion": "Teresa recupera el balón muy arriba y la pone a la entrada de <span class=\"azul\">Maite Oroz</span>, que supera por bajo a Canales."
         }
     ],
     "penaltis": []
