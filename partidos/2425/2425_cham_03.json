@@ -1,6 +1,6 @@
 {
-    "titulo": "Temporada 2024/25 - LaLiga - Jornada X",
-    "atras": "2425_liga.html",
+    "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 3",
+    "atras": "2425_cham.html",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "74.642"},
     "fecha": "MAR 22/10/2024",
     "hora": "21:00",
@@ -50,7 +50,7 @@
         {"gol": "0-2", "minuto": "34'", "descripcion": "Internada de Malen por la derecha desbordando a Mendy y su centro al segundo palo lo empuja a placer <span class=\"azul\">Bynoe-Gittens</span>."},
         {"gol": "1-2", "minuto": "60'", "descripcion": "Centro a la media vuelta de Mbappé desde el costado del área que remata de cabeza <span class=\"azul\">Rüdiger</span>."},
         {"gol": "2-2", "minuto": "62'", "descripcion": "Schlotterbeck rebaña el balón a Mbappé cuando iba a disparar, pero le cae a <span class=\"azul\">Vini Jr.</span> que solo tiene que empujarla."},
-        {"gol": "3-2", "minuto": "83'", "descripcion": "<span class=\"azul\">Lucas Vázquez</span> recoge un balón mal rechazado en el área y pega un fuerte derechazo cruzado al palo largo."},
+        {"gol": "3-2", "minuto": "83'", "descripcion": "<span class=\"azul\">Lucas Vázquez</span> recoge un mal rechace en el área y pega un fuerte derechazo cruzado al palo largo."},
         {"gol": "4-2", "minuto": "86'", "descripcion": "<span class=\"azul\">Vini Jr.</span> conduce con velocidad desde su propio campo, hace la diagonal hasta la frontal y dispara raso pegado al palo."},
         {"gol": "5-2", "minuto": "90+3'", "descripcion": "<span class=\"azul\">Vini Jr.</span> recibe en la mediapunta, evita a Süle y llega al área donde recorta a Anton y con la zurda supera a Kobel."}
     ],
