@@ -51,7 +51,7 @@
         {"gol": "1-0", "minuto": "34'", "descripcion": "<span class=\"azul\">Vini Jr.</span> se interna desde el pico del área y sorprende a Sergio Herrera por el palo corto."},
         {"gol": "2-0", "minuto": "42'", "descripcion": "Gran balón largo de Asencio al desmarque de <span class=\"azul\">Bellingham</span> que la pica por encima de Sergio Herrera."},
         {"gol": "3-0", "minuto": "61'", "descripcion": "Saque perfecto de Lunin para la carrera de <span class=\"azul\">Vini Jr.</span> que recorta al portero y marca a placer."},
-        {"gol": "4-0", "minuto": "69'", "descripcion": "Brahim roba el balón a Boyomo en el área de Osasuna y le regala el gol a <span class=\"azul\">Vini Jr.</span>."}
+        {"gol": "4-0", "minuto": "69'", "descripcion": "Brahim roba el balón a Boyomo en el área de Osasuna y le regala el gol a <span class=\"azul\">Vini Jr</span>."}
     ],
     "penaltis": []
 }

@@ -47,10 +47,10 @@
         {"dorsal": 19, "nombre": "Diana Silva", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "5'", "descripcion": "Falta colgada desd la derecha que prolonga con la cabeza Pinto al segundo palo donde remacha <span class=\"azul\">Capeta</span>."},
+        {"gol": "0-1", "minuto": "5'", "descripcion": "Falta colgada desde la derecha que prolonga con la cabeza Pinto al segundo palo donde remacha <span class=\"azul\">Capeta</span>."},
         {"gol": "1-1", "minuto": "7'", "descripcion": "Weir penetra en el área, atrae defensas y la pone atrás para la llegada y el disparo de <span class=\"azul\">Toletti</span>."},
         {"gol": "2-1", "minuto": "51'", "descripcion": "Gran pase filtrado al primer toque de Weir para <span class=\"azul\">Toletti</span> que la revienta al primer palo."},
-        {"gol": "3-1", "minuto": "5'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Alba Redondo</span> desde la frontal que entra por toda la escuadra."}
+        {"gol": "3-1", "minuto": "90+4'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Alba Redondo</span> desde la frontal que entra por toda la escuadra."}
     ],
     "penaltis": []
 }
