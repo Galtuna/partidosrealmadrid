@@ -21,7 +21,7 @@
         {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
-        {"dorsal": 15, "nombre": "Linda Caicedo", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Signe Bruun", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Sheila García", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -50,7 +50,7 @@
         {"gol": "0-1", "minuto": "4'", "descripcion": "Córner desde la izquierda que prolonga Alexia en el primer palo para que <span class=\"azul\">Guijarro</span> la empuje en el segundo."},
         {"gol": "0-2", "minuto": "22'", "descripcion": "<span class=\"azul\">Guijarro</span> recoge un balón despejado en la frontal y se saca un derechazo raso a la base del palo."},
         {"gol": "0-3", "minuto": "39'", "descripcion": "Graham le gana la espalda a Olga, llega al área y pone el balón atrás para que remate <span class=\"azul\">Pina</span>."},
-        {"gol": "0-4", "minuto": "86'", "descripcion": "Contragolpe que conduce Aitana, cede a Nazareth y esta a <span class=\"azul\">Alexia</span> que la pica por encima de Misa."}
+        {"gol": "0-4", "minuto": "86'", "descripcion": "Aitana roba y sale a la contra, cede a Nazareth y esta a <span class=\"azul\">Alexia</span> que la pica por encima de Misa."}
     ],
     "penaltis": []
 }
