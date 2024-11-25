@@ -48,7 +48,7 @@
         {"dorsal": 7, "nombre": "Charlotte Hulst", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "3'", "descripcion": "Linda gana línea de fondo y la pone atrás para Weir que mete el balón al área pequeña donde remata <span class=\"azul\">Bruun</span>."},
+        {"gol": "1-0", "minuto": "3'", "descripcion": "Linda gana la línea de fondo y la pone atrás para Weir que mete el balón al área pequeña donde remata <span class=\"azul\">Bruun</span>."},
         {"gol": "2-0", "minuto": "16'", "descripcion": "Córner que bota al primer palo Leupolz y remata de cabeza <span class=\"azul\">María Méndez</span>."},
         {"gol": "3-0", "minuto": "50'", "descripcion": "Centro con rosca de Weir desde la derecha que cabecea a la red <span class=\"azul\">Feller</span>."},
         {"gol": "4-0", "minuto": "55'", "descripcion": "Falta directa desde fuera del área que convierte <span class=\"azul\">Weir</span> por encima de la barrera."},
