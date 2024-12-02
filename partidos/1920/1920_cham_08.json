@@ -46,7 +46,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "9'", "descripcion": "Gabriel Jesus le roba el balón a Varane en su propia área y le regala el gol a <span class=\"azul\">Sterling</span>."},
-        {"gol": "1-1", "minuto": "28'", "descripcion": "Internada de Rodrygo hasta la línea de fondo, y su centro lo remata de cabeza picado <span class=\"blanco\">Benzema</span>."},
+        {"gol": "1-1", "minuto": "28'", "descripcion": "Internada de Rodrygo hasta la línea de fondo, y su centro lo remata de cabeza picado <span class=\"azul\">Benzema</span>."},
         {"gol": "2-1", "minuto": "68'", "descripcion": "Error de Varane intentando ceder de cabeza atrás a Courtois que aprovecha <span class=\"azul\">Gabriel Jesus</span>."}
     ],
     "penaltis": []

@@ -44,8 +44,8 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "60'", "descripcion": "Robo de Modrić en salida del City, Vini Jr. se la lleva, se interna en el área y asiste a <span class=\"azul\">Isco</span> que no perdona."},
-        {"gol": "1-1", "minuto": "78'", "descripcion": "Centro de De Bruyne a la media vuelta que remata de cabeza <span class=\"rojo\">Gabriel Jesus</span> ganando el salto a Sergio Ramos."},
-        {"gol": "1-2", "minuto": "83'", "descripcion": "Penalti de Carvajal a Sterling que transforma <span class=\"rojo\">De Bruyne</span>."}
+        {"gol": "1-1", "minuto": "78'", "descripcion": "Centro de De Bruyne a la media vuelta que remata de cabeza <span class=\"azul\">Gabriel Jesus</span> ganando el salto a Sergio Ramos."},
+        {"gol": "1-2", "minuto": "83'", "descripcion": "Penalti de Carvajal a Sterling que transforma <span class=\"azul\">De Bruyne</span>."}
     ],
     "penaltis": []
 }

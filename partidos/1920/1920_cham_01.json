@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Champions League - Fase de Grupos - Jornada 1",
-    "atras": "1920_sces.html",
+    "atras": "1920_cham.html",
     "estadio": {"ciudad": "París", "nombre": "Estadio Parque de los Príncipes", "imagen": "parcprinces.jpg", "espectadores": "46.361"},
     "fecha": "MIE 18/09/2019",
     "hora": "21:00",
@@ -44,7 +44,7 @@
         {"dorsal": 25, "nombre": "Vini Jr.", "salida": "79'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "14'", "descripcion": "Subida de Juan Bernat por su banda, llega a línea de fondo y la pone para que <span class=\"azul\">Di María</span> remate al palo corto."},
+        {"gol": "1-0", "minuto": "14'", "descripcion": "Juan Bernat arranca por su banda, llega a línea de fondo y la pone para que <span class=\"azul\">Di María</span> remate al palo corto."},
         {"gol": "2-0", "minuto": "33'", "descripcion": "<span class=\"azul\">Di María</span> recibe en la frontal y la pone de rosca con la zurda pegada al palo izquierdo de Courtois."},
         {"gol": "3-0", "minuto": "90+1'", "descripcion": "<span class=\"azul\">Meunier</span> y Juan Bernat se plantan en el área ante Courtois y el segundo le regala el gol al primero."}
     ],
