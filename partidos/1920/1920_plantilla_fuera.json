@@ -1,9 +1,9 @@
 {
-    "titulo": "Temporada 2019/20 - Supercopa de España - Semifinal",
-    "atras": "1920_sces.html",
+    "titulo": "Temporada 2019/20 - LaLiga - Jornada 1",
+    "atras": "1920_liga.html",
     "estadio": {"ciudad": "xxx", "nombre": "xxx", "imagen": "xx.jpg", "espectadores": "xxx"},
-    "fecha": "MIE 08/01/2020",
-    "hora": "20:00",
+    "fecha": "xx xx/xx/2020",
+    "hora": "xx:xx",
     "arbitro": "xxxx (colegio xxx)",
     "local": {"nombre": "xxx", "escudo": "xxx.png", "goles": "0", "golesp": 0, "entrenador": "xxxx"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": "0", "golesp": 0, "entrenador": "Zinédine Zidane"},

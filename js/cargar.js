@@ -171,25 +171,27 @@ function cargarPenaltis(jsonData){
 
         for (var i = 0; i < jsonData.penaltis.length; i++) {            
             let tr = document.createElement("tr");
+            let td1 = document.createElement("td");
+            td1.classList.add("col1gol");
+            td1.classList.add("centrado");
             if (jsonData.penaltis[i].gol > 0) {
-                let td1 = document.createElement("td");
-                td1.classList.add("col1gol");
-                td1.classList.add("azul");
-                td1.textContent = jsonData.penaltis[i].parcial;
-                tr.appendChild(td1);
-                let td2 = document.createElement("td");
-                td2.innerHTML = jsonData.penaltis[i].tirador + " <img src='img/ico/gol.png'></img>";
-                tr.appendChild(td2);
+                td1.innerHTML = "<img src='img/ico/gol.png'></img>";
             } else {
-                let td1 = document.createElement("td");
-                td1.classList.add("col1gol");
-                td1.classList.add("centrado");
                 td1.innerHTML = "<img src='img/ico/error.png'></img>";
-                tr.appendChild(td1);
-                let td2 = document.createElement("td");
-                td2.innerHTML = jsonData.penaltis[i].tirador + ", " + jsonData.penaltis[i].error + ".";
-                tr.appendChild(td2);
-            }            
+            }
+            tr.appendChild(td1);
+            let td2 = document.createElement("td");
+            td2.classList.add("col1gol");
+            td2.classList.add("azul");
+            td2.textContent = jsonData.penaltis[i].parcial;
+            tr.appendChild(td2);
+            let td3 = document.createElement("td");
+            if (jsonData.penaltis[i].gol > 0) {
+                td3.innerHTML = jsonData.penaltis[i].tirador;
+            } else {
+                td3.innerHTML = jsonData.penaltis[i].tirador + ", " + jsonData.penaltis[i].error + ".";
+            }
+            tr.appendChild(td3);
             table.appendChild(tr);
         }
         tblPenaltis.appendChild(table);

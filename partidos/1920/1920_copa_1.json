@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "18'", "descripcion": "<span class=\"azul\">Bale</span> recoge un mal rechace de Góngora a centro de James, y su disparo entra tras tocar en Ayoze."},
         {"gol": "1-1", "minuto": "57'", "descripcion": "<span class=\"azul\">Romero</span> recupera en el centro del campo, avanza hasta la frontal y la pone con la zurda en toda la escuadra."},
-        {"gol": "1-2", "minuto": "62'", "descripcion": "Marcelo llega a línea de fondo, la pone a Brahim en el segundo palo y <span class=\"azul\">Góngora</span> introduce el balón en su portería intentando despejar el remate."},
+        {"gol": "1-2", "minuto": "62'", "descripcion": "Marcelo la pone desde la línea de fondo y <span class=\"azul\">Góngora</span> mete el balón en su portería intentando despejar el remate de Brahim."},
         {"gol": "1-3", "minuto": "90+2'", "descripcion": "Internada de <span class=\"azul\">Brahim</span> desde la derecha metiéndose entre dos contrarios que culmina con un disparo raso cruzado a la red."}
     ],
     "penaltis": []

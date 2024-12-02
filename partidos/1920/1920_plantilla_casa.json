@@ -1,8 +1,8 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 1",
-    "atras": "1920_ligas.html",
+    "atras": "1920_liga.html",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "xxx"},
-    "fecha": "MIE xx/xx/20xx",
+    "fecha": "xx xx/xx/20xx",
     "hora": "xx:xx",
     "arbitro": "xxxx (colegio xxx)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": "0", "golesp": 0, "entrenador": "Zinédine Zidane"},
