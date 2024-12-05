@@ -6,7 +6,7 @@
     "hora": "19:00",
     "arbitro": "Sánchez Martínez (colegio murciano)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": "0", "golesp": 4, "entrenador": "Zinédine Zidane"},
-    "visitante": {"nombre": "Atlético Madrid", "escudo": "atm.png", "goles": "0", "golesp": 1, "entrenador": "Diego Simeone"},
+    "visitante": {"nombre": "Club Atlético de Madrid", "escudo": "atm.png", "goles": "0", "golesp": 1, "entrenador": "Diego Simeone"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 2, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

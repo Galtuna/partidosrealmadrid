@@ -44,7 +44,7 @@
         {"dorsal": 16, "nombre": "Rosales", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "7'", "descripcion": "Centro pasado de Marcelo al segundo palo que Benzema devuelve al área pequeña para que <span class=\"azul\">Rodrygo</span> la empuje a placer."},
+        {"gol": "1-0", "minuto": "7'", "descripcion": "Centro de Marcelo al segundo palo que Benzema devuelve al área pequeña para que <span class=\"azul\">Rodrygo</span> la empuje a placer."},
         {"gol": "2-0", "minuto": "8'", "descripcion": "Benzema se interna en el área, encara a Rodrigo Tarín y la mete al primer palo donde remata <span class=\"azul\">Kroos</span>."},
         {"gol": "3-0", "minuto": "24'", "descripcion": "Penalti de Juan Soriano sobre Hazard que transforma <span class=\"azul\">Sergio Ramos</span>."},
         {"gol": "4-0", "minuto": "69'", "descripcion": "Penalti de Omeruo sobre Modrić que transforma <span class=\"azul\">Benzema</span>."},
