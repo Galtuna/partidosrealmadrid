@@ -5,7 +5,7 @@
     "fecha": "VIE 06/09/2024",
     "hora": "20:00",
     "arbitro": "Cuesta Arribas (colegio gallego)",
-    "local": {"nombre": "RCD Espanyol", "escudo": "esp.png", "goles": 0, "golesp": 0, "entrenador": "Sara Monforte"},
+    "local": {"nombre": "RCD Espanyol de Barcelona", "escudo": "esp.png", "goles": 0, "golesp": 0, "entrenador": "Sara Monforte"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 5, "golesp": 0, "entrenador": "Alberto Toril"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Romane Salvador", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
