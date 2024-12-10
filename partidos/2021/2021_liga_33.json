@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 33",
     "atras": "2021_liga.html",
-    "estadio": {"ciudad": "Getafe", "nombre": "Coliseum Alfonso Pérez", "imagen": "coliseum.jpg", "espectadores": "Sin"},
+    "estadio": {"ciudad": "Getafe (Madrid)", "nombre": "Coliseum Alfonso Pérez", "imagen": "coliseum.jpg", "espectadores": "Sin"},
     "fecha": "DOM 18/04/2021",
     "hora": "21:00",
     "arbitro": "Sánchez Martínez (colegio murciano)",

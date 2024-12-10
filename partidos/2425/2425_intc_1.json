@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Copa Intercontinental - Final",
     "atras": "2425_intc.html",
-    "estadio": {"ciudad": "Lusail", "nombre": "Estadio Icónico de Lusail", "imagen": "lusail.jpg", "espectadores": "XXXXXX"},
+    "estadio": {"ciudad": "Lusail (Catar)", "nombre": "Estadio Icónico de Lusail", "imagen": "lusail.jpg", "espectadores": "XXXXXX"},
     "fecha": "MIE 18/12/2024",
     "hora": "XX:XX",
     "arbitro": "XX (XX)",

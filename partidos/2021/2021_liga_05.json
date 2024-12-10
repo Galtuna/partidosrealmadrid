@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 5",
     "atras": "2021_liga.html",
-    "estadio": {"ciudad": "Villarreal", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "Sin"},
+    "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "Sin"},
     "fecha": "DOM 04/10/2020",
     "hora": "16:00",
     "arbitro": "Munuera Montero (colegio andaluz)",

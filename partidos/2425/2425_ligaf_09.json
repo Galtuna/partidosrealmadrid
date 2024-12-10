@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 9",
     "atras": "2425_ligaf.html",
-    "estadio": {"ciudad": "Badalona", "nombre": "Estadio Municipal", "imagen": "munbadalona.jpg", "espectadores": "1.425"},
+    "estadio": {"ciudad": "Badalona (Barcelona)", "nombre": "Estadio Municipal", "imagen": "munbadalona.jpg", "espectadores": "1.425"},
     "fecha": "SAB 09/11/2024",
     "hora": "16:00",
     "arbitro": "Gil Soriano (colegio gallego)",

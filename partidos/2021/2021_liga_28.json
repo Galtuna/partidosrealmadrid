@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 28",
     "atras": "2021_liga.html",
-    "estadio": {"ciudad": "Vigo", "nombre": "Estadio ABANCA Balaídos", "imagen": "balaidos.jpg", "espectadores": "Sin"},
+    "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio ABANCA Balaídos", "imagen": "balaidos.jpg", "espectadores": "Sin"},
     "fecha": "SAB 20/03/2021",
     "hora": "16:15",
     "arbitro": "Melero López (colegio andaluz)",

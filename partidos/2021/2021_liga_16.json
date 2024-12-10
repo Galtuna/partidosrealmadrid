@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 16",
     "atras": "2021_liga.html",
-    "estadio": {"ciudad": "Elche", "nombre": "Estadio Martínez Valero", "imagen": "martinezvalero.jpg", "espectadores": "Sin"},
+    "estadio": {"ciudad": "Elche (Alicante)", "nombre": "Estadio Martínez Valero", "imagen": "martinezvalero.jpg", "espectadores": "Sin"},
     "fecha": "MIE 30/12/2020",
     "hora": "21:30",
     "arbitro": "Figueroa Vázquez (colegio andaluz)",

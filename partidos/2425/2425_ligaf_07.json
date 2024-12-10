@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 7",
     "atras": "2425_ligaf.html",
-    "estadio": {"ciudad": "Fuenlabrada", "nombre": "Estadio Fernando Torres", "imagen": "fernandotorres.jpg", "espectadores": "960"},
+    "estadio": {"ciudad": "Fuenlabrada (Madrid)", "nombre": "Estadio Fernando Torres", "imagen": "fernandotorres.jpg", "espectadores": "960"},
     "fecha": "DOM 20/10/2024",
     "hora": "19:00",
     "arbitro": "Fírvida Fernández (colegio aragonés)",

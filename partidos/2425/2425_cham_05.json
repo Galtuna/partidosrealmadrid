@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 5",
     "atras": "2425_liga.html",
-    "estadio": {"ciudad": "Liverpool", "nombre": "Estadio Anfield", "imagen": "anfield.jpg", "espectadores": "59.546"},
+    "estadio": {"ciudad": "Liverpool (Inglaterra)", "nombre": "Estadio Anfield", "imagen": "anfield.jpg", "espectadores": "59.546"},
     "fecha": "MIE 27/11/2024",
     "hora": "21:00",
     "arbitro": "François Letexier (Francia)",

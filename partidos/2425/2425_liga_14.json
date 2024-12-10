@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 14",
     "atras": "2425_liga.html",
-    "estadio": {"ciudad": "Leganés", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "12.388"},
+    "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "12.388"},
     "fecha": "DOM 24/11/2024",
     "hora": "18:30",
     "arbitro": "Alberola Rojas (colegio castellanomanchego)",

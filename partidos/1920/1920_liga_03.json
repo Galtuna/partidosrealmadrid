@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 3",
     "atras": "1920_liga.html",
-    "estadio": {"ciudad": "Villarreal", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "20.128"},
+    "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "20.128"},
     "fecha": "DOM 01/09/2019",
     "hora": "21:00",
     "arbitro": "Gil Manzano (colegio extremeño)",

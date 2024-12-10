@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 19",
     "atras": "1920_liga.html",
-    "estadio": {"ciudad": "Getafe", "nombre": "Coliseum Alfonso Pérez", "imagen": "coliseum.jpg", "espectadores": "15.426"},
+    "estadio": {"ciudad": "Getafe (Madrid)", "nombre": "Coliseum Alfonso Pérez", "imagen": "coliseum.jpg", "espectadores": "15.426"},
     "fecha": "SAB 04/01/2020",
     "hora": "16:00",
     "arbitro": "Munuera Montero (colegio andaluz)",
