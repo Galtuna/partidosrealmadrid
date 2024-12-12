@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 27",
     "atras": "1920_liga.html",
-    "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Benito Villamarín", "imagen": "villamarin.jpg", "espectadores": "50596"},
+    "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Benito Villamarín", "imagen": "villamarin.jpg", "espectadores": "50.596"},
     "fecha": "DOM 08/03/2020",
     "hora": "21:00",
     "arbitro": "González González (colegio castellanoleonés)",
