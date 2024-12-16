@@ -1,0 +1,58 @@
+{
+    "titulo": "Temporada 2024/25 - Liga F - Jornada X",
+    "atras": "2425_ligaf.html",
+    "estadio": {"ciudad": "La Coruña", "nombre": "Estadio Municipal de Riazor", "imagen": "riazor.jpg", "espectadores": "2.184"},
+    "fecha": "SAB 14/12/2024",
+    "hora": "16:30",
+    "arbitro": "Cebollada López (colegio aragonés)",
+    "local": {"nombre": "RC Deportivo de La Coruña", "escudo": "dep.png", "goles": 1, "golesp": 0, "entrenador": "Fran Alonso"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Alberto Toril"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Inês Pereira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Samara Ortiz", "salida": "0", "cambio": "81'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Raquel García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Marina Artero", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Vera Martínez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Francisca Lara", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Paula Gutiérrez", "salida": "0", "cambio": "62'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Lucía Martínez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Ainhoa Marín", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Bárbara Latorre", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Millene Cabral", "salida": "0", "cambio": "81'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 4, "nombre": "Henar Muiña", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Patrícia Hmírová", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Olaya Enrique", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Cristina Martínez", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Ana de Teresa", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Antônia Silva", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Rocío Gálvez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Teresa Abelleira", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Melanie Leupolz", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Caroline Møller", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 21, "nombre": "Filippa Angeldal", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Naomie Feller", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "60'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "36'", "descripcion": "<span class=\"azul\">Lara</span> aprovecha un rechace de Misa tras un disparo de Latorre."},
+        {"gol": "1-1", "minuto": "79'", "descripcion": "<span class=\"azul\">Olga</span> recibe en la frontal y dispara con la zurda ajustado al palo izquierdo de Pereira."},
+        {"gol": "1-2", "minuto": "85'", "descripcion": "Bruun baja de cabeza en el área un centro lateral muy bombeado, y aparece <span class=\"azul\">Alba Redondo</span> para rematar a la red."},
+        {"gol": "1-3", "minuto": "89'", "descripcion": "Córner desde la derecha que bota Weir y cabecea en el primer palo <span class=\"azul\">María Méndez</span>."},
+        {"gol": "1-4", "minuto": "90+5'", "descripcion": "Feller pelea un balón en la línea de fondo, toca atrás a Weir y esta a <span class=\"azul\">Bruun</span> que dispara raso cruzado."}
+    ],
+    "penaltis": []
+}

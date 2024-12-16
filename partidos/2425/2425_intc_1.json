@@ -3,10 +3,10 @@
     "atras": "2425_intc.html",
     "estadio": {"ciudad": "Lusail (Catar)", "nombre": "Estadio Icónico de Lusail", "imagen": "lusail.jpg", "espectadores": "XXXXXX"},
     "fecha": "MIE 18/12/2024",
-    "hora": "XX:XX",
+    "hora": "20:00",
     "arbitro": "XX (XX)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Carlo Ancelotti"},
-    "visitante": {"nombre": "XXXXXX", "escudo": "xxx.png", "goles": 0, "golesp": 0, "entrenador": "XXXXXX"},
+    "visitante": {"nombre": "CF Pachuca", "escudo": "pch.png", "goles": 0, "golesp": 0, "entrenador": "XXXXXX"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
