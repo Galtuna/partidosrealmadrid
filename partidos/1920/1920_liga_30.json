@@ -18,7 +18,7 @@
         {"dorsal": 7, "nombre": "Portu", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Ødegaard", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Oyarzábal", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 19, "nombre": "Isak", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 10, "golpp": 0, "lesion": 0}
+        {"dorsal": 19, "nombre": "Isak", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
         {"dorsal": 6, "nombre": "Elustondo", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
