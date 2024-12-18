@@ -1,0 +1,53 @@
+{
+    "titulo": "Temporada 2024/25 - Women's Champions League - Fase de Grupos - Jornada 6",
+    "atras": "2425_chamf.html",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "2.057"},
+    "fecha": "MAR 17/12/2024",
+    "hora": "18:45",
+    "arbitro": "Maria Sole Ferrieri Caputi (Italia)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Alberto Toril"},
+    "visitante": {"nombre": "Chelsea FC", "escudo": "che.png", "goles": 2, "golesp": 0, "entrenador": "Sonia Bompastor"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Sheila García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Mäelle Lakrar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Melanie Leupolz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Filippa Angeldal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "0", "cambio": "73'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 20, "nombre": "Naomie Feller", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Athenea del Castillo", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 24, "nombre": "Hannah Hampton", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Lucy Bronze", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Millie Bright", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Nathalie Björn", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Niamh Charles", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sjoeke Nüsken", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Erin Cuthbert", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Wieke Kaptein", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 33, "nombre": "Agnes Beever-Jones", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Guro Reiten", "salida": "0", "cambio": "40'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 7, "nombre": "Mayra Ramírez", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 23, "nombre": "Maika Hamano", "salida": "40'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Catarina Macário", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Sandy Baltimore", "salida": "71'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Ashley Lawrence", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "7'", "descripcion": "Linda llega al área tras una buena jugada colectiva y la pone atrás para el disparo de <span class=\"azul\">Weir</span>."},
+        {"gol": "1-1", "minuto": "51'", "descripcion": "Penalti de Olga sobre <span class=\"azul\">Macário</span> que ella misma se encarga de transformar."},
+        {"gol": "1-2", "minuto": "56'", "descripcion": "Penalti por mano de Olga que convierte <span class=\"azul\">Macário</span>."}
+    ],
+    "penaltis": []
+}
