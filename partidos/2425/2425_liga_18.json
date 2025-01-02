@@ -1,0 +1,57 @@
+{
+    "titulo": "Temporada 2024/25 - LaLiga - Jornada 18",
+    "atras": "2425_liga.html",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "75.227"},
+    "fecha": "DOM 22/12/2024",
+    "hora": "16:15",
+    "arbitro": "Díaz de Mera Escuderos (colegio castellanomanchego)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "visitante": {"nombre": "Sevilla FC", "escudo": "xxx.png", "goles": 2, "golesp": 0, "entrenador": "Francisco Javier García Pimienta"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Ceballos", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 35, "nombre": "Asencio", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Álvaro Fernández", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 32, "nombre": "Carmona", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Badé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Gudelj", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Kike Salas", "salida": "0", "cambio": "86'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Agoumé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Lokonga", "salida": "0", "cambio": "86'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Juanlu", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Idumbo", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Lukebakio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Isaac Romero", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 16, "nombre": "Jesús Navas", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Peque", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 42, "nombre": "Álvaro García", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Montiel", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Manu Bueno", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "10'", "descripcion": "<span class=\"azul\">Mbappé</span> recibe en la corona del área y conecta un tremendo zapatazo directo a la escuadra."},
+        {"gol": "2-0", "minuto": "20'", "descripcion": "Córner sacado en corto que llega hasta <span class=\"azul\">Valverde</span> que suelta un misil imparable desde 30 metros."},
+        {"gol": "3-0", "minuto": "34'", "descripcion": "Internada de Lucas Vázquez por la derecha que la pone atrás para el remate de <span class=\"azul\">Rodrygo</span>."},
+        {"gol": "3-1", "minuto": "35'", "descripcion": "Centro de Juanlu desde la derecha, Tchouaméni pierde la marca e <span class=\"azul\">Isaac Romero</span> cabecea a la red."},
+        {"gol": "4-1", "minuto": "53'", "descripcion": "Triangulación entre Mbappé, Lucas Vázquez y <span class=\"azul\">Brahim</span> en el pico del área que culmina este último."},
+        {"gol": "4-2", "minuto": "85'", "descripcion": "Pase en profundidad de Peque a <span class=\"azul\">Lukebakio</span> que llega al área y bate a Courtois por el palo corto."}
+    ],
+    "penaltis": []
+}
