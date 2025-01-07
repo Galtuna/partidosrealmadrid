@@ -1,0 +1,55 @@
+{
+    "titulo": "Temporada 2024/25 - Liga F - Jornada 16",
+    "atras": "2425_ligaf.html",
+    "estadio": {"ciudad": "Alcalá de Henares (Madrid)", "nombre": "Centro deportivo Wanda", "imagen": "cdwanda.jpg", "espectadores": "2.011"},
+    "fecha": "DOM 05/01/2025",
+    "hora": "12:00",
+    "arbitro": "Planes Terol (colegio murciano)",
+    "local": {"nombre": "Club Atlético de Madrid", "escudo": "atm.png", "goles": 1, "golesp": 0, "entrenador": "Víctor Martín"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Alberto Toril"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Lola Gallardo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Ainhoa Moraza", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Xènia Pérez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Lauren Leal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Silvia Lloris", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Rosa Otermín", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Gaby García", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 17, "nombre": "Tatiana Pinto", "salida": "0", "cambio": "59'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Fiamma Benítez", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Rasheedat Ajibade", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Sheila Guijarro", "salida": "0", "cambio": "59'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 10, "nombre": "Ana Vitória", "salida": "59'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Giovana Queiroz", "salida": "59'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Synne Jensen", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Bøe Risa", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Andrea Medina", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 15, "nombre": "Sheila García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Mäelle Lakrar", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Melanie Leupolz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Filippa Angeldal", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "61'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Athenea del Castillo", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Teresa Abelleira", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Antônia Silva", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "44'", "descripcion": "<span class=\"azul\">Linda</span> recibe en tres cuartos, llega hasta el área, encara a Ainhoa y se saca un disparo ajustado al palo."},
+        {"gol": "0-2", "minuto": "53'", "descripcion": "Linda mete un balón al área pequeña desde la línea de fondo que <span class=\"azul\">Gaby García</span> introduce en su propia puerta."},
+        {"gol": "1-2", "minuto": "65'", "descripcion": "Disparo lejano de Lloris que pega en el larguero, luego en la mano de <span class=\"azul\">Misa</span> y acaba entrando en la portería."}
+    ],
+    "penaltis": []
+}

@@ -1,0 +1,58 @@
+{
+    "titulo": "Temporada 2024/25 - Copa del Rey - Dieciseisavos de final",
+    "atras": "2425_copa.html",
+    "estadio": {"ciudad": "Cartagena (Murcia)", "nombre": "Estadio Cartagonova", "imagen": "cartagonova.jpg", "espectadores": "13.745"},
+    "fecha": "LUN 06/01/2025",
+    "hora": "19:00",
+    "arbitro": "Alberola Rojas (colegio castellanomanchego)",
+    "local": {"nombre": "Club Deportiva Minera", "escudo": "dmi.png", "goles": 0, "golesp": 0, "entrenador": "José Pérez Veiga, 'Popi'"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 5, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Fran Martínez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "José Mas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Monty", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Fran Molina", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Juanmi Heredero", "salida": "0", "cambio": "46'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Petcoff", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Perdomo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Britos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Javi Vera", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Pipo", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Francis", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 11, "nombre": "Baradji", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Sheffield", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Pujante", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Cortado", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Raúl Sanchís", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Lunin", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 39, "nombre": "Loren Aguado", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 35, "nombre": "Asencio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 43, "nombre": "Diego Aguado", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Fran García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Endrick", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 19, "nombre": "Ceballos", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Mbappé", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 36, "nombre": "Chema", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "5'", "descripcion": "Centro al segundo palo de Brahim, Britos despeja mal de cabeza y <span class=\"azul\">Valverde</span> la empalma a la red."},
+        {"gol": "0-2", "minuto": "13'", "descripcion": "Fran García recupera en el córner y mete un buen centro que remata de cabeza picado <span class=\"azul\">Camavinga</span>."},
+        {"gol": "0-3", "minuto": "28'", "descripcion": "<span class=\"azul\">Arda Güler</span> recibe en la frontal, se busca el hueco y dispara ajustado al palo izquierdo."},
+        {"gol": "0-4", "minuto": "55'", "descripcion": "<span class=\"azul\">Modrić</span> se interna en el área, encara a Britos y se saca un disparo con el interior a la base del palo largo."},
+        {"gol": "0-5", "minuto": "88'", "descripcion": "Contra que conduce Mbappé, abre a Fran García y su centro lo remata a placer <span class=\"azul\">Arda Güler</span>."}
+    ],
+    "penaltis": []
+}
