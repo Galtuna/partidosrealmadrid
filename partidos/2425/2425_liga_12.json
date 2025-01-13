@@ -48,7 +48,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "27'", "descripcion": "<span class=\"azul\">Hugo Duro</span> empuja a placer un rechace de Courtois a disparo de Javi Guerra."},
         {"gol": "1-1", "minuto": "85'", "descripcion": "Brahim pelea un balón en la frontal y toca para Bellingham que filtra a <span class=\"azul\">Modrić</span> para que este marque por bajo."},
-        {"gol": "1-2", "minuto": "90+5'", "descripcion": "Grave error de Guillamón intentando tocar atrás para su portero que aprovecha <span class=\"azul\">Bellingham</span>."}
+        {"gol": "1-2", "minuto": "90+5'", "descripcion": "Grave error de Guillamón intentando jugar atrás para su portero que aprovecha <span class=\"azul\">Bellingham</span>."}
     ],
     "penaltis": []
 }

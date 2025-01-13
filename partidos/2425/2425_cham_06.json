@@ -47,7 +47,7 @@
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "10'", "descripcion": "Brahim filtra un balón a <span class=\"azul\">Mbappé</span>, que con el control supera a de De Roon y marca de disparo cruzado."},
+        {"gol": "0-1", "minuto": "10'", "descripcion": "Brahim filtra un balón a <span class=\"azul\">Mbappé</span>, que con el control supera a De Roon y marca de disparo cruzado."},
         {"gol": "1-1", "minuto": "45+2'", "descripcion": "Penalti de Tchouaméni a Kolašinac que transforma <span class=\"azul\">De Ketelaere</span>."},
         {"gol": "1-2", "minuto": "56'", "descripcion": "Despeje de Djimsiti que rebota en Éderson, y el balón le cae a <span class=\"azul\">Vini Jr.</span> que lo cruza a la media vuelta."},
         {"gol": "1-3", "minuto": "59'", "descripcion": "Balón largo de Vini Jr. a <span class=\"azul\">Bellingham</span> que entra en el área, recorta a De Roon y dispara con la zurda."},
