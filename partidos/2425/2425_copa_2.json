@@ -1,0 +1,62 @@
+{
+    "titulo": "Temporada 2024/25 - Copa del Rey - Octavos de final",
+    "atras": "2425_copa.html",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "64.764"},
+    "fecha": "JUE 16/01/2025",
+    "hora": "21:30",
+    "arbitro": "Munuera Montero (colegio andaluz)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 5, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "visitante": {"nombre": "RC Celta de Vigo", "escudo": "cel.jpg", "goles": 2, "golesp": 0, "entrenador": "Claudio Giráldez"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Lunin", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 35, "nombre": "Asencio", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Fran García", "salida": "0", "cambio": "90+2'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Ceballos", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "106'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Endrick", "salida": "79'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "90+2'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "106'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Iván Villar", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Carreira", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 32, "nombre": "Javi Rodríguez", "salida": "0", "cambio": "95'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Starfelt", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Marcos Alonso", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Mingueza", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Fran Beltrán", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Ilaix Moriba", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 30, "nombre": "Hugo Álvarez", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Swedberg", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Borja Iglesias", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 33, "nombre": "Sotelo", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Pablo Durán", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Bamba", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Cervi", "salida": "75'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Fer López", "salida": "75'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Manquillo", "salida": "95'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "37'", "descripcion": "Contragolpe que conduce <span class=\"azul\">Mbappé</span> desde la izquierda, llega al área y dispara por el palo corto."},
+        {"gol": "2-0", "minuto": "48'", "descripcion": "Mbappé filtra un buen pase para Brahim que la deja para la llegada y el remate cómodo de <span class=\"azul\">Vini Jr.</span>."},
+        {"gol": "2-1", "minuto": "83'", "descripcion": "Error de Camavinga que entrega el balón a Pablo Durán y este asiste a <span class=\"azul\">Bamba</span> que no perdona."},
+        {"gol": "2-2", "minuto": "90+1'", "descripcion": "Penalti de Asencio a Bamba que transforma <span class=\"azul\">Marcos Alonso</span>."},
+        {"gol": "3-2", "minuto": "108''", "descripcion": "<span class=\"azul\">Endrick</span> recibe en la frontal y se saca un tremendo zurdazo cruzado a la media vuelta."},
+        {"gol": "4-2", "minuto": "112'", "descripcion": "<span class=\"azul\">Valverde</span> controla un balón botando fuera del área y lo manda a la escuadra con un fuerte disparo."},
+        {"gol": "5-2", "minuto": "119'", "descripcion": "Córner que bota Arda Güler y cae a <span class=\"azul\">Endrick</span> en el área pequeña que de espaldas marca de tacón."}
+    ],
+    "penaltis": []
+}
