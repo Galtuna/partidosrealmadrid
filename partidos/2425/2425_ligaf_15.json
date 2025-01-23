@@ -46,7 +46,7 @@
         {"dorsal": 20, "nombre": "Mireia Masegur", "salida": "90+1'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "28'", "descripcion": "<span class=\"azul\">Andrea Álvarez</span> roba el balón a Lakrar y viendo a Chavas adelantada la manda a la red desde casi 40 metros."}
+        {"gol": "0-1", "minuto": "28'", "descripcion": "<span class=\"azul\">Andrea Álvarez</span> roba la pelota a Lakrar y viendo a Chavas adelantada la manda a la red desde casi 40 metros."}
     ],
     "penaltis": []
 }

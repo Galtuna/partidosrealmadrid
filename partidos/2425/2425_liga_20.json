@@ -51,8 +51,8 @@
         {"gol": "0-1", "minuto": "1'", "descripcion": "Centro de Sandro desde el pico del área que remata <span class=\"azul\">Fábio Silva</span> ganando la espalda de Lucas Vázquez."},
         {"gol": "1-1", "minuto": "18'", "descripcion": "Penalti de Sandro a Rodrygo que transforma <span class=\"azul\">Mbappé</span>."},
         {"gol": "2-1", "minuto": "33'", "descripcion": "Lucas Vázquez recoge un rechace de Cillessen a disparo de Mbappé y le regala el gol a <span class=\"azul\">Brahim</span>."},
-        {"gol": "3-1", "minuto": "36'", "descripcion": "Rodrygo encuentra a <span class=\"azul\">Mbappé</span> en el área y este de primeras la pone en la escuadra con un gran disparo."},
-        {"gol": "4-1", "minuto": "57'", "descripcion": "Balón interior de Mbappé para la subida de Fran García, que llega a línea de fondo y la pone atrás para el remate de <span class=\"azul\">Rodrygo</span>."}
+        {"gol": "3-1", "minuto": "36'", "descripcion": "Rodrygo encuentra a <span class=\"azul\">Mbappé</span> en el área y este de primeras la manda a la escuadra con un gran disparo."},
+        {"gol": "4-1", "minuto": "57'", "descripcion": "Balón interior de Mbappé para la subida de Fran García, que llega a línea de fondo y la pone para el remate de <span class=\"azul\">Rodrygo</span>."}
     ],
     "penaltis": []
 }
