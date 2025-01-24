@@ -48,7 +48,7 @@
         {"dorsal": 21, "nombre": "Ratkov", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "23'", "descripcion": "Cambio de orientación de Vini Jr. que prolonga Bellingham y <span class=\"azul\">Rodrygo</span> llega en carrera y cruza ante Blaswich."},
+        {"gol": "1-0", "minuto": "23'", "descripcion": "Cambio de orientación de Vini Jr. que prolonga Bellingham hacia <span class=\"azul\">Rodrygo</span> que llega en carrera y cruza ante Blaswich."},
         {"gol": "2-0", "minuto": "34'", "descripcion": "Taconazo de Bellingham para hacer la pared con <span class=\"azul\">Rodrygo</span> que dispara cruzado a la base del palo largo."},
         {"gol": "3-0", "minuto": "48'", "descripcion": "Grave error de Glaswich al no despejar un balón que le roba <span class=\"azul\">Mbappé</span> para marcar a placer."},
         {"gol": "4-0", "minuto": "55'", "descripcion": "Pase en profundidad de Modrić para <span class=\"azul\">Vini Jr.</span> que recorta hacia dentro y la clava en el palo largo."},
