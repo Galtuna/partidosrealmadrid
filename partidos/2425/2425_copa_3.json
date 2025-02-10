@@ -21,9 +21,9 @@
         {"dorsal": 19, "nombre": "Diego García", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
-        {"dorsal": 0, "nombre": "Raba", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "Miguel", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "Chicco", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 10, "nombre": "Raba", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Miguel", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Chicco", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
         {"dorsal": 13, "nombre": "Lunin", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -49,7 +49,7 @@
         {"gol": "0-2", "minuto": "25'", "descripcion": "Mal despeje de Tapia ante Brahim dentro del área y el balón le cae a <span class=\"azul\">Endrick</span> que no perdona."},
         {"gol": "1-2", "minuto": "39'", "descripcion": "Penalti por mano de Jacobo que transforma <span class=\"azul\">Juan Cruz</span>."},
         {"gol": "2-2", "minuto": "59'", "descripcion": "Disparo de <span class=\"azul\">Juan Cruz</span> desde la frontal que desvía Mendy al lado contrario donde lo esperaba Lunin."},
-        {"gol": "2-3", "minuto": "42'", "descripcion": "Brahim gana línea de fondo y su centro al área pequeña lo cabecea a la red <span class=\"azul\">Gonzalo</span>."}
+        {"gol": "2-3", "minuto": "90+3'", "descripcion": "Brahim gana línea de fondo y su centro al área pequeña lo cabecea a la red <span class=\"azul\">Gonzalo</span>."}
     ],
     "penaltis": []
 }
