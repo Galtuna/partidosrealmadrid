@@ -9,7 +9,7 @@
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Carlo Ancelotti"},
     "titularesLocal": [
         {"dorsal": 31, "nombre": "Ederson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Akanji", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Akanji", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
         {"dorsal": 3, "nombre": "Rúben Dias", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 6, "nombre": "Aké", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 57, "nombre": "Gvardiol", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -50,7 +50,7 @@
         {"gol": "1-1", "minuto": "60'", "descripcion": "Ceballos mete un balón en el área tras un falta rechazada por la barrera que remata en semifallo <span class=\"azul\">Mbappé</span>."},
         {"gol": "2-1", "minuto": "80'", "descripcion": "Penalti de Ceballos a Foden que transforma <span class=\"azul\">Haaland</span>."},
         {"gol": "2-2", "minuto": "86'", "descripcion": "<span class=\"azul\">Brahim</span> empalma a la red un mal rechace de Ederson a disparo de Vini Jr."},
-        {"gol": "2-3", "minuto": "90+2''", "descripcion": "Vini Jr. se lleva el balón ante Lewis y su intento de vaselina a Ederson lo empuja a la red <span class=\"azul\">Bellingham</span>."}
+        {"gol": "2-3", "minuto": "90+2'", "descripcion": "Vini Jr. se lleva el balón ante Lewis y su intento de vaselina a Ederson lo empuja a la red <span class=\"azul\">Bellingham</span>."}
     ],
     "penaltis": []
 }
