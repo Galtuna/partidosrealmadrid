@@ -1,10 +1,10 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 20",
     "atras": "2425_ligaf.html",
-    "estadio": {"ciudad": "Bilbao", "nombre": "Estadio San Mamés", "imagen": "sanmames.jpg", "espectadores": "51.365"},
+    "estadio": {"ciudad": "Bilbao", "nombre": "Estadio San Mamés", "imagen": "sanmames.jpg", "espectadores": "16.662"},
     "fecha": "DOM 02/03/2025",
     "hora": "12:00",
-    "arbitro": "XX (XX)",
+    "arbitro": "Planes Terol (colegio murciano)",
     "local": {"nombre": "Athletic Club", "escudo": "ath.jpg", "goles": 1, "golesp": 0, "entrenador": "David Aznar"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Alberto Toril"},
     "titularesLocal": [
