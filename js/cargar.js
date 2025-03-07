@@ -187,7 +187,7 @@ function cargarPenaltis(jsonData){
             tr.appendChild(td2);
             let td3 = document.createElement("td");
             if (jsonData.penaltis[i].gol > 0) {
-                td3.innerHTML = jsonData.penaltis[i].tirador;
+                td3.innerHTML = jsonData.penaltis[i].tirador + ".";
             } else {
                 td3.innerHTML = jsonData.penaltis[i].tirador + ", " + jsonData.penaltis[i].error + ".";
             }
