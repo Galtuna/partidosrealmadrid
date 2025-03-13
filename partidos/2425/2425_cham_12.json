@@ -1,0 +1,65 @@
+{
+    "titulo": "Temporada 2024/25 - Champions League - Octavos de final - Vuelta",
+    "atras": "2425_cham.html",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Cívitas Metropolitano", "imagen": "metropolitano.jpg", "espectadores": "69.304"},
+    "fecha": "MIE 12/03/2025",
+    "hora": "21:00",
+    "arbitro": "Szymon Marciniak (Polonia)",
+    "local": {"nombre": "Club Atlético de Madrid", "escudo": "atm.png", "goles": 1, "golesp": 2, "entrenador": "Diego Simeone"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 4, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Oblak", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Marcos Llorente", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Giménez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Lenglet", "salida": "0", "cambio": "91'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Reinildo", "salida": "0", "cambio": "98'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 5, "nombre": "De Paul", "salida": "0", "cambio": "90+5'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Pablo Barrios", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Gio Simeone", "salida": "0", "cambio": "89'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Gallagher", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Griezmann", "salida": "0", "cambio": "89'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Julián Álvarez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 12, "nombre": "Lino", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Correa", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Sørloth", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Molina", "salida": "90+5'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Le Normand", "salida": "91'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Azpilicueta", "salida": "98'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 35, "nombre": "Asencio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Mendy", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "65'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "115'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "65'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Fran García", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Endrick", "salida": "115'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "1'", "descripcion": "Balón que mete De Paul al área, Asencio no consigue despejar y <span class=\"azul\">Gallagher</span> se anticipa a Courtois para rematar."}
+    ],
+    "penaltis": [
+        {"gol": 1, "parcial": "1-0", "tirador": "Mbappé", "error": ""},
+        {"gol": 1, "parcial": "1-1", "tirador": "Sørloth", "error": ""},
+        {"gol": 1, "parcial": "2-1", "tirador": "Bellingham", "error": ""},
+        {"gol": 0, "parcial": "2-1", "tirador": "Julián Álvarez", "error": "toca el balón con los dos pies"},
+        {"gol": 1, "parcial": "3-1", "tirador": "Valverde", "error": ""},
+        {"gol": 1, "parcial": "3-2", "tirador": "Correa", "error": ""},
+        {"gol": 0, "parcial": "3-2", "tirador": "Lucas Vázquez", "error": "para Oblak"},
+        {"gol": 1, "parcial": "3-2", "tirador": "Marcos Llorente", "error": "al larguero"},
+        {"gol": 1, "parcial": "4-2", "tirador": "Rüdiger", "error": ""}
+    ]
+}
