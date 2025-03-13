@@ -59,7 +59,7 @@
         {"gol": 1, "parcial": "3-1", "tirador": "Valverde", "error": ""},
         {"gol": 1, "parcial": "3-2", "tirador": "Correa", "error": ""},
         {"gol": 0, "parcial": "3-2", "tirador": "Lucas Vázquez", "error": "para Oblak"},
-        {"gol": 1, "parcial": "3-2", "tirador": "Marcos Llorente", "error": "al larguero"},
+        {"gol": 0, "parcial": "3-2", "tirador": "Marcos Llorente", "error": "al larguero"},
         {"gol": 1, "parcial": "4-2", "tirador": "Rüdiger", "error": ""}
     ]
 }
