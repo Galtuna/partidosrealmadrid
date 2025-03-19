@@ -47,7 +47,7 @@
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "1-0", "minuto": "7'", "descripcion": "Córner que bota , el balón queda muerto en el área pequeña después de que nadie pueda despejar, y <span class=\"azul\">Foyth</span> lo manda a guardar."},
+        {"gol": "1-0", "minuto": "7'", "descripcion": "Balón que queda muerto en el área pequeña tras un córner de que nadie puede despejar, y <span class=\"azul\">Foyth</span> lo manda a guardar."},
         {"gol": "1-1", "minuto": "17'", "descripcion": "<span class=\"azul\">Mbappé</span> aprovecha un rechace de Diego Conde tras un mano a mano fallado por Brahim."},
         {"gol": "1-2", "minuto": "23'", "descripcion": "Valverde encuentra la subida de Lucas Vázquez por su banda, y su pase atrás lo remata <span class=\"azul\">Mbappé</span> con un disparo colocado."}
     ],
