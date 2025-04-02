@@ -32,11 +32,11 @@
         {"dorsal": 6, "nombre": "Sergio González", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Nastasić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 20, "nombre": "Javi Hernández", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 5, "nombre": "Tapia", "salida": "0", "cambio": "83'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Tapia", "salida": "0", "cambio": "86'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Neyou", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 11, "nombre": "Juan Cruz", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Juan Cruz", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Óscar Rodríguez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Raba", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Raba", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Diego García", "salida": "0", "cambio": "83'", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -50,8 +50,8 @@
         {"gol": "1-0", "minuto": "32'", "descripcion": "Penalti de Óscar Rodríguez sobre Arda Güler que transforma <span class=\"azul\">Mbappé</span> a lo panenka."},
         {"gol": "1-1", "minuto": "34'", "descripcion": "<span class=\"azul\">Diego García</span> empuja un balón muerto tras un disparo de Óscar Rodríguez que no despeja Lucas Vázquez."},
         {"gol": "1-2", "minuto": "41'", "descripcion": "Óscar Rodríguez desborda a Asencio, llega a línea de fondo y la pone atrás para el remate a placer de <span class=\"azul\">Raba</span>."},
-        {"gol": "2-2", "minuto": "47'", "descripcion": "Disparo de Brahim que salva Tapia sobre la línea, el balón sube, pega en el larguero y <span class=\"blanco\">Bellingham</span> lo remata."},
-        {"gol": "3-2", "minuto": "76'", "descripcion": "Falta desde la frontal que convierte <span class=\"blanco\">Mbappé</span> aprovechando un hueco de la barrera."}
+        {"gol": "2-2", "minuto": "47'", "descripcion": "Disparo de Brahim que salva Tapia sobre la línea, el balón sube, pega en el larguero y <span class=\"azul\">Bellingham</span> lo remata."},
+        {"gol": "3-2", "minuto": "76'", "descripcion": "Falta desde la frontal que convierte <span class=\"azul\">Mbappé</span> aprovechando un hueco de la barrera."}
     ],
     "penaltis": []
 }
