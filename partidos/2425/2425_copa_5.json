@@ -46,18 +46,18 @@
         {"dorsal": 17, "nombre": "Sergio Gómez", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Traoré", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Olasagasti", "salida": "91'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 40, "nombre": "Mariezkurrena", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 9, "nombre": "Óskarsson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 40, "nombre": "Mariezkurrena", "salida": "106'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Óskarsson", "salida": "106'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "16'", "descripcion": "Balón que peina Oyarzábal a la espalda de Lucas Vázquez donde entra <span class=\"azul\">Barrenetxea</span> que bate a Lunin entre sus piernas."},
-        {"gol": "1-1", "minuto": "30'", "descripcion": "Extraordinario pase profundo de Vini Jr. con el exterior para <span class=\"blanco\">Endrick</span> que la pica por encima de Remiro."},
-        {"gol": "1-2", "minuto": "72'", "descripcion": "Pablo Marín supera a Camavinga, llega a línea de fondo y su pase atrás lo desvía <span class=\"blanco\">Alaba</span> al fondo de su portería."},
-        {"gol": "1-3", "minuto": "80'", "descripcion": "Disparo de <span class=\"blanco\">Oyarzábal</span> desde la frontal que pega en Alaba y se vuelve imposible para Lunin."},
-        {"gol": "2-3", "minuto": "82'", "descripcion": "Vini Jr. desborda a Traoré y pone un centro medido para la llegada y el remate de <span class=\"blanco\">Belingham</span>."},
-        {"gol": "3-3", "minuto": "86'", "descripcion": "Córner que bota Rodrygo al punto de penalti donde remata de cabeza <span class=\"blanco\">Tchouaméni</span>."},
-        {"gol": "3-4", "minuto": "90+3'", "descripcion": "Falta lateral que bota Sergio Gómez, falla Lunin en la salida y <span class=\"blanco\">Oyarzábal</span> cabecea a placer."},
-        {"gol": "4-4", "minuto": "115'", "descripcion": "Córner que bota Arda Güler al primer palo para el remate de cabeza cruzado de <span class=\"blanco\">Rüdiger</span>."}
+        {"gol": "0-1", "minuto": "16'", "descripcion": "Balón que peina Oyarzabal a la espalda de Lucas Vázquez donde entra <span class=\"azul\">Barrenetxea</span> que bate a Lunin entre sus piernas."},
+        {"gol": "1-1", "minuto": "30'", "descripcion": "Extraordinario pase profundo de Vini Jr. con el exterior para <span class=\"azul\">Endrick</span> que la pica por encima de Remiro."},
+        {"gol": "1-2", "minuto": "72'", "descripcion": "Pablo Marín supera a Camavinga, llega a línea de fondo y su pase atrás lo desvía <span class=\"azul\">Alaba</span> al fondo de su portería."},
+        {"gol": "1-3", "minuto": "80'", "descripcion": "Disparo de <span class=\"azul\">Oyarzabal</span> desde la frontal que pega en Alaba y se vuelve imposible para Lunin."},
+        {"gol": "2-3", "minuto": "82'", "descripcion": "Vini Jr. desborda a Traoré y pone un centro medido para la llegada y el remate de <span class=\"azul\">Bellingham</span>."},
+        {"gol": "3-3", "minuto": "86'", "descripcion": "Córner que bota Rodrygo al punto de penalti donde remata de cabeza <span class=\"azul\">Tchouaméni</span>."},
+        {"gol": "3-4", "minuto": "90+3'", "descripcion": "Falta lateral que bota Sergio Gómez, falla Lunin en la salida y <span class=\"azul\">Oyarzabal</span> cabecea a placer."},
+        {"gol": "4-4", "minuto": "115'", "descripcion": "Córner que bota Arda Güler al primer palo para el remate de cabeza cruzado de <span class=\"azul\">Rüdiger</span>."}
     ],
     "penaltis": []
 }
