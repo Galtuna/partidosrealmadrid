@@ -1,0 +1,52 @@
+{
+    "titulo": "Temporada 2024/25 - Champions League - Cuartos de final - Ida",
+    "atras": "2425_cham.html",
+    "estadio": {"ciudad": "Londres", "nombre": "Emirates Stadium", "imagen": "emirates.jpg", "espectadores": "60.110"},
+    "fecha": "MAR 08/04/2025",
+    "hora": "21:00",
+    "arbitro": "Irfan Peljto (Bosnia-Herzegovina)",
+    "local": {"nombre": "Arsenal FC", "escudo": "ars.png", "goles": 3, "golesp": 0, "entrenador": "Mikel Arteta"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 22, "nombre": "Raya", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Timber", "salida": "0", "cambio": "90+1'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Saliba", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Kiwior", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 49, "nombre": "Lewis-Skelly", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Thomas Partey", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Ødegaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 41, "nombre": "Rice", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Saka", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Martinelli", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Merino", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 19, "nombre": "Trossard", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Tierney", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "White", "salida": "90+1'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},        
+        {"dorsal": 35, "nombre": "Asencio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Alaba", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "0", "amarilla": "90+4'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Fran García", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "58'", "descripcion": "Falta directa fuera del área que convierte <span class=\"azul\">Rice</span> con una rosca que supera la barrera por fuera."},
+        {"gol": "2-0", "minuto": "70'", "descripcion": "Nueva falta directa fuera del área que transforma <span class=\"azul\">Rice</span> con un tremendo disparo a la escuadra."},
+        {"gol": "3-0", "minuto": "75'", "descripcion": "Lewis-Skelly encuentra a <span class=\"azul\">Merino</span> en la frontal que de primeras la pone en la base del palo."}
+    ],
+    "penaltis": []
+}
