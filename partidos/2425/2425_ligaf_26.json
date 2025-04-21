@@ -1,0 +1,59 @@
+{
+    "titulo": "Temporada 2024/25 - Liga F - Jornada 26",
+    "atras": "2425_ligaf.html",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.576"},
+    "fecha": "DOM 20/04/2025",
+    "hora": "16:00",
+    "arbitro": "Huerta de Haza (colegio canario)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 5, "golesp": 0, "entrenador": "Alberto Toril"},
+    "visitante": {"nombre": "Real Betis Balompié", "escudo": "bet.png", "goles": 1, "golesp": 0, "entrenador": "Juan Rojo"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Antônia Silva", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Mäelle Lakrar", "salida": "0", "cambio": "46'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Olga Carmona", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Filippa Angeldahl", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Naomie Feller", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 15, "nombre": "Sheila García", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 36, "nombre": "Irune Dorado", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Carla Camacho", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Paula Vizoso", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Nana Ligero", "salida": "0", "cambio": "72'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Rhiannon Roberts", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Dorine Chuigoué", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Esther Martín-Pozuelo", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Marina Sánchez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Rosa Márquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Naima García", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Carla Armengol", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 32, "nombre": "Carla Santaliestra", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Yasmine Zouhir", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 4, "nombre": "María Jiménez", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Carol Férez", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 29, "nombre": "Alba Rodao", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 30, "nombre": "Blanca Muñoz", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Tiffany Cameron", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "9'", "descripcion": "Penalti de Chuigoué a Feller que transforma <span class=\"azul\">Weir</span>."},
+        {"gol": "2-0", "minuto": "24'", "descripcion": "Centro de Olga desde la izquierda que remata de cabeza <span class=\"azul\">Bruun</span> libre de marca."},
+        {"gol": "3-0", "minuto": "28'", "descripcion": "Córner que bota Weir, Lakrar la devuelve en el segundo palo y <span class=\"azul\">María Méndez</span> la empuja de cabeza."},
+        {"gol": "4-0", "minuto": "37'", "descripcion": "<span class=\"azul\">Angeldahl</span> recoge un rechace de Vizoso tras su propio disparo y marca a placer."},
+        {"gol": "5-0", "minuto": "40'", "descripcion": "Gran disparo con rosca de <span class=\"azul\">Bruun</span> desde la corona del área que entra por la escuadra."},
+        {"gol": "5-1", "minuto": "44'", "descripcion": "Naima se la lleva tras un error en salida de Angeldahl, su disparo pega en Lakrar y <span class=\"azul\">Zouhir</span> lo manda a guardar."}
+    ],
+    "penaltis": []
+}
