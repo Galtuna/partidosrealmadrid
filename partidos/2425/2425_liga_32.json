@@ -47,7 +47,7 @@
         {"dorsal": 3, "nombre": "Vivian", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "90+3''", "descripcion": "<span class=\"azul\">Valverde</span> recoge un balón muerto en el pico del área y lo empalma a la escuadra contraria."}
+        {"gol": "1-0", "minuto": "90+3'", "descripcion": "<span class=\"azul\">Valverde</span> recoge un balón muerto en el pico del área y lo empalma a la escuadra contraria."}
     ],
     "penaltis": []
 }
