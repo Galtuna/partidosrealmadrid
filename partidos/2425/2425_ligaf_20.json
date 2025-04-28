@@ -43,7 +43,7 @@
         {"dorsal": 11, "nombre": "Alba Redondo", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 36, "nombre": "Irune Dorado", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Eva Navarro", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 12, "nombre": "Yasmim Assis", "salida": "90+1'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 12, "nombre": "Yasmim Ribeiro", "salida": "90+1'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
         {"gol": "1-0", "minuto": "10'", "descripcion": "Penalti de Athenea a <span class=\"azul\">Nahikari</span> que ella misma se encarga de transformar."},
