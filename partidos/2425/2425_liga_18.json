@@ -6,7 +6,7 @@
     "hora": "16:15",
     "arbitro": "Díaz de Mera Escuderos (colegio castellanomanchego)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Carlo Ancelotti"},
-    "visitante": {"nombre": "Sevilla FC", "escudo": "xxx.png", "goles": 2, "golesp": 0, "entrenador": "Francisco Javier García Pimienta"},
+    "visitante": {"nombre": "Sevilla FC", "escudo": "sev.jpg", "goles": 2, "golesp": 0, "entrenador": "Francisco Javier García Pimienta"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
