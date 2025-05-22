@@ -45,7 +45,7 @@
         {"dorsal": 9, "nombre": "Signe Bruun", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Antônia Silva", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Caroline Møller", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 11, "nombre": "Noemí Bejarano", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 33, "nombre": "Noemí Bejarano", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "6'", "descripcion": "<span class=\"azul\">Alba Redondo</span> empuja a placer un rechace de Canales tras un remate de Eva Navarro."},
