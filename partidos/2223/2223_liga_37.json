@@ -27,7 +27,7 @@
     "titularesLocal": [
         {
             "dorsal": "13",
-            "nombre": "Bono",
+            "nombre": "Bounou",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",
@@ -387,7 +387,7 @@
         {
             "gol": "1-2",
             "minuto": "69'",
-            "descripcion": "Contragolpe que lanza Kroos para <span class=\"azul\">Rodrygo</span> y este avanza, recorta a Montiel y supera a Bono."
+            "descripcion": "Contragolpe que lanza Kroos para <span class=\"azul\">Rodrygo</span> y este avanza, recorta a Montiel y supera a Bounou."
         }
     ],
     "penaltis": []
