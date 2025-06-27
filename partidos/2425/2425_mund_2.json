@@ -48,7 +48,7 @@
         {"dorsal": 32, "nombre": "Víctor Guzmán", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "35'", "descripcion": "Fran García encuentra la llegada de segunda línea de <span class=\"azul\">Bellingham</span> que entra en el área y dispara raso cruzado."},
+        {"gol": "1-0", "minuto": "35'", "descripcion": "Fran García encuentra la llegada desde segunda línea de <span class=\"azul\">Bellingham</span> que entra en el área y dispara raso cruzado."},
         {"gol": "2-0", "minuto": "43'", "descripcion": "Balón que mete al área Alexander-Arnold y Gonzalo deja de cara para que <span class=\"azul\">Arda Güler</span> controle y remate a la red."},
         {"gol": "3-0", "minuto": "70'", "descripcion": "Pase de Brahim por encima de la defensa y <span class=\"azul\">Valverde</span> se estira para llegar antes que Moreno y marcar."},
         {"gol": "3-1", "minuto": "80'", "descripcion": "Disparo de <span class=\"azul\">Montiel</span> desde la frontal que toca en Tchouaméni y se cuela en la portería."}
