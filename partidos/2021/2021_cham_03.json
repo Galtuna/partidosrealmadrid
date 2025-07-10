@@ -27,7 +27,7 @@
     ],
     "titularesVisitante": [
         {"dorsal": 1, "nombre": "Handanović", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 2, "nombre": "Achraf", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Hakimi", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 33, "nombre": "D'Ambrosio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 6, "nombre": "De Vrij", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 95, "nombre": "Bastoni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -44,7 +44,7 @@
         {"dorsal": 44, "nombre": "Nainggolan", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "25'", "descripcion": "Error de Achraf al dar un pase atrás, <span class=\"azul\">Benzema</span> llega antes que Handanović, lo recorta y marca a placer."},
+        {"gol": "1-0", "minuto": "25'", "descripcion": "Error de Hakimi al dar un pase atrás, <span class=\"azul\">Benzema</span> llega antes que Handanović, lo recorta y marca a placer."},
         {"gol": "2-0", "minuto": "33'", "descripcion": "Córner que bota Kroos y remata de cabeza cruzado y picado <span class=\"azul\">Sergio Ramos</span>."},
         {"gol": "2-1", "minuto": "35'", "descripcion": "Barella con la espuela encuentra el desmarque dentro del área de <span class=\"azul\">Lautaro Martínez</span> que dispara de primeras."},
         {"gol": "2-2", "minuto": "68'", "descripcion": "Lautaro Martínez gana un balón largo y la pone a <span class=\"azul\">Perišić</span> que bate a Courtois de tiro cruzado."},
