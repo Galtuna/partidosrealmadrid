@@ -48,8 +48,8 @@ function cargarCompeticiones(jsonData, tablaId){
             enlace.href = jsonData[i].enlace;
             let img = document.createElement("img");
             img.src = 'img/ico/' + jsonData[i].imagen;
+            enlace.appendChild(img);
             td.appendChild(enlace);
-            td.appendChild(img);
             trc1.appendChild(td);
         }
         for (var i = 0; i < jsonData.length; i++) {
