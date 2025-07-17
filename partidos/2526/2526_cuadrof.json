@@ -1,0 +1,35 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2025/26",
+    "atras": "indexTemporada.html?temporada=2526&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "UEFA Women's Champions League", "campeon": "xxx.png"},
+            {"competicion": "Copa Libertadores Femenina", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Liga F", "campeon": "xxx.png"},
+            {"competicion": "Copa de la Reina", "campeon": "xxx.png"},
+            {"competicion": "Supercopa de España", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "FA Women's Super League", "campeon": "xxx.png"},
+            {"competicion": "FA Women's Cup", "campeon": "xxx.png"},
+            {"competicion": "FA Women's League Cup", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Serie A Femminile", "campeon": "xxx.png"},
+            {"competicion": "Frauen-Bundesliga", "campeon": "xxx.png"},
+            {"competicion": "Division 1 Féminine", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Eredivisie Vrouwen", "campeon": "xxx.png"},
+            {"competicion": "Campeonato Nacional de Portugal", "campeon": "xxx.png"},
+            {"competicion": "Superliga Femenina de Bélgica", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Brasileirão Femenino", "campeon": "xxx.png"},
+            {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "xxx.png|xxx.png"},
+            {"competicion": "NWSL", "campeon": "xxx.png"}
+        ]
+    ]
+}
