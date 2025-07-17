@@ -40,7 +40,7 @@ function cargarCampeones(jsonData, tablaId){
         let trc1 = document.createElement("tr");
         let td1 = document.createElement("td");
         td1.colSpan = "3";
-        td1.textContent = "&nbsp;";
+        td1.innerHTML = "&nbsp;";
         trc1.appendChild(td1);
         tblCampeones.appendChild(trc1);
 
