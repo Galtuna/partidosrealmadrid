@@ -1,0 +1,51 @@
+{
+    "titulo": "Cuadro de Honor - Temporada 2024/25",
+    "atras": "indexTemporada.html?temporada=2425&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "Copa Intercontinental", "campeon": "rma.png"},
+            {"competicion": "Mundial de Clubes", "campeon": "che.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "rma.png"}
+        ],
+        [
+            {"competicion": "UEFA Champions League", "campeon": "psg.png"},
+            {"competicion": "UEFA Europa League", "campeon": "tot.png"},
+            {"competicion": "UEFA Conference League", "campeon": "che.png"}
+        ],
+        [
+            {"competicion": "Copa Libertadores", "campeon": "xxx.png"},
+            {"competicion": "Copa Sudamericana", "campeon": "xxx.png"},
+            {"competicion": "Recopa Sudamericana", "campeon": "rav.png"}
+        ],
+        [
+            {"competicion": "Concacaf Champions Cup", "campeon": "cru.png"},
+            {"competicion": "CAF Champions League", "campeon": "pyr.png"},
+            {"competicion": "AFC Champions League", "campeon": "ahs.png"}
+        ],
+        [
+            {"competicion": "LaLiga", "campeon": "fcb.png"},
+            {"competicion": "Copa del Rey", "campeon": "fcb.png"},
+            {"competicion": "Supercopa de España", "campeon": "fcb.png"}
+        ],
+        [
+            {"competicion": "Premier League", "campeon": "liv.jpg"},
+            {"competicion": "FA Cup", "campeon": "cry.png"},
+            {"competicion": "EFL Cup", "campeon": "new.png"}
+        ],
+        [
+            {"competicion": "Serie A", "campeon": "nap.jpg"},
+            {"competicion": "Bundesliga", "campeon": "bay.png"},
+            {"competicion": "Ligue 1", "campeon": "psg.png"}
+        ],
+        [
+            {"competicion": "Eredivisie", "campeon": "psv.png"},
+            {"competicion": "Primeira Liga", "campeon": "spp.png"},
+            {"competicion": "Belgian Pro League", "campeon": "usg.png"}
+        ],
+        [
+            {"competicion": "Brasileirão", "campeon": "xxx.png"},
+            {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "pla.png|xxx.png"},
+            {"competicion": "MLS", "campeon": "xxx.png"}
+        ]
+    ]
+}

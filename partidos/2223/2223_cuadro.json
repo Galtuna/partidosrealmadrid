@@ -1,5 +1,5 @@
 {
-    "titulo": "Real Madrid - Temporada 2022/23",
+    "titulo": "Cuadro de Honor - Temporada 2022/23",
     "atras": "indexTemporada.html?temporada=2223&categoria=m",
     "campeones": [
         [
@@ -37,7 +37,7 @@
             {"competicion": "Ligue 1", "campeon": "psg.png"}
         ],
         [
-            {"competicion": "Eredivisie", "campeon": "fey.jpg"},
+            {"competicion": "Eredivisie", "campeon": "fey.png"},
             {"competicion": "Primeira Liga", "campeon": "ben.png"},
             {"competicion": "Belgian Pro League", "campeon": "ant.png"}
         ],

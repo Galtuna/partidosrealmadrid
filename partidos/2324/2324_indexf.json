@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2023/24",
+    "cuadro": "cuadro.html?temporada=2324&categoria=m",
+    "competiciones1": [
+        {"nombre": "Liga F", "enlace": "2324_ligaf.html", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Women's Champions League", "enlace": "2324_chamf.html", "imagen": "championsf.jpg", "campeon": false},
+        {"nombre": "Copa de la Reina", "enlace": "2324_copaf.html", "imagen": "copareina.jpg", "campeon": false},
+        {"nombre": "Supercopa de España", "enlace": "2324_scesf.html", "imagen": "supercopaespf.jpg", "campeon": false}
+    ],
+    "competiciones2": []
+}

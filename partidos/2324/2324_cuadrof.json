@@ -1,0 +1,35 @@
+{
+    "titulo": "Cuadro de Honor Femenino - Temporada 2023/24",
+    "atras": "indexTemporada.html?temporada=2324&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "UEFA Women's Champions League", "campeon": "fcb.png"},
+            {"competicion": "Copa Libertadores Femenina", "campeon": "cor.png"}
+        ],
+        [
+            {"competicion": "Liga F", "campeon": "fcb.png"},
+            {"competicion": "Copa de la Reina", "campeon": "fcb.png"},
+            {"competicion": "Supercopa de España", "campeon": "fcb.png"}
+        ],
+        [
+            {"competicion": "FA Women's Super League", "campeon": "che.png"},
+            {"competicion": "FA Women's Cup", "campeon": "mun.png"},
+            {"competicion": "FA Women's League Cup", "campeon": "ars.png"}
+        ],
+        [
+            {"competicion": "Serie A Femminile", "campeon": "rom.png"},
+            {"competicion": "Frauen-Bundesliga", "campeon": "bay.png"},
+            {"competicion": "Division 1 Féminine", "campeon": "oly.png"}
+        ],
+        [
+            {"competicion": "Eredivisie Vrouwen", "campeon": "twe.png"},
+            {"competicion": "Campeonato Nacional de Portugal", "campeon": "ben.png"},
+            {"competicion": "Superliga Femenina de Bélgica", "campeon": "and.png"}
+        ],
+        [
+            {"competicion": "Brasileirão Femenino", "campeon": "cor.png"},
+            {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "boc.png|slo.png"},
+            {"competicion": "NWSL", "campeon": "orp.png"}
+        ]
+    ]
+}
