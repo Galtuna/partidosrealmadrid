@@ -1,0 +1,14 @@
+{
+    "titulo": "Real Madrid - Temporada 2022/23",
+    "cuadro": "cuadro.html?temporada=2223&categoria=m",
+    "competiciones1": [
+        {"nombre": "LaLiga", "enlace": "2223_liga.html", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Champions League", "enlace": "2223_cham.html", "imagen": "champions.jpg", "campeon": false},
+        {"nombre": "Copa del Rey", "enlace": "2223_copa.html", "imagen": "coparey.jpg", "campeon": true}        
+    ],
+    "competiciones2": [
+        {"nombre": "Supercopa de España", "enlace": "2223_sces.html", "imagen": "supercopaesp.jpg", "campeon": false},
+        {"nombre": "Mundial de Clubes", "enlace": "2223_mund.html", "imagen": "intercont.jpg", "campeon": true},
+        {"nombre": "Supercopa de Europa", "enlace": "2223_sceu.html", "imagen": "supercopaeur.jpg", "campeon": true}
+    ]
+}

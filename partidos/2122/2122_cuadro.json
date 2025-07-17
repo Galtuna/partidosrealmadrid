@@ -1,0 +1,50 @@
+{
+    "titulo": "Real Madrid - Temporada 2021/22",
+    "atras": "indexTemporada.html?temporada=2122&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "Mundial de Clubes", "campeon": "che.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "che.png"}
+        ],
+        [
+            {"competicion": "UEFA Champions League", "campeon": "rma.png"},
+            {"competicion": "UEFA Europa League", "campeon": "ein.png"},
+            {"competicion": "UEFA Conference League", "campeon": "rom.png"}
+        ],
+        [
+            {"competicion": "Copa Libertadores", "campeon": "fla.png"},
+            {"competicion": "Copa Sudamericana", "campeon": "idv.png"},
+            {"competicion": "Recopa Sudamericana", "campeon": "pal.png"}
+        ],
+        [
+            {"competicion": "Concacaf Champions Cup", "campeon": "sea.png"},
+            {"competicion": "CAF Champions League", "campeon": "wac.png"},
+            {"competicion": "AFC Champions League", "campeon": "hil.png"}
+        ],
+        [
+            {"competicion": "LaLiga", "campeon": "rma.png"},
+            {"competicion": "Copa del Rey", "campeon": "bet.png"},
+            {"competicion": "Supercopa de España", "campeon": "rma.png"}
+        ],
+        [
+            {"competicion": "Premier League", "campeon": "mci.jpg"},
+            {"competicion": "FA Cup", "campeon": "liv.jpg"},
+            {"competicion": "EFL Cup", "campeon": "liv.jpg"}
+        ],
+        [
+            {"competicion": "Serie A", "campeon": "mil.png"},
+            {"competicion": "Bundesliga", "campeon": "bay.png"},
+            {"competicion": "Ligue 1", "campeon": "psg.png"}
+        ],
+        [
+            {"competicion": "Eredivisie", "campeon": "aja.jpg"},
+            {"competicion": "Primeira Liga", "campeon": "por.png"},
+            {"competicion": "Belgian Pro League", "campeon": "bru.png"}
+        ],
+        [
+            {"competicion": "Brasileirão", "campeon": "pal.png"},
+            {"competicion": "Primera División Argentina", "campeon": "boc.png"},
+            {"competicion": "MLS", "campeon": "lan.png"}
+        ]
+    ]
+}

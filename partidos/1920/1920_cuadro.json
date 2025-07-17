@@ -8,7 +8,7 @@
         [
             {"competicion": "UEFA Champions League", "campeon": "bay.png"},
             {"competicion": "UEFA Europa League", "campeon": "sev.jpg"},
-            {"competicion": "UEFA Conference League", "campeon": "liv.jpg"}
+            {"competicion": "Supercopa de Europa", "campeon": "liv.jpg"}
         ],
         [
             {"competicion": "Copa Libertadores", "campeon": "pal.png"},
@@ -22,7 +22,7 @@
         ],
         [
             {"competicion": "LaLiga", "campeon": "rma.png"},
-            {"competicion": "Copa del Rey", "campeon": "rso.png"},
+            {"competicion": "Copa del Rey", "campeon": "rso.jpg"},
             {"competicion": "Supercopa de España", "campeon": "rma.png"}
         ],
         [
