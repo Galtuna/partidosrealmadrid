@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid - Temporada 2025/26",
+    "cuadro": "2526_cuadro.html",
+    "competiciones1": [
+        {"nombre": "LaLiga", "enlace": "2526_liga.html", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Champions League", "enlace": "2526_cham.html", "imagen": "champions.jpg", "campeon": false},
+        {"nombre": "Copa del Rey", "enlace": "2526_copa.html", "imagen": "coparey.jpg", "campeon": false},
+        {"nombre": "Supercopa de España", "enlace": "2526_sces.html", "imagen": "supercopaesp.jpg", "campeon": false}
+    ],
+    "competiciones2": []
+}

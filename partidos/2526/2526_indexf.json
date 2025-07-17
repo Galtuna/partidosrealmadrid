@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2025/26",
+    "cuadro": "2526_cuadrof.html",
+    "competiciones1": [
+        {"nombre": "Liga F", "enlace": "2526_ligaf.html", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Women's Champions League", "enlace": "2526_chamf.html", "imagen": "championsf.jpg", "campeon": false},
+        {"nombre": "Copa de la Reina", "enlace": "2526_copaf.html", "imagen": "copareina.jpg", "campeon": false},
+        {"nombre": "Supercopa de España", "enlace": "2526_scesf.html", "imagen": "supercopaespf.jpg", "campeon": false}
+    ],
+    "competiciones2": []
+}
