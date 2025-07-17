@@ -1,0 +1,50 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2025/26",
+    "atras": "indexTemporada.html?temporada=2526&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "Copa Intercontinental", "campeon": "xxx.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "UEFA Champions League", "campeon": "xxx.png"},
+            {"competicion": "UEFA Europa League", "campeon": "xxx.png"},
+            {"competicion": "UEFA Conference League", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Copa Libertadores", "campeon": "xxx.png"},
+            {"competicion": "Copa Sudamericana", "campeon": "xxx.png"},
+            {"competicion": "Recopa Sudamericana", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Concacaf Champions Cup", "campeon": "xxx.png"},
+            {"competicion": "CAF Champions League", "campeon": "xxx.png"},
+            {"competicion": "AFC Champions League", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "LaLiga", "campeon": "xxx.png"},
+            {"competicion": "Copa del Rey", "campeon": "xxx.png"},
+            {"competicion": "Supercopa de España", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Premier League", "campeon": "xxx.png"},
+            {"competicion": "FA Cup", "campeon": "xxx.png"},
+            {"competicion": "EFL Cup", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Serie A", "campeon": "xxx.png"},
+            {"competicion": "Bundesliga", "campeon": "xxx.png"},
+            {"competicion": "Ligue 1", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Eredivisie", "campeon": "xxx.png"},
+            {"competicion": "Primeira Liga", "campeon": "xxx.png"},
+            {"competicion": "Belgian Pro League", "campeon": "xxx.png"}
+        ],
+        [
+            {"competicion": "Brasileirão", "campeon": "xxx.png"},
+            {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "xxx.png|xxx.png"},
+            {"competicion": "MLS", "campeon": "xxx.png"}
+        ]
+    ]
+}

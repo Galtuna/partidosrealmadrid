@@ -1,6 +1,6 @@
 {
     "titulo": "Real Madrid - Temporada 2025/26",
-    "cuadro": "2526_cuadro.html",
+    "cuadro": "cuadro.html?temporada=2526&categoria=m",
     "competiciones1": [
         {"nombre": "LaLiga", "enlace": "2526_liga.html", "imagen": "liga.jpg", "campeon": false},
         {"nombre": "Champions League", "enlace": "2526_cham.html", "imagen": "champions.jpg", "campeon": false},
