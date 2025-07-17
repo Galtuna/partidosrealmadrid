@@ -1,6 +1,6 @@
 {
     "titulo": "Cuadro de Honor Femenino - Temporada 2024/25",
-    "atras": "indexTemporada.html?temporada=2425&categoria=m",
+    "atras": "indexTemporada.html?temporada=2425&categoria=f",
     "campeones": [
         [
             {"competicion": "UEFA Women's Champions League", "campeon": "ars.png"},

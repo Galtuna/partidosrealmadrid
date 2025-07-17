@@ -1,6 +1,6 @@
 {
     "titulo": "Cuadro de Honor Femenino - Temporada 2025/26",
-    "atras": "indexTemporada.html?temporada=2526&categoria=m",
+    "atras": "indexTemporada.html?temporada=2526&categoria=f",
     "campeones": [
         [
             {"competicion": "UEFA Women's Champions League", "campeon": "xxx.png"},
