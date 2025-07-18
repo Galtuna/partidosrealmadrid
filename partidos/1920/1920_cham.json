@@ -2,7 +2,7 @@
     "titulo": "Real Madrid - Temporada 2019/20 - Champions League",
     "atras": "indexTemporada.html?temporada=1920&categoria=m",
     "eliminatorias": [ 
-            {"nombre": "Octavos de final", "unica": true, "partido1": "Real Madrid 1 - 2 Manchester City", "enlace1": "partido.html?cod=1920_cham_07", "partido2": "Manchester City 2 - 1 Real Madrid", "enlace2": "partido.html?cod=1920_cham_08"}            
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 1 - 2 Manchester City", "enlace1": "partido.html?cod=1920_cham_07", "partido2": "Manchester City 2 - 1 Real Madrid", "enlace2": "partido.html?cod=1920_cham_08"}            
         ],
     "liga": {
         "grupo": "Fase de Grupos - Grupo A",
