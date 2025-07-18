@@ -29,8 +29,8 @@ function htmlFromJSON(jsonData){
     document.title = jsonData.titulo;
     let tituloHTML = document.getElementById('titulo');
     tituloHTML.textContent = jsonData.titulo;
-    let botonCuadro = document.getElementById('btnCuadro');
-    botonCuadro.href = jsonData.cuadro;
+    let botonAtras = document.getElementById('btnAtras');
+    botonAtras.href = jsonData.atras;
     cargarEliminatorias(jsonData.eliminatorias, 'tblEliminatorias');
     cargarLiga(jsonData.liga);
     cargarPrevias(jsonData.previas);
