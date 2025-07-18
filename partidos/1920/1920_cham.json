@@ -4,7 +4,8 @@
     "eliminatorias": [ 
             {"nombre": "Octavos de final", "unica": true, "partido1": "Real Madrid 1 - 2 Manchester City", "enlace1": "partido.html?cod=1920_cham_07", "partido2": "Manchester City 2 - 1 Real Madrid", "enlace2": "partido.html?cod=1920_cham_08"}            
         ],
-    "liga": {"grupo": "",
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo A",
         "jornadas": [
             {"jornada": 1, "partido": "PSG 3 - 0 Real Madrid", "enlace": "1920_cham_01"},
             {"jornada": 2, "partido": "Real Madrid 2 - 2 Brugge", "enlace": "1920_cham_02"},
