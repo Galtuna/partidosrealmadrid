@@ -38,7 +38,8 @@ function htmlFromJSON(jsonData){
 
 function cargarEliminatorias(jsonData, idTabla) {
     let tblEliminatorias = document.getElementById(idTabla);
-    
+    tblEliminatorias.classList.add("listado");
+
     if (jsonData.length > 0) {
         for (var i = 0; i < jsonData.length; i++) {   
             let trc1 = document.createElement("tr");            
@@ -104,7 +105,7 @@ function cargarEliminatorias(jsonData, idTabla) {
 }
 
 function cargarLiga(jsonData) {
-    cargarPartidos(jsonData, 'tblLiga');
+    cargarJornadas(jsonData, 'tblLiga');
     cargarClasificacion(jsonData, 'tblLiga');
 }
 
@@ -112,8 +113,9 @@ function cargarPrevias(jsonData) {
     cargarEliminatorias(jsonData, 'tblPrevias');
 }
 
-function cargarPartidos(jsonData, idTabla) {
+function cargarJornadas(jsonData, idTabla) {
     let tblPartidos = document.getElementById(idTabla);
+    tblPartidos.classList.add("listado");
 
     if (jsonData.grupo != "") {
         let tr = document.createElement("tr");
