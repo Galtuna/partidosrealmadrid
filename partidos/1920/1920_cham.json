@@ -1,0 +1,24 @@
+{
+    "titulo": "Real Madrid - Temporada 2019/20 - Champions League",
+    "atras": "indexTemporada.html?temporada=1920&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Octavos de final", "unica": true, "partido1": "Real Madrid 1 - 2 Manchester City", "enlace1": "partido.html?cod=1920_cham_07", "partido2": "Manchester City 2 - 1 Real Madrid", "enlace2": "partido.html?cod=1920_cham_08"}            
+        ],
+    "liga": {"grupo": "",
+        "jornadas": [
+            {"jornada": 1, "partido": "PSG 3 - 0 Real Madrid", "enlace": "1920_cham_01"},
+            {"jornada": 2, "partido": "Real Madrid 2 - 2 Brugge", "enlace": "1920_cham_02"},
+            {"jornada": 3, "partido": "Galatasaray 0 - 1 Real Madrid", "enlace": "1920_cham_03"},
+            {"jornada": 4, "partido": "Real Madrid 6 - 0 Galatasaray", "enlace": "1920_cham_04"},
+            {"jornada": 5, "partido": "Real Madrid 2 - 2 PSG", "enlace": "1920_cham_05"},
+            {"jornada": 6, "partido": "Brugge 1 - 3 Real Madrid", "enlace": "1920_cham_06"}
+        ],
+        "clasificacion": [
+            {"posicion": 1, "equipo": "PSG", "pj": 6, "pg": 5, "pe": 1, "pp": 0, "gf": 17, "gc": 2, "puntos": 16},
+            {"posicion": 2, "equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 2, "pp": 1, "gf": 14, "gc": 8, "puntos": 11},
+            {"posicion": 3, "equipo": "Brugge", "pj": 6, "pg": 0, "pe": 3, "pp": 3, "gf": 4, "gc": 12, "puntos": 3},
+            {"posicion": 4, "equipo": "Galatasaray", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 1, "gc": 14, "puntos": 2}
+        ]
+    },
+    "previas": []
+}

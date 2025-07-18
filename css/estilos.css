@@ -93,6 +93,20 @@ body {
     border-collapse: collapse; 
 }
 
+#tblClasificacion th {
+    border-color: cornflowerblue;
+    border-width: 1px;
+    border-style: solid;    
+    padding: 5px;
+}
+
+#tblClasificacion td {
+    border-color: cornflowerblue;
+    border-width: 1px;
+    border-style: solid;    
+    padding: 5px;
+}
+
 #tblClasificacion th:nth-child(1) {
     width: 230px;
 }

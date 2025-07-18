@@ -148,8 +148,17 @@ function cargarPartidos(jsonData, idTabla) {
             td2.innerHTML = span2.outerHTML + jsonData.jornadas[i + medio].partido + ' ' + enlace2.outerHTML;
             tr.appendChild(td2);
             tblPartidos.appendChild(tr);
-        };
+        }
     }
+
+    let trc3 = document.createElement("tr");
+    let td3 = document.createElement("td");
+    if (jsonData[i].unica) {
+        td3.colSpan = "2";
+    }
+    td3.innerHTML = "&nbsp;";
+    trc3.appendChild(td3);
+    tblEliminatorias.appendChild(trc3);
 }
 
 function cargarClasificacion(jsonData, idTabla) {
