@@ -101,9 +101,8 @@ function cargarEliminatorias(jsonData, idTabla) {
 }
 
 function cargarLiga(jsonData) {
-    let tblLiga = document.getElementById('tblLiga');
-    cargarPartidos(jsonData, tblLiga);
-    cargarClasificacion(jsonData, tblLiga);
+    cargarPartidos(jsonData, 'tblLiga');
+    cargarClasificacion(jsonData, 'tblLiga');
 }
 
 function cargarPrevias(jsonData) {
