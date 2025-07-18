@@ -37,10 +37,10 @@ function htmlFromJSON(jsonData){
 }
 
 function cargarEliminatorias(jsonData, idTabla) {
-    let tblEliminatorias = document.getElementById(idTabla);
-    tblEliminatorias.classList.add("listado");
-
+    let tblEliminatorias = document.getElementById(idTabla);    
+    
     if (jsonData.length > 0) {
+        tblEliminatorias.classList.add("listado");
         for (var i = 0; i < jsonData.length; i++) {   
             let trc1 = document.createElement("tr");            
             let td1 = document.createElement("td");
@@ -114,8 +114,7 @@ function cargarPrevias(jsonData) {
 }
 
 function cargarJornadas(jsonData, idTabla) {
-    let tblPartidos = document.getElementById(idTabla);
-    tblPartidos.classList.add("listado");
+    let tblPartidos = document.getElementById(idTabla);    
 
     if (jsonData.grupo != "") {
         let tr = document.createElement("tr");
@@ -128,6 +127,7 @@ function cargarJornadas(jsonData, idTabla) {
     }
 
     if (jsonData.jornadas.length > 0) {
+        tblPartidos.classList.add("listado");
         let medio = jsonData.jornadas.length % 2 === 0 ? jsonData.jornadas.length / 2 : (jsonData.jornadas.length + 1) / 2;
         for (var i = 0; i < medio; i++) {
             let tr = document.createElement("tr");
