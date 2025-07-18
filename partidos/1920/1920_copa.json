@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid - Temporada 2019/20 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=1920&categoria=m",
+    "eliminatorias": [        
+            {"nombre": "Cuartos de final", "unica": true, "partido1": "Real Madrid 3 - 4 Real Sociedad", "enlace1": "partido.html?cod=1920_copa_3", "partido2": "", "enlace2": ""},
+            {"nombre": "Octavos de final", "unica": true, "partido1": "Zaragoza 0 - 4 Real Madrid", "enlace1": "partido.html?cod=1920_copa_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Dieciseisavos de final", "unica": true, "partido1": "Unionistas de Salamanca 1 - 3 Real Madrid", "enlace1": "partido.html?cod=1920_copa_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": [],
+    "previas": []
+}

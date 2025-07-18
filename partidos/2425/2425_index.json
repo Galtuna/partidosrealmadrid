@@ -8,7 +8,7 @@
     ],
     "competiciones2": [
         {"nombre": "Supercopa de España", "enlace": "2425_sces.html", "imagen": "supercopaesp.jpg", "campeon": false},
-        {"nombre": "Copa Intercontinental", "enlace": "2425_mund.html", "imagen": "intercont.jpg", "campeon": true},
+        {"nombre": "Copa Intercontinental", "enlace": "2425_intc.html", "imagen": "intercont.jpg", "campeon": true},
         {"nombre": "Supercopa de Europa", "enlace": "2425_sceu.html", "imagen": "supercopaeur.jpg", "campeon": true},
         {"nombre": "Mundial de Clubes", "enlace": "2425_mund.html", "imagen": "mundialclub.jpg", "campeon": false}
     ]

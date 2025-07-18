@@ -1,6 +1,6 @@
 {
     "titulo": "Real Madrid Femenino - Temporada 2024/25",
-    "cuadro": "cuadro.html?temporada=2425&categoria=m",
+    "cuadro": "cuadro.html?temporada=2425&categoria=f",
     "competiciones1": [
         {"nombre": "Liga F", "enlace": "2425_ligaf.html", "imagen": "liga.jpg", "campeon": false},
         {"nombre": "Women's Champions League", "enlace": "2425_chamf.html", "imagen": "championsf.jpg", "campeon": false},

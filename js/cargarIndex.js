@@ -1,11 +1,11 @@
 const urlParams = new URLSearchParams(window.location.search);
-const codigo = urlParams.get("temporada");
+const temporada = urlParams.get("temporada");
 const categoria = urlParams.get("categoria");
 let cat = "";
 if (categoria === "f") {
     cat = "f";
 }
-const filePath = 'partidos/' + codigo.substring(0, 4) + '/' + codigo + '_index' + cat + '.json';
+const filePath = 'partidos/' + temporada + '/' + temporada + '_index' + cat + '.json';
 const jsonData = JSON();
 
 function JSON(){    
