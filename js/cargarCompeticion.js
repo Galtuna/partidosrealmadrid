@@ -88,14 +88,17 @@ function cargarEliminatorias(jsonData, idTabla) {
             }
             tblEliminatorias.appendChild(trc2);
 
-            let trc3 = document.createElement("tr");
-            let td3 = document.createElement("td");
-            if (jsonData[i].unica) {
-                td3.colSpan = "2";
+            // Agregar fila de separación si no es la última vuelta del bucle
+            if (i < jsonData.length - 1) {
+                let trc3 = document.createElement("tr");
+                let td3 = document.createElement("td");
+                if (jsonData[i].unica) {
+                    td3.colSpan = "2";
+                }
+                td3.innerHTML = "&nbsp;";
+                trc3.appendChild(td3);
+                tblEliminatorias.appendChild(trc3);
             }
-            td3.innerHTML = "&nbsp;";
-            trc3.appendChild(td3);
-            tblEliminatorias.appendChild(trc3);
         }
     }
 }
@@ -152,10 +155,8 @@ function cargarPartidos(jsonData, idTabla) {
     }
 
     let trc3 = document.createElement("tr");
-    let td3 = document.createElement("td");
-    if (jsonData[i].unica) {
-        td3.colSpan = "2";
-    }
+    let td3 = document.createElement("td");    
+    td3.colSpan = "2";
     td3.innerHTML = "&nbsp;";
     trc3.appendChild(td3);
     tblEliminatorias.appendChild(trc3);
