@@ -126,7 +126,7 @@ function cargarJornadas(jsonData, idTabla) {
         tblPartidos.appendChild(tr);
     }
 
-    if (jsonData.jornadas.length > 0) {
+    if (jsonData.jornadas) {
         tblPartidos.classList.add("listado");
         let medio = jsonData.jornadas.length % 2 === 0 ? jsonData.jornadas.length / 2 : (jsonData.jornadas.length + 1) / 2;
         for (var i = 0; i < medio; i++) {
