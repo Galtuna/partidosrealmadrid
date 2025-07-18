@@ -159,7 +159,7 @@ function cargarPartidos(jsonData, idTabla) {
     td3.colSpan = "2";
     td3.innerHTML = "&nbsp;";
     trc3.appendChild(td3);
-    tblEliminatorias.appendChild(trc3);
+    tblPartidos.appendChild(trc3);
 }
 
 function cargarClasificacion(jsonData, idTabla) {
