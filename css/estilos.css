@@ -93,12 +93,31 @@ body {
     border-collapse: collapse; 
 }
 
-#tblClasificacion tr td {
-    border-color: cornflowerblue;
-    border-width: 1px;
-    border-style: solid;    
-    padding: 5px;
+#tblClasificacion th:nth-child(1) {
+    width: 230px;
 }
+#tblClasificacion th:nth-child(2) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(3) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(4) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(5) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(6) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(7) {
+    width: 30px;
+}
+#tblClasificacion th:nth-child(8) {
+    width: 30px;
+}
+
 
 .imagen {
     border-color: cornflowerblue;

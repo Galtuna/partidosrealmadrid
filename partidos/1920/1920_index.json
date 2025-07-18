@@ -2,7 +2,7 @@
     "titulo": "Real Madrid - Temporada 2019/20",
     "cuadro": "cuadro.html?temporada=1920&categoria=m",
     "competiciones1": [
-        {"nombre": "LaLiga", "enlace": "1920_liga.html", "imagen": "liga.jpg", "campeon": true},
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=1920&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": true},
         {"nombre": "Champions League", "enlace": "1920_cham.html", "imagen": "champions.jpg", "campeon": false},
         {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=1920&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false},
         {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=1920&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": true}
