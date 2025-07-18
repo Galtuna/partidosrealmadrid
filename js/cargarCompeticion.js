@@ -105,8 +105,12 @@ function cargarEliminatorias(jsonData, idTabla) {
 }
 
 function cargarLiga(jsonData) {
-    cargarJornadas(jsonData, 'tblLiga');
-    cargarClasificacion(jsonData, 'tblLiga');
+    if (jsonData.jornadas) {
+        cargarJornadas(jsonData, 'tblLiga');
+    }
+    if (jsonData.clasificacion) {
+        cargarClasificacion(jsonData, 'tblLiga');
+    }
 }
 
 function cargarPrevias(jsonData) {
@@ -126,7 +130,7 @@ function cargarJornadas(jsonData, idTabla) {
         tblPartidos.appendChild(tr);
     }
 
-    if (jsonData.jornadas) {
+    if (jsonData.jornadas.length > 0) {
         tblPartidos.classList.add("listado");
         let medio = jsonData.jornadas.length % 2 === 0 ? jsonData.jornadas.length / 2 : (jsonData.jornadas.length + 1) / 2;
         for (var i = 0; i < medio; i++) {
