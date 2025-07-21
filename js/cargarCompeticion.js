@@ -44,10 +44,8 @@ function cargarEliminatorias(jsonData, idTabla) {
         for (var i = 0; i < jsonData.length; i++) {   
             let trc1 = document.createElement("tr");            
             let td1 = document.createElement("td");
-            td1.classList.add("azul");
-            if (jsonData[i].unica) {
-                td1.colSpan = "2";
-            }
+            td1.classList.add("azul");          
+            td1.colSpan = "2";            
             td1.textContent = jsonData[i].nombre;
             trc1.appendChild(td1);
             tblEliminatorias.appendChild(trc1);
