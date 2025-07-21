@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Liga F - Jornada 24",
-    "atras": "2324_ligaf.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=f",
     "estadio": {
         "ciudad": "Buñol (Valencia)",
         "nombre": "Ciudad Deportiva del Levante UD",

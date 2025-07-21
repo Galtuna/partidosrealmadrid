@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Copa del Rey - Dieciseisavos de final",
-    "atras": "1920_copa.html",
+    "atras": "competicion.html?temporada=1920&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Salamanca", "nombre": "Estadio Javier Sotomayor (Pistas del Helmántico)", "imagen": "pistashelm.jpg", "espectadores": "4.000"},
     "fecha": "MIE 22/01/2020",
     "hora": "21:00",

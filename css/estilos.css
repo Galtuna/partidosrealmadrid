@@ -106,48 +106,75 @@ body {
     width: 60%;
 }
 
-#tblClasificacion {    
+.clasificacion {    
     margin-left: auto;
     margin-right: auto;    
     border-collapse: collapse; 
 }
 
-#tblClasificacion th {
+.clasificacion th {
     border-color: cornflowerblue;
     border-width: 1px;
     border-style: solid;    
     padding: 5px;
 }
 
-#tblClasificacion td {
+.clasificacion td {
     border-color: cornflowerblue;
     border-width: 1px;
     border-style: solid;    
     padding: 5px;
 }
 
-#tblClasificacion td:nth-child(1) {
+.clasificacion th:nth-child(1) {
     width: 230px;
 }
-#tblClasificacion td:nth-child(2) {
+.clasificacion th:nth-child(2) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(3) {
+.clasificacion th:nth-child(3) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(4) {
+.clasificacion th:nth-child(4) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(5) {
+.clasificacion th:nth-child(5) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(6) {
+.clasificacion th:nth-child(6) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(7) {
+.clasificacion th:nth-child(7) {
     width: 30px;
 }
-#tblClasificacion td:nth-child(8) {
+.clasificacion th:nth-child(8) {
+    width: 30px;
+}
+.clasificacion td:nth-child(1) {
+    width: 30px;
+}
+.clasificacion td:nth-child(2) {
+    width: 200px;
+}
+.clasificacion td:nth-child(3) {
+    width: 30px;
+}
+.clasificacion td:nth-child(4) {
+    width: 30px;
+}
+.clasificacion td:nth-child(5) {
+    width: 30px;
+}
+.clasificacion td:nth-child(6) {
+    width: 30px;
+}
+.clasificacion td:nth-child(7) {
+    width: 30px;
+}
+.clasificacion th:nth-child(8) {
+    width: 30px;
+}
+.clasificacion th:nth-child(9) {
     width: 30px;
 }
 

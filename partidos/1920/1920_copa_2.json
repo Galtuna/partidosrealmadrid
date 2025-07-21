@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Copa del Rey - Octavos de final",
-    "atras": "1920_copa.html",
+    "atras": "competicion.html?temporada=1920&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Zaragoza", "nombre": "Estadio la Romareda", "imagen": "romareda.jpg", "espectadores": "33.608"},
     "fecha": "MIE 29/01/2020",
     "hora": "21:00",

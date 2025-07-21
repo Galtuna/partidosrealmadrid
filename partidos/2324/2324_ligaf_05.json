@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Liga F - Jornada 5",
-    "atras": "2324_ligaf.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=f",
     "estadio": {
         "ciudad": "Granada",
         "nombre": "Ciudad deportiva del Granada CF",

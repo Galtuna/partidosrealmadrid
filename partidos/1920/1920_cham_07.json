@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Champions League - Octavos de final - Ida",
-    "atras": "1920_cham.html",
+    "atras": "competicion.html?temporada=1920&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "75.615"},
     "fecha": "MIE 26/02/2020",
     "hora": "21:00",

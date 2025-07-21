@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Champions League - Fase de Grupos - Jornada 2",
-    "atras": "1920_cham.html",
+    "atras": "competicion.html?temporada=1920&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "65.112"},
     "fecha": "MAR 01/10/2019",
     "hora": "18:55",

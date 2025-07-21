@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 38",
-    "atras": "1920_liga.html",
+    "atras": "competicion.html?temporada=1920&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "Sin"},
     "fecha": "DOM 19/07/2020",
     "hora": "21:00",

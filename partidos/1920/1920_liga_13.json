@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 13",
-    "atras": "1920_liga.html",
+    "atras": "competicion.html?temporada=1920&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Éibar (Guipúzcoa)", "nombre": "Estadio Ipurúa", "imagen": "ipurua.jpg", "espectadores": "6.954"},
     "fecha": "SAB 09/11/2019",
     "hora": "18:30",

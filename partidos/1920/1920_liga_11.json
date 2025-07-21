@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - LaLiga - Jornada 11",
-    "atras": "1920_liga.html",
+    "atras": "competicion.html?temporada=1920&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "53.870"},
     "fecha": "MIE 30/10/2019",
     "hora": "21:15",

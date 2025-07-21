@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Copa del Rey - Cuartos de final",
-    "atras": "1920_copa.html",
+    "atras": "competicion.html?temporada=1920&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "64.012"},
     "fecha": "JUE 06/02/2020",
     "hora": "19:00",

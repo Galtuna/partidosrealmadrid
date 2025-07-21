@@ -5,12 +5,12 @@
     "liga": {
         "grupo": "Fase de Grupos - Grupo D",
         "jornadas": [
-            {"jornada": 1, "partido": "Real Madrid 2 - 2 Chelsea", "enlace": "2324_chamf_03"},
-            {"jornada": 2, "partido": "Häcken 2 - 1 Real Madrid", "enlace": "2324_chamf_04"},
-            {"jornada": 3, "partido": "Paris FC 2 - 1 Real Madrid", "enlace": "2324_chamf_05"},
-            {"jornada": 4, "partido": "Real Madrid 0 - 1 Paris FC", "enlace": "2324_chamf_06"},
-            {"jornada": 5, "partido": "Chelsea 2 - 1 Real Madrid", "enlace": "1920f_chamf_07"},
-            {"jornada": 6, "partido": "Real Madrid 0 - 1 Häcken", "enlace": "1920f_chamf_08"}
+            {"jornada": 1, "partido": "Real Madrid 2 - 2 Chelsea", "enlace": "partido.html?cod=2324_chamf_03"},
+            {"jornada": 2, "partido": "Häcken 2 - 1 Real Madrid", "enlace": "partido.html?cod=2324_chamf_04"},
+            {"jornada": 3, "partido": "Paris FC 2 - 1 Real Madrid", "enlace": "partido.html?cod=2324_chamf_05"},
+            {"jornada": 4, "partido": "Real Madrid 0 - 1 Paris FC", "enlace": "partido.html?cod=2324_chamf_06"},
+            {"jornada": 5, "partido": "Chelsea 2 - 1 Real Madrid", "enlace": "partido.html?cod=2324_chamf_07"},
+            {"jornada": 6, "partido": "Real Madrid 0 - 1 Häcken", "enlace": "partido.html?cod=2324_chamf_08"}
         ],
         "clasificacion": [
             {"posicion": 1, "equipo": "Chelsea", "pj": 6, "pg": 4, "pe": 2, "pp": 0, "gf": 15, "gc": 5, "puntos": 14},

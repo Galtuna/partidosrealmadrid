@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Champions League - Fase de Grupos - Jornada 4",
-    "atras": "1920_cham.html",
+    "atras": "competicion.html?temporada=1920&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "65.492"},
     "fecha": "MIE 06/11/2019",
     "hora": "21:00",

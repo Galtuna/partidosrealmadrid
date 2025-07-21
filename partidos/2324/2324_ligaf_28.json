@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Liga F - Jornada 28",
-    "atras": "2324_ligaf.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=f",
     "estadio": {
         "ciudad": "San Sebastián",
         "nombre": "Instalaciones de Zubieta",

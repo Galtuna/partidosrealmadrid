@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Copa de la Reina - Octavos de final",
-    "atras": "2324_copaf.html",
+    "atras": "competicion.html?temporada=2324&competicion=copa&categoria=f",
     "estadio": {
         "ciudad": "Alcalá de Henares (Madrid)",
         "nombre": "Centro deportivo Wanda",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2019/20 - Champions League - Octavos de final - Vuelta",
-    "atras": "1920_cham.html",
+    "atras": "competicion.html?temporada=1920&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Manchester (Inglaterra)", "nombre": "Etihad Stadium", "imagen": "etihad.jpg", "espectadores": "Sin"},
     "fecha": "VIE 07/08/2020",
     "hora": "21:00",
