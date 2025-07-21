@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2023/24 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=2324&categoria=f",
+    "eliminatorias": [        
+            {"nombre": "Semifinal", "unica": true, "partido1": "Barcelona 4 - 0 Real Madrid", "enlace1": "partido.html?cod=2324_scesf_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

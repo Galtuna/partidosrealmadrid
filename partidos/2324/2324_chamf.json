@@ -1,0 +1,23 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2023/24 - Women's Champions League",
+    "atras": "indexTemporada.html?temporada=2324&categoria=f",
+    "eliminatorias": [],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo D",
+        "jornadas": [
+            {"jornada": 1, "partido": "Real Madrid 2 - 2 Chelsea", "enlace": "2324_chamf_03"},
+            {"jornada": 2, "partido": "Häcken 2 - 1 Real Madrid", "enlace": "2324_chamf_04"},
+            {"jornada": 3, "partido": "Paris FC 2 - 1 Real Madrid", "enlace": "2324_chamf_05"},
+            {"jornada": 4, "partido": "Real Madrid 0 - 1 Paris FC", "enlace": "2324_chamf_06"},
+            {"jornada": 5, "partido": "Chelsea 2 - 1 Real Madrid", "enlace": "1920f_chamf_07"},
+            {"jornada": 6, "partido": "Real Madrid 0 - 1 Häcken", "enlace": "1920f_chamf_08"}
+        ],
+        "clasificacion": [
+            {"posicion": 1, "equipo": "Chelsea", "pj": 6, "pg": 4, "pe": 2, "pp": 0, "gf": 15, "gc": 5, "puntos": 14},
+            {"posicion": 2, "equipo": "Häcken", "pj": 6, "pg": 3, "pe": 2, "pp": 1, "gf": 6, "gc": 5, "puntos": 11},
+            {"posicion": 3, "equipo": "Paris FC", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 5, "gc": 11, "puntos": 7},
+            {"posicion": 4, "equipo": "Real Madrid", "pj": 6, "pg": 0, "pe": 1, "pp": 5, "gf": 5, "gc": 10, "puntos": 1}
+        ]
+    },
+    "previas": [{"nombre": "Fase clasificatoria 2", "unica": false, "partido1": "Real Madrid 2 - 1 Vålerenga", "enlace1": "partido.html?cod=2324_chamf_01", "partido2": "Vålerenga 0 - 3 Real Madrid", "enlace2": "partido.html?cod=2324_chamf_02"}            ]
+}

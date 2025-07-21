@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2023/24 - Copa de la Reina",
+    "atras": "indexTemporada.html?temporada=2324&categoria=f",
+    "eliminatorias": [        
+            {"nombre": "Cuartos de final", "unica": true, "partido1": "Atlético Madrid 2 - 1 Real Madrid", "enlace1": "partido.html?cod=2324_copaf_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Octavos de final", "unica": true, "partido1": "Betis 0 - 5 Real Madrid", "enlace1": "partido.html?cod=2324_copaf_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}
