@@ -22,22 +22,10 @@ body {
     border-radius: 15px;
 }
 
-#tblLiga tr td:nth-child(1) {
+.tblMadre tr td:nth-child(1) {
     width: 50%;
 }
-#tblLiga tr td:nth-child(2) {
-    width: 50%;
-}
-#tblEliminatorias tr td:nth-child(1) {
-    width: 50%;
-}
-#tblEliminatorias tr td:nth-child(2) {
-    width: 50%;
-}
-#tblPrevias tr td:nth-child(1) {
-    width: 50%;
-}
-#tblPrevias tr td:nth-child(2) {
+.tblMadre tr td:nth-child(2) {
     width: 50%;
 }
 

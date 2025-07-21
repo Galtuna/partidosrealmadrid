@@ -144,7 +144,7 @@ function cargarJornadas(jsonData, idTabla) {
             span1.classList.add("azul");    
             span1.textContent = "Jornada " + jsonData.jornadas[i].jornada + ": ";                          
             let enlace1 = document.createElement("a");
-            enlace1.href = jsonData.jornadas[i].enlace1;
+            enlace1.href = jsonData.jornadas[i].enlace;
             let img = document.createElement("img");
             img.classList.add("medio");
             img.src = 'img/ico/campo.png';
