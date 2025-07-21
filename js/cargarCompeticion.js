@@ -111,6 +111,12 @@ function cargarLiga(jsonData) {
     if (jsonData.clasificacion) {
         cargarClasificacion(jsonData, 'tblLiga');
     }
+    if (jsonData.ascensos) {
+        cargarAscensos(jsonData, 'tblLiga');
+    }
+    if (jsonData.extra) {
+        cargarExtra(jsonData, 'tblLiga');
+    }
 }
 
 function cargarPrevias(jsonData) {
@@ -220,7 +226,14 @@ function cargarClasificacion(jsonData, idTabla) {
         tr.appendChild(td1);
         let td2 = document.createElement("td");
         td2.classList.add("azul");
-        td2.textContent = jsonData.clasificacion[i].equipo;
+        if (jsonData.clasificacion[i].icono) {
+            let img = document.createElement("img");
+            img.src = 'img/ico/' + jsonData.clasificacion[i].icono;
+            td2.appendChild(img);
+            td2.innerHTML += " " + jsonData.clasificacion[i].equipo;
+        } else {
+            td2.textContent = jsonData.clasificacion[i].equipo;
+        }
         tr.appendChild(td2);        
         let td3 = document.createElement("td");
         td3.classList.add("derecha");
@@ -255,6 +268,40 @@ function cargarClasificacion(jsonData, idTabla) {
     }
 
     tdContenedor.appendChild(tblClasificacion);
+    trContenedor.appendChild(tdContenedor);
+    tblContenedor.appendChild(trContenedor);
+}
+
+function cargarAscensos(jsonData, idTabla) {
+    let tblContenedor = document.getElementById(idTabla);
+    let trContenedor = document.createElement("tr");
+    let tdContenedor = document.createElement("td");
+    tdContenedor.colSpan = "2";
+    tdContenedor.classList.add("centrado");
+    tdContenedor.classList.add("grupochamp");
+    let img = document.createElement("img");
+    img.src = 'img/ico/arriba.png';
+    tdContenedor.appendChild(img);
+    tdContenedor.innerHTML += " Suben de Segunda División: ";
+    for (let i = 0; i < jsonData.ascensos.length; i++) {
+        let span = document.createElement("span");
+        span.classList.add("azul");
+        span.textContent = jsonData.ascensos[i];
+        tdContenedor.appendChild(span);
+        tdContenedor.innerHTML += (i < jsonData.ascensos.length - 1) ? ", " : ". ";
+    }   
+    trContenedor.appendChild(tdContenedor);
+    tblContenedor.appendChild(trContenedor);
+}
+
+function cargarExtra(jsonData, idTabla) {
+    let tblContenedor = document.getElementById(idTabla);
+    let trContenedor = document.createElement("tr");
+    let tdContenedor = document.createElement("td");
+    tdContenedor.colSpan = "2";
+    tdContenedor.classList.add("centrado");
+    tdContenedor.classList.add("grupochamp");
+    tdContenedor.innerHTML = jsonData.extra;
     trContenedor.appendChild(tdContenedor);
     tblContenedor.appendChild(trContenedor);
 }
