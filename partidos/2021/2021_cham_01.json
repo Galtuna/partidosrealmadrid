@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Fase de Grupos - Jornada 1",
-    "atras": "2021_cham.html",
+    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "Sin"},
     "fecha": "MIE 21/10/2020",
     "hora": "18:55",

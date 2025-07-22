@@ -22,13 +22,6 @@ body {
     border-radius: 15px;
 }
 
-.tblMadre tr td:nth-child(1) {
-    width: 50%;
-}
-.tblMadre tr td:nth-child(2) {
-    width: 50%;
-}
-
 #tblResultado {
     margin-left: auto;
     margin-right: auto;
@@ -94,75 +87,82 @@ body {
     width: 60%;
 }
 
-.clasificacion {    
+.tblMadre tr td:nth-child(1) {
+    width: 50%;
+}
+.tblMadre tr td:nth-child(2) {
+    width: 50%;
+}
+
+.tblMadre tr td .clasificacion {    
     margin-left: auto;
     margin-right: auto;    
     border-collapse: collapse; 
 }
 
-.clasificacion th {
+.tblMadre tr td .clasificacion th {
     border-color: cornflowerblue;
     border-width: 1px;
     border-style: solid;    
     padding: 5px;
 }
 
-.clasificacion td {
+.tblMadre tr td .clasificacion td {
     border-color: cornflowerblue;
     border-width: 1px;
     border-style: solid;    
     padding: 5px;
 }
 
-.clasificacion th:nth-child(1) {
+.tblMadre tr td .clasificacion th:nth-child(1) {
     width: 230px;
 }
-.clasificacion th:nth-child(2) {
+.tblMadre tr td .clasificacion th:nth-child(2) {
     width: 30px;
 }
-.clasificacion th:nth-child(3) {
+.tblMadre tr td .clasificacion th:nth-child(3) {
     width: 30px;
 }
-.clasificacion th:nth-child(4) {
+.tblMadre tr td .clasificacion th:nth-child(4) {
     width: 30px;
 }
-.clasificacion th:nth-child(5) {
+.tblMadre tr td .clasificacion th:nth-child(5) {
     width: 30px;
 }
-.clasificacion th:nth-child(6) {
+.tblMadre tr td .clasificacion th:nth-child(6) {
     width: 30px;
 }
-.clasificacion th:nth-child(7) {
+.tblMadre tr td .clasificacion th:nth-child(7) {
     width: 30px;
 }
-.clasificacion th:nth-child(8) {
+.tblMadre tr td .clasificacion th:nth-child(8) {
     width: 30px;
 }
-.clasificacion td:nth-child(1) {
+.tblMadre tr td .clasificacion td:nth-child(1) {
     width: 30px;
 }
-.clasificacion td:nth-child(2) {
+.tblMadre tr td .clasificacion td:nth-child(2) {
     width: 200px;
 }
-.clasificacion td:nth-child(3) {
+.tblMadre tr td .clasificacion td:nth-child(3) {
     width: 30px;
 }
-.clasificacion td:nth-child(4) {
+.tblMadre tr td .clasificacion td:nth-child(4) {
     width: 30px;
 }
-.clasificacion td:nth-child(5) {
+.tblMadre tr td .clasificacion td:nth-child(5) {
     width: 30px;
 }
-.clasificacion td:nth-child(6) {
+.tblMadre tr td .clasificacion td:nth-child(6) {
     width: 30px;
 }
-.clasificacion td:nth-child(7) {
+.tblMadre tr td .clasificacion td:nth-child(7) {
     width: 30px;
 }
-.clasificacion th:nth-child(8) {
+.tblMadre tr td .clasificacion th:nth-child(8) {
     width: 30px;
 }
-.clasificacion th:nth-child(9) {
+.tblMadre tr td .clasificacion th:nth-child(9) {
     width: 30px;
 }
 

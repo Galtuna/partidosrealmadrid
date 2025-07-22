@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 37",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Bilbao", "nombre": "Estadio San Mamés", "imagen": "sanmames.jpg", "espectadores": "Sin"},
     "fecha": "DOM 16/05/2021",
     "hora": "18:30",

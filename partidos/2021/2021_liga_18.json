@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 18",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Pamplona", "nombre": "Estadio El Sadar", "imagen": "elsadar.jpg", "espectadores": "Sin"},
     "fecha": "SAB 09/01/2021",
     "hora": "21:00",

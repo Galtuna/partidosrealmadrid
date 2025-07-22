@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Copa del Rey - Dieciseisavos de final",
-    "atras": "2021_copa.html",
+    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
     "estadio": {
         "ciudad": "Alcoy (Alicante)",
         "nombre": "Estadio El Collao",

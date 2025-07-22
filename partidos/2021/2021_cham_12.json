@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Semifinal - Vuelta",
-    "atras": "2021_cham.html",
+    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Londres (Inglaterra)", "nombre": "Estadio Stamford Bridge", "imagen": "stamfordbr.jpg", "espectadores": "Sin"},
     "fecha": "MIE 05/05/2021",
     "hora": "21:00",

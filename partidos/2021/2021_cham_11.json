@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Semifinal - Ida",
-    "atras": "2021_cham.html",
+    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "Sin"},
     "fecha": "MAR 27/04/2021",
     "hora": "21:00",

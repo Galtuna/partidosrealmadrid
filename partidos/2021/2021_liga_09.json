@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 9",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Valencia", "nombre": "Estadio Mestalla", "imagen": "mestalla.jpg", "espectadores": "Sin"},
     "fecha": "DOM 08/11/2020",
     "hora": "21:00",

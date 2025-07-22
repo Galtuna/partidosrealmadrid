@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 28",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio ABANCA Balaídos", "imagen": "balaidos.jpg", "espectadores": "Sin"},
     "fecha": "SAB 20/03/2021",
     "hora": "16:15",

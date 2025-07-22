@@ -1,0 +1,27 @@
+{
+    "titulo": "Real Madrid - Temporada 2020/21 - Champions League",
+    "atras": "indexTemporada.html?temporada=2021&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 1 - 1 Chelsea", "enlace1": "partido.html?cod=2021_cham_11", "partido2": "Chelsea 2 - 0 Real Madrid", "enlace2": "partido.html?cod=2021_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 3 - 1 Liverpool", "enlace1": "partido.html?cod=2021_cham_09", "partido2": "Liverpool 0 - 0 Real Madrid", "enlace2": "partido.html?cod=2021_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Atalanta 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2021_cham_07", "partido2": "Real Madrid 3 - 1 Atalanta", "enlace2": "partido.html?cod=2021_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo A",
+        "jornadas": [
+            {"jornada": 1, "partido": "Real Madrid 2 - 3 Shakhtar Donetsk", "enlace": "partido.html?cod=2021_cham_01"},
+            {"jornada": 2, "partido": "Borussia Mönchengladbach 2 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_02"},
+            {"jornada": 3, "partido": "Real Madrid 3 - 2 Internazionale", "enlace": "partido.html?cod=2021_cham_03"},
+            {"jornada": 4, "partido": "Internazionale 0 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_04"},
+            {"jornada": 5, "partido": "Shakhtar Donetsk 2 - 0 Real Madrid", "enlace": "partido.html?cod=2021_cham_05"},
+            {"jornada": 6, "partido": "Real Madrid 2 - 0 Borussia Mönchengladbach", "enlace": "partido.html?cod=2021_cham_06"}
+        ],
+        "clasificacion": [
+            {"posicion": 1, "equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 11, "gc": 9, "puntos": 10},
+            {"posicion": 2, "equipo": "Borussia Mönchengladbach", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 16, "gc": 9, "puntos": 8},
+            {"posicion": 3, "equipo": "Shakhtar Donetsk", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 5, "gc": 12, "puntos": 8},
+            {"posicion": 4, "equipo": "Internazionale", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 7, "gc": 9, "puntos": 6}
+        ]
+    },
+    "previas": []
+}

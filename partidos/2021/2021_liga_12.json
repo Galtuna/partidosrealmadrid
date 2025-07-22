@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 12",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Ramón Sánchez Pizjuán", "imagen": "pizjuan.jpg", "espectadores": "Sin"},
     "fecha": "SAB 05/12/2020",
     "hora": "16:15",

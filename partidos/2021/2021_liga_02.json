@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 2",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "San Sebastián", "nombre": "Estadio Reale Arena", "imagen": "anoeta.jpg", "espectadores": "Sin"},
     "fecha": "DOM 20/09/2020",
     "hora": "21:00",

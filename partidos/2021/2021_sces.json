@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid - Temporada 2020/21 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=2021&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 1 - 2 Athletic", "enlace1": "partido.html?cod=2021_sces_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": [],
+    "previas": []
+}

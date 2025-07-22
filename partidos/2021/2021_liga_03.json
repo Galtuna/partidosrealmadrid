@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - LaLiga - Jornada 3",
-    "atras": "2021_liga.html",
+    "atras": "competicion.html?temporada=2021&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Benito Villamarín", "imagen": "villamarin.jpg", "espectadores": "Sin"},
     "fecha": "SAB 26/09/2020",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Supercopa de España - Semifinal",
-    "atras": "2021_sces.html",
+    "atras": "competicion.html?temporada=2021&competicion=sces&categoria=m",
     "estadio": {"ciudad": "Málaga", "nombre": "Estadio La Rosaleda", "imagen": "rosaleda.jpg", "espectadores": "Sin"},
     "fecha": "JUE 14/01/2021",
     "hora": "21:00",
