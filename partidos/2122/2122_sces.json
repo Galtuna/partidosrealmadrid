@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2021/22 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=2122&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Final", "unica": true, "partido1": "Athletic 0 - 2 Real Madrid", "enlace1": "partido.html?cod=2122_sces_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Barcelona 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2122_sces_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": [],
+    "previas": []
+}

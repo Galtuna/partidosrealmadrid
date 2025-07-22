@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - Champions League - Fase de Grupos - Jornada 4",
-    "atras": "2122_cham.html",
+    "atras": "competicion.html?temporada=2122&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Madrid",
         "nombre": "Estadio Santiago Bernabéu",

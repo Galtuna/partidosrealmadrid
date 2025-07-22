@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Fase de Grupos - Jornada 4",
-    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
+    "atras": "competicion.html?temporada=2021&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Milán (Italia)", "nombre": "Estadio Giuseppe Meazza", "imagen": "sansiro.jpg", "espectadores": "Sin"},
     "fecha": "MIE 25/11/2020",
     "hora": "21:00",

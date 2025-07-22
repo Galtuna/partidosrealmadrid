@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Cuartos de final - Vuelta",
-    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
+    "atras": "competicion.html?temporada=2021&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Liverpool (Inglaterra)", "nombre": "Estadio Anfield", "imagen": "anfield.jpg", "espectadores": "Sin"},
     "fecha": "MIE 14/04/2021",
     "hora": "21:00",

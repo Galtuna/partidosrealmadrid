@@ -277,7 +277,7 @@ function cargarAscensos(jsonData, idTabla) {
     let tdContenedor = document.createElement("td");
     tdContenedor.colSpan = "2";
     tdContenedor.classList.add("centrado");
-    tdContenedor.classList.add("grupochamp");
+    tdContenedor.classList.add("listado");
     let img = document.createElement("img");
     img.src = 'img/ico/arriba.png';
     tdContenedor.appendChild(img);
@@ -299,7 +299,7 @@ function cargarExtra(jsonData, idTabla) {
     let tdContenedor = document.createElement("td");
     tdContenedor.colSpan = "2";
     tdContenedor.classList.add("centrado");
-    tdContenedor.classList.add("grupochamp");
+    tdContenedor.classList.add("listado");
     tdContenedor.innerHTML = jsonData.extra;
     trContenedor.appendChild(tdContenedor);
     tblContenedor.appendChild(trContenedor);

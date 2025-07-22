@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - Copa del Rey - Octavos de final",
-    "atras": "2122_copa.html",
+    "atras": "competicion.html?temporada=2122&competicion=copa&categoria=m",
     "estadio": {
         "ciudad": "Elche (Alicante)",
         "nombre": "Estadio Martínez Valero",

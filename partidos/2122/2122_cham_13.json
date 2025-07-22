@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - Champions League - Final",
-    "atras": "2122_cham.html",
+    "atras": "competicion.html?temporada=2122&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Saint-Denis (Francia)",
         "nombre": "Estadio de Francia",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - LaLiga - Jornada 30",
-    "atras": "2122_liga.html",
+    "atras": "competicion.html?temporada=2122&competicion=liga&categoria=m",
     "estadio": {
         "ciudad": "Vigo (Pontevedra)",
         "nombre": "Estadio ABANCA Balaídos",

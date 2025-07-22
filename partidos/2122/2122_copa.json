@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid - Temporada 2021/22 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=2122&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Cuartos de final", "unica": true, "partido1": "Athletic 1 - 0 Real Madrid", "enlace1": "partido.html?cod=2122_copa_3", "partido2": "", "enlace2": ""},
+            {"nombre": "Octavos de final", "unica": true, "partido1": "Elche 1 - 2 Real Madrid", "enlace1": "partido.html?cod=2122_copa_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Dieciseisavos de final", "unica": true, "partido1": "Alcoyano 1 - 3 Real Madrid", "enlace1": "partido.html?cod=2122_copa_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

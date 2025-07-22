@@ -65,7 +65,7 @@
             {"posicion": 19, "equipo": "Valladolid", "pj": 38, "pg": 5, "pe": 16, "pp": 17, "gf": 34, "gc": 57, "puntos": 31, "icono": "abajo.png"},
             {"posicion": 20, "equipo": "Eibar", "pj": 38, "pg": 6, "pe": 12, "pp": 20, "gf": 29, "gc": 52, "puntos": 30, "icono": "abajo.png"}
         ],
-        "ascensos": ["Huesca", "Cádiz", "Elche"],
+        "ascensos": ["Espanyol", "Mallorca", "Rayo Vallecano"],
         "extra": "El <span class='azul'>Villarreal</span> se clasifica para la Champions League como ganador de la Europa League"
     },
     "previas": []

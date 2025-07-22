@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - Champions League - Semifinal - Ida",
-    "atras": "2122_cham.html",
+    "atras": "competicion.html?temporada=2122&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Manchester (Inglaterra)",
         "nombre": "Etihad Stadium",

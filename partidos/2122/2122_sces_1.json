@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2021/22 - Supercopa de España - Semifinal",
-    "atras": "2122_sces.html",
+    "atras": "competicion.html?temporada=2122&competicion=sces&categoria=m",
     "estadio": {
         "ciudad": "Riad (Arabia Saudí)",
         "nombre": "Estadio Internacional Rey Fahd",

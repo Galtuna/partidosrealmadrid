@@ -1,0 +1,28 @@
+{
+    "titulo": "Real Madrid - Temporada 2021/22 - Champions League",
+    "atras": "indexTemporada.html?temporada=2122&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Final", "unica": true, "partido1": "Liverpool 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2122_cham_13", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": false, "partido1": "Manchester City 4 - 3 Real Madrid", "enlace1": "partido.html?cod=2122_cham_11", "partido2": "Real Madrid 3 - 1 Manchester City", "enlace2": "partido.html?cod=2122_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Chelsea 1 - 3 Real Madrid", "enlace1": "partido.html?cod=2122_cham_09", "partido2": "Real Madrid 2 - 3 Chelsea", "enlace2": "partido.html?cod=2122_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "PSG 1 - 0 Real Madrid", "enlace1": "partido.html?cod=2122_cham_07", "partido2": "Real Madrid 3 - 1 PSG", "enlace2": "partido.html?cod=2122_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo A",
+        "jornadas": [
+            {"jornada": 1, "partido": "Internazionale 0 - 1 Real Madrid", "enlace": "partido.html?cod=2122_cham_01"},
+            {"jornada": 2, "partido": "Real Madrid 1 - 2 Sheriff Tiraspol", "enlace": "partido.html?cod=2122_cham_02"},
+            {"jornada": 3, "partido": "Shakhtar Donetsk 0 - 5 Real Madrid", "enlace": "partido.html?cod=2122_cham_03"},
+            {"jornada": 4, "partido": "Real Madrid 2 - 1 Shakhtar Donetsk", "enlace": "partido.html?cod=2122_cham_04"},
+            {"jornada": 5, "partido": "Sheriff Tiraspol 0 - 3 Real Madrid", "enlace": "partido.html?cod=2122_cham_05"},
+            {"jornada": 6, "partido": "Real Madrid 2 - 0 Internazionale", "enlace": "partido.html?cod=2122_cham_06"}
+        ],
+        "clasificacion": [
+            {"posicion": 1, "equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 0, "pp": 1, "gf": 14, "gc": 3, "puntos": 15},
+            {"posicion": 2, "equipo": "Internazionale", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 8, "gc": 5, "puntos": 10},
+            {"posicion": 3, "equipo": "Sheriff Tiraspol", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 7, "gc": 11, "puntos": 7},
+            {"posicion": 4, "equipo": "Shakhtar Donetsk", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 2, "gc": 12, "puntos": 2}
+        ]
+    },
+    "previas": []
+}

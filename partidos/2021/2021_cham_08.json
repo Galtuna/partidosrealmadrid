@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2020/21 - Champions League - Octavos de final - Vuelta",
-    "atras": "competicion.html?temporada=2021&competicion=copa&categoria=m",
+    "atras": "competicion.html?temporada=2021&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "Sin"},
     "fecha": "MAR 16/03/2021",
     "hora": "21:00",

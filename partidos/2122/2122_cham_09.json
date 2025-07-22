@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Champions League - Cuartos de final - Ida",
-    "atras": "2122_cham.html",
+    "atras": "competicion.html?temporada=2122&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Londres (Inglaterra)",
         "nombre": "Estadio Stamford Bridge",
