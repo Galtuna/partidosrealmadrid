@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - LaLiga - Jornada 15",
-    "atras": "2223_liga.html",
+    "atras": "competicion.html?temporada=2223&competicion=liga&categoria=m",
     "estadio": {
         "ciudad": "Valladolid",
         "nombre": "Estadio José Zorrilla",

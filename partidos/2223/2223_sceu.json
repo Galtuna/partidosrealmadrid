@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid - Temporada 2022/23 - Supercopa de Europa",
+    "atras": "indexTemporada.html?temporada=2223&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 0 Eintracht Frankfurt", "enlace1": "partido.html?cod=2223_sceu_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

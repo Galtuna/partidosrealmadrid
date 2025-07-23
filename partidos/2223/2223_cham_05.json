@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Champions League - Fase de Grupos - Jornada 5",
-    "atras": "2223_cham.html",
+    "atras": "competicion.html?temporada=2223&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Leipzig (Alemania)",
         "nombre": "Estadio Red Bull Arena",

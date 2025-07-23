@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Champions League - Semifinal - Ida",
-    "atras": "2223_cham.html",
+    "atras": "competicion.html?temporada=2223&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Madrid",
         "nombre": "Estadio Santiago Bernabéu",

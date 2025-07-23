@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Copa del Rey - Cuartos de final",
-    "atras": "2223_copa.html",
+    "atras": "competicion.html?temporada=2223&competicion=copa&categoria=m",
     "estadio": {
         "ciudad": "Madrid",
         "nombre": "Estadio Santiago Bernabéu",

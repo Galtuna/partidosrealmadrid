@@ -1,0 +1,13 @@
+{
+    "titulo": "Real Madrid - Temporada 2022/23 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=2223&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 1 Osasuna", "enlace1": "partido.html?cod=2223_copa_6", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 0 - 1 Barcelona", "enlace1": "partido.html?cod=2223_copa_4", "partido2": "Barcelona 0 - 4 Real Madrid", "enlace2": "partido.html?cod=2223_copa_5"},
+            {"nombre": "Cuartos de Final", "unica": true, "partido1": "Real Madrid 3 - 1 Atlético Madrid", "enlace1": "partido.html?cod=2223_copa_3", "partido2": "", "enlace2": ""},
+            {"nombre": "Octavos de Final", "unica": true, "partido1": "Villarreal 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2223_copa_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Cacereño 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2223_copa_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

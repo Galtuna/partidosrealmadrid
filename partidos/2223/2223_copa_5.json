@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Copa del Rey - Semifinal vuelta",
-    "atras": "2223_copa.html",
+    "atras": "competicion.html?temporada=2223&competicion=copa&categoria=m",
     "estadio": {
         "ciudad": "Barcelona",
         "nombre": "Estadio Camp Nou",

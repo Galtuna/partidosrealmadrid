@@ -1,0 +1,27 @@
+{
+    "titulo": "Real Madrid - Temporada 2022/23 - Champions League",
+    "atras": "indexTemporada.html?temporada=2223&categoria=m",
+    "eliminatorias": [             
+            {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 1 - 1 Manchester City", "enlace1": "partido.html?cod=2223_cham_11", "partido2": "Manchester City 4 - 0 Real Madrid", "enlace2": "partido.html?cod=2223_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 2 - 0 Chelsea", "enlace1": "partido.html?cod=2223_cham_09", "partido2": "Chelsea 0 - 2 Real Madrid", "enlace2": "partido.html?cod=2223_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Liverpool 2 - 5 Real Madrid", "enlace1": "partido.html?cod=2223_cham_07", "partido2": "Real Madrid 1 - 0 Liverpool", "enlace2": "partido.html?cod=2223_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo A",
+        "jornadas": [
+            {"partido": "Celtic 0 - 3 Real Madrid", "enlace": "partido.html?cod=2223_cham_01"},
+            {"partido": "Real Madrid 2 - 0 Leipzig", "enlace": "partido.html?cod=2223_cham_02"},
+            {"partido": "Real Madrid 2 - 1 Shakhtar Donetsk", "enlace": "partido.html?cod=2223_cham_03"},
+            {"partido": "Shakhtar Donetsk 1 - 1 Real Madrid", "enlace": "partido.html?cod=2223_cham_04"},
+            {"partido": "Leipzig 3 - 2 Real Madrid", "enlace": "partido.html?cod=2223_cham_05"},
+            {"partido": "Real Madrid 5 - 1 Celtic", "enlace": "partido.html?cod=2223_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 6, "pg": 4, "pe": 1, "pp": 1, "gf": 15, "gc": 6, "puntos": 13},
+            {"equipo": "Leipzig", "pj": 6, "pg": 4, "pe": 0, "pp": 2, "gf": 13, "gc": 9, "puntos": 12},
+            {"equipo": "Shakhtar Donetsk", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 8, "gc": 10, "puntos": 6},
+            {"equipo": "Celtic", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 4, "gc": 15, "puntos": 2}
+        ]
+    },
+    "previas": []
+}

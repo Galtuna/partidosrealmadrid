@@ -142,7 +142,7 @@ function cargarJornadas(jsonData, idTabla) {
             let td1 = document.createElement("td");
             let span1 = document.createElement("span");
             span1.classList.add("azul");    
-            span1.textContent = "Jornada " + (i + 1) + ": ";                          
+            span1.textContent = "Jornada " + (i + 1) + ": ";
             let enlace1 = document.createElement("a");
             enlace1.href = jsonData.jornadas[i].enlace;
             let img = document.createElement("img");
@@ -154,7 +154,7 @@ function cargarJornadas(jsonData, idTabla) {
             let td2 = document.createElement("td");
             let span2 = document.createElement("span");
             span2.classList.add("azul");    
-            span2.textContent = "Jornada " + jsonData.jornadas[i + medio].jornada + ": ";                        
+            span2.textContent = "Jornada " + (i + medio + 1) + ": ";                        
             let enlace2 = document.createElement("a");
             enlace2.href = jsonData.jornadas[i + medio].enlace;                
             enlace2.appendChild(img);

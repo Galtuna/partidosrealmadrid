@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Mundial de Clubes - Final",
-    "atras": "2223_mund.html",
+    "atras": "competicion.html?temporada=2223&competicion=mund&categoria=m",
     "estadio": {
         "ciudad": "Rabat (Marruecos)",
         "nombre": "Estadio Príncipe Moulay Abdellah",

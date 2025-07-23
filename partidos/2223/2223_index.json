@@ -2,13 +2,13 @@
     "titulo": "Real Madrid - Temporada 2022/23",
     "cuadro": "cuadro.html?temporada=2223&categoria=m",
     "competiciones1": [
-        {"nombre": "LaLiga", "enlace": "2223_liga.html", "imagen": "liga.jpg", "campeon": false},
-        {"nombre": "Champions League", "enlace": "2223_cham.html", "imagen": "champions.jpg", "campeon": false},
-        {"nombre": "Copa del Rey", "enlace": "2223_copa.html", "imagen": "coparey.jpg", "campeon": true}        
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=2223&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Champions League", "enlace": "competicion.html?temporada=2223&competicion=cham&categoria=m", "imagen": "champions.jpg", "campeon": false},
+        {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=2223&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": true}        
     ],
     "competiciones2": [
-        {"nombre": "Supercopa de España", "enlace": "2223_sces.html", "imagen": "supercopaesp.jpg", "campeon": false},
-        {"nombre": "Mundial de Clubes", "enlace": "2223_mund.html", "imagen": "intercont.jpg", "campeon": true},
-        {"nombre": "Supercopa de Europa", "enlace": "2223_sceu.html", "imagen": "supercopaeur.jpg", "campeon": true}
+        {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2223&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": false},
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=2223&competicion=mund&categoria=m", "imagen": "intercont.jpg", "campeon": true},
+        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=2223&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true}
     ]
 }
