@@ -9,18 +9,18 @@
     "liga": {
         "grupo": "Fase de Grupos - Grupo A",
         "jornadas": [
-            {"jornada": 1, "partido": "Real Madrid 2 - 3 Shakhtar Donetsk", "enlace": "partido.html?cod=2021_cham_01"},
-            {"jornada": 2, "partido": "Borussia Mönchengladbach 2 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_02"},
-            {"jornada": 3, "partido": "Real Madrid 3 - 2 Internazionale", "enlace": "partido.html?cod=2021_cham_03"},
-            {"jornada": 4, "partido": "Internazionale 0 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_04"},
-            {"jornada": 5, "partido": "Shakhtar Donetsk 2 - 0 Real Madrid", "enlace": "partido.html?cod=2021_cham_05"},
-            {"jornada": 6, "partido": "Real Madrid 2 - 0 Borussia Mönchengladbach", "enlace": "partido.html?cod=2021_cham_06"}
+            {"partido": "Real Madrid 2 - 3 Shakhtar Donetsk", "enlace": "partido.html?cod=2021_cham_01"},
+            {"partido": "Borussia Mönchengladbach 2 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_02"},
+            {"partido": "Real Madrid 3 - 2 Internazionale", "enlace": "partido.html?cod=2021_cham_03"},
+            {"partido": "Internazionale 0 - 2 Real Madrid", "enlace": "partido.html?cod=2021_cham_04"},
+            {"partido": "Shakhtar Donetsk 2 - 0 Real Madrid", "enlace": "partido.html?cod=2021_cham_05"},
+            {"partido": "Real Madrid 2 - 0 Borussia Mönchengladbach", "enlace": "partido.html?cod=2021_cham_06"}
         ],
         "clasificacion": [
-            {"posicion": 1, "equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 11, "gc": 9, "puntos": 10},
-            {"posicion": 2, "equipo": "Borussia Mönchengladbach", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 16, "gc": 9, "puntos": 8},
-            {"posicion": 3, "equipo": "Shakhtar Donetsk", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 5, "gc": 12, "puntos": 8},
-            {"posicion": 4, "equipo": "Internazionale", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 7, "gc": 9, "puntos": 6}
+            {"equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 11, "gc": 9, "puntos": 10},
+            {"equipo": "Borussia Mönchengladbach", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 16, "gc": 9, "puntos": 8},
+            {"equipo": "Shakhtar Donetsk", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 5, "gc": 12, "puntos": 8},
+            {"equipo": "Internazionale", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 7, "gc": 9, "puntos": 6}
         ]
     },
     "previas": []

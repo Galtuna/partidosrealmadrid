@@ -10,18 +10,18 @@
     "liga": {
         "grupo": "Fase de Grupos - Grupo A",
         "jornadas": [
-            {"jornada": 1, "partido": "Internazionale 0 - 1 Real Madrid", "enlace": "partido.html?cod=2122_cham_01"},
-            {"jornada": 2, "partido": "Real Madrid 1 - 2 Sheriff Tiraspol", "enlace": "partido.html?cod=2122_cham_02"},
-            {"jornada": 3, "partido": "Shakhtar Donetsk 0 - 5 Real Madrid", "enlace": "partido.html?cod=2122_cham_03"},
-            {"jornada": 4, "partido": "Real Madrid 2 - 1 Shakhtar Donetsk", "enlace": "partido.html?cod=2122_cham_04"},
-            {"jornada": 5, "partido": "Sheriff Tiraspol 0 - 3 Real Madrid", "enlace": "partido.html?cod=2122_cham_05"},
-            {"jornada": 6, "partido": "Real Madrid 2 - 0 Internazionale", "enlace": "partido.html?cod=2122_cham_06"}
+            {"partido": "Internazionale 0 - 1 Real Madrid", "enlace": "partido.html?cod=2122_cham_01"},
+            {"partido": "Real Madrid 1 - 2 Sheriff Tiraspol", "enlace": "partido.html?cod=2122_cham_02"},
+            {"partido": "Shakhtar Donetsk 0 - 5 Real Madrid", "enlace": "partido.html?cod=2122_cham_03"},
+            {"partido": "Real Madrid 2 - 1 Shakhtar Donetsk", "enlace": "partido.html?cod=2122_cham_04"},
+            {"partido": "Sheriff Tiraspol 0 - 3 Real Madrid", "enlace": "partido.html?cod=2122_cham_05"},
+            {"partido": "Real Madrid 2 - 0 Internazionale", "enlace": "partido.html?cod=2122_cham_06"}
         ],
         "clasificacion": [
-            {"posicion": 1, "equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 0, "pp": 1, "gf": 14, "gc": 3, "puntos": 15},
-            {"posicion": 2, "equipo": "Internazionale", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 8, "gc": 5, "puntos": 10},
-            {"posicion": 3, "equipo": "Sheriff Tiraspol", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 7, "gc": 11, "puntos": 7},
-            {"posicion": 4, "equipo": "Shakhtar Donetsk", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 2, "gc": 12, "puntos": 2}
+            {"equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 0, "pp": 1, "gf": 14, "gc": 3, "puntos": 15},
+            {"equipo": "Internazionale", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 8, "gc": 5, "puntos": 10},
+            {"equipo": "Sheriff Tiraspol", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 7, "gc": 11, "puntos": 7},
+            {"equipo": "Shakhtar Donetsk", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 2, "gc": 12, "puntos": 2}
         ]
     },
     "previas": []
