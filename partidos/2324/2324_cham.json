@@ -1,0 +1,28 @@
+{
+    "titulo": "Real Madrid - Temporada 2023/24 - Champions League",
+    "atras": "indexTemporada.html?temporada=2324&categoria=m",
+    "eliminatorias": [      
+            {"nombre": "Final", "unica": true, "partido1": "Borussia Dortmund 0 - 2 Real Madrid", "enlace1": "partido.html?cod=2324_cham_13", "partido2": "", "enlace2": ""},   
+            {"nombre": "Semifinal", "unica": false, "partido1": "Bayern München 2 - 2 Real Madrid", "enlace1": "partido.html?cod=2324_cham_11", "partido2": "Real Madrid 2 - 1 Bayern München", "enlace2": "partido.html?cod=2324_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 3 - 3 Manchester City", "enlace1": "partido.html?cod=2324_cham_09", "partido2": "Manchester City 1 - 1 (3 - 4) Real Madrid", "enlace2": "partido.html?cod=2324_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Leipzig 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2324_cham_07", "partido2": "Real Madrid 1 - 1 Leipzig", "enlace2": "partido.html?cod=2324_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo C",
+        "jornadas": [
+            {"partido": "Real Madrid 1 - 0 Union Berlin", "enlace": "partido.html?cod=2324_cham_01"},
+            {"partido": "Napoli 2 - 3 Real Madrid", "enlace": "partido.html?cod=2324_cham_02"},
+            {"partido": "Sporting Braga 1 - 2 Real Madrid", "enlace": "partido.html?cod=2324_cham_03"},
+            {"partido": "Real Madrid 3 - 0 Sporting Braga", "enlace": "partido.html?cod=2324_cham_04"},
+            {"partido": "Real Madrid 4 - 2 Napoli", "enlace": "partido.html?cod=2324_cham_05"},
+            {"partido": "Union Berlin 2 - 3 Real Madrid", "enlace": "partido.html?cod=2324_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 6, "pg": 6, "pe": 0, "pp": 0, "gf": 16, "gc": 7, "puntos": 18},
+            {"equipo": "Napoli", "pj": 6, "pg": 3, "pe": 1, "pp": 2, "gf": 10, "gc": 9, "puntos": 10},
+            {"equipo": "Sporting Braga", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 6, "gc": 12, "puntos": 4},
+            {"equipo": "Union Berlin", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 6, "gc": 10, "puntos": 2}
+        ]
+    },
+    "previas": []
+}

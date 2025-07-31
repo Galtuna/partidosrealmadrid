@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Copa del Rey - Dieciseisavos de final",
-    "atras": "2324_copa.html",
+    "atras": "competicion.html?temporada=2324&competicion=copa&categoria=m",
     "estadio": {
         "ciudad": "Aranda de Duero (Burgos)",
         "nombre": "Estadio Juan Carlos Higuero",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - LaLiga - Jornada 37",
-    "atras": "2324_liga.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=m",
     "estadio": {
         "ciudad": "Villarreal (Castellón)",
         "nombre": "Estadio de la Cerámica",

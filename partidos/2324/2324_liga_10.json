@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - LaLiga - Jornada 10",
-    "atras": "2324_liga.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=m",
     "estadio": {
         "ciudad": "Sevilla",
         "nombre": "Estadio Ramón Sánchez Pizjuán",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Champions League - Fase de Grupos - Jornada 6",
-    "atras": "2324_cham.html",
+    "atras": "competicion.html?temporada=2324&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Berlín (Alemania)",
         "nombre": "Estadio Olímpico",

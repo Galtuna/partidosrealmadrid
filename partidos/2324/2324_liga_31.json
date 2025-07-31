@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - LaLiga - Jornada 31",
-    "atras": "2324_liga.html",
+    "atras": "competicion.html?temporada=2324&competicion=liga&categoria=m",
     "estadio": {
         "ciudad": "Palma de Mallorca",
         "nombre": "Estadio Mallorca Son Moix",

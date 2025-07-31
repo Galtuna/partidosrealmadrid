@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Supercopa de Europa - Final",
-    "atras": "competicion.html?temporada=2223&comp=sceu&categoria=m",
+    "atras": "competicion.html?temporada=2223&competicion=sceu&categoria=m",
     "estadio": {
         "ciudad": "Helsinki (Finlandia)",
         "nombre": "Estadio Olímpico",

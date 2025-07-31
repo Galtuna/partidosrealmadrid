@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Champions League - Final",
-    "atras": "2324_cham.html",
+    "atras": "competicion.html?temporada=2324&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Londres (Inglaterra)",
         "nombre": "Estadio Wembley",

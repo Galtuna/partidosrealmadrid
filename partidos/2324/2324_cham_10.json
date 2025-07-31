@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Champions League - Cuartos de final - Vuelta",
-    "atras": "2324_cham.html",
+    "atras": "competicion.html?temporada=2324&competicion=cham&categoria=m",
     "estadio": {
         "ciudad": "Manchester (Inglaterra)",
         "nombre": "Etihad Stadium",

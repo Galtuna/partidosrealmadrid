@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2023/24 - Supercopa de España - Semifinal",
-    "atras": "2324_sces.html",
+    "atras": "competicion.html?temporada=2324&competicion=sces&categoria=m",
     "estadio": {
         "ciudad": "Riad (Arabia Saudí)",
         "nombre": "Estadio Al-Awwal",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2022/23 - Supercopa de España - Semifinal",
-    "atras": "competicion.html?temporada=2223&comp=sces&categoria=m",
+    "atras": "competicion.html?temporada=2223&competicion=sces&categoria=m",
     "estadio": {
         "ciudad": "Riad (Arabia Saudí)",
         "nombre": "Estadio Internacional Rey Fahd",

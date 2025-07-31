@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2023/24 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=2324&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 4 - 1 Barcelona", "enlace1": "partido.html?cod=2324_sces_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 5 - 3 Atlético Madrid", "enlace1": "partido.html?cod=2324_sces_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2023/24 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=2324&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Octavos de Final", "unica": true, "partido1": "Atlético Madrid 4 - 2 Real Madrid", "enlace1": "partido.html?cod=2324_copa_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Arandina 1 - 3 Real Madrid", "enlace1": "partido.html?cod=2324_copa_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

@@ -2,10 +2,10 @@
     "titulo": "Real Madrid - Temporada 2023/24",
     "cuadro": "cuadro.html?temporada=2324&categoria=m",
     "competiciones1": [
-        {"nombre": "LaLiga", "enlace": "2324_liga.html", "imagen": "liga.jpg", "campeon": true},
-        {"nombre": "Champions League", "enlace": "2324_cham.html", "imagen": "champions.jpg", "campeon": true},
-        {"nombre": "Copa del Rey", "enlace": "2324_copa.html", "imagen": "coparey.jpg", "campeon": false},
-        {"nombre": "Supercopa de España", "enlace": "2324_sces.html", "imagen": "supercopaesp.jpg", "campeon": true}
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=2324&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": true},
+        {"nombre": "Champions League", "enlace": "competicion.html?temporada=2324&competicion=cham&categoria=m", "imagen": "champions.jpg", "campeon": true},
+        {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=2324&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false},
+        {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2324&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": true}
     ],
     "competiciones2": []
 }
