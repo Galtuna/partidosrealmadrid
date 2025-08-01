@@ -9,9 +9,9 @@
     "liga": {
         "grupo": "Fase de Liga",
         "jornadas": [
-            {"partido": "Real Madrid 1 - 1 Al-Hilal", "enlace": "partido.html?cod=2425_mund_01"},            
-            {"partido": "Real Madrid 3 - 1 Pachuca", "enlace": "partido.html?cod=2425_mund_02"},            
-            {"partido": "Salzburg 0 - 3 Real Madrid", "enlace": "partido.html?cod=2425_mund_03"},
+            {"partido": "Real Madrid 1 - 1 Al-Hilal", "enlace": "partido.html?cod=2425_mund_1"},            
+            {"partido": "Real Madrid 3 - 1 Pachuca", "enlace": "partido.html?cod=2425_mund_2"},            
+            {"partido": "Salzburg 0 - 3 Real Madrid", "enlace": "partido.html?cod=2425_mund_3"},
             {"partido": "", "enlace": ""},
             {"partido": "", "enlace": ""},
             {"partido": "", "enlace": ""}
