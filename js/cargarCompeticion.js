@@ -152,13 +152,15 @@ function cargarJornadas(jsonData, idTabla) {
             td1.innerHTML = span1.outerHTML + jsonData.jornadas[i].partido + ' ' + enlace1.outerHTML;
             tr.appendChild(td1);
             let td2 = document.createElement("td");
-            let span2 = document.createElement("span");
-            span2.classList.add("azul");    
-            span2.textContent = "Jornada " + (i + medio + 1) + ": ";                        
-            let enlace2 = document.createElement("a");
-            enlace2.href = jsonData.jornadas[i + medio].enlace;                
-            enlace2.appendChild(img);
-            td2.innerHTML = span2.outerHTML + jsonData.jornadas[i + medio].partido + ' ' + enlace2.outerHTML;
+            if (jsonData.jornadas[i + medio].partido != "") {
+                let span2 = document.createElement("span");
+                span2.classList.add("azul");    
+                span2.textContent = "Jornada " + (i + medio + 1) + ": ";                        
+                let enlace2 = document.createElement("a");
+                enlace2.href = jsonData.jornadas[i + medio].enlace;                
+                enlace2.appendChild(img);
+                td2.innerHTML = span2.outerHTML + jsonData.jornadas[i + medio].partido + ' ' + enlace2.outerHTML;
+            }
             tr.appendChild(td2);
             tblPartidos.appendChild(tr);
         }
