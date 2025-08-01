@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 16",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Alcalá de Henares (Madrid)", "nombre": "Centro deportivo Wanda", "imagen": "cdwanda.jpg", "espectadores": "2.011"},
     "fecha": "DOM 05/01/2025",
     "hora": "12:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 21",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Jesús Navas", "imagen": "jesusnavas.jpg", "espectadores": "697"},
     "fecha": "DOM 09/03/2025",
     "hora": "14:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 21",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Valladolid", "nombre": "Estadio José Zorrilla", "imagen": "zorrilla.jpg", "espectadores": "26.025"},
     "fecha": "SAB 25/01/2025",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 17",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio de Vallecas", "imagen": "vallecas.jpg", "espectadores": "14.168"},
     "fecha": "SAB 14/12/2024",
     "hora": "21:00",

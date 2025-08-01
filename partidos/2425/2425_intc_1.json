@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa Intercontinental - Final",
-    "atras": "2425_intc.html",
+    "atras": "competicion.html?temporada=2425&competicion=intc&categoria=m",
     "estadio": {"ciudad": "Lusail (Catar)", "nombre": "Estadio Icónico de Lusail", "imagen": "lusail.jpg", "espectadores": "67.249"},
     "fecha": "MIE 18/12/2024",
     "hora": "18:00",

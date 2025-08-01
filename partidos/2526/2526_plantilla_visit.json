@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada X",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "XXXXXX", "nombre": "XXXXXX", "imagen": "XXXXXX.jpg", "espectadores": "XXXXXX"},
     "fecha": "XXX XX/XX/2025",
     "hora": "XX:XX",

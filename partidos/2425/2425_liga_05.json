@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 5",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "San Sebastián", "nombre": "Estadio Reale Arena", "imagen": "anoeta.jpg", "espectadores": "37.370"},
     "fecha": "SAB 14/09/2024",
     "hora": "21:00",

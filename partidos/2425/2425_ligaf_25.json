@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 25",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Éibar (Guipúzcoa)", "nombre": "Estadio Ipurúa", "imagen": "ipurua.jpg", "espectadores": "724"},
     "fecha": "SAB 12/04/2025",
     "hora": "18:30",

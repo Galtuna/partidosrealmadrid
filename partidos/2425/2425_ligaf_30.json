@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 30",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Valencia", "nombre": "Estadio Antonio Puchades", "imagen": "puchades.jpg", "espectadores": "792"},
     "fecha": "DOM 18/05/2025",
     "hora": "12:00",

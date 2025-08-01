@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 8",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Guingamp (Francia)", "nombre": "Estadio de Roudourou", "imagen": "roudourou.jpg", "espectadores": "15.405"},
     "fecha": "MIE 29/01/2025",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 8",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "606"},
     "fecha": "MIE 08/01/2025",
     "hora": "20:00",

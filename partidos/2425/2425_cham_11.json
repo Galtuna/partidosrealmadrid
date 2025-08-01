@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Octavos de final - Ida",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "77.261"},
     "fecha": "MAR 04/03/2025",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 12",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Valencia", "nombre": "Estadio Mestalla", "imagen": "mestalla.jpg", "espectadores": "46.420"},
     "fecha": "VIE 03/01/2025",
     "hora": "21:00",

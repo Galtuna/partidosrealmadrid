@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa del Rey - Semifinal - Ida",
-    "atras": "2425_copa.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=m",
     "estadio": {"ciudad": "San Sebastián", "nombre": "Estadio Reale Arena", "imagen": "anoeta.jpg", "espectadores": "37.373"},
     "fecha": "MIE 26/02/2025",
     "hora": "21:30",

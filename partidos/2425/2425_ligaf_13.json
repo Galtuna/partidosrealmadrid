@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 13",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "La Coruña", "nombre": "Estadio Municipal de Riazor", "imagen": "riazor.jpg", "espectadores": "2.184"},
     "fecha": "SAB 14/12/2024",
     "hora": "16:30",

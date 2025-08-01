@@ -1,0 +1,27 @@
+{
+    "titulo": "Real Madrid Femenino - Temporada 2024/25 - Women's Champions League",
+    "atras": "indexTemporada.html?temporada=2425&categoria=f",
+    "eliminatorias": [
+        {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 2 - 0 Arsenal", "enlace1": "partido.html?cod=2425_chamf_09", "partido2": "Arsenal 3 - 0 Real Madrid", "enlace2": "partido.html?cod=2425_chamf_10"}
+    ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo B",
+        "jornadas": [
+            {"partido": "Chelsea 3 - 2 Real Madrid", "enlace": "partido.html?cod=2425_chamf_03"},
+            {"partido": "Real Madrid 4 - 0 Celtic", "enlace": "partido.html?cod=2425_chamf_04"},
+            {"partido": "Real Madrid 7 - 0 Twente", "enlace": "partido.html?cod=2425_chamf_05"},
+            {"partido": "Twente 2 - 3 Real Madrid", "enlace": "partido.html?cod=2425_chamf_06"},
+            {"partido": "Celtic 0 - 3 Real Madrid", "enlace": "partido.html?cod=2425_chamf_07"},
+            {"partido": "Real Madrid 1 - 2 Chelsea", "enlace": "partido.html?cod=2425_chamf_08"}
+        ],
+        "clasificacion": [
+            {"equipo": "Chelsea", "pj": 6, "pg": 6, "pe": 0, "pp": 0, "gf": 19, "gc": 6, "puntos": 18},
+            {"equipo": "Real Madrid", "pj": 6, "pg": 4, "pe": 0, "pp": 2, "gf": 20, "gc": 7, "puntos": 12},
+            {"equipo": "Paris FC", "pj": 6, "pg": 2, "pe": 0, "pp": 4, "gf": 9, "gc": 19, "puntos": 6},
+            {"equipo": "Celtic", "pj": 6, "pg": 0, "pe": 0, "pp": 6, "gf": 1, "gc": 17, "puntos": 0}
+        ]
+    },
+    "previas": [
+        {"nombre": "Fase clasificatoria 2", "unica": false, "partido1": "Sporting Portugal 1 - 2 Real Madrid", "enlace1": "partido.html?cod=2425_chamf_01", "partido2": "Real Madrid 3 - 1 Sporting Portugal", "enlace2": "partido.html?cod=2425_chamf_02"}
+    ]
+}

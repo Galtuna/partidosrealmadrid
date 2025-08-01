@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Previa a octavos de final - Ida",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Manchester (Inglaterra)", "nombre": "Etihad Stadium", "imagen": "etihad.jpg", "espectadores": "52.081"},
     "fecha": "MAR 11/02/2025",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 26",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Benito Villamarín", "imagen": "villamarin.jpg", "espectadores": "55.873"},
     "fecha": "SAB 01/03/2025",
     "hora": "18:30",

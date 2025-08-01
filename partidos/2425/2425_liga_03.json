@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 3",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Las Palmas de Gran Canaria", "nombre": "Estadio de Gran Canaria", "imagen": "grancanaria.jpg", "espectadores": "31.192"},
     "fecha": "JUE 29/08/2024",
     "hora": "21:30",

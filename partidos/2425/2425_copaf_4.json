@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa de la Reina - Semifinal - Vuelta",
-    "atras": "2425_copaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=f",
     "estadio": {"ciudad": "Barcelona", "nombre": "Estadi Johan Cruyff", "imagen": "johancruyff.jpg", "espectadores": "3.689"},
     "fecha": "MIE 12/03/2025",
     "hora": "19:00",

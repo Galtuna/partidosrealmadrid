@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 6",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Bérgamo (Italia)", "nombre": "Gewiss Stadium", "imagen": "gewiss.jpg", "espectadores": "22.967"},
     "fecha": "MAR 10/12/2024",
     "hora": "21:00",

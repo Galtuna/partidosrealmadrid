@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 22",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Cornellá de Llobregat (Barcelona)", "nombre": "RCDE Stadium", "imagen": "rcde.jpg", "espectadores": "33.669"},
     "fecha": "SAB 01/02/2025",
     "hora": "21:00",

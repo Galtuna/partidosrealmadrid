@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 11",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "San Sebastián", "nombre": "Instalaciones de Zubieta", "imagen": "zubieta.jpg", "espectadores": "507"},
     "fecha": "MAR 04/02/2025",
     "hora": "19:00",

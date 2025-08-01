@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 1",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Palma de Mallorca", "nombre": "Estadio Mallorca Son Moix", "imagen": "sonmoix.jpg", "espectadores": "23.010"},
     "fecha": "DOM 18/08/2024",
     "hora": "21:30",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 31",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Vitoria", "nombre": "Estadio Mendizorroza", "imagen": "mendizorroza.jpg", "espectadores": "19.438"},
     "fecha": "DOM 13/04/2025",
     "hora": "16:15",

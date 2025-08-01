@@ -2,10 +2,10 @@
     "titulo": "Real Madrid Femenino - Temporada 2024/25",
     "cuadro": "cuadro.html?temporada=2425&categoria=f",
     "competiciones1": [
-        {"nombre": "Liga F", "enlace": "2425_ligaf.html", "imagen": "liga.jpg", "campeon": false},
-        {"nombre": "Women's Champions League", "enlace": "2425_chamf.html", "imagen": "championsf.jpg", "campeon": false},
-        {"nombre": "Copa de la Reina", "enlace": "2425_copaf.html", "imagen": "copareina.jpg", "campeon": false},
-        {"nombre": "Supercopa de España", "enlace": "2425_scesf.html", "imagen": "supercopaespf.jpg", "campeon": false}
+        {"nombre": "Liga F", "enlace": "competicion.html?temporada=2425&competicion=liga&categoria=f", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Women's Champions League", "enlace": "competicion.html?temporada=2425&competicion=cham&categoria=f", "imagen": "championsf.jpg", "campeon": false},
+        {"nombre": "Copa de la Reina", "enlace": "competicion.html?temporada=2425&competicion=copa&categoria=f", "imagen": "copareina.jpg", "campeon": false},
+        {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2425&competicion=sces&categoria=f", "imagen": "supercopaespf.jpg", "campeon": false}
     ],
     "competiciones2": []
 }

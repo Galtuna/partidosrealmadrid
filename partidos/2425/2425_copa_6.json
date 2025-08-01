@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa del Rey - Final",
-    "atras": "2425_copa.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio La Cartuja", "imagen": "lacartuja2.jpg", "espectadores": "72.000"},
     "fecha": "SAB 26/04/2025",
     "hora": "22:00",

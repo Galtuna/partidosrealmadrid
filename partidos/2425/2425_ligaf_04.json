@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 4",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Adeje (Santa Cruz de Tenerife)", "nombre": "Estadio Municipal", "imagen": "munadeje.jpg", "espectadores": "1.853"},
     "fecha": "DOM 29/09/2024",
     "hora": "19:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 7",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "73.692"},
     "fecha": "MIE 22/01/2025",
     "hora": "21:00",

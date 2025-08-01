@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 35",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Olímpico Lluis Companys", "imagen": "montjuic.jpg", "espectadores": "50.319"},
     "fecha": "DOM 11/05/2025",
     "hora": "16:15",

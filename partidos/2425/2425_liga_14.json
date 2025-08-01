@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 14",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "12.388"},
     "fecha": "DOM 24/11/2024",
     "hora": "18:30",

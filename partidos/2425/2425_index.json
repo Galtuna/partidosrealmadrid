@@ -2,14 +2,14 @@
     "titulo": "Real Madrid - Temporada 2024/25",
     "cuadro": "cuadro.html?temporada=2425&categoria=m",
     "competiciones1": [
-        {"nombre": "LaLiga", "enlace": "2425_liga.html", "imagen": "liga.jpg", "campeon": false},
-        {"nombre": "Champions League", "enlace": "2425_cham.html", "imagen": "champions.jpg", "campeon": false},
-        {"nombre": "Copa del Rey", "enlace": "2425_copa.html", "imagen": "coparey.jpg", "campeon": false}
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=2425&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Champions League", "enlace": "competicion.html?temporada=2425&competicion=cham&categoria=m", "imagen": "champions.jpg", "campeon": false},
+        {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=2425&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false}
     ],
     "competiciones2": [
-        {"nombre": "Supercopa de España", "enlace": "2425_sces.html", "imagen": "supercopaesp.jpg", "campeon": false},
-        {"nombre": "Copa Intercontinental", "enlace": "2425_intc.html", "imagen": "intercont.jpg", "campeon": true},
-        {"nombre": "Supercopa de Europa", "enlace": "2425_sceu.html", "imagen": "supercopaeur.jpg", "campeon": true},
-        {"nombre": "Mundial de Clubes", "enlace": "2425_mund.html", "imagen": "mundialclub.jpg", "campeon": false}
+        {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2425&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": false},
+        {"nombre": "Copa Intercontinental", "enlace": "competicion.html?temporada=2425&competicion=intc&categoria=m", "imagen": "intercont.jpg", "campeon": true},
+        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=2425&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true},
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=2425&competicion=mund&categoria=m", "imagen": "mundialclub.jpg", "campeon": false}
     ]
 }

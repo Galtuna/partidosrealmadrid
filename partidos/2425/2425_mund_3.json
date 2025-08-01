@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Mundial de Clubes - Fase de Grupos - Jornada 3",
-    "atras": "2425_mund.html",
+    "atras": "competicion.html?temporada=2425&competicion=mund&categoria=m",
     "estadio": {"ciudad": "Filadelfia (PA, Estados Unidos)", "nombre": "Lincoln Financial Field", "imagen": "lincoln.jpg", "espectadores": "64.811"},
     "fecha": "VIE 27/06/2025",
     "hora": "03:00",

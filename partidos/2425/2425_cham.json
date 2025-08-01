@@ -1,0 +1,61 @@
+{
+    "titulo": "Real Madrid - Temporada 2024/25 - Champions League",
+    "atras": "indexTemporada.html?temporada=2425&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Arsenal 3 - 0 Real Madrid", "enlace1": "partido.html?cod=2425_cham_13", "partido2": "Real Madrid 1 - 2 Arsenal", "enlace2": "partido.html?cod=2425_cham_14"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 2 - 1 Atlético Madrid", "enlace1": "partido.html?cod=2425_cham_11", "partido2": "Atlético Madrid 1 - 0 (2 - 4) Real Madrid", "enlace2": "partido.html?cod=2425_cham_12"},
+            {"nombre": "Previa a octavos de final", "unica": false, "partido1": "Manchester City 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2425_cham_09", "partido2": "Real Madrid 3 - 1 Manchester City", "enlace2": "partido.html?cod=2425_cham_10"}
+        ],
+    "liga": {
+        "grupo": "Fase de Liga",
+        "jornadas": [
+            {"partido": "Real Madrid 3 - 1 Stuttgart", "enlace": "partido.html?cod=2425_cham_01"},
+            {"partido": "Lille 1 - 0 Real Madrid", "enlace": "partido.html?cod=2425_cham_02"},
+            {"partido": "Real Madrid 5 - 2 Borussia Dortmund", "enlace": "partido.html?cod=2425_cham_03"},
+            {"partido": "Real Madrid 1 - 3 Milan", "enlace": "partido.html?cod=2425_cham_04"},
+            {"partido": "Liverpool 2 - 0 Real Madrid", "enlace": "partido.html?cod=2425_cham_05"},
+            {"partido": "Atalanta 2 - 3 Real Madrid", "enlace": "partido.html?cod=2425_cham_06"},
+            {"partido": "Real Madrid 5 - 1 Salzburg", "enlace": "partido.html?cod=2425_cham_07"},
+            {"partido": "Stade Brestois 0 - 3 Real Madrid", "enlace": "partido.html?cod=2425_cham_08"}
+        ],
+        "clasificacion": [
+            {"equipo": "Liverpool", "pj": 8, "pg": 7, "pe": 0, "pp": 1, "gf": 17, "gc": 5, "puntos": 21},
+            {"equipo": "Barcelona", "pj": 8, "pg": 6, "pe": 1, "pp": 1, "gf": 28, "gc": 13, "puntos": 19},
+            {"equipo": "Arsenal", "pj": 8, "pg": 6, "pe": 1, "pp": 1, "gf": 16, "gc": 3, "puntos": 19},
+            {"equipo": "Internazionale", "pj": 8, "pg": 6, "pe": 1, "pp": 1, "gf": 11, "gc": 1, "puntos": 19},
+            {"equipo": "Atlético Madrid", "pj": 8, "pg": 6, "pe": 0, "pp": 2, "gf": 20, "gc": 12, "puntos": 18},
+            {"equipo": "Bayer Leverkusen", "pj": 8, "pg": 5, "pe": 1, "pp": 2, "gf": 15, "gc": 7, "puntos": 16},
+            {"equipo": "Lille", "pj": 8, "pg": 5, "pe": 1, "pp": 2, "gf": 17, "gc": 10, "puntos": 16},
+            {"equipo": "Aston Villa", "pj": 8, "pg": 5, "pe": 1, "pp": 2, "gf": 13, "gc": 6, "puntos": 16},
+            {"equipo": "Atalanta", "pj": 8, "pg": 4, "pe": 3, "pp": 1, "gf": 20, "gc": 6, "puntos": 15},
+            {"equipo": "Borussia Dortmund", "pj": 8, "pg": 5, "pe": 0, "pp": 3, "gf": 22, "gc": 12, "puntos": 15},
+            {"equipo": "Real Madrid", "pj": 8, "pg": 5, "pe": 0, "pp": 3, "gf": 20, "gc": 12, "puntos": 15},
+            {"equipo": "Bayern München", "pj": 8, "pg": 5, "pe": 0, "pp": 3, "gf": 20, "gc": 12, "puntos": 15},
+            {"equipo": "Milan", "pj": 8, "pg": 5, "pe": 0, "pp": 3, "gf": 14, "gc": 11, "puntos": 15},
+            {"equipo": "PSV Eindhoven", "pj": 8, "pg": 4, "pe": 2, "pp": 2, "gf": 16, "gc": 12, "puntos": 14},
+            {"equipo": "PSG", "pj": 8, "pg": 4, "pe": 1, "pp": 3, "gf": 14, "gc": 9, "puntos": 13},
+            {"equipo": "Benfica", "pj": 8, "pg": 4, "pe": 1, "pp": 3, "gf": 16, "gc": 12, "puntos": 13},
+            {"equipo": "Monaco", "pj": 8, "pg": 4, "pe": 1, "pp": 3, "gf": 13, "gc": 13, "puntos": 13},
+            {"equipo": "Stade Brestois", "pj": 8, "pg": 4, "pe": 1, "pp": 3, "gf": 10, "gc": 11, "puntos": 13},
+            {"equipo": "Feyenoord", "pj": 8, "pg": 4, "pe": 1, "pp": 3, "gf": 18, "gc": 21, "puntos": 13},
+            {"equipo": "Juventus", "pj": 8, "pg": 3, "pe": 3, "pp": 2, "gf": 9, "gc": 7, "puntos": 12},
+            {"equipo": "Celtic", "pj": 8, "pg": 3, "pe": 3, "pp": 2, "gf": 13, "gc": 14, "puntos": 12},
+            {"equipo": "Manchester City", "pj": 8, "pg": 3, "pe": 2, "pp": 3, "gf": 18, "gc": 14, "puntos": 11},
+            {"equipo": "Sporting Portugal", "pj": 8, "pg": 3, "pe": 2, "pp": 3, "gf": 13, "gc": 12, "puntos": 11},
+            {"equipo": "Brugge", "pj": 8, "pg": 3, "pe": 2, "pp": 3, "gf": 7, "gc": 11, "puntos": 11},
+            {"equipo": "Dinamo Zagreb", "pj": 8, "pg": 3, "pe": 2, "pp": 3, "gf": 12, "gc": 19, "puntos": 11},
+            {"equipo": "Stuttgart", "pj": 8, "pg": 3, "pe": 1, "pp": 4, "gf": 13, "gc": 17, "puntos": 10},
+            {"equipo": "Shakhtar Donetsk", "pj": 8, "pg": 2, "pe": 1, "pp": 5, "gf": 8, "gc": 16, "puntos": 7},
+            {"equipo": "Bologna", "pj": 8, "pg": 1, "pe": 3, "pp": 4, "gf": 4, "gc": 9, "puntos": 6},
+            {"equipo": "Crvena Zvezda", "pj": 8, "pg": 2, "pe": 0, "pp": 6, "gf": 13, "gc": 22, "puntos": 6},
+            {"equipo": "Sturm Graz", "pj": 8, "pg": 2, "pe": 0, "pp": 6, "gf": 5, "gc": 14, "puntos": 6},
+            {"equipo": "Sparta Praha", "pj": 8, "pg": 1, "pe": 1, "pp": 6, "gf": 7, "gc": 21, "puntos": 4},
+            {"equipo": "Leipzig", "pj": 8, "pg": 1, "pe": 0, "pp": 7, "gf": 8, "gc": 15, "puntos": 3},
+            {"equipo": "Girona", "pj": 8, "pg": 1, "pe": 0, "pp": 7, "gf": 5, "gc": 13, "puntos": 3},
+            {"equipo": "Salzburg", "pj": 8, "pg": 1, "pe": 0, "pp": 7, "gf": 5, "gc": 27, "puntos": 3},
+            {"equipo": "Slovan Bratislava", "pj": 8, "pg": 0, "pe": 0, "pp": 8, "gf": 7, "gc": 27, "puntos": 0},
+            {"equipo": "Young Boys", "pj": 8, "pg": 0, "pe": 0, "pp": 8, "gf": 3, "gc": 24, "puntos": 0}
+        ]
+    },
+    "previas": []
+}

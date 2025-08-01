@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 23",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Olímpico Lluis Companys", "imagen": "montjuic.jpg", "espectadores": "35.812"},
     "fecha": "DOM 23/03/2025",
     "hora": "12:00",

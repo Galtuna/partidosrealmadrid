@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa de la Reina - Cuartos de final",
-    "atras": "2425_copaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=f",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "954"},
     "fecha": "JUE 13/02/2025",
     "hora": "21:00",

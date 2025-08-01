@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 8",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Cívitas Metropolitano", "imagen": "metropolitano.jpg", "espectadores": "70.112"},
     "fecha": "DOM 29/09/2024",
     "hora": "21:00",

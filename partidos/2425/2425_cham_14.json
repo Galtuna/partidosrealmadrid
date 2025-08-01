@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Cuartos de final - Vuelta",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "77.073"},
     "fecha": "MIE 16/04/2025",
     "hora": "21:00",

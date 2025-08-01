@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 2",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Lille (Francia)", "nombre": "Estadio Pierre Mauroy", "imagen": "pmauroy.jpg", "espectadores": "48.205"},
     "fecha": "MIE 02/10/2024",
     "hora": "21:00",

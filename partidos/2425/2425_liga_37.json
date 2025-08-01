@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 37",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Sevilla", "nombre": "Estadio Ramón Sánchez Pizjuán", "imagen": "pizjuan.jpg", "espectadores": "31.633"},
     "fecha": "DOM 18/05/2025",
     "hora": "19:00",

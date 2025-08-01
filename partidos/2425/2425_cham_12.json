@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Octavos de final - Vuelta",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Cívitas Metropolitano", "imagen": "metropolitano.jpg", "espectadores": "69.304"},
     "fecha": "MIE 12/03/2025",
     "hora": "21:00",

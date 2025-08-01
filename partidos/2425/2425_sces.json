@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2024/25 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=2425&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 5 Barcelona", "enlace1": "partido.html?cod=2425_sces_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 3 - 0 Mallorca", "enlace1": "partido.html?cod=2425_sces_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

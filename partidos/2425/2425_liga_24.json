@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 24",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Pamplona", "nombre": "Estadio El Sadar", "imagen": "elsadar.jpg", "espectadores": "22.390"},
     "fecha": "SAB 15/02/2025",
     "hora": "16:15",

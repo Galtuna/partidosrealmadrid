@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa del Rey - Semifinal - Vuelta",
-    "atras": "2425_copa.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "77.450"},
     "fecha": "MAR 01/04/2025",
     "hora": "21:30",

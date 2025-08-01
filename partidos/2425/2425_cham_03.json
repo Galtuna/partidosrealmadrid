@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Fase de Liga - Jornada 3",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "74.642"},
     "fecha": "MAR 22/10/2024",
     "hora": "21:00",

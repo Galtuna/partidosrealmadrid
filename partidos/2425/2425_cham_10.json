@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Previa a octavos de final - Vuelta",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "77.023"},
     "fecha": "MIE 19/02/2025",
     "hora": "21:00",

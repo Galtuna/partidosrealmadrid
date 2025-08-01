@@ -1,0 +1,23 @@
+{
+    "titulo": "Real Madrid - Temporada 2024/25 - Mundial de Clubes",
+    "atras": "indexTemporada.html?temporada=2425&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Semifinal", "unica": true, "partido1": "PSG 4 - 0 Real Madrid", "enlace1": "partido.html?cod=2425_mund_6", "partido2": "", "enlace2": ""},
+            {"nombre": "Cuartos de final", "unica": true, "partido1": "Real Madrid 3 - 2 Borussia Dortmund", "enlace1": "partido.html?cod=2425_mund_5", "partido2": "", "enlace2": ""},
+            {"nombre": "Octavos de final", "unica": true, "partido1": "Real Madrid 1 - 0 Juventus", "enlace1": "partido.html?cod=2425_mund_4", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {
+        "grupo": "Fase de Liga",
+        "jornadas": [
+            {"partido": "Real Madrid 1 - 1 Al-Hilal", "enlace": "partido.html?cod=2425_mund_01"},
+            {"partido": "Real Madrid 3 - 1 Pachuca", "enlace": "partido.html?cod=2425_mund_02"},
+            {"partido": "Salzburg 0 - 3 Real Madrid", "enlace": "partido.html?cod=2425_mund_03"}        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 3, "pg": 2, "pe": 1, "pp": 0, "gf": 7, "gc": 2, "puntos": 7},
+            {"equipo": "Al-Hilal", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 3, "gc": 1, "puntos": 5},
+            {"equipo": "Salzburg", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 2, "gc": 4, "puntos": 4},
+            {"equipo": "Pachuca", "pj": 3, "pg": 0, "pe": 0, "pp": 3, "gf": 2, "gc": 7, "puntos": 0}
+        ]
+    },
+    "previas": []
+}

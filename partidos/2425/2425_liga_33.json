@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 33",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Getafe (Madrid)", "nombre": "Estadio Coliseum", "imagen": "coliseum.jpg", "espectadores": "15.184"},
     "fecha": "MIE 23/04/2025",
     "hora": "21:30",

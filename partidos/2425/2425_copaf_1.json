@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa de la Reina - Octavos de final",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=f",
     "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Mini Estadi Ciudad Deportiva José Manuel Llaneza", "imagen": "minivill.jpg", "espectadores": "850"},
     "fecha": "VIE 20/12/2024",
     "hora": "19:00",

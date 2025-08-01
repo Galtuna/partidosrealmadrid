@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Women's Champions League - Fase de Grupos - Jornada 1",
-    "atras": "2425_chamf.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=f",
     "estadio": {"ciudad": "Londres (Inglaterra)", "nombre": "Estadio Stamford Bridge", "imagen": "stamfordbr.jpg", "espectadores": "3.832"},
     "fecha": "MAR 08/10/2024",
     "hora": "21:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 16",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Gerona", "nombre": "Estadio Montilivi", "imagen": "montilivi.jpg", "espectadores": "13.827"},
     "fecha": "SAB 07/12/2024",
     "hora": "21:00",

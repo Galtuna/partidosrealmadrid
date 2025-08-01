@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa de la Reina - Semifinal - Ida",
-    "atras": "2425_copaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=f",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "2.185"},
     "fecha": "JUE 06/03/2025",
     "hora": "19:00",

@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Copa del Rey - Dieciseisavos de final",
-    "atras": "2425_copa.html",
+    "atras": "competicion.html?temporada=2425&competicion=copa&categoria=m",
     "estadio": {"ciudad": "Cartagena (Murcia)", "nombre": "Estadio Cartagonova", "imagen": "cartagonova.jpg", "espectadores": "13.745"},
     "fecha": "LUN 06/01/2025",
     "hora": "19:00",

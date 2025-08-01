@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Supercopa de España - Semifinal",
-    "atras": "2425_sces.html",
+    "atras": "competicion.html?temporada=2425&competicion=sces&categoria=m",
     "estadio": {"ciudad": "Jeddah (Arabia Saudí)", "nombre": "King Abdullah Sports City", "imagen": "abdullah.jpg", "espectadores": "47.000"},
     "fecha": "JUE 09/01/2025",
     "hora": "20:00",

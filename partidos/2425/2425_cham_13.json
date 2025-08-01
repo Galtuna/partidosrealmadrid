@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Champions League - Cuartos de final - Ida",
-    "atras": "2425_cham.html",
+    "atras": "competicion.html?temporada=2425&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Londres", "nombre": "Emirates Stadium", "imagen": "emirates.jpg", "espectadores": "60.110"},
     "fecha": "MAR 08/04/2025",
     "hora": "21:00",

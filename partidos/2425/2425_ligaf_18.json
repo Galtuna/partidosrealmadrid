@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - Liga F - Jornada 18",
-    "atras": "2425_ligaf.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Buñol (Valencia)", "nombre": "Ciudad Deportiva del Levante UD", "imagen": "ciudeplevante.jpg", "espectadores": "400"},
     "fecha": "SAB 08/02/2025",
     "hora": "14:00",

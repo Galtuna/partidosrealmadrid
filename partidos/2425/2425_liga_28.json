@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2024/25 - LaLiga - Jornada 28",
-    "atras": "2425_liga.html",
+    "atras": "competicion.html?temporada=2425&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "21.571"},
     "fecha": "SAB 15/03/2025",
     "hora": "18:30",
