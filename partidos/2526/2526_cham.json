@@ -2,6 +2,17 @@
     "titulo": "Real Madrid - Temporada 2025/26 - Champions League",
     "atras": "indexTemporada.html?temporada=2526&categoria=m",
     "eliminatorias": [],
-    "liga": {},
+    "liga": {
+        "grupo": "Fase de Liga",
+        "jornadas": [
+            {"partido": "Real Madrid - Olympique Marsella", "enlace": "partido.html?cod=2526_cham_01"},
+            {"partido": "Kairat Almaty - Real Madrid", "enlace": "partido.html?cod=2526_cham_02"},
+            {"partido": "Real Madrid - Juventus", "enlace": "partido.html?cod=2526_cham_03"},
+            {"partido": "Liverpool - Real Madrid", "enlace": "partido.html?cod=2526_cham_04"},
+            {"partido": "Olympiacos - Real Madrid", "enlace": "partido.html?cod=2526_cham_05"},
+            {"partido": "Real Madrid - Manchester City", "enlace": "partido.html?cod=2526_cham_06"},
+            {"partido": "Real Madrid - Monaco", "enlace": "partido.html?cod=2526_cham_07"},
+            {"partido": "Benfica - Real Madrid", "enlace": "partido.html?cod=2526_cham_08"}
+        ]},
     "previas": []
 }

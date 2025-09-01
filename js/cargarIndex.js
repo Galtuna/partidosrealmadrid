@@ -28,6 +28,15 @@ function htmlFromJSON(jsonData){
     document.title = jsonData.titulo;
     let tituloHTML = document.getElementById('titulo');
     tituloHTML.textContent = jsonData.titulo;
+    let botonIndex = document.getElementById('btnIndex');
+    let botonAtras = document.getElementById('btnAtras');
+    if (cat == "f") {
+        botonIndex.href = 'indexf.html';
+        botonAtras.href = 'indexf.html';
+    } else {
+        botonIndex.href = 'index.html';
+        botonAtras.href = 'index.html';
+    }
     let botonCuadro = document.getElementById('btnCuadro');
     botonCuadro.href = jsonData.cuadro;
     cargarCompeticiones(jsonData.competiciones1, 'competiciones1');

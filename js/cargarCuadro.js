@@ -28,6 +28,12 @@ function htmlFromJSON(jsonData){
     document.title = jsonData.titulo;
     let tituloHTML = document.getElementById('titulo');
     tituloHTML.textContent = jsonData.titulo;
+    let botonIndex = document.getElementById('btnIndex');
+    if (cat == "f") {
+        botonIndex.href = 'indexf.html';
+    } else {
+        botonIndex.href = 'index.html';
+    }
     let botonAtras = document.getElementById('btnAtras');
     botonAtras.href = jsonData.atras;
     cargarCampeones(jsonData.campeones);

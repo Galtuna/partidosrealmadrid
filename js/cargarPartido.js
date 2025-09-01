@@ -50,6 +50,18 @@ function cargarDatosGenerales(jsonData) {
     }
     let entrenadorVisitante = document.getElementById('entrenadorVisitante');
     entrenadorVisitante.textContent = jsonData.visitante.entrenador;
+    let botonIndex = document.getElementById('btnIndex');
+    // Obtener el valor de "categoria" de la URL en jsonData.atras
+    let categoria = null;
+    if (jsonData.atras) {
+        const params = new URLSearchParams(jsonData.atras.split('?')[1]);
+        categoria = params.get('categoria');
+        if (categoria == "f") {
+            botonIndex.href = 'indexf.html';
+        } else {
+            botonIndex.href = 'index.html';
+        }
+    }
     let botonAtras = document.getElementById('btnAtras');
     botonAtras.href = jsonData.atras;
     let ciudad = document.getElementById('ciudad');
