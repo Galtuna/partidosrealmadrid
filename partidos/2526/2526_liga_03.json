@@ -50,7 +50,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "18'", "descripcion": "Córner que bota Pablo Torre y remata de cabeza <span class=\"azul\">Muriqi</span>."},
         {"gol": "1-1", "minuto": "37'", "descripcion": "Centro al segundo palo de Carreras, Huijsen la devuelve al área pequeña y <span class=\"azul\">Arda Güler</span> la empuja de cabeza."},
-        {"gol": "2-1", "minuto": "38'", "descripcion": "Valverde roba y pone a correr a <span class=\"azul\">Vini Jr.</span> que llega hasta el área, se la pone en la izquierda y dispara cruzado."}
+        {"gol": "2-1", "minuto": "38'", "descripcion": "Valverde roba y lanza en carrera a <span class=\"azul\">Vini Jr.</span> que llega hasta el área, se la pone en la izquierda y dispara cruzado."}
     ],
     "penaltis": []
 }
