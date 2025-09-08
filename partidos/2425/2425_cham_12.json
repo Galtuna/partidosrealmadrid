@@ -52,14 +52,14 @@
         {"gol": "1-0", "minuto": "1'", "descripcion": "Balón que mete De Paul al área, Asencio no consigue despejar y <span class=\"azul\">Gallagher</span> se anticipa a Courtois para rematar."}
     ],
     "penaltis": [
-        {"gol": 1, "parcial": "1-0", "tirador": "Mbappé", "error": ""},
+        {"gol": 1, "parcial": "0-1", "tirador": "Mbappé", "error": ""},
         {"gol": 1, "parcial": "1-1", "tirador": "Sørloth", "error": ""},
-        {"gol": 1, "parcial": "2-1", "tirador": "Bellingham", "error": ""},
-        {"gol": 0, "parcial": "2-1", "tirador": "Julián Álvarez", "error": "toca el balón con los dos pies"},
-        {"gol": 1, "parcial": "3-1", "tirador": "Valverde", "error": ""},
-        {"gol": 1, "parcial": "3-2", "tirador": "Correa", "error": ""},
-        {"gol": 0, "parcial": "3-2", "tirador": "Lucas Vázquez", "error": "para Oblak"},
-        {"gol": 0, "parcial": "3-2", "tirador": "Marcos Llorente", "error": "al larguero"},
-        {"gol": 1, "parcial": "4-2", "tirador": "Rüdiger", "error": ""}
+        {"gol": 1, "parcial": "1-2", "tirador": "Bellingham", "error": ""},
+        {"gol": 0, "parcial": "1-2", "tirador": "Julián Álvarez", "error": "toca el balón con los dos pies"},
+        {"gol": 1, "parcial": "1-3", "tirador": "Valverde", "error": ""},
+        {"gol": 1, "parcial": "2-3", "tirador": "Correa", "error": ""},
+        {"gol": 0, "parcial": "2-3", "tirador": "Lucas Vázquez", "error": "para Oblak"},
+        {"gol": 0, "parcial": "2-3", "tirador": "Marcos Llorente", "error": "al larguero"},
+        {"gol": 1, "parcial": "2-4", "tirador": "Rüdiger", "error": ""}
     ]
 }

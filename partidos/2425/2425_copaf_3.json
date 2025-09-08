@@ -4,7 +4,7 @@
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "2.185"},
     "fecha": "JUE 06/03/2025",
     "hora": "19:00",
-    "arbitro": "Huerta de Haza (colegio canario)",
+    "arbitro": "Huerta de Aza (colegio canario)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Alberto Toril"},
     "visitante": {"nombre": "FC Barcelona", "escudo": "fcb.png", "goles": 5, "golesp": 0, "entrenador": "Pere Romeu"},
     "titularesLocal": [
