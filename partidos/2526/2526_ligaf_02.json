@@ -27,7 +27,7 @@
         {"dorsal": 10, "nombre": "Ana Vitória", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
-        {"dorsal": 1, "nombre": "Merle Frohms", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 13, "nombre": "Merle Frohms", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 29, "nombre": "Silvia Cristóbal", "salida": "0", "cambio": "46'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 23, "nombre": "Maëlle Lakrar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -36,8 +36,8 @@
         {"dorsal": 16, "nombre": "Filippa Angeldahl", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "46'", "amarilla": "60'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "0", "amarilla": "60'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
         {"dorsal": 15, "nombre": "Sheila García", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -47,9 +47,9 @@
         {"dorsal": 11, "nombre": "Alba Redondo", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "1-0", "minuto": "17'", "descripcion": "Córner que bota Bøe Risa al segundo palo donde toca Gaby García para <span class=\"azul\">Lauren Leal</span> que cabecea a la red."},
+        {"gol": "1-0", "minuto": "17'", "descripcion": "Córner que bota Bøe Risa al segundo palo donde Gaby García la devuelve y <span class=\"azul\">Lauren</span> cabecea a la red."},
         {"gol": "1-1", "minuto": "72'", "descripcion": "Falta directa desde la frontal que convierte <span class=\"azul\">Däbritz</span> por encima de la barrera."},
-        {"gol": "2-1", "minuto": "83'", "descripcion": "Gaby García recupera en la frontal y toca para <span class=\"azul\">Luany da Silva</span> que define con un disparo cruzado."}
+        {"gol": "2-1", "minuto": "83'", "descripcion": "Gaby García recupera en la frontal y toca para <span class=\"azul\">Luany</span> que define con un disparo cruzado."}
     ],
     "penaltis": []
 }
