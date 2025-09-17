@@ -46,10 +46,10 @@
         "clasificacion": [
             {"equipo": "Real Madrid", "pj": 4, "pg": 4, "pe": 0, "pp": 0, "gf": 8, "gc": 2, "puntos": 12, "icono": "champ.png"},
             {"equipo": "Barcelona", "pj": 4, "pg": 3, "pe": 1, "pp": 0, "gf": 13, "gc": 3, "puntos": 10, "icono": "champ.png"},
+            {"equipo": "Espanyol", "pj": 4, "pg": 3, "pe": 1, "pp": 0, "gf": 8, "gc": 5, "puntos": 10, "icono": "champ.png"},
             {"equipo": "Getafe", "pj": 4, "pg": 3, "pe": 0, "pp": 1, "gf": 6, "gc": 4, "puntos": 9, "icono": "champ.png"},
-            {"equipo": "Athletic Club", "pj": 4, "pg": 3, "pe": 0, "pp": 1, "gf": 6, "gc": 4, "puntos": 9, "icono": "champ.png"},
-            {"equipo": "Villarreal", "pj": 4, "pg": 2, "pe": 1, "pp": 1, "gf": 8, "gc": 3, "puntos": 7, "icono": "eurle.png"},            
-            {"equipo": "Espanyol", "pj": 3, "pg": 2, "pe": 1, "pp": 0, "gf": 5, "gc": 3, "puntos": 7, "icono": "confle.png"},
+            {"equipo": "Athletic Club", "pj": 4, "pg": 3, "pe": 0, "pp": 1, "gf": 6, "gc": 4, "puntos": 9, "icono": "eurle.png"},
+            {"equipo": "Villarreal", "pj": 4, "pg": 2, "pe": 1, "pp": 1, "gf": 8, "gc": 3, "puntos": 7, "icono": "confle.png"},            
             {"equipo": "Alavés", "pj": 4, "pg": 2, "pe": 1, "pp": 1, "gf": 4, "gc": 3, "puntos": 7},
             {"equipo": "Elche", "pj": 4, "pg": 1, "pe": 3, "pp": 0, "gf": 6, "gc": 4, "puntos": 6}, 
             {"equipo": "Osasuna", "pj": 4, "pg": 2, "pe": 0, "pp": 2, "gf": 3, "gc": 2, "puntos": 6},
@@ -62,7 +62,7 @@
             {"equipo": "Oviedo", "pj": 4, "pg": 1, "pe": 0, "pp": 3, "gf": 1, "gc": 7, "puntos": 3},
             {"equipo": "Real Sociedad", "pj": 4, "pg": 0, "pe": 2, "pp": 2, "gf": 4, "gc": 6, "puntos": 2},
             {"equipo": "Levante", "pj": 4, "pg": 0, "pe": 1, "pp": 3, "gf": 5, "gc": 9, "puntos": 1, "icono": "abajo.png"},
-            {"equipo": "Mallorca", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 2, "gc": 6, "puntos": 1, "icono": "abajo.png"},
+            {"equipo": "Mallorca", "pj": 4, "pg": 0, "pe": 1, "pp": 3, "gf": 4, "gc": 9, "puntos": 1, "icono": "abajo.png"},
             {"equipo": "Girona", "pj": 4, "pg": 0, "pe": 1, "pp": 3, "gf": 2, "gc": 11, "puntos": 1, "icono": "abajo.png"}
         ],
         "ascensos": ["-", "-", "-"],
