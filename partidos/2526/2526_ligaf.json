@@ -7,7 +7,7 @@
             {"partido": "DUX Logroño 2 - 2 Real Madrid", "enlace": "partido.html?cod=2526_ligaf_01"},
             {"partido": "Atlético Madrid 2 - 1 Real Madrid", "enlace": "partido.html?cod=2526_ligaf_02"},
             {"partido": "Real Madrid 2 - 1 Madrid CCF", "enlace": "partido.html?cod=2526_ligaf_03"},
-            {"partido": "Real Madrid - Deportivo", "enlace": "partido.html?cod=2526_ligaf_04"},
+            {"partido": "Real Madrid 4 - 0 Deportivo", "enlace": "partido.html?cod=2526_ligaf_04"},
             {"partido": "Tenerife - Real Madrid", "enlace": "partido.html?cod=2526_ligaf_05"},
             {"partido": "Real Madrid - Badalona", "enlace": "partido.html?cod=2526_ligaf_06"},
             {"partido": "Athletic - Real Madrid", "enlace": "partido.html?cod=2526_ligaf_07"},
@@ -36,22 +36,23 @@
             {"partido": "Real Madrid - Granada", "enlace": "partido.html?cod=2526_ligaf_30"}
         ],
         "clasificacion": [
-            {"equipo": "Barcelona", "pj": 3, "pg": 3, "pe": 0, "pp": 0, "gf": 20, "gc": 1, "puntos": 9, "icono": "champ.png"},
-            {"equipo": "Atlético Madrid", "pj": 3, "pg": 3, "pe": 0, "pp": 0, "gf": 11, "gc": 1, "puntos": 9, "icono": "champ.png"},
-            {"equipo": "Real Sociedad", "pj": 3, "pg": 2, "pe": 1, "pp": 0, "gf": 6, "gc": 2, "puntos": 7, "icono": "champ.png"},
-            {"equipo": "Tenerife", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 4, "gc": 0, "puntos": 5},
-            {"equipo": "Badalona", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 2, "gc": 0, "puntos": 5},
-            {"equipo": "Deportivo", "pj": 3, "pg": 1, "pe": 2, "pp": 0, "gf": 2, "gc": 1, "puntos": 5},
-            {"equipo": "Real Madrid", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 5, "gc": 5, "puntos": 4},
-            {"equipo": "Madrid CCF", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 4, "gc": 4, "puntos": 4},
-            {"equipo": "Granada", "pj": 3, "pg": 1, "pe": 1, "pp": 1, "gf": 3, "gc": 4, "puntos": 4},
-            {"equipo": "Sevilla", "pj": 3, "pg": 1, "pe": 0, "pp": 2, "gf": 1, "gc": 7, "puntos": 3},
-            {"equipo": "Espanyol", "pj": 3, "pg": 0, "pe": 2, "pp": 1, "gf": 1, "gc": 6, "puntos": 2},
-            {"equipo": "Alhama", "pj": 3, "pg": 0, "pe": 2, "pp": 1, "gf": 1, "gc": 9, "puntos": 2},
-            {"equipo": "Eibar", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 0, "gc": 2, "puntos": 1},
-            {"equipo": "DUX Logroño", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 2, "gc": 7, "puntos": 1},
-            {"equipo": "Levante", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 1, "gc": 6, "puntos": 1, "icono": "abajo.png"},
-            {"equipo": "Athletic", "pj": 3, "pg": 0, "pe": 1, "pp": 2, "gf": 1, "gc": 9, "puntos": 1, "icono": "abajo.png"}
+            {"equipo": "Barcelona", "pj": 4, "pg": 4, "pe": 0, "pp": 0, "gf": 25, "gc": 1, "puntos": 12, "icono": "champ.png"},
+            {"equipo": "Atlético Madrid", "pj": 4, "pg": 3, "pe": 1, "pp": 0, "gf": 12, "gc": 2, "puntos": 10, "icono": "champ.png"},
+            {"equipo": "Real Sociedad", "pj": 4, "pg": 3, "pe": 1, "pp": 0, "gf": 8, "gc": 3, "puntos": 10, "icono": "champ.png"},
+            {"equipo": "Tenerife", "pj": 4, "pg": 2, "pe": 2, "pp": 0, "gf": 8, "gc": 0, "puntos": 8},
+            {"equipo": "Real Madrid", "pj": 4, "pg": 2, "pe": 1, "pp": 1, "gf": 9, "gc": 5, "puntos": 7},
+            {"equipo": "Granada", "pj": 4, "pg": 2, "pe": 1, "pp": 1, "gf": 6, "gc": 5, "puntos": 7},
+            {"equipo": "Badalona", "pj": 4, "pg": 1, "pe": 3, "pp": 0, "gf": 2, "gc": 0, "puntos": 6},
+            {"equipo": "Madrid CCF", "pj": 4, "pg": 1, "pe": 2, "pp": 1, "gf": 5, "gc": 5, "puntos": 5},
+            {"equipo": "Deportivo", "pj": 4, "pg": 1, "pe": 2, "pp": 1, "gf": 2, "gc": 5, "puntos": 5},
+            {"equipo": "Espanyol", "pj": 4, "pg": 0, "pe": 3, "pp": 1, "gf": 2, "gc": 7, "puntos": 3},
+            {"equipo": "Sevilla", "pj": 4, "pg": 1, "pe": 0, "pp": 3, "gf": 1, "gc": 12, "puntos": 3},
+            {"equipo": "DUX Logroño", "pj": 4, "pg": 0, "pe": 2, "pp": 2, "gf": 2, "gc": 7, "puntos": 2},
+            {"equipo": "Athletic", "pj": 4, "pg": 0, "pe": 2, "pp": 2, "gf": 2, "gc": 10, "puntos": 2},
+            {"equipo": "Alhama", "pj": 4, "pg": 0, "pe": 2, "pp": 2, "gf": 1, "gc": 13, "puntos": 2},
+            {"equipo": "Eibar", "pj": 4, "pg": 0, "pe": 1, "pp": 3, "gf": 1, "gc": 5, "puntos": 1, "icono": "abajo.png"},
+            {"equipo": "Levante", "pj": 4, "pg": 0, "pe": 1, "pp": 3, "gf": 2, "gc": 8, "puntos": 1, "icono": "abajo.png"}
+            
             
             
         ],

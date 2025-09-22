@@ -2,8 +2,36 @@
     "titulo": "Real Madrid Femenino - Temporada 2025/26 - Women's Champions League",
     "atras": "indexTemporada.html?temporada=2526&categoria=f",
     "eliminatorias": [],
-    "liga": {},
+    "liga": {"grupo": "Fase de Liga",
+        "jornadas": [
+            {"partido": "Real Madrid - Roma", "enlace": "partido.html?cod=2526_chamf_01"},
+            {"partido": "PSG - Real Madrid", "enlace": "partido.html?cod=2526_chamf_02"},
+            {"partido": "Real Madrid - Paris FC", "enlace": "partido.html?cod=2526_chamf_03"},
+            {"partido": "Arsenal - Real Madrid", "enlace": "partido.html?cod=2526_chamf_04"},
+            {"partido": "Real Madrid - Wolfsburgo", "enlace": "partido.html?cod=2526_chamf_05"},
+            {"partido": "Twente - Real Madrid", "enlace": "partido.html?cod=2526_chamf_06"}        ],
+        "clasificacion": [
+            {"equipo": "Arsenal", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Atlético Madrid", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Barcelona", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Bayern München", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Chelsea", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Juventus", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Manchester United", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "OH Leuven", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Olympique Lyon", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "PSG", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Paris FC", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Real Madrid", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Roma", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Benfica", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "St. Pölten", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Twente", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Vålerenga", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Wolfsburg", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0}
+        ]
+    },
     "previas": [
-        {"nombre": "Fase clasificatoria 3", "unica": false, "partido1": "Eintracht Frankfurt 1 - 2 Real Madrid", "enlace1": "partido.html?cod=2526_chamf_01", "partido2": "Real Madrid - Eintracht Frankfurt", "enlace2": "partido.html?cod=2526_chamf_02"}
+        {"nombre": "Fase clasificatoria 3", "unica": false, "partido1": "Eintracht Frankfurt 1 - 2 Real Madrid", "enlace1": "partido.html?cod=2526_chamf_01", "partido2": "Real Madrid 3 - 0 Eintracht Frankfurt", "enlace2": "partido.html?cod=2526_chamf_02"}
     ]
 }
