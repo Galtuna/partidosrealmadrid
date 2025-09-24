@@ -1,10 +1,10 @@
 {
     "titulo": "Temporada 2025/26 - Fase clasificatoria 3 - Vuelta",
     "atras": "competicion.html?temporada=2526&competicion=cham&categoria=f",
-    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "XXXXXX"},
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.204"},
     "fecha": "JUE 18/09/2025",
     "hora": "20:00",
-    "arbitro": "XX (XX)",
+    "arbitro": "Ivana Martinčić (Croacia)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Pau Quesada"},
     "visitante": {"nombre": "Eintracht Frankfurt eV", "escudo": "ein.png", "goles": 0, "golesp": 0, "entrenador": "Niko Arnautis"},
     "titularesLocal": [

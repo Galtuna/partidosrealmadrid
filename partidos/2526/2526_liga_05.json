@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "22'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Militão</span> desde fuera del área que entra muy cerca de la escuadra."},
-        {"gol": "2-0", "minuto": "47'", "descripcion": "Vini Jr. llega al pico del área y la pone atrás para que <span class=\"azul\">Mbappé</span> sorprenda a Dmitrović con un disparo seco."}
+        {"gol": "2-0", "minuto": "47'", "descripcion": "Vini Jr. llega al pico del área y cede atrás para que <span class=\"azul\">Mbappé</span> sorprenda a Dmitrović con un disparo seco."}
     ],
     "penaltis": []
 }
