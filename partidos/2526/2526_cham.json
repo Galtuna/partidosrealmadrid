@@ -6,7 +6,7 @@
         "grupo": "Fase de Liga",
         "jornadas": [
             {"partido": "Real Madrid 2 - 1 Olympique Marseille", "enlace": "partido.html?cod=2526_cham_01"},
-            {"partido": "Kairat Almaty - Real Madrid", "enlace": "partido.html?cod=2526_cham_02"},
+            {"partido": "Kairat Almaty 0 - 5 Real Madrid", "enlace": "partido.html?cod=2526_cham_02"},
             {"partido": "Real Madrid - Juventus", "enlace": "partido.html?cod=2526_cham_03"},
             {"partido": "Liverpool - Real Madrid", "enlace": "partido.html?cod=2526_cham_04"},
             {"partido": "Olympiacos - Real Madrid", "enlace": "partido.html?cod=2526_cham_05"},
