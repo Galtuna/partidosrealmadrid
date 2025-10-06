@@ -9,7 +9,7 @@
             {"partido": "Real Madrid 2 - 1 Madrid CCF", "enlace": "partido.html?cod=2526_ligaf_03"},
             {"partido": "Real Madrid 4 - 0 Deportivo", "enlace": "partido.html?cod=2526_ligaf_04"},
             {"partido": "Tenerife 0 - 0 Real Madrid", "enlace": "partido.html?cod=2526_ligaf_05"},
-            {"partido": "Real Madrid - Badalona", "enlace": "partido.html?cod=2526_ligaf_06"},
+            {"partido": "Real Madrid 3 - 0 Badalona", "enlace": "partido.html?cod=2526_ligaf_06"},
             {"partido": "Athletic - Real Madrid", "enlace": "partido.html?cod=2526_ligaf_07"},
             {"partido": "Real Madrid - Levante", "enlace": "partido.html?cod=2526_ligaf_08"},
             {"partido": "Espanyol - Real Madrid", "enlace": "partido.html?cod=2526_ligaf_09"},
@@ -36,28 +36,25 @@
             {"partido": "Real Madrid - Granada", "enlace": "partido.html?cod=2526_ligaf_30"}
         ],
         "clasificacion": [
-            {"equipo": "Barcelona", "pj": 5, "pg": 5, "pe": 0, "pp": 0, "gf": 27, "gc": 1, "puntos": 15, "icono": "champ.png"},
-            {"equipo": "Atlético Madrid", "pj": 5, "pg": 4, "pe": 1, "pp": 0, "gf": 16, "gc": 2, "puntos": 13, "icono": "champ.png"},
-            {"equipo": "Real Sociedad", "pj": 5, "pg": 4, "pe": 1, "pp": 0, "gf": 10, "gc": 3, "puntos": 13, "icono": "champ.png"},
-            {"equipo": "Tenerife", "pj": 5, "pg": 2, "pe": 3, "pp": 0, "gf": 8, "gc": 0, "puntos": 9},
-            {"equipo": "Real Madrid", "pj": 5, "pg": 2, "pe": 2, "pp": 1, "gf": 9, "gc": 5, "puntos": 8},
-            {"equipo": "Madrid CCF", "pj": 5, "pg": 2, "pe": 2, "pp": 1, "gf": 7, "gc": 6, "puntos": 8},
-            {"equipo": "Granada", "pj": 5, "pg": 2, "pe": 1, "pp": 2, "gf": 6, "gc": 9, "puntos": 7},
-            {"equipo": "Badalona", "pj": 5, "pg": 1, "pe": 3, "pp": 1, "gf": 2, "gc": 2, "puntos": 6},
-            {"equipo": "Deportivo", "pj": 5, "pg": 1, "pe": 2, "pp": 2, "gf": 3, "gc": 7, "puntos": 5},
-            {"equipo": "Alhama", "pj": 5, "pg": 1, "pe": 2, "pp": 2, "gf": 5, "gc": 15, "puntos": 5},
-            {"equipo": "Eibar", "pj": 5, "pg": 1, "pe": 1, "pp": 3, "gf": 2, "gc": 5, "puntos": 4},
-            {"equipo": "Sevilla", "pj": 5, "pg": 1, "pe": 1, "pp": 3, "gf": 2, "gc": 13, "puntos": 4},
-            {"equipo": "Espanyol", "pj": 5, "pg": 0, "pe": 3, "pp": 2, "gf": 2, "gc": 9, "puntos": 3},
-            {"equipo": "Athletic", "pj": 5, "pg": 0, "pe": 3, "pp": 2, "gf": 3, "gc": 11, "puntos": 3},
-            {"equipo": "DUX Logroño", "pj": 5, "pg": 0, "pe": 2, "pp": 3, "gf": 4, "gc": 11, "puntos": 2, "icono": "abajo.png"},
-            {"equipo": "Levante", "pj": 5, "pg": 0, "pe": 1, "pp": 4, "gf": 2, "gc": 9, "puntos": 1, "icono": "abajo.png"}
-            
-            
-            
+            {"equipo": "Barcelona", "pj": 6, "pg": 6, "pe": 0, "pp": 0, "gf": 31, "gc": 1, "puntos": 18, "icono": "champ.png"},
+            {"equipo": "Atlético Madrid", "pj": 6, "pg": 4, "pe": 2, "pp": 0, "gf": 17, "gc": 3, "puntos": 14, "icono": "champ.png"},
+            {"equipo": "Real Sociedad", "pj": 6, "pg": 4, "pe": 1, "pp": 1, "gf": 11, "gc": 5, "puntos": 13, "icono": "champ.png"},
+            {"equipo": "Tenerife", "pj": 6, "pg": 3, "pe": 3, "pp": 0, "gf": 10, "gc": 1, "puntos": 12},
+            {"equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 2, "pp": 1, "gf": 12, "gc": 5, "puntos": 11},
+            {"equipo": "Madrid CCF", "pj": 6, "pg": 3, "pe": 2, "pp": 1, "gf": 9, "gc": 6, "puntos": 11},
+            {"equipo": "Granada", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 7, "gc": 10, "puntos": 8},
+            {"equipo": "Alhama", "pj": 6, "pg": 2, "pe": 2, "pp": 2, "gf": 8, "gc": 16, "puntos": 8},
+            {"equipo": "Sevilla", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 3, "gc": 13, "puntos": 7},
+            {"equipo": "Badalona", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 2, "gc": 5, "puntos": 6},
+            {"equipo": "Deportivo", "pj": 6, "pg": 1, "pe": 2, "pp": 3, "gf": 4, "gc": 10, "puntos": 5},
+            {"equipo": "Eibar", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 2, "gc": 9, "puntos": 4},
+            {"equipo": "Athletic", "pj": 6, "pg": 0, "pe": 4, "pp": 2, "gf": 4, "gc": 12, "puntos": 4},
+            {"equipo": "DUX Logroño", "pj": 6, "pg": 0, "pe": 3, "pp": 3, "gf": 5, "gc": 12, "puntos": 3},
+            {"equipo": "Espanyol", "pj": 6, "pg": 0, "pe": 3, "pp": 3, "gf": 2, "gc": 10, "puntos": 3, "icono": "abajo.png"},
+            {"equipo": "Levante", "pj": 6, "pg": 0, "pe": 1, "pp": 5, "gf": 2, "gc": 11, "puntos": 1, "icono": "abajo.png"}
         ],
         "ascensos": ["-", "-"],
-        "extra": ""
+        "extra": "El FC Levante Badalona pasa a denominarse FC Badalona Women, y modifica su escudo.<br/>El Costa Adeje Tenerife pasa a integrarse en el CD Tenerife y adopta su escudo."
     },
     "previas": []
 }

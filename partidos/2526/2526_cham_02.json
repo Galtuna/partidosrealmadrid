@@ -50,8 +50,8 @@
     "goles": [
         {"gol": "0-1", "minuto": "25'", "descripcion": "Penalti de Kalmurza sobre Mastantuono que transforma <span class=\"azul\">Mbappé</span>."},
         {"gol": "0-2", "minuto": "52'", "descripcion": "Despeje largo de Courtois que se convierte en una asistencia a <span class=\"azul\">Mbappé</span>, que se planta ante Kalmurza y no falla."},
-        {"gol": "0-3", "minuto": "73'", "descripcion": "Jugada de Rodrygo por la izquierda, filtra a Arda Güler en la frontal y este la frena para el disparo de <span class=\"azul\">Mbappé</span>."},
-        {"gol": "0-4", "minuto": "83'", "descripcion": "Rodrygo se interna por la izquierda, llega a línea de fondo y la pone al primer palo donde <span class=\"azul\">Camavinga</span> cabecea a la red."},
+        {"gol": "0-3", "minuto": "73'", "descripcion": "Jugada de Rodrygo por la izquierda que filtra a Arda Güler en la frontal y este la frena para el disparo de <span class=\"azul\">Mbappé</span>."},
+        {"gol": "0-4", "minuto": "83'", "descripcion": "Rodrygo se interna por la izquierda, llega a línea de fondo y la pone al primer palo donde cabecea <span class=\"azul\">Camavinga</span>."},
         {"gol": "0-5", "minuto": "90+3'", "descripcion": "Gonzalo recibe en la frontal y abre para <span class=\"azul\">Brahim</span>, que marca de fuerte disparo cruzado."}
     ],
     "penaltis": []
