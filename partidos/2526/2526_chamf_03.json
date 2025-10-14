@@ -1,12 +1,12 @@
 {
     "titulo": "Temporada 2025/26 - Women's Champions League - Fase de Liga - Jornada 1",
-    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=f",
+    "atras": "competicion.html?temporada=2526&competicion=cham&categoria=f",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.440"},
     "fecha": "MIE 08/10/2025",
     "hora": "18:45",
     "arbitro": "Iuliana Demetrescu (Rumanía)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 6, "golesp": 0, "entrenador": "Pau Quesada"},
-    "visitante": {"nombre": "AS Roma", "escudo": "rom.png", "goles": 2, "golesp": 0, "entrenador": "XXXXXX"},
+    "visitante": {"nombre": "AS Roma", "escudo": "rom.png", "goles": 2, "golesp": 0, "entrenador": "Luca Rossettini"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Merle Frohms", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "81'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
@@ -54,7 +54,7 @@
         {"gol": "2-2", "minuto": "35'", "descripcion": "<span class=\"azul\">Haavi</span> conduce hacia dentro y se saca un potente derechazo desde fuera del área que dobla la mano de Frohms."},
         {"gol": "3-2", "minuto": "42'", "descripcion": "Gran pase filtrado de Linda para <span class=\"azul\">Alba Redondo</span> que supera a Baldi con un disparo raso cruzado."},
         {"gol": "4-2", "minuto": "53'", "descripcion": "Córner que cae en el segundo palo a Alba Redondo y esta la devuelve al área pequeña donde remata a placer <span class=\"azul\">Lakrar</span>."},
-        {"gol": "5-2", "minuto": "59'", "descripcion": "Linda se interna en el área por la izquierda y encuentra a <span class=\"azul\">Weir</span> que supera a Heatley y dispara cruzado."},
+        {"gol": "5-2", "minuto": "59'", "descripcion": "Linda se interna en el área por la izquierda y encuentra a <span class=\"azul\">Weir</span>, que supera a Heatley y dispara cruzado."},
         {"gol": "6-2", "minuto": "73'", "descripcion": "Centro de Linda desde la línea de fondo al segundo palo donde remata de cabeza <span class=\"azul\">Eva Navarro</span>."}
     ],
     "penaltis": []
