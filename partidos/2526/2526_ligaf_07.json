@@ -5,7 +5,7 @@
     "fecha": "DOM 12/10/2025",
     "hora": "17:00",
     "arbitro": "Acevedo Dudley (colegio catalán)",
-    "local": {"nombre": "Athletic Club", "escudo": "ath.png", "goles": 1, "golesp": 0, "entrenador": "Javier Lerga"},
+    "local": {"nombre": "Athletic Club", "escudo": "ath.jpg", "goles": 1, "golesp": 0, "entrenador": "Javier Lerga"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Pau Quesada"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Adriana Nanclares", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -52,7 +52,7 @@
         {"gol": "0-2", "minuto": "19'", "descripcion": "Córner cerrado que bota Toletti al primer palo y <span class=\"azul\">Campos</span>, al intentar despejar, introduce el balón en su portería."},
         {"gol": "1-2", "minuto": "72'", "descripcion": "Falta desde el lateral del área que transforma <span class=\"azul\">Nevado</span> superando por arriba a Frohms."},
         {"gol": "1-3", "minuto": "82'", "descripcion": "Athenea recoge un pase filtrado casi en la línea de fondo y cede atrás para el remate cruzado de <span class=\"azul\">Weir</span>."},
-        {"gol": "1-4", "minuto": "90+4'", "descripcion": "<span class=\"azul\">Iris Ashley</span> corta un balón con la defensa muy adelantada, avanza y desde fuera del área dispara superando a Nanclares."}
+        {"gol": "1-4", "minuto": "90+4'", "descripcion": "<span class=\"azul\">Iris Ashley</span> corta un balón con la defensa adelantada, avanza y dispara desde fuera del área superando a Nanclares."}
     ],
     "penaltis": []
 }
