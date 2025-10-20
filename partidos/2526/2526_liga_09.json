@@ -1,0 +1,52 @@
+{
+    "titulo": "Temporada 2025/26 - LaLiga - Jornada 9",
+    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Getafe (Madrid)", "nombre": "Estadio Coliseum", "imagen": "coliseum.jpg", "espectadores": "10.090"},
+    "fecha": "DOM 19/10/2025",
+    "hora": "21:00",
+    "arbitro": "Munuera Montero (colegio andaluz)",
+    "local": {"nombre": "Getafe CF", "escudo": "get.png", "goles": 0, "golesp": 0, "entrenador": "José Bordalás"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Xabi Alonso"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "David Soria", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Juan Iglesias", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Domingos Duarte", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Djené", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Diego Rico", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Mario Martín", "salida": "0", "cambio": "87'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Milla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Arambarri", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Kiko Femenía", "salida": "0", "cambio": "76'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Sancris", "salida": "0", "cambio": "0", "amarilla": "84'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Liso", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 12, "nombre": "Nyom", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "77'", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Kamara", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Coba", "salida": "90'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Militão", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Alaba", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Carreras", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 30, "nombre": "Mastantuono", "salida": "0", "cambio": "55'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 17, "nombre": "Asencio", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "55'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Gonzalo", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "0-1", "minuto": "80'", "descripcion": "Pase filtrado de Arda Güler para <span class=\"azul\">Mbappé</span> que se gira y define con un fuerte disparo."}
+    ],
+    "penaltis": []
+}

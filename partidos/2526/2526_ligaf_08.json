@@ -1,0 +1,57 @@
+{
+    "titulo": "Temporada 2025/26 - Liga F - Jornada 8",
+    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=f",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.283"},
+    "fecha": "DOM 19/10/2025",
+    "hora": "16:00",
+    "arbitro": "Fírvida Fernández (colegio aragonés)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Pau Quesada"},
+    "visitante": {"nombre": "Levante UD", "escudo": "lev.png", "goles": 0, "golesp": 0, "entrenador": "Santiago Triguero"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Noemí Bejarano", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Rocío Gálvez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Bella Andersson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Sara Holmgaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Hanna Bennison", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Pau Comendador", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 1},
+        {"dorsal": 24, "nombre": "Lotte Keukelaar", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Naomie Feller", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Yasmim Ribeiro", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Laura Coronado", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "María de Alharilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Eva Alonso", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Teresa Mérida", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Eden Le Guilly", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Raiderlin Carrasco", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Dolores Silva", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Carol Marín", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Érika González", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Ainhoa Bascuñán", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Ana Franco", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 19, "nombre": "Sintia Cabezas", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 30, "nombre": "Kalu Chinyere", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Alma Velasco", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Naolia Traoré", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Pierina Núñez", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "17'", "descripcion": "Remate de cabeza de <span class=\"azul\">Pau Comendador</span> al larguero, y ella misma recoge el rechace y marca a placer."},
+        {"gol": "2-0", "minuto": "57'", "descripcion": "Zurdazo de <span class=\"azul\">Holmgaard</span> desde fuera del área que desvía Eva Alonso y se vuelve imposible para Coronado."},
+        {"gol": "3-0", "minuto": "59'", "descripcion": "Centro de Weir desde el pico del área al segundo palo donde entra <span class=\"azul\">Alba Redondo</span> para cabecear a gol."},
+        {"gol": "4-0", "minuto": "63'", "descripcion": "Córner al primer palo que prolonga Ana Franco hacia atrás, y el balón le cae a <span class=\"azul\">Rocío</span> que no perdona."}
+    ],
+    "penaltis": []
+}
