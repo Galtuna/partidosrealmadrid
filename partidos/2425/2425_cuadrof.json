@@ -4,7 +4,7 @@
     "campeones": [
         [
             {"competicion": "UEFA Women's Champions League", "campeon": "ars.png"},
-            {"competicion": "Copa Libertadores Femenina", "campeon": "xxx.png"}
+            {"competicion": "Copa Libertadores Femenina", "campeon": "cor.png"}
         ],
         [
             {"competicion": "Liga F", "campeon": "fcb.png"},
@@ -27,7 +27,7 @@
             {"competicion": "Superliga Femenina de Bélgica", "campeon": "ohl.png"}
         ],
         [
-            {"competicion": "Brasileirão Femenino", "campeon": "xxx.png"},
+            {"competicion": "Brasileirão Femenino", "campeon": "cor.png"},
             {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "nob.png|xxx.png"},
             {"competicion": "NWSL", "campeon": "xxx.png"}
         ]
