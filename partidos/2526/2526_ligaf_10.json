@@ -48,11 +48,11 @@
         {"dorsal": 17, "nombre": "Javiera Toro", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "1-0", "minuto": "30'", "descripcion": "Eva Navarro llega a línea de fondo, centra y <span class=\"azul\">Santamaría</span>, al intentar despejar, lo introduce en su portería."},
+        {"gol": "1-0", "minuto": "30'", "descripcion": "Eva Navarro llega a línea de fondo, centra y <span class=\"azul\">Santamaría</span>, al intentar despejar, introduce el balón en su portería."},
         {"gol": "2-0", "minuto": "50'", "descripcion": "<span class=\"azul\">Silvia</span> aprovecha un rechace de De Toro tras una falta directa lanzada por Däbritz."},
         {"gol": "3-0", "minuto": "54'", "descripcion": "<span class=\"azul\">Keukelaar</span> recoge de espaldas un balón en el lateral del área, cuerpea, se gira y dispara por el palo corto."},
-        {"gol": "4-0", "minuto": "89'", "descripcion": "Gran centro de Andersson desde la izquierda que supera a la central y remata <span class=\"azul\">Iris Ashley</span> de cabeza."},
-        {"gol": "5-0", "minuto": "90+4'", "descripcion": "<span class=\"azul\">Linda</span> arranca desde su propio campo, se va de todas las que le salen al paso y cierra la goleada."}
+        {"gol": "4-0", "minuto": "89'", "descripcion": "Gran centro de Andersson desde la izquierda que remata <span class=\"azul\">Iris Ashley</span> de cabeza ajustado al palo."},
+        {"gol": "5-0", "minuto": "90+4'", "descripcion": "<span class=\"azul\">Linda</span> arranca desde su propio campo, se va de todas las que le salen al paso y no perdona ante De Toro."}
     ],
     "penaltis": []
 }
