@@ -50,8 +50,8 @@
     "goles": [
         {"gol": "1-0", "minuto": "15'", "descripcion": "Pina supera a Eva Navarro y mete el pase de la muerte para que remate <span class=\"azul\">Pajor</span>."},
         {"gol": "2-0", "minuto": "30'", "descripcion": "<span class=\"azul\">Pajor</span> empuja con el pecho un mal despeje de Misa tras un centro raso de Graham."},
-        {"gol": "3-0", "minuto": "90+1''", "descripcion": "Nazareth le roba el balón a Irune en salida, y <span class=\"azul\">Schertenleib</span> no perdona ante Misa."},
-        {"gol": "4-0", "minuto": "90+3''", "descripcion": "Balón raso tenso de Mapi desde la izquierda que remata <span class=\"azul\">Aitana</span> en el segundo palo."}
+        {"gol": "3-0", "minuto": "90+1'", "descripcion": "Nazareth le roba el balón a Irune en salida, y <span class=\"azul\">Schertenleib</span> no perdona ante Misa."},
+        {"gol": "4-0", "minuto": "90+3'", "descripcion": "Balón raso tenso de Mapi desde la izquierda que remata <span class=\"azul\">Aitana</span> en el segundo palo."}
     ],
     "penaltis": []
 }
