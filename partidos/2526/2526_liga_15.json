@@ -1,56 +1,53 @@
 {
     "titulo": "Temporada 2025/26 - LaLiga - Jornada 15",
     "atras": "competicion.html?temporada=2526&competicion=liga&categoria=m",
-    "estadio": {"ciudad": "Bilbao", "nombre": "Estadio San Mamés", "imagen": "sanmames.jpg", "espectadores": "51.313"},
-    "fecha": "MIE 03/12/2025",
-    "hora": "19:00",
-    "arbitro": "Gil Manzano (colegio extremeño)",
-    "local": {"nombre": "Athletic Club", "escudo": "ath.jpg", "goles": 0, "golesp": 0, "entrenador": "Ernesto Valverde"},
-    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Xabi Alonso"},
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "74.511"},
+    "fecha": "DOM 07/12/2025",
+    "hora": "21:00",
+    "arbitro": "Quintero González (colegio andaluz)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Xabi Alonso"},
+    "visitante": {"nombre": "RC Celta de Vigo", "escudo": "cel.jpg", "goles": 2, "golesp": 0, "entrenador": "Claudio Giráldez"},
     "titularesLocal": [
-        {"dorsal": 1, "nombre": "Unai Simón", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 15, "nombre": "Lekue", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 3, "nombre": "Vivian", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 14, "nombre": "Laporte", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 19, "nombre": "Adama Boiro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 16, "nombre": "Ruiz de Galarreta", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 30, "nombre": "Rego", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 18, "nombre": "Jauregizar", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Nico Williams", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Berenguer", "salida": "0", "cambio": "69'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 11, "nombre": "Guruzeta", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Asencio", "salida": "0", "cambio": "54'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Militão", "salida": "0", "cambio": "24'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 18, "nombre": "Carreras", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "90+2'", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Fran García", "salida": "0", "cambio": "0", "amarilla": "64'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
-        {"dorsal": 12, "nombre": "Areso", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Unai Gómez", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 6, "nombre": "Vesga", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 22, "nombre": "Serrano", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 44, "nombre": "Selton", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "24'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rodrygo", "salida": "54'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Gonzalo", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
-        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 12, "nombre": "Alexander-Arnold", "salida": "0", "cambio": "55'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
-        {"dorsal": 3, "nombre": "Militão", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 18, "nombre": "Carreras", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 1},
-        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
+        {"dorsal": 13, "nombre": "Radu", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Carreira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 32, "nombre": "Javi Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Starfelt", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Marcos Alonso", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Mingueza", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Miguel Román", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Ilaix Moriba", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Pablo Durán", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Bryan Zaragoza", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Borja Iglesias", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
-        {"dorsal": 17, "nombre": "Asencio", "salida": "55'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 15, "nombre": "Arda Güler", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 21, "nombre": "Brahim", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 11, "nombre": "Rodrygo", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 16, "nombre": "Gonzalo", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
-    ],    
+        {"dorsal": 0, "nombre": "Swedberg", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 0, "nombre": "Jutglà", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 0, "nombre": "Javi Rueda", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 0, "nombre": "Fran Beltrán", "salida": "84'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 0, "nombre": "Aspas", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
     "goles": [
-        {"gol": "0-1", "minuto": "7'", "descripcion": "<span class=\"azul\">Mbappé</span> recibe un balón largo, se va de Lekue, llega a la frontal, recorta a Laporte y dispara a gol."},
-        {"gol": "0-2", "minuto": "42'", "descripcion": "Centro de Alexander-Arnold al segundo palo para Mbappé, que de cabeza le regala el gol a <span class=\"azul\">Camavinga</span>."},
-        {"gol": "0-3", "minuto": "59'", "descripcion": "<span class=\"azul\">Mbappé</span> recibe fuera del área, nadie le encima y se saca un derechazo seco ajustado al palo."}
+        {"gol": "0-1", "minuto": "53'", "descripcion": "Bryan Zaragoza entra en el área desde la izquierda y la pone al punto de penalti donde remata <span class=\"azul\">Swedberg</span> libre de marca."},
+        {"gol": "0-2", "minuto": "90+3'", "descripcion": "Contra del Celta con el partido totalmente roto que culmina <span class=\"azul\">Swedberg</span> tras regatear a Courtois."}
     ],
     "penaltis": []
 }
