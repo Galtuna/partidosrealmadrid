@@ -45,7 +45,7 @@
         [
             {"competicion": "Brasileirão", "campeon": "fla.png"},
             {"competicion": "Primera División Argentina<br/>Apertura y Clausura", "campeon": "pla.png|xxx.png"},
-            {"competicion": "MLS", "campeon": "xxx.png"}
+            {"competicion": "MLS", "campeon": "mia.png"}
         ]
     ]
 }
