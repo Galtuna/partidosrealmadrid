@@ -5,7 +5,7 @@
     "fecha": "DOM 02/03/2025",
     "hora": "12:00",
     "arbitro": "Planes Terol (colegio murciano)",
-    "local": {"nombre": "Athletic Club", "escudo": "ath.jpg", "goles": 1, "golesp": 0, "entrenador": "David Aznar"},
+    "local": {"nombre": "Athletic Club", "escudo": "ath.png", "goles": 1, "golesp": 0, "entrenador": "David Aznar"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Alberto Toril"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Adriana Nanclares", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

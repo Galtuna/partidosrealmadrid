@@ -6,7 +6,7 @@
     "hora": "21:00",
     "arbitro": "István Kovács (Rumanía)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Carlo Ancelotti"},
-    "visitante": {"nombre": "Manchester City FC", "escudo": "mci.jpg", "goles": 1, "golesp": 0, "entrenador": "Pep Guardiola"},
+    "visitante": {"nombre": "Manchester City FC", "escudo": "mci.png", "goles": 1, "golesp": 0, "entrenador": "Pep Guardiola"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

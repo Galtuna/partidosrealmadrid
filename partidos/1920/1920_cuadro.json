@@ -3,12 +3,12 @@
     "atras": "indexTemporada.html?temporada=1920&categoria=m",
     "campeones": [
         [
-            {"competicion": "Mundial de Clubes", "campeon": "liv.jpg"}
+            {"competicion": "Mundial de Clubes", "campeon": "liv.png"}
         ],
         [
             {"competicion": "UEFA Champions League", "campeon": "bay.png"},
-            {"competicion": "UEFA Europa League", "campeon": "sev.jpg"},
-            {"competicion": "Supercopa de Europa", "campeon": "liv.jpg"}
+            {"competicion": "UEFA Europa League", "campeon": "sev.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "liv.png"}
         ],
         [
             {"competicion": "Copa Libertadores", "campeon": "pal.png"},
@@ -22,13 +22,13 @@
         ],
         [
             {"competicion": "LaLiga", "campeon": "rma.png"},
-            {"competicion": "Copa del Rey", "campeon": "rso.jpg"},
+            {"competicion": "Copa del Rey", "campeon": "rso.png"},
             {"competicion": "Supercopa de España", "campeon": "rma.png"}
         ],
         [
-            {"competicion": "Premier League", "campeon": "liv.jpg"},
+            {"competicion": "Premier League", "campeon": "liv.png"},
             {"competicion": "FA Cup", "campeon": "ars.png"},
-            {"competicion": "EFL Cup", "campeon": "mci.jpg"}
+            {"competicion": "EFL Cup", "campeon": "mci.png"}
         ],
         [
             {"competicion": "Serie A", "campeon": "juv.png"},

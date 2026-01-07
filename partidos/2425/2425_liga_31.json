@@ -5,7 +5,7 @@
     "fecha": "DOM 13/04/2025",
     "hora": "16:15",
     "arbitro": "Soto Grado (colegio riojano)",
-    "local": {"nombre": "Deportivo Alavés", "escudo": "ala.jpg", "goles": 0, "golesp": 0, "entrenador": "Eduardo Coudet"},
+    "local": {"nombre": "Deportivo Alavés", "escudo": "ala.png", "goles": 0, "golesp": 0, "entrenador": "Eduardo Coudet"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Carlo Ancelotti"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Owono", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

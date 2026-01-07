@@ -5,7 +5,7 @@
     "fecha": "SAB 13/09/2025",
     "hora": "16:15",
     "arbitro": "Gil Manzano (colegio extremeño)",
-    "local": {"nombre": "Real Sociedad de Fútbol", "escudo": "rso.jpg", "goles": 1, "golesp": 0, "entrenador": "Sergio Francisco"},
+    "local": {"nombre": "Real Sociedad de Fútbol", "escudo": "rso.png", "goles": 1, "golesp": 0, "entrenador": "Sergio Francisco"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Xabi Alonso"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Remiro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

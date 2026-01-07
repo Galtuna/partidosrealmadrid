@@ -23,20 +23,20 @@
         [
             {"competicion": "LaLiga", "campeon": "atm.png"},
             {"competicion": "Copa del Rey", "campeon": "fcb.png"},
-            {"competicion": "Supercopa de España", "campeon": "ath.jpg"}
+            {"competicion": "Supercopa de España", "campeon": "ath.png"}
         ],
         [
-            {"competicion": "Premier League", "campeon": "mci.jpg"},
+            {"competicion": "Premier League", "campeon": "mci.png"},
             {"competicion": "FA Cup", "campeon": "lei.png"},
-            {"competicion": "EFL Cup", "campeon": "mci.jpg"}
+            {"competicion": "EFL Cup", "campeon": "mci.png"}
         ],
         [
-            {"competicion": "Serie A", "campeon": "int.jpg"},
+            {"competicion": "Serie A", "campeon": "int.png"},
             {"competicion": "Bundesliga", "campeon": "bay.png"},
             {"competicion": "Ligue 1", "campeon": "lil.png"}
         ],
         [
-            {"competicion": "Eredivisie", "campeon": "aja.jpg"},
+            {"competicion": "Eredivisie", "campeon": "aja.png"},
             {"competicion": "Primeira Liga", "campeon": "spp.png"},
             {"competicion": "Belgian Pro League", "campeon": "bru.png"}
         ],

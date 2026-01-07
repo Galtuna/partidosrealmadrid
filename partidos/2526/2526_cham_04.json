@@ -5,7 +5,7 @@
     "fecha": "MAR 04/11/2025",
     "hora": "21:00",
     "arbitro": "István Kovács (Rumanía)",
-    "local": {"nombre": "Liverpool FC", "escudo": "liv.jpg", "goles": 1, "golesp": 0, "entrenador": "Arne Slot"},
+    "local": {"nombre": "Liverpool FC", "escudo": "liv.png", "goles": 1, "golesp": 0, "entrenador": "Arne Slot"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Xabi Alonso"},
     "titularesLocal": [
         {"dorsal": 25, "nombre": "Mamardashvili", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

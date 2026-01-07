@@ -5,7 +5,7 @@
     "fecha": "SAB 19/10/2024",
     "hora": "21:00",
     "arbitro": "Hernández Hernández (colegio canario)",
-    "local": {"nombre": "RC Celta de Vigo", "escudo": "cel.jpg", "goles": 1, "golesp": 0, "entrenador": "Claudio Giráldez"},
+    "local": {"nombre": "RC Celta de Vigo", "escudo": "cel.png", "goles": 1, "golesp": 0, "entrenador": "Claudio Giráldez"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Carlo Ancelotti"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Guaita", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

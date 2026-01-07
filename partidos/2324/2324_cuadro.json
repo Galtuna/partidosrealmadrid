@@ -3,8 +3,8 @@
     "atras": "indexTemporada.html?temporada=2324&categoria=m",
     "campeones": [
         [
-            {"competicion": "Mundial de Clubes", "campeon": "mci.jpg"},
-            {"competicion": "Supercopa de Europa", "campeon": "mci.jpg"}
+            {"competicion": "Mundial de Clubes", "campeon": "mci.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "mci.png"}
         ],
         [
             {"competicion": "UEFA Champions League", "campeon": "rma.png"},
@@ -23,16 +23,16 @@
         ],
         [
             {"competicion": "LaLiga", "campeon": "rma.png"},
-            {"competicion": "Copa del Rey", "campeon": "ath.jpg"},
+            {"competicion": "Copa del Rey", "campeon": "ath.png"},
             {"competicion": "Supercopa de España", "campeon": "rma.png"}
         ],
         [
-            {"competicion": "Premier League", "campeon": "mci.jpg"},
+            {"competicion": "Premier League", "campeon": "mci.png"},
             {"competicion": "FA Cup", "campeon": "mun.png"},
-            {"competicion": "EFL Cup", "campeon": "liv.jpg"}
+            {"competicion": "EFL Cup", "campeon": "liv.png"}
         ],
         [
-            {"competicion": "Serie A", "campeon": "int.jpg"},
+            {"competicion": "Serie A", "campeon": "int.png"},
             {"competicion": "Bundesliga", "campeon": "byl.png"},
             {"competicion": "Ligue 1", "campeon": "psg.png"}
         ],

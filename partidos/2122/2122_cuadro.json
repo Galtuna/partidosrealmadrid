@@ -27,9 +27,9 @@
             {"competicion": "Supercopa de España", "campeon": "rma.png"}
         ],
         [
-            {"competicion": "Premier League", "campeon": "mci.jpg"},
-            {"competicion": "FA Cup", "campeon": "liv.jpg"},
-            {"competicion": "EFL Cup", "campeon": "liv.jpg"}
+            {"competicion": "Premier League", "campeon": "mci.png"},
+            {"competicion": "FA Cup", "campeon": "liv.png"},
+            {"competicion": "EFL Cup", "campeon": "liv.png"}
         ],
         [
             {"competicion": "Serie A", "campeon": "mil.png"},
@@ -37,7 +37,7 @@
             {"competicion": "Ligue 1", "campeon": "psg.png"}
         ],
         [
-            {"competicion": "Eredivisie", "campeon": "aja.jpg"},
+            {"competicion": "Eredivisie", "campeon": "aja.png"},
             {"competicion": "Primeira Liga", "campeon": "por.png"},
             {"competicion": "Belgian Pro League", "campeon": "bru.png"}
         ],

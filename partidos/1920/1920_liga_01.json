@@ -5,7 +5,7 @@
     "fecha": "SAB 17/08/2019",
     "hora": "17:00",
     "arbitro": "Estrada Fernández (colegio catalán)",
-    "local": {"nombre": "RC Celta de Vigo", "escudo": "cel.jpg", "goles": "1", "golesp": 0, "entrenador": "Fran Escribá"},
+    "local": {"nombre": "RC Celta de Vigo", "escudo": "cel.png", "goles": "1", "golesp": 0, "entrenador": "Fran Escribá"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": "3", "golesp": 0, "entrenador": "Zinédine Zidane"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Rubén Blanco", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

@@ -5,7 +5,7 @@
     "fecha": "DOM 05/07/2020",
     "hora": "14:00",
     "arbitro": "González González (colegio castellanoleonés)",
-    "local": {"nombre": "Athletic Club", "escudo": "ath.jpg", "goles": "0", "golesp": 0, "entrenador": "Gaizka Garitano"},
+    "local": {"nombre": "Athletic Club", "escudo": "ath.png", "goles": "0", "golesp": 0, "entrenador": "Gaizka Garitano"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": "1", "golesp": 0, "entrenador": "Zinédine Zidane"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Unai Simón", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
