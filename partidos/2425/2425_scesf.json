@@ -2,9 +2,9 @@
     "titulo": "Real Madrid Femenino - Temporada 2024/25 - Supercopa de España",
     "atras": "indexTemporada.html?temporada=2425&categoria=f",
     "eliminatorias": [        
-            {"nombre": "Final", "unica": true, "partido1": "Barcelona 5 - 0 Real Madrid", "enlace1": "partido.html?cod=2425_scesf_2", "partido2": "", "enlace2": ""},
-            {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 3 - 2 Real Sociedad", "enlace1": "partido.html?cod=2425_scesf_1", "partido2": "", "enlace2": ""}
-        ],
+        {"nombre": "Final", "unica": true, "partido1": "Barcelona 5 - 0 Real Madrid", "enlace1": "partido.html?cod=2425_scesf_2", "partido2": "", "enlace2": ""},
+        {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 3 - 2 Real Sociedad", "enlace1": "partido.html?cod=2425_scesf_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }

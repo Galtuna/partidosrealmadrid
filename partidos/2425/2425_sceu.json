@@ -2,8 +2,8 @@
     "titulo": "Real Madrid - Temporada 2024/25 - Supercopa de Europa",
     "atras": "indexTemporada.html?temporada=2425&categoria=m",
     "eliminatorias": [
-            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 0 Atalanta", "enlace1": "partido.html?cod=2425_sceu_1", "partido2": "", "enlace2": ""}
-        ],
+        {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 0 Atalanta", "enlace1": "partido.html?cod=2425_sceu_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }

@@ -1,8 +1,9 @@
 {
-    "titulo": "Real Madrid Femenino - Temporada 2025/26 - Supercopa de la Reina",
+    "titulo": "Real Madrid Femenino - Temporada 2025/26 - Copa de la Reina",
     "atras": "indexTemporada.html?temporada=2526&categoria=f",
     "eliminatorias": [
-        ],
+        {"nombre": "Octavos de final", "unica": true, "partido1": "Espanyol 0 - 4 Real Madrid", "enlace1": "partido.html?cod=2526_copaf_1", "partido2": "", "enlace2": ""}
+],
     "liga": {},
     "previas": []
 }

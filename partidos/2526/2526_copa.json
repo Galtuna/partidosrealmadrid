@@ -3,7 +3,7 @@
     "atras": "indexTemporada.html?temporada=2526&categoria=m",
     "eliminatorias": [
         {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Talavera 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2526_copa_1", "partido2": "", "enlace2": ""}
-        ],
+    ],
     "liga": {},
     "previas": []
 }

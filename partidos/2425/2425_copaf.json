@@ -2,10 +2,10 @@
     "titulo": "Real Madrid Femenino - Temporada 2024/25 - Copa de la Reina",
     "atras": "indexTemporada.html?temporada=2425&categoria=f",
     "eliminatorias": [        
-            {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 0 - 5 Barcelona", "enlace1": "partido.html?cod=2425_copaf_3", "partido2": "Barcelona 3 - 1 Real Madrid", "enlace2": "partido.html?cod=2425_copaf_4"},
-            {"nombre": "Cuartos de final", "unica": true, "partido1": "Real Madrid 3 - 1 Real Sociedad", "enlace1": "partido.html?cod=2425_copaf_2", "partido2": "", "enlace2": ""},
-            {"nombre": "Octavos de final", "unica": true, "partido1": "Villarreal CF 0 - 2 Real Madrid", "enlace1": "partido.html?cod=2425_copaf_1", "partido2": "", "enlace2": ""}
-        ],
+        {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 0 - 5 Barcelona", "enlace1": "partido.html?cod=2425_copaf_3", "partido2": "Barcelona 3 - 1 Real Madrid", "enlace2": "partido.html?cod=2425_copaf_4"},
+        {"nombre": "Cuartos de final", "unica": true, "partido1": "Real Madrid 3 - 1 Real Sociedad", "enlace1": "partido.html?cod=2425_copaf_2", "partido2": "", "enlace2": ""},
+        {"nombre": "Octavos de final", "unica": true, "partido1": "Villarreal 0 - 2 Real Madrid", "enlace1": "partido.html?cod=2425_copaf_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }

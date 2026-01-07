@@ -1,7 +1,9 @@
 {
     "titulo": "Real Madrid Femenino - Temporada 2025/26 - Women's Champions League",
     "atras": "indexTemporada.html?temporada=2526&categoria=f",
-    "eliminatorias": [],
+    "eliminatorias": [
+        {"nombre": "Previa a cuartos de final", "unica": false, "partido1": "Paris FC - Real Madrid", "enlace1": "partido.html?cod=2526_chamf_09", "partido2": "Real Madrid - Paris FC", "enlace2": "partido.html?cod=2526_chamf_10"}
+    ],
     "liga": {"grupo": "Fase de Liga",
         "jornadas": [
             {"partido": "Real Madrid 6 - 2 Roma", "enlace": "partido.html?cod=2526_chamf_03"},

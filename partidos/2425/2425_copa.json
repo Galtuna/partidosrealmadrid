@@ -2,12 +2,12 @@
     "titulo": "Real Madrid - Temporada 2024/25 - Copa del Rey",
     "atras": "indexTemporada.html?temporada=2425&categoria=m",
     "eliminatorias": [
-            {"nombre": "Final", "unica": true, "partido1": "Barcelona 3 - 2 Real Madrid", "enlace1": "partido.html?cod=2425_copa_6", "partido2": "", "enlace2": ""},
-            {"nombre": "Semifinal", "unica": false, "partido1": "Real Sociedad 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2425_copa_4", "partido2": "Real Madrid 4 - 4 Real Sociedad", "enlace2": "partido.html?cod=2425_copa_5"},
-            {"nombre": "Cuartos de Final", "unica": true, "partido1": "Leganés 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2425_copa_3", "partido2": "", "enlace2": ""},
-            {"nombre": "Octavos de Final", "unica": true, "partido1": "Real Madrid 5 - 2 Celta", "enlace1": "partido.html?cod=2425_copa_2", "partido2": "", "enlace2": ""},
-            {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Deportiva Minera 0 - 5 Real Madrid", "enlace1": "partido.html?cod=2425_copa_1", "partido2": "", "enlace2": ""}
-        ],
+        {"nombre": "Final", "unica": true, "partido1": "Barcelona 3 - 2 Real Madrid", "enlace1": "partido.html?cod=2425_copa_6", "partido2": "", "enlace2": ""},
+        {"nombre": "Semifinal", "unica": false, "partido1": "Real Sociedad 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2425_copa_4", "partido2": "Real Madrid 4 - 4 Real Sociedad", "enlace2": "partido.html?cod=2425_copa_5"},
+        {"nombre": "Cuartos de Final", "unica": true, "partido1": "Leganés 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2425_copa_3", "partido2": "", "enlace2": ""},
+        {"nombre": "Octavos de Final", "unica": true, "partido1": "Real Madrid 5 - 2 Celta", "enlace1": "partido.html?cod=2425_copa_2", "partido2": "", "enlace2": ""},
+        {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Deportiva Minera 0 - 5 Real Madrid", "enlace1": "partido.html?cod=2425_copa_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }
