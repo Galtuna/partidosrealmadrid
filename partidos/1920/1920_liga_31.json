@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "71'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Hazard", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -48,7 +48,7 @@
         {"dorsal": 41, "nombre": "Luka Romero", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "19'", "descripcion": "Modrić filtra el balón para la entrada de <span class=\"azul\">Vini Jr.</span> y este la pica por encima de Reina."},
+        {"gol": "1-0", "minuto": "19'", "descripcion": "Modrić filtra el balón para la entrada de <span class=\"azul\">Vinicius Jr.</span> y este la pica por encima de Reina."},
         {"gol": "2-0", "minuto": "56'", "descripcion": "Falta directa desde la corona del área que <span class=\"azul\">Sergio Ramos</span> clava en la escuadra superando la barrera."}
     ],
     "penaltis": []

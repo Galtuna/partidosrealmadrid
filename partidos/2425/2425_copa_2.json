@@ -17,7 +17,7 @@
         {"dorsal": 19, "nombre": "Ceballos", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "106'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "106'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -51,7 +51,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "37'", "descripcion": "Contragolpe que conduce <span class=\"azul\">Mbappé</span> desde la izquierda, llega al área y dispara por el palo corto."},
-        {"gol": "2-0", "minuto": "48'", "descripcion": "Mbappé filtra un buen pase para Brahim que la deja para la llegada y el remate cómodo de <span class=\"azul\">Vini Jr.</span>."},
+        {"gol": "2-0", "minuto": "48'", "descripcion": "Mbappé filtra un buen pase para Brahim que la deja para la llegada y el remate cómodo de <span class=\"azul\">Vinicius Jr.</span>."},
         {"gol": "2-1", "minuto": "83'", "descripcion": "Error de Camavinga que entrega el balón a Pablo Durán y este asiste a <span class=\"azul\">Bamba</span> que no perdona."},
         {"gol": "2-2", "minuto": "90+1'", "descripcion": "Penalti de Asencio a Bamba que transforma <span class=\"azul\">Marcos Alonso</span>."},
         {"gol": "3-2", "minuto": "108'", "descripcion": "<span class=\"azul\">Endrick</span> recibe en la frontal y se saca un tremendo zurdazo cruzado a la media vuelta."},

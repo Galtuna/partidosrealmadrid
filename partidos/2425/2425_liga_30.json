@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "0-1", "minuto": "15'", "descripcion": "Córner que bota Almeida y remata de cabeza <span class=\"azul\">Diakhaby</span>."},
-        {"gol": "1-1", "minuto": "50'", "descripcion": "Córner que bota Modrić, prolonga Bellingham en el primer palo y <span class=\"azul\">Vini Jr.</span> remacha en el segundo."},
+        {"gol": "1-1", "minuto": "50'", "descripcion": "Córner que bota Modrić, prolonga Bellingham en el primer palo y <span class=\"azul\">Vinicius Jr.</span> remacha en el segundo."},
         {"gol": "1-2", "minuto": "90+5'", "descripcion": "Balón profundo de Pepelu para Rafa Mir, que centra para que <span class=\"azul\">Hugo Duro</span> remate de cabeza sin oposición."}
     ],
     "penaltis": []

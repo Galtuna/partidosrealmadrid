@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "84'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -43,7 +43,7 @@
         {"dorsal": 7, "nombre": "Sterling", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "60'", "descripcion": "Robo de Modrić en salida del City, Vini Jr. se la lleva, se interna en el área y asiste a <span class=\"azul\">Isco</span> que no perdona."},
+        {"gol": "1-0", "minuto": "60'", "descripcion": "Robo de Modrić en salida del City, Vinicius Jr. se la lleva, se interna en el área y asiste a <span class=\"azul\">Isco</span> que no perdona."},
         {"gol": "1-1", "minuto": "78'", "descripcion": "Centro de De Bruyne a la media vuelta que remata de cabeza <span class=\"azul\">Gabriel Jesus</span> ganando el salto a Sergio Ramos."},
         {"gol": "1-2", "minuto": "83'", "descripcion": "Penalti de Carvajal a Sterling que transforma <span class=\"azul\">De Bruyne</span>."}
     ],

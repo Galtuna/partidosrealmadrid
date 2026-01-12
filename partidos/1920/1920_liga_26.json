@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},        
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "90+1'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -44,7 +44,7 @@
         {"dorsal": 31, "nombre": "Ansu Fati", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "71'", "descripcion": "Pase interior de Kroos a <span class=\"azul\">Vini Jr.</span> que dispara con poco ángulo, el balón da en Piqué y supera a Ter Stegen."},
+        {"gol": "1-0", "minuto": "71'", "descripcion": "Pase interior de Kroos a <span class=\"azul\">Vinicius Jr.</span> que dispara con poco ángulo, el balón da en Piqué y supera a Ter Stegen."},
         {"gol": "2-0", "minuto": "90+2'", "descripcion": "<span class=\"azul\">Mariano</span> recibe un largo saque de banda de Carvajal, se marcha de Umtiti y bate por el palo corto a Ter Stegen."}
     ],
     "penaltis": []

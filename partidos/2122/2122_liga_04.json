@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "89'",
             "amarilla": "1",
@@ -397,7 +397,7 @@
         {
             "gol": "3-2",
             "minuto": "55'",
-            "descripcion": "Pase en profundidad de Benzema a <span class=\"azul\">Vini Jr.</span>, que se planta ante el portero y lo bate por bajo."
+            "descripcion": "Pase en profundidad de Benzema a <span class=\"azul\">Vinicius Jr.</span>, que se planta ante el portero y lo bate por bajo."
         },
         {
             "gol": "4-2",
@@ -407,7 +407,7 @@
         {
             "gol": "5-2",
             "minuto": "87'",
-            "descripcion": "Penalti de Denis Suárez por zancadillear en el área a Vini Jr. que transforma <span class=\"azul\">Benzema</span>."
+            "descripcion": "Penalti de Denis Suárez por zancadillear en el área a Vinicius Jr. que transforma <span class=\"azul\">Benzema</span>."
         }
     ],
     "penaltis": []

@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "1",
@@ -414,7 +414,7 @@
         {
             "gol": "3-1",
             "minuto": "120+1'",
-            "descripcion": "Diagonal de <span class=\"azul\">Vini Jr.</span> desde su banda que termina con un disparo raso ajustado al palo con la defensa muy pasiva."
+            "descripcion": "Diagonal de <span class=\"azul\">Vinicius Jr.</span> desde su banda que termina con un disparo raso ajustado al palo con la defensa muy pasiva."
         }
     ],
     "penaltis": []

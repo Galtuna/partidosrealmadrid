@@ -330,7 +330,7 @@
     "suplentesVisitante": [
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "66'",
             "cambio": "0",
             "amarilla": "0",
@@ -408,7 +408,7 @@
         {
             "gol": "1-4",
             "minuto": "90+2'",
-            "descripcion": "Centro de Alaba desde la izquierda que remata de cabeza en el área pequeña <span class=\"azul\">Vini Jr.</span>."
+            "descripcion": "Centro de Alaba desde la izquierda que remata de cabeza en el área pequeña <span class=\"azul\">Vinicius Jr.</span>."
         }
     ],
     "penaltis": []

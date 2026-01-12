@@ -352,7 +352,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "59'",
             "cambio": "0",
             "amarilla": "0",
@@ -403,7 +403,7 @@
         {
             "gol": "2-2",
             "minuto": "73'",
-            "descripcion": "Pase en profundidad de Casemiro a <span class=\"azul\">Vini Jr.</span> que se va por velocidad y marca por bajo."
+            "descripcion": "Pase en profundidad de Casemiro a <span class=\"azul\">Vinicius Jr.</span> que se va por velocidad y marca por bajo."
         },
         {
             "gol": "3-2",
@@ -413,7 +413,7 @@
         {
             "gol": "3-3",
             "minuto": "85'",
-            "descripcion": "<span class=\"azul\">Vini Jr.</span>, desde la línea de fondo, pica el balón por encima del portero para que pegue en el palo y entre."
+            "descripcion": "<span class=\"azul\">Vinicius Jr.</span>, desde la línea de fondo, pica el balón por encima del portero para que pegue en el palo y entre."
         }
     ],
     "penaltis": []

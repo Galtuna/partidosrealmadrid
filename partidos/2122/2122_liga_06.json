@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr.",
+            "nombre": "Vinicius Jr.",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",
@@ -418,7 +418,7 @@
         {
             "gol": "6-1",
             "minuto": "84'",
-            "descripcion": "Vini Jr. se interna en el área desde la izquierda y le cede el gol en el segundo palo a <span class=\"azul\">Isco</span>."
+            "descripcion": "Vinicius Jr. se interna en el área desde la izquierda y le cede el gol en el segundo palo a <span class=\"azul\">Isco</span>."
         }
     ],
     "penaltis": []

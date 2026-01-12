@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "73'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -48,7 +48,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "41'", "descripcion": "Espectacular obús de <span class=\"azul\">Modrić</span> desde fuera del área tras recoger un rechace de un saque de esquina."},
-        {"gol": "2-0", "minuto": "83'", "descripcion": "Pase filtrado de Mbappé a la entrada de <span class=\"azul\">Vini Jr.</span> que supera a Gazzaniga en su salida."}
+        {"gol": "2-0", "minuto": "83'", "descripcion": "Pase filtrado de Mbappé a la entrada de <span class=\"azul\">Vinicius Jr.</span> que supera a Gazzaniga en su salida."}
     ],
     "penaltis": []
 }

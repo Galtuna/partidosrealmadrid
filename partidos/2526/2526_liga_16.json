@@ -37,7 +37,7 @@
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "89'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "89'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -49,7 +49,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "24'", "descripcion": "Bellingham lanza en carrera a <span class=\"azul\">Mbappé</span>, que llega a la frontal, recorta a Tenaglia y dispara."},
         {"gol": "1-1", "minuto": "68'", "descripcion": "Pase profundo de Antonio Blanco a <span class=\"azul\">Carlos Vicente</span>, que hace un gran control y no falla ante Courtois."},
-        {"gol": "1-2", "minuto": "76'", "descripcion": "Vini Jr. se interna por la izquierda, supera a Otto y pone el balón para que lo remate <span class=\"azul\">Rodrygo</span>."}
+        {"gol": "1-2", "minuto": "76'", "descripcion": "Vinicius Jr. se interna por la izquierda, supera a Otto y pone el balón para que lo remate <span class=\"azul\">Rodrygo</span>."}
     ],
     "penaltis": []
 }

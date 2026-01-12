@@ -17,7 +17,7 @@
         {"dorsal": 19, "nombre": "Ceballos", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 30, "nombre": "Mastantuono", "salida": "0", "cambio": "75'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "82'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 1}
     ],
     "suplentesLocal": [
@@ -47,8 +47,8 @@
         {"dorsal": 10, "nombre": "Parejo", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "47'", "descripcion": "<span class=\"azul\">Vini Jr.</span> desborda a Mouriño, dispara con poco ángulo, el balón lo desvía Comesaña y entra por el primer palo."},
-        {"gol": "2-0", "minuto": "69'", "descripcion": "Penalti de Rafa Marín sobre <span class=\"azul\">Vini Jr.</span> que él mismo se encarga de transformar."},
+        {"gol": "1-0", "minuto": "47'", "descripcion": "<span class=\"azul\">Vinicius Jr.</span> desborda a Mouriño, dispara con poco ángulo, el balón lo desvía Comesaña y entra por el primer palo."},
+        {"gol": "2-0", "minuto": "69'", "descripcion": "Penalti de Rafa Marín sobre <span class=\"azul\">Vinicius Jr.</span> que él mismo se encarga de transformar."},
         {"gol": "2-1", "minuto": "73'", "descripcion": "<span class=\"azul\">Mikautadze</span> recibe en la frontal totalmente solo y se saca un fuerte disparo ajustado al palo de Courtois."},
         {"gol": "3-1", "minuto": "81'", "descripcion": "Robo arriba de Bellingham, <span class=\"azul\">Mbappé</span> filtra para Brahim y este le devuelve el balón para que el francés marque a placer."}
     ],

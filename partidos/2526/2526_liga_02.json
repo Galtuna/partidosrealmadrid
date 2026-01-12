@@ -42,15 +42,15 @@
     ],
     "suplentesVisitante": [
         {"dorsal": 21, "nombre": "Brahim", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "63'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "63'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Gonzalo", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 12, "nombre": "Alexander-Arnold", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Ceballos", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "37'", "descripcion": "Pase profundo de Arda Güler a <span class=\"azul\">Mbappé</span> que con el control supera a Dani Calvo y cruza ante la salida de Escandell."},
-        {"gol": "0-2", "minuto": "83'", "descripcion": "Vini Jr. roba un balón muy arriba, avanza hasta la frontal y cede a <span class=\"azul\">Mbappé</span> que marca de disparo cruzado."},
-        {"gol": "0-3", "minuto": "90+3'", "descripcion": "Brahim se interna por la derecha y la pone en la frontal donde <span class=\"azul\">Vini Jr.</span> controla y remata ajustado al palo."}
+        {"gol": "0-2", "minuto": "83'", "descripcion": "Vinicius Jr. roba un balón muy arriba, avanza hasta la frontal y cede a <span class=\"azul\">Mbappé</span> que marca de disparo cruzado."},
+        {"gol": "0-3", "minuto": "90+3'", "descripcion": "Brahim se interna por la derecha y la pone en la frontal donde <span class=\"azul\">Vinicius Jr.</span> controla y remata ajustado al palo."}
     ],
     "penaltis": []
 }

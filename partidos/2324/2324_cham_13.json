@@ -306,7 +306,7 @@
         },
         {
             "dorsal": "7",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "90+4'",
             "amarilla": "1",
@@ -371,7 +371,7 @@
         {
             "gol": "0-2",
             "minuto": "83'",
-            "descripcion": "Error en salida de Maatsen que entrega el balón a Bellingham, y este cede a <span class=\"azul\">Vini Jr.</span> que no perdona."
+            "descripcion": "Error en salida de Maatsen que entrega el balón a Bellingham, y este cede a <span class=\"azul\">Vinicius Jr.</span> que no perdona."
         }
     ],
     "penaltis": []

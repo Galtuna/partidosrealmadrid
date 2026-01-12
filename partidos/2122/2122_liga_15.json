@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "90+2'",
             "amarilla": "0",
@@ -387,7 +387,7 @@
         {
             "gol": "2-1",
             "minuto": "87'",
-            "descripcion": "<span class=\"azul\">Vini Jr.</span> recibe en la banda, conduce hasta la frontal y se saca un derechazo que entra por toda la escuadra."
+            "descripcion": "<span class=\"azul\">Vinicius Jr.</span> recibe en la banda, conduce hasta la frontal y se saca un derechazo que entra por toda la escuadra."
         }
     ],
     "penaltis": []

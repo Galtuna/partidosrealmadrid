@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "1",
@@ -349,7 +349,7 @@
         {
             "gol": "1-1",
             "minuto": "61'",
-            "descripcion": "Vini Jr. recupera tras un error de Donnarumma al intentar salir jugando y le cede el gol a <span class=\"azul\">Benzema</span>."
+            "descripcion": "Vinicius Jr. recupera tras un error de Donnarumma al intentar salir jugando y le cede el gol a <span class=\"azul\">Benzema</span>."
         },
         {
             "gol": "2-1",
@@ -359,7 +359,7 @@
         {
             "gol": "3-1",
             "minuto": "78'",
-            "descripcion": "Rodrygo roba y lanza a Vini Jr. nada más sacar de centro el PSG, Marquinhos despeja mal y <span class=\"azul\">Benzema</span> marca."
+            "descripcion": "Rodrygo roba y lanza a Vinicius Jr. nada más sacar de centro el PSG, Marquinhos despeja mal y <span class=\"azul\">Benzema</span> marca."
         }
     ],
     "penaltis": []

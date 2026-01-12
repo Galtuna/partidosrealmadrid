@@ -37,7 +37,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "59'", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -50,7 +50,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "14'", "descripcion": "Centro de Giuliano Simeone desde la derecha que remata de cabeza en el área pequeña <span class=\"azul\">Le Normand</span>."},
         {"gol": "1-1", "minuto": "25'", "descripcion": "Pase profundo de Arda Güler a la espalda de Lenglet para <span class=\"azul\">Mbappé</span> que define de tiro cruzado."},
-        {"gol": "1-2", "minuto": "36'", "descripcion": "Vini Jr. llega a línea de fondo y centra al punto de penalti donde <span class=\"azul\">Arda Güler</span> remata de primeras."},
+        {"gol": "1-2", "minuto": "36'", "descripcion": "Vinicius Jr. llega a línea de fondo y centra al punto de penalti donde <span class=\"azul\">Arda Güler</span> remata de primeras."},
         {"gol": "2-2", "minuto": "45+3'", "descripcion": "Centro al área de Koke que remata de cabeza <span class=\"azul\">Sørloth</span> ganándole el salto a Huijsen."},
         {"gol": "3-2", "minuto": "51'", "descripcion": "Penalti de Arda Güler a Nico González que transforma <span class=\"azul\">Julián Álvarez</span>."},
         {"gol": "4-2", "minuto": "63'", "descripcion": "Falta directa desde fuera del área que convierte <span class=\"azul\">Julián Álvarez</span> por encima de la barrera."},

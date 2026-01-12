@@ -17,7 +17,7 @@
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "James", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -49,7 +49,7 @@
         {"gol": "0-3", "minuto": "56'", "descripcion": "Balón rechazado en el área que le cae a <span class=\"azul\">Isak</span> y este fusila a Aréola por la escuadra del palo corto."},
         {"gol": "1-3", "minuto": "59'", "descripcion": "Brahim encuentra a <span class=\"azul\">Marcelo</span> desmarcado en el área y el brasileño bate a Remiro por el palo corto."},
         {"gol": "1-4", "minuto": "69'", "descripcion": "Isak gana la espalda de Marcelo y mete un centro raso al borde del área pequeña donde remata <span class=\"azul\">Merino</span> muy solo."},
-        {"gol": "2-4", "minuto": "81'", "descripcion": "Balon largo de Marcelo que se lleva Vini Jr. y ante la salida de Remiro cede atrás para que marque <span class=\"azul\">Rodrygo</span>."},
+        {"gol": "2-4", "minuto": "81'", "descripcion": "Balon largo de Marcelo que se lleva Vinicius Jr. y ante la salida de Remiro cede atrás para que marque <span class=\"azul\">Rodrygo</span>."},
         {"gol": "3-4", "minuto": "90+3'", "descripcion": "Benzema recoge un rechace de Remiro a disparo de Sergio Ramos y centra para que <span class=\"azul\">Nacho</span> cabecee a la red."}
     ],
     "penaltis": []

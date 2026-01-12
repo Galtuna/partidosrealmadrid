@@ -306,7 +306,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "1",
@@ -387,12 +387,12 @@
         {
             "gol": "2-1",
             "minuto": "21'",
-            "descripcion": "<span class=\"azul\">Vini Jr.</span> recibe en el pico del área, encara y marca con un potente disparo cruzado."
+            "descripcion": "<span class=\"azul\">Vinicius Jr.</span> recibe en el pico del área, encara y marca con un potente disparo cruzado."
         },
         {
             "gol": "2-2",
             "minuto": "36'",
-            "descripcion": "Alisson intenta salir jugando pero su pase rebota contra el pie de <span class=\"azul\">Vini Jr.</span> y entra en la portería."
+            "descripcion": "Alisson intenta salir jugando pero su pase rebota contra el pie de <span class=\"azul\">Vinicius Jr.</span> y entra en la portería."
         },
         {
             "gol": "2-3",
@@ -402,12 +402,12 @@
         {
             "gol": "2-4",
             "minuto": "55'",
-            "descripcion": "Pared en la frontal entre Vini Jr. y <span class=\"azul\">Benzema</span>, que dispara, el balón toca en Joe Gomez y despista a Alisson."
+            "descripcion": "Pared en la frontal entre Vinicius Jr. y <span class=\"azul\">Benzema</span>, que dispara, el balón toca en Joe Gomez y despista a Alisson."
         },
         {
             "gol": "2-5",
             "minuto": "67'",
-            "descripcion": "Gran salida desde atrás de Modrić, que abre a Vini Jr. y este a <span class=\"azul\">Benzema</span>, que recorta a Alisson y marca a placer."
+            "descripcion": "Gran salida desde atrás de Modrić, que abre a Vinicius Jr. y este a <span class=\"azul\">Benzema</span>, que recorta a Alisson y marca a placer."
         }
     ],
     "penaltis": []

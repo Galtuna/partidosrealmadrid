@@ -37,7 +37,7 @@
         {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "46'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "61'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 4, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -48,11 +48,11 @@
     ],    
     "goles": [
         {"gol": "1-0", "minuto": "8'", "descripcion": "El Kaabi deja de cara en la frontal para <span class=\"azul\">Chiquinho</span>, que se saca un fuerte disparo ajustado al palo."},
-        {"gol": "1-1", "minuto": "22'", "descripcion": "Gran pase profundo con el exterior de Vini Jr. para <span class=\"azul\">Mbappé</span> que define entre las piernas de Tzolakis."},
+        {"gol": "1-1", "minuto": "22'", "descripcion": "Gran pase profundo con el exterior de Vinicius Jr. para <span class=\"azul\">Mbappé</span> que define entre las piernas de Tzolakis."},
         {"gol": "1-2", "minuto": "24'", "descripcion": "Arda Güler gana línea de fondo y centra al corazón del área para que <span class=\"azul\">Mbappé</span> remate de cabeza."},
         {"gol": "1-3", "minuto": "29'", "descripcion": "Pase de Camavinga que supera a la defensa y <span class=\"azul\">Mbappé</span> controla, se perfila y dispara con el interior."},
         {"gol": "2-3", "minuto": "52'", "descripcion": "Centro desde la derecha de Hezze que cabecea totalmente solo <span class=\"azul\">Taremi</span>."},
-        {"gol": "2-4", "minuto": "60'", "descripcion": "Vini Jr. desborda a Rotses por la izquierda, llega a línea de fondo y le regala el gol a <span class=\"azul\">Mbappé</span>."},
+        {"gol": "2-4", "minuto": "60'", "descripcion": "Vinicius Jr. desborda a Rotses por la izquierda, llega a línea de fondo y le regala el gol a <span class=\"azul\">Mbappé</span>."},
         {"gol": "3-4", "minuto": "81'", "descripcion": "Centro de Strefezza que remata de cabeza cruzado <span class=\"azul\">El Kaabi</span>, de nuevo totalmente solo."}
     ],
     "penaltis": []

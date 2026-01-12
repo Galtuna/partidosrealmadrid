@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "82'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -47,7 +47,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "34'", "descripcion": "Error de Sportiello que entrega el balón a Modrić, y este cede a <span class=\"azul\">Benzema</span> que no perdona."},
-        {"gol": "2-0", "minuto": "60'", "descripcion": "Penalti de Tolói por zancadilla a Vini Jr. que transforma <span class=\"azul\">Sergio Ramos</span>."},
+        {"gol": "2-0", "minuto": "60'", "descripcion": "Penalti de Tolói por zancadilla a Vinicius Jr. que transforma <span class=\"azul\">Sergio Ramos</span>."},
         {"gol": "2-1", "minuto": "83'", "descripcion": "Falta directa desde fuera del área que convierte <span class=\"azul\">Muriel</span> por encima de la barrera."},
         {"gol": "3-1", "minuto": "85'", "descripcion": "Diagonal de Lucas Vázquez que llega a la frontal y entrega a <span class=\"azul\">Asensio</span> que dispara raso al palo corto."}
     ],

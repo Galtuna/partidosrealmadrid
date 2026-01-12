@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "75'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "75'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -47,7 +47,7 @@
         {"dorsal": 7, "nombre": "Ferrán Torres", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "5'", "descripcion": "Vini Jr. lanza a la contra a <span class=\"azul\">Mbappé</span> que llega hasta el área contraria y cruza ante Szczęsny."},
+        {"gol": "1-0", "minuto": "5'", "descripcion": "Vinicius Jr. lanza a la contra a <span class=\"azul\">Mbappé</span> que llega hasta el área contraria y cruza ante Szczęsny."},
         {"gol": "1-1", "minuto": "22'", "descripcion": "Descarga de Lewandowski para <span class=\"azul\">Lamine Yamal</span> que, desde la frontal, la pone en la base del palo de Courtois."},
         {"gol": "1-2", "minuto": "36'", "descripcion": "Penalti de Camavinga a Gavi que transforma <span class=\"azul\">Lewandowski</span>."},
         {"gol": "1-3", "minuto": "39'", "descripcion": "Gran centro de Koundé desde la derecha que remata de cabeza entrando en el segundo palo <span class=\"azul\">Raphinha</span>."},

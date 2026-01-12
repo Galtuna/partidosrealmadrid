@@ -16,7 +16,7 @@
         {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "89'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 30, "nombre": "Mastantuono", "salida": "0", "cambio": "77'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},        
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "89'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Gonzalo", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "22'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Militão</span> desde fuera del área que entra muy cerca de la escuadra."},
-        {"gol": "2-0", "minuto": "47'", "descripcion": "Vini Jr. llega al pico del área y cede atrás para que <span class=\"azul\">Mbappé</span> sorprenda a Dmitrović con un disparo seco."}
+        {"gol": "2-0", "minuto": "47'", "descripcion": "Vinicius Jr. llega al pico del área y cede atrás para que <span class=\"azul\">Mbappé</span> sorprenda a Dmitrović con un disparo seco."}
     ],
     "penaltis": []
 }

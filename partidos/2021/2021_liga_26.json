@@ -40,7 +40,7 @@
     ],
     "suplentesVisitante": [
         {"dorsal": 15, "nombre": "Valverde", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
         {"gol": "1-0", "minuto": "15'", "descripcion": "Balón interior de Llorente para <span class=\"azul\">Luis Suárez</span> que define con el exterior ante Courtois."},

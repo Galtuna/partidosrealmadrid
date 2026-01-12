@@ -23,7 +23,7 @@
     "suplentesLocal": [
         {"dorsal": 11, "nombre": "Asensio", "salida": "38'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Isco", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
         {"dorsal": 1, "nombre": "Rui Silva", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

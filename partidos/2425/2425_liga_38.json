@@ -22,7 +22,7 @@
     ],
     "suplentesLocal": [
         {"dorsal": 18, "nombre": "Vallejo", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 30, "nombre": "Gonzalo", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 36, "nombre": "Chema", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
@@ -48,7 +48,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "38'", "descripcion": "Penalti por mano de Pablo Marín que lanza <span class=\"azul\">Mbappé</span>, desvía Marrero y el francés aprovecha el rechace."},
-        {"gol": "2-0", "minuto": "83'", "descripcion": "Balón filtrado de Vini Jr. para <span class=\"azul\">Mbappé</span> que remata raso con la zurda a la base del palo corto."}
+        {"gol": "2-0", "minuto": "83'", "descripcion": "Balón filtrado de Vinicius Jr. para <span class=\"azul\">Mbappé</span> que remata raso con la zurda a la base del palo corto."}
     ],
     "penaltis": []
 }

@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "75'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -46,7 +46,7 @@
         {"dorsal": 10, "nombre": "Muniain", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "45+1'", "descripcion": "Vini Jr. la deja de cara en la frontal a <span class=\"azul\">Kroos</span> que dispara raso a la base del palo."},
+        {"gol": "1-0", "minuto": "45+1'", "descripcion": "Vinicius Jr. la deja de cara en la frontal a <span class=\"azul\">Kroos</span> que dispara raso a la base del palo."},
         {"gol": "1-1", "minuto": "52'", "descripcion": "Contragolpe que montan entre De Marcos y <span class=\"azul\">Capa</span> y este, a la segunda, consigue batir a Courtois."},
         {"gol": "2-1", "minuto": "74'", "descripcion": "Centro preciso de Carvajal para la entrada de <span class=\"azul\">Benzema</span> que cabecea picado a la red."},
         {"gol": "3-1", "minuto": "90+2'", "descripcion": "Modrić filtra un balón al área para <span class=\"azul\">Benzema</span> que controla y dispara raso cruzado."}

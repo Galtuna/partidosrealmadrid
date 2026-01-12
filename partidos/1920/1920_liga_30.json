@@ -37,7 +37,7 @@
         {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "89'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "James", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -48,7 +48,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "89'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "50'", "descripcion": "Penalti de Diego Llorente sobre Vini Jr. que transforma <span class=\"azul\">Sergio Ramos</span>."},
+        {"gol": "0-1", "minuto": "50'", "descripcion": "Penalti de Diego Llorente sobre Vinicius Jr. que transforma <span class=\"azul\">Sergio Ramos</span>."},
         {"gol": "0-2", "minuto": "70'", "descripcion": "Centro de Valverde desde la línea de fondo para <span class=\"azul\">Benzema</span> que controla con el hombro y remata raso."},
         {"gol": "1-2", "minuto": "83'", "descripcion": "Centro de Roberto López al segundo palo donde aparece <span class=\"azul\">Merino</span> y su disparo pega en el larguero y entra."}
     ],

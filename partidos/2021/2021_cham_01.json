@@ -22,7 +22,7 @@
     ],
     "suplentesLocal": [
         {"dorsal": 9, "nombre": "Benzema", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "59'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "59'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 8, "nombre": "Kroos", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
@@ -48,7 +48,7 @@
         {"gol": "0-2", "minuto": "33'", "descripcion": "Rechazo de Courtois a disparo de Tetê, y <span class=\"azul\">Varane</span>, intentando evitar que llegue Dentinho, introduce el balón en su portería."},
         {"gol": "0-3", "minuto": "42'", "descripcion": "Contra que conduce Tetê, llega al área y la deja de tacón para la llegada de <span class=\"azul\">Solomon</span> que no perdona."},
         {"gol": "1-3", "minuto": "54'", "descripcion": "Gran derechazo de <span class=\"azul\">Modrić</span> desde fuera del área que entra por toda la escuadra izquierda de Trubin."},
-        {"gol": "2-3", "minuto": "59'", "descripcion": "Presión y robo de <span class=\"azul\">Vini Jr.</span> a Marlos que le permite plantarse ante Trubin y batirlo por abajo."}
+        {"gol": "2-3", "minuto": "59'", "descripcion": "Presión y robo de <span class=\"azul\">Vinicius Jr.</span> a Marlos que le permite plantarse ante Trubin y batirlo por abajo."}
     ],
     "penaltis": []
 }

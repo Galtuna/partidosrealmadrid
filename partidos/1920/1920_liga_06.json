@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "0", "cambio": "82'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 25, "nombre": "Vini Jr.", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Jović", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -43,7 +43,7 @@
         {"dorsal": 10, "nombre": "Roberto Torres", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "36'", "descripcion": "<span class=\"azul\">Vini Jr.</span> se saca un tremendo disparo desde fuera del área que roza en Raúl Navas y entra por la escuadra."},
+        {"gol": "1-0", "minuto": "36'", "descripcion": "<span class=\"azul\">Vinicius Jr.</span> se saca un tremendo disparo desde fuera del área que roza en Raúl Navas y entra por la escuadra."},
         {"gol": "2-0", "minuto": "72'", "descripcion": "<span class=\"azul\">Rodrygo</span> hace la diagonal desde la izquierda, entra en el área, encara a Lillo y dispara raso cruzado a la red."}
     ],
     "penaltis": []

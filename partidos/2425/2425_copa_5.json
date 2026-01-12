@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "106'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Endrick", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -51,10 +51,10 @@
     ],
     "goles": [
         {"gol": "0-1", "minuto": "16'", "descripcion": "Balón que peina Oyarzabal a la espalda de Lucas Vázquez donde entra <span class=\"azul\">Barrenetxea</span> que bate a Lunin entre sus piernas."},
-        {"gol": "1-1", "minuto": "30'", "descripcion": "Extraordinario pase profundo de Vini Jr. con el exterior para <span class=\"azul\">Endrick</span> que la pica por encima de Remiro."},
+        {"gol": "1-1", "minuto": "30'", "descripcion": "Extraordinario pase profundo de Vinicius Jr. con el exterior para <span class=\"azul\">Endrick</span> que la pica por encima de Remiro."},
         {"gol": "1-2", "minuto": "72'", "descripcion": "Pablo Marín supera a Camavinga, llega a línea de fondo y su pase atrás lo desvía <span class=\"azul\">Alaba</span> al fondo de su portería."},
         {"gol": "1-3", "minuto": "80'", "descripcion": "Disparo de <span class=\"azul\">Oyarzabal</span> desde la frontal que pega en Alaba y se vuelve imposible para Lunin."},
-        {"gol": "2-3", "minuto": "82'", "descripcion": "Vini Jr. desborda a Traoré y pone un centro medido para la llegada y el remate de <span class=\"azul\">Bellingham</span>."},
+        {"gol": "2-3", "minuto": "82'", "descripcion": "Vinicius Jr. desborda a Traoré y pone un centro medido para la llegada y el remate de <span class=\"azul\">Bellingham</span>."},
         {"gol": "3-3", "minuto": "86'", "descripcion": "Córner que bota Rodrygo al punto de penalti donde remata de cabeza <span class=\"azul\">Tchouaméni</span>."},
         {"gol": "3-4", "minuto": "90+3'", "descripcion": "Falta lateral que bota Sergio Gómez, falla Lunin en la salida y <span class=\"azul\">Oyarzabal</span> cabecea a placer."},
         {"gol": "4-4", "minuto": "115'", "descripcion": "Córner que bota Arda Güler al primer palo para el remate de cabeza cruzado de <span class=\"azul\">Rüdiger</span>."}

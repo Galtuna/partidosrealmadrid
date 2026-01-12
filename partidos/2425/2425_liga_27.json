@@ -17,7 +17,7 @@
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -46,8 +46,8 @@
         {"dorsal": 17, "nombre": "Unai López", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "30'", "descripcion": "Balón al espacio de Vini Jr. para <span class=\"azul\">Mbappé</span> que llega al área, recorta a Lejeune y marca de disparo cruzado."},
-        {"gol": "2-0", "minuto": "34'", "descripcion": "Jugada de <span class=\"azul\">Vini Jr.</span> que saca de su sitio a Lejeune, se va de él, encara a Rațiu y dispara entre sus piernas."},
+        {"gol": "1-0", "minuto": "30'", "descripcion": "Balón al espacio de Vinicius Jr. para <span class=\"azul\">Mbappé</span> que llega al área, recorta a Lejeune y marca de disparo cruzado."},
+        {"gol": "2-0", "minuto": "34'", "descripcion": "Jugada de <span class=\"azul\">Vinicius Jr.</span> que saca de su sitio a Lejeune, se va de él, encara a Rațiu y dispara entre sus piernas."},
         {"gol": "2-1", "minuto": "45+2'", "descripcion": "Potente disparo de <span class=\"azul\">Pedro Díaz</span> desde la frontal que pega en el larguero y bota dentro."}
     ],
     "penaltis": []

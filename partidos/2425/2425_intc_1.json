@@ -17,7 +17,7 @@
         {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -47,9 +47,9 @@
         {"dorsal": 18, "nombre": "Alexéi Domínguez", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "37'", "descripcion": "Pase interior de Bellingham a Vini Jr. que recorta al portero tras una bicicleta y le regala el gol a <span class=\"azul\">Mbappé</span>."},
+        {"gol": "1-0", "minuto": "37'", "descripcion": "Pase interior de Bellingham a Vinicius Jr. que recorta al portero tras una bicicleta y le regala el gol a <span class=\"azul\">Mbappé</span>."},
         {"gol": "2-0", "minuto": "53'", "descripcion": "<span class=\"azul\">Rodrygo</span> recibe en el borde del área y tras un par de recortes la pone con la derecha ajustada al palo."},
-        {"gol": "3-0", "minuto": "84'", "descripcion": "Penalti de Idrissi a Lucas Vázquez que transforma <span class=\"azul\">Vini Jr.</span>."}
+        {"gol": "3-0", "minuto": "84'", "descripcion": "Penalti de Idrissi a Lucas Vázquez que transforma <span class=\"azul\">Vinicius Jr.</span>."}
     ],
     "penaltis": []
 }

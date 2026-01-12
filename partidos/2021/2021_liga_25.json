@@ -22,7 +22,7 @@
     ],
     "suplentesLocal": [
         {"dorsal": 25, "nombre": "Rodrygo", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 34, "nombre": "Hugo Duro", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Valverde", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
@@ -47,7 +47,7 @@
     ],
     "goles": [
         {"gol": "0-1", "minuto": "55'", "descripcion": "Centro de Monreal desde la izquierda que remata de cabeza a la escuadra <span class=\"azul\">Portu</span>."},
-        {"gol": "1-1", "minuto": "89'", "descripcion": "Valverde proyecta de tacón a Lucas Vázquez que la pone atrás para que <span class=\"azul\">Vini Jr.</span> remate a gol."}
+        {"gol": "1-1", "minuto": "89'", "descripcion": "Valverde proyecta de tacón a Lucas Vázquez que la pone atrás para que <span class=\"azul\">Vinicius Jr.</span> remate a gol."}
     ],
     "penaltis": []
 }

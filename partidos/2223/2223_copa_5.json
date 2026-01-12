@@ -284,7 +284,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "86'",
             "amarilla": "1",
@@ -355,7 +355,7 @@
         {
             "gol": "0-1",
             "minuto": "45+1'",
-            "descripcion": "Contragolpe que conduce <span class=\"azul\">Vini Jr.</span> por el centro, y cede a Benzema que se la devuelve para marcar por bajo."
+            "descripcion": "Contragolpe que conduce <span class=\"azul\">Vinicius Jr.</span> por el centro, y cede a Benzema que se la devuelve para marcar por bajo."
         },
         {
             "gol": "0-2",
@@ -365,12 +365,12 @@
         {
             "gol": "0-3",
             "minuto": "58'",
-            "descripcion": "Penalti de Kessié por pisar a Vini Jr. que transforma <span class=\"azul\">Benzema</span>."
+            "descripcion": "Penalti de Kessié por pisar a Vinicius Jr. que transforma <span class=\"azul\">Benzema</span>."
         },
         {
             "gol": "0-4",
             "minuto": "80'",
-            "descripcion": "Nueva contra del Madrid que culmina <span class=\"azul\">Benzema</span> tras una gran asistencia de Vini Jr."
+            "descripcion": "Nueva contra del Madrid que culmina <span class=\"azul\">Benzema</span> tras una gran asistencia de Vinicius Jr."
         }
     ],
     "penaltis": []

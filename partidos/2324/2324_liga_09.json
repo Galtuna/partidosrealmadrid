@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "7",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "72'",
             "amarilla": "0",
@@ -398,12 +398,12 @@
         {
             "gol": "3-0",
             "minuto": "65'",
-            "descripcion": "Pase en profundidad de Valverde a <span class=\"azul\">Vini Jr.</span> que se planta ante el portero, lo regatea y marca a placer."
+            "descripcion": "Pase en profundidad de Valverde a <span class=\"azul\">Vinicius Jr.</span> que se planta ante el portero, lo regatea y marca a placer."
         },
         {
             "gol": "4-0",
             "minuto": "70'",
-            "descripcion": "Balón largo que controla Vini Jr. de espaldas en la frontal, aguanta y lo deja para el disparo de <span class=\"azul\">Joselu</span>."
+            "descripcion": "Balón largo que controla Vinicius Jr. de espaldas en la frontal, aguanta y lo deja para el disparo de <span class=\"azul\">Joselu</span>."
         }
     ],
     "penaltis": []

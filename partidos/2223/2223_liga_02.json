@@ -284,7 +284,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "83'",
             "amarilla": "0",
@@ -381,12 +381,12 @@
         {
             "gol": "1-3",
             "minuto": "56'",
-            "descripcion": "Modrić lanza en velocidad a <span class=\"azul\">Vini Jr.</span> que se planta ante el portero, lo regatea y marca a puerta vacía."
+            "descripcion": "Modrić lanza en velocidad a <span class=\"azul\">Vinicius Jr.</span> que se planta ante el portero, lo regatea y marca a puerta vacía."
         },
         {
             "gol": "1-4",
             "minuto": "66'",
-            "descripcion": "Contragolpe que conduce Tchouaméni, Vini Jr. busca a Benzema pero <span class=\"azul\">Valverde</span> llega en carrera y marca de disparo cruzado."
+            "descripcion": "Contragolpe que conduce Tchouaméni, Vinicius Jr. busca a Benzema pero <span class=\"azul\">Valverde</span> llega en carrera y marca de disparo cruzado."
         }
     ],
     "penaltis": []

@@ -37,7 +37,7 @@
         {"dorsal": 30, "nombre": "Mastantuono", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 20, "nombre": "Fran García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "82'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -48,8 +48,8 @@
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "28'", "descripcion": "<span class=\"azul\">Vini Jr.</span> recibe escorado en el área y se saca un disparo con el exterior al palo largo."},
-        {"gol": "0-2", "minuto": "38'", "descripcion": "Rápido contragolpe que conduce Vini Jr. y abre a <span class=\"azul\">Mastantuono</span> que con la diestra la pone en la escuadra."},
+        {"gol": "0-1", "minuto": "28'", "descripcion": "<span class=\"azul\">Vinicius Jr.</span> recibe escorado en el área y se saca un disparo con el exterior al palo largo."},
+        {"gol": "0-2", "minuto": "38'", "descripcion": "Rápido contragolpe que conduce Vinicius Jr. y abre a <span class=\"azul\">Mastantuono</span> que con la diestra la pone en la escuadra."},
         {"gol": "1-2", "minuto": "54'", "descripcion": "Centro de Iván Romero que toca Huijsen, el balón supera a Courtois y <span class=\"azul\">Etta Eyong</span> lo empuja sobre la línea."},
         {"gol": "1-3", "minuto": "64'", "descripcion": "Penalti de Elgezabal a <span class=\"azul\">Mbappé</span> que él mismo se encarga de transformar a lo panenka."},
         {"gol": "1-4", "minuto": "66'", "descripcion": "Pase filtrado de Arda Güler a <span class=\"azul\">Mbappé</span> que dribla a Ryan y marca a placer."}

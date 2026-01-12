@@ -306,7 +306,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "0",
             "amarilla": "1",
@@ -393,12 +393,12 @@
         {
             "gol": "1-1",
             "minuto": "86'",
-            "descripcion": "Disparo escorado de <span class=\"azul\">Vini Jr.</span> que pega en Foulquier y se cuela por el palo corto."
+            "descripcion": "Disparo escorado de <span class=\"azul\">Vinicius Jr.</span> que pega en Foulquier y se cuela por el palo corto."
         },
         {
             "gol": "1-2",
             "minuto": "88'",
-            "descripcion": "Centro de Vini Jr. desde la izquierda que cabecea <span class=\"azul\">Benzema</span> adelantándose a Mamardashvili."
+            "descripcion": "Centro de Vinicius Jr. desde la izquierda que cabecea <span class=\"azul\">Benzema</span> adelantándose a Mamardashvili."
         }
     ],
     "penaltis": []

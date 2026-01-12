@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 30, "nombre": "Mastantuono", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "90+5'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -50,7 +50,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "18'", "descripcion": "Córner que bota Pablo Torre y remata de cabeza <span class=\"azul\">Muriqi</span>."},
         {"gol": "1-1", "minuto": "37'", "descripcion": "Centro al segundo palo de Carreras, Huijsen la devuelve al área pequeña y <span class=\"azul\">Arda Güler</span> la empuja de cabeza."},
-        {"gol": "2-1", "minuto": "38'", "descripcion": "Valverde roba y lanza en carrera a <span class=\"azul\">Vini Jr.</span> que llega hasta el área, se la pone en la izquierda y dispara cruzado."}
+        {"gol": "2-1", "minuto": "38'", "descripcion": "Valverde roba y lanza en carrera a <span class=\"azul\">Vinicius Jr.</span> que llega hasta el área, se la pone en la izquierda y dispara cruzado."}
     ],
     "penaltis": []
 }

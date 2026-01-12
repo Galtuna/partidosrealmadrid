@@ -37,7 +37,7 @@
         {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "90+2'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
@@ -49,8 +49,8 @@
         {"gol": "1-0", "minuto": "19'", "descripcion": "Balón de Grealish a la espalda de Asencio que baja con el pecho Gvardiol para que <span class=\"azul\">Haaland</span> fusile a Courtois."},
         {"gol": "1-1", "minuto": "60'", "descripcion": "Ceballos mete un balón en el área tras un falta rechazada por la barrera que remata en semifallo <span class=\"azul\">Mbappé</span>."},
         {"gol": "2-1", "minuto": "80'", "descripcion": "Penalti de Ceballos a Foden que transforma <span class=\"azul\">Haaland</span>."},
-        {"gol": "2-2", "minuto": "86'", "descripcion": "<span class=\"azul\">Brahim</span> empalma a la red un mal rechace de Ederson a disparo de Vini Jr."},
-        {"gol": "2-3", "minuto": "90+2'", "descripcion": "Vini Jr. se lleva el balón ante Lewis y su intento de vaselina a Ederson lo empuja a la red <span class=\"azul\">Bellingham</span>."}
+        {"gol": "2-2", "minuto": "86'", "descripcion": "<span class=\"azul\">Brahim</span> empalma a la red un mal rechace de Ederson a disparo de Vinicius Jr."},
+        {"gol": "2-3", "minuto": "90+2'", "descripcion": "Vinicius Jr. se lleva el balón ante Lewis y su intento de vaselina a Ederson lo empuja a la red <span class=\"azul\">Bellingham</span>."}
     ],
     "penaltis": []
 }

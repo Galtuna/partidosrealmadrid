@@ -38,7 +38,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "87'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "87'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
         {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -46,7 +46,7 @@
         {"dorsal": 20, "nombre": "Fran García", "salida": "90'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "64'", "descripcion": "Centro de Vini Jr. desde la izquierda que llega al segundo palo donde <span class=\"azul\">Militão</span> controla y fusila a Oblak."},
+        {"gol": "0-1", "minuto": "64'", "descripcion": "Centro de Vinicius Jr. desde la izquierda que llega al segundo palo donde <span class=\"azul\">Militão</span> controla y fusila a Oblak."},
         {"gol": "1-1", "minuto": "90+5'", "descripcion": "Pase en profundidad de Javi Galán a <span class=\"azul\">Correa</span> que rompe el fuera de juego, recorta a Courtois y marca."}
     ],
     "penaltis": []

@@ -23,7 +23,7 @@
     "suplentesLocal": [
         {"dorsal": 2, "nombre": "Carvajal", "salida": "58'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Asensio", "salida": "58'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "58'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "58'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Borja Mayoral", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
@@ -47,7 +47,7 @@
         {"dorsal": 15, "nombre": "El Yamiq", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "65'", "descripcion": "Pérdida de Bruno en salida y tras varios rebotes el balón acaba cayendo a <span class=\"azul\">Vini Jr.</span> que no perdona."}
+        {"gol": "1-0", "minuto": "65'", "descripcion": "Pérdida de Bruno en salida y tras varios rebotes el balón acaba cayendo a <span class=\"azul\">Vinicius Jr.</span> que no perdona."}
     ],
     "penaltis": []
 }

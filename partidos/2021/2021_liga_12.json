@@ -37,14 +37,14 @@
         {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 25, "nombre": "Rodrygo", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
         {"dorsal": 11, "nombre": "Asensio", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "55'", "descripcion": "Centro de Mendy al que no llega Vini Jr. pero despista a <span class=\"azul\">Bounou</span> que desvía el balón hacia su portería."}
+        {"gol": "0-1", "minuto": "55'", "descripcion": "Centro de Mendy al que no llega Vinicius Jr. pero despista a <span class=\"azul\">Bounou</span> que desvía el balón hacia su portería."}
     ],
     "penaltis": []
 }

@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "87'",
             "amarilla": "0",
@@ -377,12 +377,12 @@
         {
             "gol": "1-0",
             "minuto": "16'",
-            "descripcion": "Vini Jr. la pone en el punto de penalti donde remata de volea <span class=\"azul\">Benzema</span>."
+            "descripcion": "Vinicius Jr. la pone en el punto de penalti donde remata de volea <span class=\"azul\">Benzema</span>."
         },
         {
             "gol": "2-0",
             "minuto": "57'",
-            "descripcion": "Contragolpe que culmina <span class=\"azul\">Asensio</span> con un disparo cruzado a la base del palo tras asistencia de Vini Jr."
+            "descripcion": "Contragolpe que culmina <span class=\"azul\">Asensio</span> con un disparo cruzado a la base del palo tras asistencia de Vinicius Jr."
         }
     ],
     "penaltis": []

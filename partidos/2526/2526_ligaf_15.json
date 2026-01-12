@@ -1,0 +1,54 @@
+{
+    "titulo": "Temporada 2025/26 - Liga F - Jornada 15",
+    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=f",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.435"},
+    "fecha": "SAB 10/01/2026",
+    "hora": "17:00",
+    "arbitro": "Sánchez Miguel (colegio catalán)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Pau Quesada"},
+    "visitante": {"nombre": "Sevilla FC", "escudo": "sev.png", "goles": 0, "golesp": 0, "entrenador": "David Losada"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Bella Andersson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Sara Holmgaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Filippa Angeldahl", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 28, "nombre": "Irune Dorado", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 43, "nombre": "Iris Ashley Santiago", "salida": "62'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Sheila García", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Pau Comendador", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Esther Sullastres", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Débora García", "salida": "0", "cambio": "61'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Eva Llamas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Isabel Álvarez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Esther Martín-Pozuelo", "salida": "0", "cambio": "71'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Iris Arnaiz", "salida": "0", "cambio": "61'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Alicia Redondo", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Rosa Márquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Fatou Kanteh", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Raquel Morcillo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Inma Gabarro", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 24, "nombre": "Alice Marques", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Millaray Cortés", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Andrea Álvarez", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Alba Cerrato", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Chantal Hagel", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "23'", "descripcion": "Gran giro y asistencia de Weir para <span class=\"azul\">Linda</span> que fusila a Sullastres con la zurda."},
+        {"gol": "2-0", "minuto": "29'", "descripcion": "Athenea corta un pase en salida del Sevilla y filtra para <span class=\"azul\">Weir</span> que marca de tiro raso."}
+    ],
+    "penaltis": []
+}

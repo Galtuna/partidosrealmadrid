@@ -137,7 +137,7 @@
         },
         {
             "dorsal": "7",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "86'",
             "amarilla": "0",
@@ -332,7 +332,7 @@
         {
             "gol": "2-1",
             "minuto": "14'",
-            "descripcion": "Balón profundo de Vini Jr. a la carrera de <span class=\"azul\">Rodrygo</span>, que se planta ante el portero y marca por bajo."
+            "descripcion": "Balón profundo de Vinicius Jr. a la carrera de <span class=\"azul\">Rodrygo</span>, que se planta ante el portero y marca por bajo."
         },
         {
             "gol": "2-2",
@@ -347,7 +347,7 @@
         {
             "gol": "3-3",
             "minuto": "79'",
-            "descripcion": "Centro de Vini Jr. desde la izquierda para que <span class=\"azul\">Valverde</span> llegue en carrera y la reviente de volea al palo largo."
+            "descripcion": "Centro de Vinicius Jr. desde la izquierda para que <span class=\"azul\">Valverde</span> llegue en carrera y la reviente de volea al palo largo."
         }
     ],
     "penaltis": []

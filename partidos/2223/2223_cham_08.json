@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "84'",
             "amarilla": "0",
@@ -388,7 +388,7 @@
         {
             "gol": "1-0",
             "minuto": "79'",
-            "descripcion": "Vini Jr. se resbala en el área intentando disparar, pero consigue asistir desde el suelo a <span class=\"azul\">Benzema</span>, que marca a puerta vacía."
+            "descripcion": "Vinicius Jr. se resbala en el área intentando disparar, pero consigue asistir desde el suelo a <span class=\"azul\">Benzema</span>, que marca a puerta vacía."
         }
     ],
     "penaltis": []

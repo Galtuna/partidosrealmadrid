@@ -126,7 +126,7 @@
         },
         {
             "dorsal": "20",
-            "nombre": "Vini Jr. ",
+            "nombre": "Vinicius Jr. ",
             "salida": "0",
             "cambio": "85'",
             "amarilla": "0",
@@ -371,7 +371,7 @@
         {
             "gol": "2-0",
             "minuto": "65'",
-            "descripcion": "Vini Jr. entra en el área desde la izquierda y cede a la frontal desde donde dispara <span class=\"azul\">Benzema</span>."
+            "descripcion": "Vinicius Jr. entra en el área desde la izquierda y cede a la frontal desde donde dispara <span class=\"azul\">Benzema</span>."
         }
     ],
     "penaltis": []

@@ -17,7 +17,7 @@
         {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Rodrygo", "salida": "0", "cambio": "20'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 3, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 3, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -48,9 +48,9 @@
         {"dorsal": 20, "nombre": "Arnaiz", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "34'", "descripcion": "<span class=\"azul\">Vini Jr.</span> se interna desde el pico del área y sorprende a Sergio Herrera por el palo corto."},
+        {"gol": "1-0", "minuto": "34'", "descripcion": "<span class=\"azul\">Vinicius Jr.</span> se interna desde el pico del área y sorprende a Sergio Herrera por el palo corto."},
         {"gol": "2-0", "minuto": "42'", "descripcion": "Gran balón largo de Asencio al desmarque de <span class=\"azul\">Bellingham</span> que la pica por encima de Sergio Herrera."},
-        {"gol": "3-0", "minuto": "61'", "descripcion": "Saque perfecto de Lunin para la carrera de <span class=\"azul\">Vini Jr.</span> que recorta al portero y marca a placer."},
+        {"gol": "3-0", "minuto": "61'", "descripcion": "Saque perfecto de Lunin para la carrera de <span class=\"azul\">Vinicius Jr.</span> que recorta al portero y marca a placer."},
         {"gol": "4-0", "minuto": "69'", "descripcion": "Brahim roba el balón a Boyomo en el área de Osasuna y le regala el gol a <span class=\"azul\">Vini Jr</span>."}
     ],
     "penaltis": []

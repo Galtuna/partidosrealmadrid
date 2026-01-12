@@ -17,7 +17,7 @@
         {"dorsal": 6, "nombre": "Camavinga", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "66'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Vini Jr.", "salida": "0", "cambio": "72'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "72'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
@@ -49,7 +49,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "22'", "descripcion": "Pase filtrado de Bellingham para <span class=\"azul\">Mbappé</span> que supera a Szczęsny con un disparo cruzado."},
         {"gol": "1-1", "minuto": "38'", "descripcion": "Pérdida de Arda Güler en su propia frontal que penaliza <span class=\"azul\">Fermín</span> tras asistencia de Rashford."},
-        {"gol": "2-1", "minuto": "43'", "descripcion": "Centro de Vini Jr. al segundo palo donde Militão toca de cabeza para que <span class=\"azul\">Bellingham</span> la empuje a placer."}
+        {"gol": "2-1", "minuto": "43'", "descripcion": "Centro de Vinicius Jr. al segundo palo donde Militão toca de cabeza para que <span class=\"azul\">Bellingham</span> la empuje a placer."}
     ],
     "penaltis": []
 }

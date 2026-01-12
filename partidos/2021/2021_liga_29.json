@@ -23,7 +23,7 @@
     "suplentesLocal": [
         {"dorsal": 8, "nombre": "Kroos", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 25, "nombre": "Rodrygo", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 20, "nombre": "Vini Jr.", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Vinicius Jr.", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 30, "nombre": "Arribas", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 24, "nombre": "Mariano", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
@@ -49,7 +49,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "41'", "descripcion": "Recuperación de Casemiro que mete el balón a <span class=\"azul\">Asensio</span>, y este no falla ante Dmitrović."},
-        {"gol": "2-0", "minuto": "73'", "descripcion": "Vini Jr. supera a Pozo, llega a línea de fondo y su centro lo cabecea a la red <span class=\"azul\">Benzema</span>."}
+        {"gol": "2-0", "minuto": "73'", "descripcion": "Vinicius Jr. supera a Pozo, llega a línea de fondo y su centro lo cabecea a la red <span class=\"azul\">Benzema</span>."}
     ],
     "penaltis": []
 }
