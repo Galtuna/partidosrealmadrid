@@ -2,7 +2,7 @@
     "titulo": "Real Madrid - Temporada 2025/26 - Copa del Rey",
     "atras": "indexTemporada.html?temporada=2526&categoria=m",
     "eliminatorias": [
-        {"nombre": "Octavos de Final", "unica": true, "partido1": "Albacete - Real Madrid", "enlace1": "partido.html?cod=2526_copa_2", "partido2": "", "enlace2": ""},
+        {"nombre": "Octavos de Final", "unica": true, "partido1": "Albacete 3 - 2 Real Madrid", "enlace1": "partido.html?cod=2526_copa_2", "partido2": "", "enlace2": ""},
         {"nombre": "Dieciseisavos de Final", "unica": true, "partido1": "Talavera 2 - 3 Real Madrid", "enlace1": "partido.html?cod=2526_copa_1", "partido2": "", "enlace2": ""}
     ],
     "liga": {},

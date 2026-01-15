@@ -36,10 +36,10 @@
             {"partido": "Real Madrid - Granada", "enlace": "partido.html?cod=2526_ligaf_30"}
         ],
         "clasificacion": [
-            {"equipo": "Barcelona", "pj": 15, "pg": 14, "pe": 0, "pp": 1, "gf": 74, "gc": 4, "puntos": 42, "icono": "champ.png"},
+            {"equipo": "Barcelona", "pj": 16, "pg": 15, "pe": 0, "pp": 1, "gf": 79, "gc": 4, "puntos": 45, "icono": "champ.png"},
             {"equipo": "Real Madrid", "pj": 16, "pg": 11, "pe": 2, "pp": 3, "gf": 35, "gc": 11, "puntos": 35, "icono": "champ.png"},
             {"equipo": "Real Sociedad", "pj": 15, "pg": 9, "pe": 4, "pp": 2, "gf": 32, "gc": 17, "puntos": 31, "icono": "champ.png"},
-            {"equipo": "Atlético Madrid", "pj": 15, "pg": 7, "pe": 6, "pp": 2, "gf": 39, "gc": 21, "puntos": 27},
+            {"equipo": "Atlético Madrid", "pj": 16, "pg": 7, "pe": 6, "pp": 3, "gf": 39, "gc": 26, "puntos": 27},
             {"equipo": "Tenerife", "pj": 15, "pg": 6, "pe": 7, "pp": 2, "gf": 24, "gc": 13, "puntos": 25},
             {"equipo": "Sevilla", "pj": 15, "pg": 7, "pe": 3, "pp": 5, "gf": 15, "gc": 22, "puntos": 24},
             {"equipo": "Athletic", "pj": 16, "pg": 5, "pe": 8, "pp": 3, "gf": 17, "gc": 18, "puntos": 23},
