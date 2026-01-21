@@ -2,7 +2,9 @@
     "titulo": "Real Madrid Femenino - Temporada 2025/26 - Supercopa de España",
     "atras": "indexTemporada.html?temporada=2526&categoria=f",
     "eliminatorias": [
-        ],
+        {"nombre": "Final", "unica": true, "partido1": "xxx - Real Madrid", "enlace1": "partido.html?cod=2526_scesf_2", "partido2": "", "enlace2": ""},
+        {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid 3 - 1 Atlético Madrid", "enlace1": "partido.html?cod=2526_scesf_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }
