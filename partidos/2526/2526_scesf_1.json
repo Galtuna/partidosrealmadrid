@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2025/26 - Supercopa de España - Semifinal",
     "atras": "competicion.html?temporada=2526&competicion=sces&categoria=f",
-    "estadio": {"ciudad": "Castellón de la Plana", "nombre": "Estadio Municipal de Castalia", "imagen": "castalia.jpg", "espectadores": "XXXXXX"},
+    "estadio": {"ciudad": "Castellón de la Plana", "nombre": "Estadio Municipal de Castalia", "imagen": "castalia.jpg", "espectadores": "1.000"},
     "fecha": "MAR 20/01/2026",
     "hora": "19:15",
     "arbitro": "Cebollada López (colegio aragonés)",
