@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2025/26 - Champions League - Fase de Liga - Jornada 6",
-    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=m",
+    "atras": "competicion.html?temporada=2526&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "76.977"},
     "fecha": "MIE 10/12/2025",
     "hora": "21:00",

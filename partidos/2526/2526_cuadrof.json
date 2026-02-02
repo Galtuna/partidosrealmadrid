@@ -4,6 +4,7 @@
     "campeones": [
         [
             {"competicion": "UEFA Women's Champions League", "campeon": "xxx.png"},
+            {"competicion": "Copa de Campeones de la FIFA", "campeon": "ars.png"},
             {"competicion": "Copa Libertadores Femenina", "campeon": "xxx.png"}
         ],
         [

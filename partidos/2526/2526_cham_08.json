@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2025/26 - Champions League - Fase de Liga - Jornada 8",
-    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=m",
+    "atras": "competicion.html?temporada=2526&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Lisboa (Portugal)", "nombre": "Estadio da Luz", "imagen": "daluz.jpg", "espectadores": "64.305"},
     "fecha": "MIE 28/01/2026",
     "hora": "21:00",
