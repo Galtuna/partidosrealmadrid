@@ -30,8 +30,8 @@
     "titularesVisitante": [
         {"dorsal": 13, "nombre": "Cata Coll", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Ona Batlle", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 2, "nombre": "Irene Paredes", "salida": "0", "cambio": "17'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 5, "nombre": "Laia Aleixandri", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 2, "nombre": "Irene Paredes", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Laia Aleixandri", "salida": "0", "cambio": "17'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
         {"dorsal": 24, "nombre": "Esmee Brugts", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 12, "nombre": "Patri Guijarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Vicky López", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -49,7 +49,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "21'", "descripcion": "Córner que bota Graham y remata de cabeza <span class=\"azul\">Alexia</span> totalmente sola en el área pequeña."},
         {"gol": "0-2", "minuto": "67'", "descripcion": "Pase largo de Guijarro a <span class=\"azul\">Pajor</span> que dispara desde la frontal y Misa se traga el bote."},
-        {"gol": "0-3", "minuto": "73'", "descripcion": "Guijarro se interna desde el pico del área y mete el balón al área pequeña donde remata <span class=\"azul\">Salma</span>."},
+        {"gol": "0-3", "minuto": "73'", "descripcion": "Guijarro se interna desde el pico del área y mete el balón al segundo palo donde remata <span class=\"azul\">Salma</span>."},
         {"gol": "0-4", "minuto": "81'", "descripcion": "Balón largo de Cata que lanza a la contra a Salma, y esta asiste a <span class=\"azul\">Pajor</span> que no perdona."}
     ],
     "penaltis": []
