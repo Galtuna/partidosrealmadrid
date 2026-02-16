@@ -6,7 +6,7 @@
     "hora": "19:15",
     "arbitro": "Cebollada López (colegio aragonés)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Pau Quesada"},
-    "visitante": {"nombre": "Club Atlético de Madrid", "escudo": "atm.png", "goles": 1, "golesp": 0, "entrenador": "Víctor Martín"},
+    "visitante": {"nombre": "Club Atlético de Madrid", "escudo": "atm2.png", "goles": 1, "golesp": 0, "entrenador": "Víctor Martín"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

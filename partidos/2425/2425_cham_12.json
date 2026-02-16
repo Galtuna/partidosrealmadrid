@@ -5,7 +5,7 @@
     "fecha": "MIE 12/03/2025",
     "hora": "21:00",
     "arbitro": "Szymon Marciniak (Polonia)",
-    "local": {"nombre": "Club Atlético de Madrid", "escudo": "atm.png", "goles": 1, "golesp": 2, "entrenador": "Diego Simeone"},
+    "local": {"nombre": "Club Atlético de Madrid", "escudo": "atm2.png", "goles": 1, "golesp": 2, "entrenador": "Diego Simeone"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 4, "entrenador": "Carlo Ancelotti"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Oblak", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
