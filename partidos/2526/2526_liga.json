@@ -45,7 +45,7 @@
         ],
         "clasificacion": [
             {"equipo": "Real Madrid", "pj": 24, "pg": 19, "pe": 3, "pp": 2, "gf": 53, "gc": 19, "puntos": 60, "icono": "champ.png"},
-            {"equipo": "Barcelona", "pj": 23, "pg": 19, "pe": 1, "pp": 3, "gf": 63, "gc": 23, "puntos": 58, "icono": "champ.png"},
+            {"equipo": "Barcelona", "pj": 24, "pg": 19, "pe": 1, "pp": 4, "gf": 64, "gc": 25, "puntos": 58, "icono": "champ.png"},
             {"equipo": "Villarreal", "pj": 23, "pg": 14, "pe": 3, "pp": 6, "gf": 44, "gc": 26, "puntos": 45, "icono": "champ.png"},
             {"equipo": "Atlético Madrid", "pj": 24, "pg": 13, "pe": 6, "pp": 5, "gf": 38, "gc": 21, "puntos": 45, "icono": "champ.png"},
             {"equipo": "Real Betis", "pj": 24, "pg": 11, "pe": 8, "pp": 5, "gf": 39, "gc": 29, "puntos": 41, "icono": "eurle.png"},
@@ -55,15 +55,15 @@
             {"equipo": "Athletic Club", "pj": 24, "pg": 9, "pe": 4, "pp": 11, "gf": 27, "gc": 34, "puntos": 31},
             {"equipo": "Osasuna", "pj": 24, "pg": 8, "pe": 6, "pp": 10, "gf": 28, "gc": 28, "puntos": 30},
             {"equipo": "Getafe", "pj": 24, "pg": 8, "pe": 5, "pp": 11, "gf": 20, "gc": 28, "puntos": 29},
+			{"equipo": "Girona", "pj": 24, "pg": 7, "pe": 8, "pp": 9, "gf": 24, "gc": 38, "puntos": 29},
             {"equipo": "Sevilla", "pj": 24, "pg": 7, "pe": 5, "pp": 12, "gf": 31, "gc": 39, "puntos": 26},
             {"equipo": "Alavés", "pj": 24, "pg": 7, "pe": 5, "pp": 12, "gf": 21, "gc": 30, "puntos": 26},
             {"equipo": "Valencia", "pj": 24, "pg": 6, "pe": 8, "pp": 10, "gf": 25, "gc": 37, "puntos": 26},
-            {"equipo": "Girona", "pj": 23, "pg": 6, "pe": 8, "pp": 9, "gf": 22, "gc": 37, "puntos": 26},
             {"equipo": "Elche", "pj": 24, "pg": 5, "pe": 10, "pp": 9, "gf": 31, "gc": 35, "puntos": 25},
-            {"equipo": "Rayo Vallecano", "pj": 22, "pg": 6, "pe": 7, "pp": 10, "gf": 21, "gc": 30, "puntos": 25},
+            {"equipo": "Rayo Vallecano", "pj": 23, "pg": 6, "pe": 7, "pp": 10, "gf": 21, "gc": 30, "puntos": 25},
             {"equipo": "Mallorca", "pj": 24, "pg": 6, "pe": 6, "pp": 12, "gf": 29, "gc": 39, "puntos": 24, "icono": "abajo.png"},
-            {"equipo": "Levante", "pj": 22, "pg": 4, "pe": 6, "pp": 13, "gf": 26, "gc": 40, "puntos": 18, "icono": "abajo.png"},
-            {"equipo": "Oviedo", "pj": 22, "pg": 3, "pe": 7, "pp": 13, "gf": 13, "gc": 36, "puntos": 16, "icono": "abajo.png"}
+            {"equipo": "Levante", "pj": 23, "pg": 4, "pe": 6, "pp": 13, "gf": 26, "gc": 40, "puntos": 18, "icono": "abajo.png"},
+            {"equipo": "Oviedo", "pj": 23, "pg": 3, "pe": 7, "pp": 13, "gf": 13, "gc": 36, "puntos": 16, "icono": "abajo.png"}
         ],
         "ascensos": ["-", "-", "-"],
         "extra": ""

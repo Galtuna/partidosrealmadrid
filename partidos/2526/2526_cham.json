@@ -2,7 +2,7 @@
     "titulo": "Real Madrid - Temporada 2025/26 - Champions League",
     "atras": "indexTemporada.html?temporada=2526&categoria=m",
     "eliminatorias": [
-        {"nombre": "Previa a octavos de final", "unica": false, "partido1": "Benfica - Real Madrid", "enlace1": "partido.html?cod=2526_cham_09", "partido2": "Real Madrid - Benfica", "enlace2": "partido.html?cod=2526_cham_10"}
+        {"nombre": "Previa a octavos de final", "unica": false, "partido1": "Benfica 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2526_cham_09", "partido2": "Real Madrid - Benfica", "enlace2": "partido.html?cod=2526_cham_10"}
     ],
     "liga": {
         "grupo": "Fase de Liga",
