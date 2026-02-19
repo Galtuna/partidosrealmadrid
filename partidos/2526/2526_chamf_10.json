@@ -1,54 +1,55 @@
 {
     "titulo": "Temporada 2025/26 - Women's Champions League - Previa a cuartos de final - Vuelta",
     "atras": "competicion.html?temporada=2526&competicion=cham&categoria=f",
-    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "XXXXXX"},
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "1.558"},
     "fecha": "MIE 18/02/2026",
     "hora": "18:45",
-    "arbitro": "XX (XX)",
-    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Pau Quesada"},
+    "arbitro": "Iuliana Demetrescu (Rumanía)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Pau Quesada"},
     "visitante": {"nombre": "Paris FC", "escudo": "pfc.png", "goles": 0, "golesp": 0, "entrenador": "Sandrine Soubeyrand"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 15, "nombre": "Sheila García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 23, "nombre": "Maëlle Lakrar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 14, "nombre": "María Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 21, "nombre": "Sara Holmgaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 16, "nombre": "Filippa Angeldahl", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Yasmim Ribeiro", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Filippa Angeldahl", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Weir", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "88'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 9, "nombre": "Signe Bruun", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 20, "nombre": "Naomie Feller", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
-        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 12, "nombre": "Yasmim Ribeiro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 17, "nombre": "Hanna Bennison", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 6, "nombre": "Sandie Toletti", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Sara Holmgaard", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Sheila García", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Hanna Bennison", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Alba Redondo", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
         {"dorsal": 16, "nombre": "Mylène Chavas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 18, "nombre": "Melween N'Dongala", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 2, "nombre": "Célina Ould Hocine", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 19, "nombre": "Théa Greboval", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Melween N'Dongala", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 2, "nombre": "Célina Ould Hocine", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Théa Greboval", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "5'", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 3, "nombre": "Lou Bogaert", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Fiona Liaigre", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 4, "nombre": "Kaja Korošec", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 21, "nombre": "Océane Picard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 24, "nombre": "Anaele Le Moguedec", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 7, "nombre": "Maëlle Garbino", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 10, "nombre": "Clara Matéo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 9, "nombre": "Lorena Azzaro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 21, "nombre": "Océane Picard", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Anaele Le Moguedec", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Maëlle Garbino", "salida": "0", "cambio": "11'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Clara Matéo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
-        {"dorsal": 0, "nombre": "XXXXXX", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "XXXXXX", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "XXXXXX", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "XXXXXX", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "XXXXXX", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 29, "nombre": "Deja Davis", "salida": "11'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Klaudia Jedlińska", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Hawa Sangaré", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Kysha Sylla", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Maeline Mendy", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "1-0", "minuto": "XX'", "descripcion": "XXXXXX <span class=\"azul\">XXXXXX</span> XXXXXX."}
+        {"gol": "1-0", "minuto": "54'", "descripcion": "Centro de Eva Navarro desde la derecha que remata en el área pequeña <span class=\"azul\">Feller</span> anticipándose a Hocine."},
+        {"gol": "2-0", "minuto": "67'", "descripcion": "Nuevo centro de Eva Navarro que no consigue rematar Däbritz pero <span class=\"azul\">N'Dongala</span> lo introduce en su portería."}
     ],
     "penaltis": []
 }
