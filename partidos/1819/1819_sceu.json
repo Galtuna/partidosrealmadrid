@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid - Temporada 2018/19 - Supercopa de Europa",
+    "atras": "indexTemporada.html?temporada=1819&categoria=m",
+    "eliminatorias": [        
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 4 Atlético Madrid", "enlace1": "partido.html?cod=1819_sceu_1", "partido2": "", "enlace2": ""}            
+        ],
+    "liga": [],
+    "previas": []
+}

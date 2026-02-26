@@ -1,0 +1,12 @@
+{
+    "titulo": "Real Madrid - Temporada 2018/19 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=1819&categoria=m",
+    "eliminatorias": [        
+            {"nombre": "Semifinal", "unica": false, "partido1": "Barcelona 1 - 1 Real Madrid", "enlace1": "partido.html?cod=1819_copa_7", "partido2": "Real Madrid 0 - 3 Barcelona", "enlace2": "partido.html?cod=1819_copa_8"},        
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 4 - 2 Girona", "enlace1": "partido.html?cod=1819_copa_5", "partido2": "Girona 1 - 3 Real Madrid", "enlace2": "partido.html?cod=1819_copa_6"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": " Real Madrid 3 - 0 Leganés", "enlace1": "partido.html?cod=1819_copa_3", "partido2": "Leganés 1 - 0 Real Madrid", "enlace2": "partido.html?cod=1819_copa_4"},
+            {"nombre": "Dieciseisavos de final", "unica": false, "partido1": "Melilla 0 - 4 Real Madrid", "enlace1": "partido.html?cod=1819_copa_1", "partido2": "Real Madrid 6 - 1 Melilla", "enlace2": "partido.html?cod=1819_copa_2"}
+        ],
+    "liga": {},
+    "previas": []
+}

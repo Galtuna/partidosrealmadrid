@@ -1,0 +1,13 @@
+{
+    "titulo": "Real Madrid - Temporada 2018/19",
+    "cuadro": "cuadro.html?temporada=1819&categoria=m",
+    "competiciones1": [
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=1819&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": true},
+        {"nombre": "Champions League", "enlace": "competicion.html?temporada=1819&competicion=cham&categoria=m", "imagen": "champions.jpg", "campeon": false},
+        {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=1819&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false}
+    ],
+    "competiciones2": [
+        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=1819&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": false},
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=1819&competicion=mund&categoria=m", "imagen": "intercont.jpg", "campeon": true}
+    ]
+}

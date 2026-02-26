@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2018/19 - Mundial de Clubes",
+    "atras": "indexTemporada.html?temporada=1819&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 4 - 1 Al-Ain", "enlace1": "partido.html?cod=1819_mund_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Kashima Antlers 1 - 3 Real Madrid", "enlace1": "partido.html?cod=1819_mund_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}
