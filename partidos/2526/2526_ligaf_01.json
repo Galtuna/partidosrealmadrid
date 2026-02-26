@@ -47,7 +47,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "33'", "descripcion": "Disparo de Athenea tras un despeje de córner de Miralles, el balón lo desvía <span class=\"azul\">María Méndez</span> y entra."},
         {"gol": "1-1", "minuto": "40'", "descripcion": "Pérdida de Irune en el centro del campo, <span class=\"azul\">Isina</span> ve adelantada a Frohms y marca desde 40 metros."},
-        {"gol": "1-2", "minuto": "78'", "descripcion": "Falta directa desde la frontal que lanza Isina, el balón pega en el palo, luego en la espalda de <span class=\"azul\">Frohms</span> y entra."},
+        {"gol": "2-1", "minuto": "78'", "descripcion": "Falta directa desde la frontal que lanza Isina, el balón pega en el palo, luego en la espalda de <span class=\"azul\">Frohms</span> y entra."},
         {"gol": "2-2", "minuto": "90+3'", "descripcion": "Córner que bota Toletti al primer palo donde remata de cabeza cruzado <span class=\"azul\">Bruun</span>."}
 
     ],
