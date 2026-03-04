@@ -8,17 +8,17 @@
         "grupo": "Fase de Grupos - Grupo G",
         "jornadas": [
             {"partido": "Real Madrid 3 - 0 Roma", "enlace": "partido.html?cod=1819_cham_01"},
-            {"partido": "CSKA Moscow 1 - 0 Real Madrid", "enlace": "partido.html?cod=1819_cham_02"},
+            {"partido": "CSKA Moskva 1 - 0 Real Madrid", "enlace": "partido.html?cod=1819_cham_02"},
             {"partido": "Real Madrid 2 - 1 Viktoria Plzeň", "enlace": "partido.html?cod=1819_cham_03"},
             {"partido": "Viktoria Plzeň 0 - 5 Real Madrid", "enlace": "partido.html?cod=1819_cham_04"},
             {"partido": "Roma 0 - 2 Real Madrid", "enlace": "partido.html?cod=1819_cham_05"},
-            {"partido": "Real Madrid 0 - 3 CSKA Moscow", "enlace": "partido.html?cod=1819_cham_06"}
+            {"partido": "Real Madrid 0 - 3 CSKA Moskva", "enlace": "partido.html?cod=1819_cham_06"}
         ],
         "clasificacion": [
             {"equipo": "Real Madrid", "pj": 6, "pg": 4, "pe": 0, "pp": 2, "gf": 12, "gc": 5, "puntos": 12},
             {"equipo": "Roma", "pj": 6, "pg": 3, "pe": 0, "pp": 3, "gf": 11, "gc": 8, "puntos": 9},
             {"equipo": "Viktoria Plzeň", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 7, "gc": 16, "puntos": 7},
-            {"equipo": "CSKA Moscow", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 8, "gc": 9, "puntos": 7}
+            {"equipo": "CSKA Moskva", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 8, "gc": 9, "puntos": 7}
         ]
     },
     "previas": []

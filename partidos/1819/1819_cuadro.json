@@ -21,9 +21,9 @@
             {"competicion": "AFC Champions League", "campeon": "ksh.png"}
         ],
         [
-            {"competicion": "LaLiga", "campeon": "bar.png"},
+            {"competicion": "LaLiga", "campeon": "fcb.png"},
             {"competicion": "Copa del Rey", "campeon": "val.png"},
-            {"competicion": "Supercopa de España", "campeon": "bar.png"}
+            {"competicion": "Supercopa de España", "campeon": "fcb.png"}
         ],
         [
             {"competicion": "Premier League", "campeon": "mci.png"},
