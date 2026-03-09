@@ -1,6 +1,6 @@
 {
-    "titulo": "Temporada 2018/19 - LaLiga - Jornada X",
-    "atras": "competicion.html?temporada=1819&competicion=liga&categoria=m",
+    "titulo": "Temporada 2018/19 - Champions League - Fase de Grupos - Jornada 4",
+    "atras": "competicion.html?temporada=1819&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Pilsen (República Checa)", "nombre": "Doosan Arena", "imagen": "doosan.jpg", "espectadores": "11.483"},
     "fecha": "MIE 07/11/2018",
     "hora": "21:00",
