@@ -2,7 +2,8 @@
     "titulo": "Real Madrid - Temporada 2025/26 - Champions League",
     "atras": "indexTemporada.html?temporada=2526&categoria=m",
     "eliminatorias": [
-        {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 3 - 0 Manchester City", "enlace1": "partido.html?cod=2526_cham_11", "partido2": "Manchester City - Real Madrid", "enlace2": "partido.html?cod=2526_cham_12"},
+        {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid - Bayern München", "enlace1": "partido.html?cod=2526_cham_13", "partido2": "Bayern München - Real Madrid", "enlace2": "partido.html?cod=2526_cham_14"},
+        {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 3 - 0 Manchester City", "enlace1": "partido.html?cod=2526_cham_11", "partido2": "Manchester City 1 - 2 Real Madrid", "enlace2": "partido.html?cod=2526_cham_12"},
         {"nombre": "Previa a octavos de final", "unica": false, "partido1": "Benfica 0 - 1 Real Madrid", "enlace1": "partido.html?cod=2526_cham_09", "partido2": "Real Madrid 2 - 1 Benfica", "enlace2": "partido.html?cod=2526_cham_10"}
     ],
     "liga": {
