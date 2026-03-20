@@ -48,7 +48,7 @@
     ],    
     "goles": [
         {"gol": "1-0", "minuto": "38'", "descripcion": "Penalti de Courtois a <span class=\"azul\">Budimir</span> que él mismo se encarga de transformar."},
-        {"gol": "1-1", "minuto": "73'", "descripcion": "Arrancada de Valverde que llega hasta la línea de fondo y su centro lo remata <span class=\"azul\">Vinicius Jr.</span>."},
+        {"gol": "1-1", "minuto": "73'", "descripcion": "Arrancada de Valverde que llega hasta la línea de fondo y su centro lo remata <span class=\"azul\">Vinicius Jr.</span>"},
         {"gol": "2-1", "minuto": "90'", "descripcion": "Error de Ceballos que entrega el balón a Raúl Moro y este asiste a <span class=\"azul\">Raúl García</span> que recorta a Asencio y marca."}
     ],
     "penaltis": []

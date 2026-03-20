@@ -1,6 +1,6 @@
 {
-    "titulo": "Temporada 2025/26 - LaLiga - Jornada X",
-    "atras": "competicion.html?temporada=2526&competicion=liga&categoria=m",
+    "titulo": "Temporada 2025/26 - Champions League - Octavos de final - Vuelta",
+    "atras": "competicion.html?temporada=2526&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Manchester (Inglaterra)", "nombre": "Etihad Stadium", "imagen": "etihad.jpg", "espectadores": "51.103"},
     "fecha": "MAR 17/03/2026",
     "hora": "21:00",
@@ -48,7 +48,7 @@
         {"dorsal": 2, "nombre": "Carvajal", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "22'", "descripcion": "Bernardo Silva saca el codo para evitar un gol, y el consecuente penalti lo transforma <span class=\"azul\">Vinicius Jr.</span>."},
+        {"gol": "0-1", "minuto": "22'", "descripcion": "Bernardo Silva saca el codo para evitar un gol, y el consecuente penalti lo transforma <span class=\"azul\">Vinicius Jr.</span>"},
         {"gol": "1-1", "minuto": "41'", "descripcion": "Doku supera a Thiago en el área, llega a línea de fondo y cede a <span class=\"azul\">Haaland</span> que marca a placer."},
         {"gol": "1-2", "minuto": "90+3'", "descripcion": "Centro de Tchouaméni entre defensa y portero que <span class=\"azul\">Vinicius Jr.</span> solo tiene que empujar."}
     ],

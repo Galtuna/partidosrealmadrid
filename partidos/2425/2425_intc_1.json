@@ -49,7 +49,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "37'", "descripcion": "Pase interior de Bellingham a Vinicius Jr. que recorta al portero tras una bicicleta y le regala el gol a <span class=\"azul\">Mbappé</span>."},
         {"gol": "2-0", "minuto": "53'", "descripcion": "<span class=\"azul\">Rodrygo</span> recibe en el borde del área y tras un par de recortes la pone con la derecha ajustada al palo."},
-        {"gol": "3-0", "minuto": "84'", "descripcion": "Penalti de Idrissi a Lucas Vázquez que transforma <span class=\"azul\">Vinicius Jr.</span>."}
+        {"gol": "3-0", "minuto": "84'", "descripcion": "Penalti de Idrissi a Lucas Vázquez que transforma <span class=\"azul\">Vinicius Jr.</span>"}
     ],
     "penaltis": []
 }
