@@ -48,7 +48,7 @@
         {"dorsal": 10, "nombre": "Álex Baena", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "33'", "descripcion": "Ruggeri mete el balón en el área, donde Giuliano Simeone asiste con la espuela para <span class=\"azul\">Lookman</span> que no falla."},
+        {"gol": "0-1", "minuto": "33'", "descripcion": "Ruggeri mete el balón en el área donde Giuliano Simeone asiste con la espuela a <span class=\"azul\">Lookman</span> que no falla."},
         {"gol": "1-1", "minuto": "52'", "descripcion": "Penalti de Hancko sobre Brahim que transforma <span class=\"azul\">Vinicius Jr.</span>"},
         {"gol": "2-1", "minuto": "55'", "descripcion": "Giménez va muy blando a despejar en su área, <span class=\"azul\">Valverde</span> se la lleva y la cruza ante Musso."},
         {"gol": "2-2", "minuto": "66'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Molina</span> desde fuera del área que va directo a la escuadra contraria."},
