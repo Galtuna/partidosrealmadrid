@@ -49,7 +49,7 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "18'", "descripcion": "Disparo de <span class=\"azul\">Ona</span> desde fuera del área que toca en Rocío y se vuelve imposible para Misa."},
-        {"gol": "0-2", "minuto": "51'", "descripcion": "Graham desborda a Ysamim, remonta la línea de fondo y la pone atrás para el remate de <span class=\"azul\">Alexia</span>."},
+        {"gol": "0-2", "minuto": "51'", "descripcion": "Graham desborda a Yasmim, remonta la línea de fondo y la pone atrás para el remate de <span class=\"azul\">Alexia</span>."},
         {"gol": "0-3", "minuto": "55'", "descripcion": "<span class=\"azul\">Lakrar</span> introduce el balón en su propia portería al intentar despejar un centro de Ona."}
     ],
     "penaltis": []
