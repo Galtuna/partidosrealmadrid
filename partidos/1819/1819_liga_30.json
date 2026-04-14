@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "35'", "descripcion": "<span class=\"azul\">Guedes</span> hace la pared con Soler y dispara ajustado al palo desde la frontal."},
         {"gol": "2-0", "minuto": "83'", "descripcion": "Córner que bota Parejo y remata de cabeza en el segundo palo <span class=\"azul\">Garay</span>."},
-        {"gol": "2-1", "minuto": "90+3''", "descripcion": "Córner que bota Modrić y cabecea picado en el primer palo <span class=\"azul\">Benzema</span>."}
+        {"gol": "2-1", "minuto": "90+3'", "descripcion": "Córner que bota Modrić y cabecea picado en el primer palo <span class=\"azul\">Benzema</span>."}
     ],
     "penaltis": []
 }

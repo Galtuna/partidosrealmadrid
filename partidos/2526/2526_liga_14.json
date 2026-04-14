@@ -10,7 +10,7 @@
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Gazzaniga", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 4, "nombre": "Arnau", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 2, "nombre": "Rincón", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Hugo Rincón", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 12, "nombre": "Vitor Reis", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 24, "nombre": "Álex Moreno", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 20, "nombre": "Witsel", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -48,7 +48,7 @@
     ],    
     "goles": [
         {"gol": "1-0", "minuto": "45'", "descripcion": "Tsygankov la deja de cara en la frontal a <span class=\"azul\">Ounahi</span> que de primeras la pone lejos del alcance de Courtois."},
-        {"gol": "1-1", "minuto": "67'", "descripcion": "Penalti de Rincón a Vinicius Jr. que transforma <span class=\"azul\">Mbappé</span>."}
+        {"gol": "1-1", "minuto": "67'", "descripcion": "Penalti de Hugo Rincón a Vinicius Jr. que transforma <span class=\"azul\">Mbappé</span>."}
     ],
     "penaltis": []
 }
