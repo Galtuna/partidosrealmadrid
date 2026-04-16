@@ -1,0 +1,55 @@
+{
+    "titulo": "Temporada 2025/26 - Champions League - Cuartos de final - Vuelta",
+    "atras": "competicion.html?temporada=2526&competicion=cham&categoria=m",
+    "estadio": {"ciudad": "Múnich (Alemania)", "nombre": "Estadio Allianz Arena", "imagen": "allianz.jpg", "espectadores": "75.000"},
+    "fecha": "MIE 15/04/2026",
+    "hora": "21:00",
+    "arbitro": "Slavko Vinčić (Eslovenia)",
+    "local": {"nombre": "FC Bayern München", "escudo": "bay.png", "goles": 4, "golesp": 0, "entrenador": "Vincent Kompany"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Álvaro Arbeloa"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Neuer", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 44, "nombre": "Stanišić", "salida": "0", "cambio": "46'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Upamecano", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Tah", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Laimer", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Kimmich", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 45, "nombre": "Pavlović", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Olise", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Luis Díaz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Gnabry", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Kane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 19, "nombre": "Davies", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Musiala", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Lunin", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Alexander-Arnold", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Militão", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Rüdiger", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Mendy", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "90'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Brahim", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "62'", "cambio": "0", "amarilla": "86'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 45, "nombre": "Thiago", "salida": "90'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 30, "nombre": "Mastantuono", "salida": "90'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "1'", "descripcion": "Error de Neuer dando un pase en salida que aprovecha <span class=\"azul\">Arda Güler</span> para macar desde lejos."},
+        {"gol": "1-1", "minuto": "6'", "descripcion": "Córner que bota Kimmich y remata de cabeza <span class=\"azul\">Pavlović</span> en línea de gol."},
+        {"gol": "1-2", "minuto": "29'", "descripcion": "Falta directa que convierte <span class=\"azul\">Arda Güler</span> con un gran tiro que supera la barrera."},
+        {"gol": "2-2", "minuto": "38'", "descripcion": "Upamecano filtra en el área para <span class=\"azul\">Kane</span> que controla y remata lejos del alcance de Lunin."},
+        {"gol": "2-3", "minuto": "42'", "descripcion": "Vinicius Jr. se interna por su banda y la suelta para la llegada y el remate de <span class=\"azul\">Mbappé</span>."},
+        {"gol": "3-3", "minuto": "89'", "descripcion": "Disparo de <span class=\"azul\">Luis Díaz</span> desde la frontal que toca en Militão y Lunin no consigue alcanzar."},
+        {"gol": "4-3", "minuto": "90+4'", "descripcion": "<span class=\"azul\">Olise</span> encara a Mendy, se la pone en la zurda y su disparo entra tras tocar en el palo."}
+    ],
+    "penaltis": []
+}
