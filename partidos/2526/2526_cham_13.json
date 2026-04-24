@@ -47,7 +47,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "41'", "descripcion": "Gnabry filtra el balón para la entrada de <span class=\"azul\">Luis Díaz</span> que no perdona ante la salida de Lunin."},
         {"gol": "0-2", "minuto": "46'", "descripcion": "<span class=\"azul\">Kane</span> recibe en la frontal y dispara colocado junto al palo izquierdo de Lunin."},
-        {"gol": "1-2", "minuto": "74'", "descripcion": "Alexander-Arnold gana la espalda de Stanišić y centra al segundo palo donde remata <span class=\"azul\">Mbappé</span>."}
+        {"gol": "1-2", "minuto": "74'", "descripcion": "Alexander-Arnold gana la espalda de Laimer y centra al segundo palo donde remata <span class=\"azul\">Mbappé</span>."}
     ],
     "penaltis": []
 }

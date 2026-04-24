@@ -23,7 +23,7 @@
         ],
         [
             {"competicion": "LaLiga", "campeon": "xxx.png"},
-            {"competicion": "Copa del Rey", "campeon": "xxx.png"},
+            {"competicion": "Copa del Rey", "campeon": "rso.png"},
             {"competicion": "Supercopa de España", "campeon": "fcb.png"}
         ],
         [
@@ -33,7 +33,7 @@
         ],
         [
             {"competicion": "Serie A", "campeon": "xxx.png"},
-            {"competicion": "Bundesliga", "campeon": "xxx.png"},
+            {"competicion": "Bundesliga", "campeon": "bay.png"},
             {"competicion": "Ligue 1", "campeon": "xxx.png"}
         ],
         [

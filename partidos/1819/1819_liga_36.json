@@ -40,15 +40,15 @@
     ],
     "suplentesVisitante": [
         {"dorsal": 14, "nombre": "Trigueros", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "Bacca", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 0, "nombre": "Jaume Costa", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+        {"dorsal": 9, "nombre": "Bacca", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Jaume Costa", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "goles": [
         {"gol": "1-0", "minuto": "2'", "descripcion": "Robo muy arriba de Brahim sobre Cazorla que aprovecha <span class=\"azul\">Mariano</span> para batir a Andrés Fernández."},
         {"gol": "1-1", "minuto": "11'", "descripcion": "Robo de Álvaro González sobre Casemiro que penaliza <span class=\"azul\">Gerard Moreno</span> con un disparo desde la frontal."},
         {"gol": "2-1", "minuto": "40'", "descripcion": "<span class=\"azul\">Vallejo</span> aprovecha un balón suelto en el área tras un disparo de Marcelo bloqueado por Quintillà."},
         {"gol": "3-1", "minuto": "49'", "descripcion": "Valverde filtra un buen pase para la subida de Carvajal y este le pone el gol en bandeja a <span class=\"azul\">Mariano</span>."},
-        {"gol": "3-2", "minuto": "90+4''", "descripcion": "Gerard Moreno supera a Casemiro, llega al área y la deja atrás para que <span class=\"azul\">Jaume Costa</span> dispare a la escuadra."}
+        {"gol": "3-2", "minuto": "90+4'", "descripcion": "Gerard Moreno supera a Casemiro, llega al área y la deja atrás para que <span class=\"azul\">Jaume Costa</span> dispare a la escuadra."}
     ],
     "penaltis": []
 }

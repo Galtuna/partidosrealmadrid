@@ -8,7 +8,7 @@
             {"competicion": "Copa Libertadores Femenina", "campeon": "xxx.png"}
         ],
         [
-            {"competicion": "Liga F", "campeon": "xxx.png"},
+            {"competicion": "Liga F", "campeon": "fcb.png"},
             {"competicion": "Copa de la Reina", "campeon": "xxx.png"},
             {"competicion": "Supercopa de España", "campeon": "fcb.png"}
         ],
@@ -19,8 +19,8 @@
         ],
         [
             {"competicion": "Serie A Femminile", "campeon": "xxx.png"},
-            {"competicion": "Frauen-Bundesliga", "campeon": "xxx.png"},
-            {"competicion": "Division 1 Féminine", "campeon": "xxx.png"}
+            {"competicion": "Frauen-Bundesliga", "campeon": "bay.png"},
+            {"competicion": "Division 1 Féminine", "campeon": "olyf.png"}
         ],
         [
             {"competicion": "Eredivisie Vrouwen", "campeon": "xxx.png"},
