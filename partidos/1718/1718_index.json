@@ -1,0 +1,14 @@
+{
+    "titulo": "Real Madrid - Temporada 2017/18",
+    "cuadro": "cuadro.html?temporada=1718&categoria=m",
+    "competiciones1": [
+        {"nombre": "LaLiga", "enlace": "competicion.html?temporada=1718&competicion=liga&categoria=m", "imagen": "liga.jpg", "campeon": false},
+        {"nombre": "Champions League", "enlace": "competicion.html?temporada=1718&competicion=cham&categoria=m", "imagen": "champions.jpg", "campeon": true},
+        {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=1718&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false}
+    ],
+    "competiciones2": [
+        {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=1718&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": true},
+        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=1718&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true},
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=1718&competicion=mund&categoria=m", "imagen": "intercont.jpg", "campeon": true}
+    ]
+}

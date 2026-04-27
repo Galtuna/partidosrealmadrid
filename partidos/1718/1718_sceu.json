@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid - Temporada 2017/18 - Supercopa de Europa",
+    "atras": "indexTemporada.html?temporada=1718&categoria=m",
+    "eliminatorias": [        
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 1 Manchester United", "enlace1": "partido.html?cod=1718_sceu_1", "partido2": "", "enlace2": ""}            
+        ],
+    "liga": [],
+    "previas": []
+}

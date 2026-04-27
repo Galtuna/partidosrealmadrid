@@ -1,0 +1,28 @@
+{
+    "titulo": "Real Madrid - Temporada 2015/16 - Champions League",
+    "atras": "indexTemporada.html?temporada=1516&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 1 - 1 (5 - 3) Atlético Madrid", "enlace1": "partido.html?cod=1516_cham_13", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": false, "partido1": "Manchester City 0 - 0 Real Madrid", "enlace1": "partido.html?cod=1516_cham_11", "partido2": "Real Madrid 1 - 0 Manchester City", "enlace2": "partido.html?cod=1516_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Wolfsburgo 2 - 0 Real Madrid", "enlace1": "partido.html?cod=1516_cham_09", "partido2": "Real Madrid 3 - 0 Wolfsburgo", "enlace2": "partido.html?cod=1516_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Roma 0 - 2 Real Madrid", "enlace1": "partido.html?cod=1516_cham_07", "partido2": "Real Madrid 2 - 0 Roma", "enlace2": "partido.html?cod=1516_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo A",
+        "jornadas": [
+            {"partido": "Real Madrid 4 - 0 Shakhtar Donetsk", "enlace": "partido.html?cod=1516_cham_01"},
+            {"partido": "Malmö 0 - 2 Real Madrid", "enlace": "partido.html?cod=1516_cham_02"},
+            {"partido": "PSG 0 - 0 Real Madrid", "enlace": "partido.html?cod=1516_cham_03"},
+            {"partido": "Real Madrid 1 - 0 PSG", "enlace": "partido.html?cod=1516_cham_04"},
+            {"partido": "Shakhtar Donetsk 3 - 4 Real Madrid", "enlace": "partido.html?cod=1516_cham_05"},
+            {"partido": "Real Madrid 8 - 0 Malmö", "enlace": "partido.html?cod=1516_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 1, "pp": 0, "gf": 19, "gc": 3, "puntos": 16},
+            {"equipo": "PSG", "pj": 6, "pg": 4, "pe": 1, "pp": 1, "gf": 12, "gc": 1, "puntos": 13},
+            {"equipo": "Shakhtar Donetsk", "pj": 6, "pg": 1, "pe": 0, "pp": 5, "gf": 7, "gc": 14, "puntos": 3},
+            {"equipo": "Malmö", "pj": 6, "pg": 2, "pe": 1, "pp": 0, "gf": 1, "gc": 21, "puntos": 3}
+        ]
+    },
+    "previas": []
+}

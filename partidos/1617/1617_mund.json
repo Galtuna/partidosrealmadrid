@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2016/17 - Mundial de Clubes",
+    "atras": "indexTemporada.html?temporada=1617&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Kashima Antlers 2 - 4 Real Madrid", "enlace1": "partido.html?cod=1617_mund_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "América 0 - 2 Real Madrid", "enlace1": "partido.html?cod=1617_mund_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

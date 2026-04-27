@@ -1,0 +1,49 @@
+{
+    "titulo": "Cuadro de Honor - Temporada 2018/19",
+    "atras": "indexTemporada.html?temporada=1819&categoria=m",
+    "campeones": [
+        [
+            {"competicion": "Mundial de Clubes", "campeon": "fcb.png"}
+        ],
+        [
+            {"competicion": "UEFA Champions League", "campeon": "rma.png"},
+            {"competicion": "UEFA Europa League", "campeon": "sev.png"},
+            {"competicion": "Supercopa de Europa", "campeon": "fcb.png"}
+        ],
+        [
+            {"competicion": "Copa Libertadores", "campeon": "atn.png"},
+            {"competicion": "Copa Sudamericana", "campeon": "cha.png"},
+            {"competicion": "Recopa Sudamericana", "campeon": "riv.png"}
+        ],
+        [
+            {"competicion": "Concacaf Champions Cup", "campeon": "ame.png"},
+            {"competicion": "CAF Champions League", "campeon": "mam.png"},
+            {"competicion": "AFC Champions League", "campeon": "gzh.png"}
+        ],
+        [
+            {"competicion": "LaLiga", "campeon": "fcb.png"},
+            {"competicion": "Copa del Rey", "campeon": "fcb.png"},
+            {"competicion": "Supercopa de España", "campeon": "ath.png"}
+        ],
+        [
+            {"competicion": "Premier League", "campeon": "lei.png"},
+            {"competicion": "FA Cup", "campeon": "mun.png"},
+            {"competicion": "EFL Cup", "campeon": "mci.png"}
+        ],
+        [
+            {"competicion": "Serie A", "campeon": "juv.png"},
+            {"competicion": "Bundesliga", "campeon": "bay.png"},
+            {"competicion": "Ligue 1", "campeon": "psg.png"}
+        ],
+        [
+            {"competicion": "Eredivisie", "campeon": "psv.png"},
+            {"competicion": "Primeira Liga", "campeon": "ben.png"},
+            {"competicion": "Belgian Pro League", "campeon": "bru.png"}
+        ],
+        [
+            {"competicion": "Brasileirão", "campeon": "pal.png"},
+            {"competicion": "Superliga Argentina", "campeon": "lns.png"},
+            {"competicion": "MLS", "campeon": "sea.png"}
+        ]
+    ]
+}

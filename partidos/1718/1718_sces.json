@@ -1,0 +1,9 @@
+{
+    "titulo": "Real Madrid - Temporada 2017/18 - Supercopa de España",
+    "atras": "indexTemporada.html?temporada=1718&categoria=m",
+    "eliminatorias": [        
+            {"nombre": "Final", "unica": false, "partido1": "Barcelona 1 - 3 Real Madrid", "enlace1": "partido.html?cod=1718_sces_1", "partido2": "Real Madrid 2 - 0 Barcelona", "enlace2": "partido.html?cod=1718_sces_2"}
+        ],
+    "liga": [],
+    "previas": []
+}

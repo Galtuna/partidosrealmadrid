@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid - Temporada 2017/18 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=1718&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Leganés 0 - 1 Real Madrid", "enlace1": "partido.html?cod=1718_copa_5", "partido2": "Real Madrid 1 - 2 Leganés", "enlace2": "partido.html?cod=1718_copa_6"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Numancia 0 - 3 Real Madrid", "enlace1": "partido.html?cod=1718_copa_3", "partido2": "Real Madrid 2 - 2 Numancia", "enlace2": "partido.html?cod=1718_copa_4"},
+            {"nombre": "Dieciseisavos de final", "unica": false, "partido1": "Fuenlabrada 0 - 2 Real Madrid", "enlace1": "partido.html?cod=1718_copa_1", "partido2": "Real Madrid 2 - 2 Fuenlabrada", "enlace2": "partido.html?cod=1718_copa_2"}
+        ],
+    "liga": {},
+    "previas": []
+}

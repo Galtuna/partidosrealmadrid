@@ -1,0 +1,11 @@
+{
+    "titulo": "Real Madrid - Temporada 2016/17 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=1617&categoria=m",
+    "eliminatorias": [            
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 1 - 2 Celta", "enlace1": "partido.html?cod=1617_copa_5", "partido2": "Celta 2 - 2 Real Madrid", "enlace2": "partido.html?cod=1617_copa_6"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": " Real Madrid 3 - 0 Sevilla", "enlace1": "partido.html?cod=1617_copa_3", "partido2": "Sevilla 3 - 3 Real Madrid", "enlace2": "partido.html?cod=1617_copa_4"},
+            {"nombre": "Dieciseisavos de final", "unica": false, "partido1": "Cultural Leonesa 1 - 7 Real Madrid", "enlace1": "partido.html?cod=1617_copa_1", "partido2": "Real Madrid 6 - 1 Cultural Leonesa", "enlace2": "partido.html?cod=1617_copa_2"}
+        ],
+    "liga": {},
+    "previas": []
+}

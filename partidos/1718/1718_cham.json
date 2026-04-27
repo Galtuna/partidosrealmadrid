@@ -1,0 +1,28 @@
+{
+    "titulo": "Real Madrid - Temporada 2017/18 - Champions League",
+    "atras": "indexTemporada.html?temporada=1718&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 3 - 1 Liverpool", "enlace1": "partido.html?cod=1718_cham_13", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": false, "partido1": "Bayern München 1 - 2 Real Madrid", "enlace1": "partido.html?cod=1718_cham_11", "partido2": "Real Madrid 2 - 2 Bayern München", "enlace2": "partido.html?cod=1718_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Juventus 0 - 3 Real Madrid", "enlace1": "partido.html?cod=1718_cham_09", "partido2": "Real Madrid 1 - 3 Juventus", "enlace2": "partido.html?cod=1718_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 3 - 1 PSG", "enlace1": "partido.html?cod=1718_cham_07", "partido2": "PSG 1 - 2 Real Madrid", "enlace2": "partido.html?cod=1718_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo H",
+        "jornadas": [
+            {"partido": "Real Madrid 3 - 0 APOEL Nicosia", "enlace": "partido.html?cod=1718_cham_01"},
+            {"partido": "Borussia Dortmund 1 - 3 Real Madrid", "enlace": "partido.html?cod=1718_cham_02"},
+            {"partido": "Real Madrid 1 - 1 Tottenham Hotspur", "enlace": "partido.html?cod=1718_cham_03"},
+            {"partido": "Tottenham Hotspur 3 - 1 Real Madrid", "enlace": "partido.html?cod=1718_cham_04"},
+            {"partido": "APOEL Nicosia 0 - 6 Real Madrid", "enlace": "partido.html?cod=1718_cham_05"},
+            {"partido": "Real Madrid 3 - 2 Borussia Dortmund", "enlace": "partido.html?cod=1718_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Tottenham Hotspur", "pj": 6, "pg": 5, "pe": 1, "pp": 0, "gf": 15, "gc": 4, "puntos": 16},
+            {"equipo": "Real Madrid", "pj": 6, "pg": 4, "pe": 1, "pp": 1, "gf": 17, "gc": 7, "puntos": 13},
+            {"equipo": "Borussia Dortmund", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 7, "gc": 13, "puntos": 2},
+            {"equipo": "APOEL Nicosia", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 2, "gc": 17, "puntos": 2}
+        ]
+    },
+    "previas": []
+}
