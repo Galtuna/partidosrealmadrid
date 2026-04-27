@@ -9,7 +9,7 @@
     "visitante": {"nombre": "Levante UD", "escudo": "lev.png", "goles": 0, "golesp": 0, "entrenador": "Santiago Triguero"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 27, "nombre": "Noemí Bejarano", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Noe Bejarano", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 4, "nombre": "Rocío Gálvez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Bella Andersson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Sara Holmgaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
