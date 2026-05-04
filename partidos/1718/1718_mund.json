@@ -3,7 +3,7 @@
     "atras": "indexTemporada.html?temporada=1718&categoria=m",
     "eliminatorias": [
             {"nombre": "Final", "unica": true, "partido1": "Real Madrid 1 - 0 Grêmio", "enlace1": "partido.html?cod=1718_mund_2", "partido2": "", "enlace2": ""},
-            {"nombre": "Semifinal", "unica": true, "partido1": "Al Jazira 1 - 2 Real Madrid", "enlace1": "partido.html?cod=1718_mund_1", "partido2": "", "enlace2": ""}
+            {"nombre": "Semifinal", "unica": true, "partido1": "Al-Jazira 1 - 2 Real Madrid", "enlace1": "partido.html?cod=1718_mund_1", "partido2": "", "enlace2": ""}
         ],
     "liga": {},
     "previas": []

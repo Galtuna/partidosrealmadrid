@@ -30,7 +30,7 @@
         {"dorsal": 20, "nombre": "Miramón", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 14, "nombre": "Rúben Vezo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},        
         {"dorsal": 15, "nombre": "Postigo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 6, "nombre": "Duarte", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Óscar Duarte", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 19, "nombre": "Carlos Clerc", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Vukčević", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Rochina", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -44,7 +44,7 @@
         {"dorsal": 9, "nombre": "Roger Martí", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "25'", "descripcion": "Centro de Carvajal desde el pico del área que remata de cabeza <span class=\"azul\">Benzema</span> ganando el salto a Duarte."},
+        {"gol": "1-0", "minuto": "25'", "descripcion": "Centro de Carvajal desde el pico del área que remata de cabeza <span class=\"azul\">Benzema</span> ganando el salto a Óscar Duarte."},
         {"gol": "2-0", "minuto": "31'", "descripcion": "James encuentra el desmarque de <span class=\"azul\">Benzema</span> dentro del área y este no perdona ante Aitor Fernández."},
         {"gol": "3-0", "minuto": "40'", "descripcion": "Vinicius Jr. arranca por la derecha, llega a la línea de fondo y le sirve el gol a <span class=\"azul\">Casemiro</span>."},
         {"gol": "3-1", "minuto": "49'", "descripcion": "Carlos Clerc mete el balón al área donde remata desmarcado entre los dos centrales <span class=\"azul\">Borja Mayoral</span>."},

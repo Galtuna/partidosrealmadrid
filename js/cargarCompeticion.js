@@ -306,7 +306,6 @@ function cargarExtra(jsonData, idTabla) {
     let trContenedor = document.createElement("tr");
     let tdContenedor = document.createElement("td");
     tdContenedor.colSpan = "2";
-    tdContenedor.classList.add("centrado");
     tdContenedor.classList.add("listado");
     tdContenedor.innerHTML = jsonData.extra;
     trContenedor.appendChild(tdContenedor);

@@ -1,6 +1,6 @@
 {
-    "titulo": "Cuadro de Honor - Temporada 2018/19",
-    "atras": "indexTemporada.html?temporada=1819&categoria=m",
+    "titulo": "Cuadro de Honor - Temporada 2017/18",
+    "atras": "indexTemporada.html?temporada=1718&categoria=m",
     "campeones": [
         [
             {"competicion": "Mundial de Clubes", "campeon": "rma.png"}
@@ -18,7 +18,7 @@
         [
             {"competicion": "Concacaf Champions Cup", "campeon": "chi.png"},
             {"competicion": "CAF Champions League", "campeon": "etu.png"},
-            {"competicion": "AFC Champions League", "campeon": "ura.png"}
+            {"competicion": "AFC Champions League", "campeon": "ksh.png"}
         ],
         [
             {"competicion": "LaLiga", "campeon": "fcb.png"},

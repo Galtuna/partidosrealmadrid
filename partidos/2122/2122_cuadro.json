@@ -18,8 +18,7 @@
         ],
         [
             {"competicion": "Concacaf Champions Cup", "campeon": "sea.png"},
-            {"competicion": "CAF Champions League", "campeon": "wac.png"},
-            {"competicion": "AFC Champions League", "campeon": "hil.png"}
+            {"competicion": "CAF Champions League", "campeon": "wac.png"}
         ],
         [
             {"competicion": "LaLiga", "campeon": "rma.png"},
