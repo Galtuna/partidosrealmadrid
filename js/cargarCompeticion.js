@@ -61,12 +61,10 @@ function cargarEliminatorias(jsonData, idTabla) {
                 let td2 = document.createElement("td");
                 td2.colSpan = "2";                
                 let enlace = document.createElement("a");
+                enlace.classList.add("linkPartido");
                 enlace.href = jsonData[i].enlace1;
-                let img = document.createElement("img");
-                img.classList.add("medio");
-                img.src = 'img/ico/campo.png';
-                enlace.appendChild(img);
-                td2.innerHTML = jsonData[i].partido1 + ' ' + enlace.outerHTML;
+                enlace.textContent = jsonData[i].partido1;
+                td2.innerHTML = enlace.outerHTML;
                 trc2.appendChild(td2);
             }  else {
                 let td2 = document.createElement("td");
@@ -74,36 +72,34 @@ function cargarEliminatorias(jsonData, idTabla) {
                 span1.classList.add("azul");    
                 span1.textContent = "Ida: ";                          
                 let enlace1 = document.createElement("a");
+                enlace1.classList.add("linkPartido");
                 enlace1.href = jsonData[i].enlace1;
-                let img = document.createElement("img");
-                img.classList.add("medio");
-                img.src = 'img/ico/campo.png';
-                enlace1.appendChild(img);
-                td2.innerHTML = span1.outerHTML + jsonData[i].partido1 + ' ' + enlace1.outerHTML;
+                enlace1.textContent = jsonData[i].partido1;
+                td2.innerHTML = enlace1.outerHTML;
                 trc2.appendChild(td2);
                 let td3 = document.createElement("td");
                 let span2 = document.createElement("span");
                 span2.classList.add("azul");    
                 span2.textContent = "Vuelta: ";                          
                 let enlace2 = document.createElement("a");
-                enlace2.href = jsonData[i].enlace2;                
-                enlace2.appendChild(img);
-                td3.innerHTML = span2.outerHTML + jsonData[i].partido2 + ' ' + enlace2.outerHTML;
+                enlace2.classList.add("linkPartido");
+                enlace2.href = jsonData[i].enlace2; 
+                enlace2.textContent = jsonData[i].partido2;                
+                td3.innerHTML = enlace2.outerHTML;
                 trc2.appendChild(td3);
             }
             tblEliminatorias.appendChild(trc2);
 
-            // Agregar fila de separación si no es la última vuelta del bucle
-            if (i < jsonData.length - 1) {
-                let trc3 = document.createElement("tr");
-                let td3 = document.createElement("td");
-                if (jsonData[i].unica) {
-                    td3.colSpan = "2";
-                }
-                td3.innerHTML = "&nbsp;";
-                trc3.appendChild(td3);
-                tblEliminatorias.appendChild(trc3);
+            // Agregar fila de separación            
+            let trc3 = document.createElement("tr");
+            let td3 = document.createElement("td");
+            if (jsonData[i].unica) {
+                td3.colSpan = "2";
             }
+            td3.innerHTML = "&nbsp;";
+            trc3.appendChild(td3);
+            tblEliminatorias.appendChild(trc3);
+            
         }
     }
 }
@@ -150,12 +146,10 @@ function cargarJornadas(jsonData, idTabla) {
             span1.classList.add("azul");    
             span1.textContent = "Jornada " + (i + 1) + ": ";
             let enlace1 = document.createElement("a");
+            enlace1.classList.add("linkPartido");
             enlace1.href = jsonData.jornadas[i].enlace;
-            let img = document.createElement("img");
-            img.classList.add("medio");
-            img.src = 'img/ico/campo.png';
-            enlace1.appendChild(img);
-            td1.innerHTML = span1.outerHTML + jsonData.jornadas[i].partido + ' ' + enlace1.outerHTML;
+            enlace1.textContent = jsonData.jornadas[i].partido;            
+            td1.innerHTML = span1.outerHTML + enlace1.outerHTML;
             tr.appendChild(td1);
             let td2 = document.createElement("td");
             if (jsonData.jornadas[i + medio].partido != "") {
@@ -163,9 +157,10 @@ function cargarJornadas(jsonData, idTabla) {
                 span2.classList.add("azul");    
                 span2.textContent = "Jornada " + (i + medio + 1) + ": ";                        
                 let enlace2 = document.createElement("a");
+                enlace2.classList.add("linkPartido");
                 enlace2.href = jsonData.jornadas[i + medio].enlace;                
-                enlace2.appendChild(img);
-                td2.innerHTML = span2.outerHTML + jsonData.jornadas[i + medio].partido + ' ' + enlace2.outerHTML;
+                enlace2.textContent = jsonData.jornadas[i + medio].partido;
+                td2.innerHTML = span2.outerHTML + enlace2.outerHTML;
             }
             tr.appendChild(td2);
             tblPartidos.appendChild(tr);
@@ -195,31 +190,24 @@ function cargarClasificacion(jsonData, idTabla) {
     th1.innerHTML = "&nbsp;";
     trHeader.appendChild(th1);
     let th2 = document.createElement("th");
-    th2.classList.add("derecha");
     th2.textContent = "PJ";
     trHeader.appendChild(th2);
     let th3 = document.createElement("th");
-    th3.classList.add("derecha");
     th3.textContent = "G";
     trHeader.appendChild(th3);
     let th4 = document.createElement("th");
-    th4.classList.add("derecha");
     th4.textContent = "E";
     trHeader.appendChild(th4);
     let th5 = document.createElement("th");
-    th5.classList.add("derecha");
     th5.textContent = "P";
     trHeader.appendChild(th5);
     let th6 = document.createElement("th");
-    th6.classList.add("derecha");
     th6.textContent = "GF";
     trHeader.appendChild(th6);
     let th7 = document.createElement("th");
-    th7.classList.add("derecha");
     th7.textContent = "GC";
     trHeader.appendChild(th7);
     let th8 = document.createElement("th");
-    th8.classList.add("derecha");
     th8.classList.add("azul");
     th8.textContent = "Pts";
     trHeader.appendChild(th8);
@@ -284,7 +272,6 @@ function cargarAscensos(jsonData, idTabla) {
     let trContenedor = document.createElement("tr");
     let tdContenedor = document.createElement("td");
     tdContenedor.colSpan = "2";
-    tdContenedor.classList.add("centrado");
     tdContenedor.classList.add("listado");
     let img = document.createElement("img");
     img.src = 'img/ico/arriba.png';
@@ -307,8 +294,15 @@ function cargarExtra(jsonData, idTabla) {
     let tdContenedor = document.createElement("td");
     tdContenedor.colSpan = "2";
     tdContenedor.classList.add("listado");
-    tdContenedor.innerHTML = jsonData.extra;
+    tdContenedor.innerHTML = "&nbsp;";
     trContenedor.appendChild(tdContenedor);
     tblContenedor.appendChild(trContenedor);
+    let trContenedor2 = document.createElement("tr");
+    let tdContenedor2 = document.createElement("td");
+    tdContenedor2.colSpan = "2";
+    tdContenedor2.classList.add("listado");
+    tdContenedor2.innerHTML = jsonData.extra;
+    trContenedor2.appendChild(tdContenedor2);
+    tblContenedor.appendChild(trContenedor2);
 }
 

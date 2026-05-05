@@ -2,104 +2,85 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title></title>
+    <title>Partido - Real Madrid</title>
     <link href="css/estilos.css" rel="stylesheet" type="text/css" />
-    <script src="js/cargarPartido.js"></script>
+    <script src="js/cargarPartido.js" defer></script>
 </head>
 
 <body>
-    <div class="contenedor">        
+    <div class="contenedor">
         <div class="contenido">
-            <span id="btnCasa"><a id="btnIndex"><img src="img/ico/casa.png" /></a></span>
-            <span id="btnVolver"><a id="btnAtras"><img src="img/ico/volver.png" /></a></span>
-            <div>
-                <table id="tblResultado">
-                    <tr>
-                        <td colspan="5" class="centrado azul">
-                            <h2><span id="titulo"></span></h2>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img id="imgLocal"/>
-                        </td>
-                        <td>
-                           <h2 id="nombreLocal"></h2>
-                        </td>
-                        <td class="centrado">
-                            <h1 id="resultado"></h1>
-                        </td>
-                        <td class="derecha">
-                            <h2 id="nombreVisitante"></h2>
-                        </td>
-                        <td class="derecha">
-                            <img id="imgVisitante"/>
-                        </td>
-                    </tr>
-                </table>
-            </div>            
-            <div>
-                <table id="tblAlineaciones">                    
-                    <tr>
-                        <td>
-                            <table id="tblAlineacionLocal"></table>
-                            <table id="tblSuplentesLocal">
-                                <tr>
-                                    <td colspan="2">&nbsp;</td>
-                                </tr>
-                                <tr>
-                                    <td colspan="2"><img src="img/ico/banquillo.png" /></td>
-                                </tr>                                
-                            </table>
-                            <table>
-                                <tr>
-                                    <td>&nbsp;</td>
-                                </tr>
-                                <tr>
-                                    <td><img src="img/ico/hombre.png" /> <span id="entrenadorLocal"></span></td>
-                                </tr>
-                            </table>
-                        </td>
-                        <td class="tablaDerecha">
-                            <table id="tblAlineacionVisitante"></table>
-                            <table id="tblSuplentesVisitante">
-                                <tr>
-                                    <td colspan="2">&nbsp;</td>
-                                </tr>
-                                <tr>
-                                    <td colspan="2"><img src="img/ico/banquillo.png" /></td>
-                                </tr>
-                            </table>
-                            <table >
-                                <tr>
-                                    <td>&nbsp;</td>
-                                </tr>
-                                <tr>
-                                    <td><img src="img/ico/hombre.png" /> <span id="entrenadorVisitante"></span></td>
-                                </tr>
-                            </table>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-            <div>
-                <table id="tblDatos">
-                    <tr>
-                        <td><img src="img/ico/campo.png" /> <span id="ciudad"></span>. <span id="estadio"></span>.<br/><br/>
-                            <img src="img/ico/fans.png" /> <span id="espectadores"></span> espectadores.<br/><br/>
-                            <img src="img/ico/calendario.png" /> <span id="fecha"></span> <img src="img/ico/reloj.png" /> <span id="hora"></span>.<br/><br/>
-                            <img src="img/ico/silbato.png" /> <span id="arbitro"></span>.
-                        </td>
-                        <td class="derecha">
-                            <img class="imagen" id="imgEstadio"/>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-            <div id="tblGoles">
-            </div>
-            <div id="tblPenaltis">
-            </div>
+            <header class="page-header">
+                <div class="nav-buttons">
+                    <a id="btnIndex" class="icon-button" title="Inicio"><img src="img/ico/casa.png" alt="Inicio" /></a>
+                    <a id="btnAtras" class="icon-button" title="Volver"><img src="img/ico/volver.png" alt="Volver" /></a>
+                </div>
+                <div class="match-header">
+                    <div class="team-card home-team">
+                        <img id="imgLocal" class="team-logo" alt="Local" />
+                        <div class="team-name" id="nombreLocal"></div>
+                    </div>
+                    <div class="score-card">
+                        <div class="match-title azul" id="titulo"></div>
+                        <div class="score-value" id="resultado"></div>
+                    </div>
+                    <div class="team-card away-team">
+                        <img id="imgVisitante" class="team-logo" alt="Visitante" />
+                        <div class="team-name" id="nombreVisitante"></div>
+                    </div>
+                </div>
+            </header>
+
+            <section class="section-card lineup-section">
+                <div class="section-header">
+                    <h2>Formaciones</h2>
+                </div>
+                <div class="lineup-grid">
+                    <div class="team-lineup">                        
+                        <div class="starter-block">
+                            <table id="tblAlineacionLocal" class="lineup-table"></table>
+                        </div>
+                        <div class="subsection-header"> Suplentes</div>
+                        <div class="substitutes-block">
+                            <table id="tblSuplentesLocal" class="substitutes-table"></table>
+                        </div>
+                        <div class="coach"> <strong>Entrenador:</strong> <span id="entrenadorLocal"></span></div>
+                    </div>
+                    <div class="team-lineup">
+                        <div class="starter-block">
+                            <table id="tblAlineacionVisitante" class="lineup-table"></table>
+                        </div>
+                        <div class="subsection-header"> Suplentes</div>
+                        <div class="substitutes-block">
+                            <table id="tblSuplentesVisitante" class="substitutes-table"></table>
+                        </div>
+                        <div class="coach"> <strong>Entrenador:</strong> <span id="entrenadorVisitante"></span></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-card info-section">
+                <div class="section-header">
+                    <h2>Datos del partido</h2>
+                </div>
+                <div class="info-grid">
+                    <div class="info-details">
+                        <div class="info-item"> <strong>Estadio:</strong> <span id="estadio"></span>, <span id="ciudad"></span></div>
+                        <div class="info-item"> <strong>Espectadores:</strong> <span id="espectadores"></span></div>
+                        <div class="info-item"> <strong>Fecha:</strong> <span id="fecha"></span></div>
+                        <div class="info-item"> <strong>Hora:</strong> <span id="hora"></span></div>
+                        <div class="info-item"> <strong>Árbitro:</strong> <span id="arbitro"></span></div>
+                    </div>
+                    <div class="info-image">
+                        <img class="imagen" id="imgEstadio" alt="Imagen Estadio" />
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-card stats-section">
+                <div id="tblGoles"></div>
+                <div id="tblPenaltis"></div>
+            </section>
         </div>
     </div>
 </body>

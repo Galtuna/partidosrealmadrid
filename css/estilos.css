@@ -1,188 +1,301 @@
 body {
-    background-color: navy ;
-    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    background: radial-gradient(circle at top, #1f497d 0%, #0f2347 55%, #030a1a 100%);
+    color: #1f2937;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
 }
 
-.borde{
-    width: 20%;    
+.contenedor {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
 
-.contenedor {    
+.contenido {
+    width: min(1100px, 100%);
+    background: #f6f8fc;
+    border: 1px solid rgba(100, 149, 237, 0.35);
+    border-radius: 24px;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.18);
+    overflow: hidden;
+}
+
+.page-header {
+    padding: 24px 24px 8px;
+    position: relative;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.icon-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 14px;
+    border: 1px solid rgba(100, 149, 237, 0.25);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+}
+
+.icon-button img {
+    width: 24px;
+    height: auto;
+}
+
+.match-header {
+    display: grid;
+    grid-template-columns: 1fr 240px 1fr;
+    gap: 24px;
+    align-items: center;
+    text-align: center;
+    padding: 12px 0 24px;
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 18px 16px;
+    background: #ffffff;
+    border: 1px solid rgba(100, 149, 237, 0.18);
+    border-radius: 18px;
+}
+
+.team-logo {
+    object-fit: contain;
+}
+
+.team-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #102a43;
+}
+
+.score-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 22px 12px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(227,242,255,0.95));
+    border-radius: 24px;
+    border: 1px solid rgba(100, 149, 237, 0.25);
+}
+
+.match-title {
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    margin-bottom: 10px;
+}
+
+.score-value {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #0f2043;
+    line-height: 1;
+}
+
+.section-card {
+    margin: 0 24px 24px;
+    padding: 20px 20px 16px;
+    background: #ffffff;
+    border-radius: 20px;
+    border: 1px solid rgba(100, 149, 237, 0.14);
+}
+
+.section-header {
+    margin-bottom: 16px;
+}
+
+.section-header h2 {
+    margin: 0;
+    font-size: 1.25rem;
+    color: #0f2043;
+    letter-spacing: 0.02em;
+}
+
+.standings-content {
+    display: block;
+    justify-content: center;
+}
+
+.listado {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.lineup-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+}
+
+.team-lineup {
+    display: grid;
+    grid-template-rows: auto 1fr auto auto auto;
+    gap: 16px;
+}
+
+.starter-block,
+.substitutes-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.lineup-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #0f2043;
+    padding-left: 8px;
+}
+
+.subsection-header {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 700;
+    color: #1f497d;
+    margin-top: 8px;
+}
+
+.lineup-table,
+.substitutes-table,
+.goal-table,
+.penalty-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.lineup-table td,
+.substitutes-table td,
+.goal-table td,
+.penalty-table td {
+    padding: 10px 8px;
+    vertical-align: middle;
+    border-bottom: 1px solid rgba(15, 32, 67, 0.08);
+    font-size: 0.97rem;
+}
+
+.lineup-table tr:last-child td,
+.substitutes-table tr:last-child td {
+    border-bottom: none;
+}
+
+.lineup-table td:first-child,
+.substitutes-table td:first-child {
+    width: 44px;
+}
+
+.lineup-table td:last-child,
+.substitutes-table td:last-child {
+    color: #21325e;
+}
+
+.coach {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: #1f497d;
+    font-size: 0.98rem;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: minmax(280px, 1.2fr) minmax(180px, 0.8fr);
+    gap: 24px;
+    align-items: center;
+}
+
+.info-details {
+    display: grid;
+    gap: 12px;
+}
+
+.info-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: #243a5e;
+    line-height: 1.4;
+}
+
+.info-item img {
+    width: 18px;
+    height: auto;
+}
+
+.info-image {
     display: flex;
     justify-content: center;
 }
 
-.contenido {
-    align-self: center;
-    width: 90%;
-    background-color: white;
-    border-color: cornflowerblue;
-    border-width: 5px;
-    border-style: solid;
-    border-radius: 15px;
-}
-
-#tblResultado {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 40px;
-    width: 80%;
-}
-
-#tblResultado td:nth-child(1){
-    width: 20%;
-}
-
-#tblResultado td:nth-child(2){
-    width: 26%;
-}
-
-#tblResultado td:nth-child(3){
-    width: 8%;
-}
-
-#tblResultado td:nth-child(4){
-    width: 26%;
-}
-
-#tblResultado td:nth-child(5){
-    width: 20%;
-}
-
-#tblAlineaciones {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 30px;
-    width: 60%;
-}
-
-#tblDatos {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    width: 50%;
-}
-
-#tblGoles {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    width: 60%;
-}
-
-#tblPenaltis {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 10px;
-    padding-bottom: 20px;
-    width: 60%;
-}
-
-#tblPrincipal {
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    width: 60%;
-}
-
-.tblMadre tr td:nth-child(1) {
-    width: 50%;
-}
-.tblMadre tr td:nth-child(2) {
-    width: 50%;
-}
-
-.tblMadre tr td .clasificacion {    
-    margin-left: auto;
-    margin-right: auto;    
-    border-collapse: collapse; 
-}
-
-.tblMadre tr td .clasificacion th {
-    border-color: cornflowerblue;
-    border-width: 1px;
-    border-style: solid;    
-    padding: 5px;
-}
-
-.tblMadre tr td .clasificacion td {
-    border-color: cornflowerblue;
-    border-width: 1px;
-    border-style: solid;    
-    padding: 5px;
-}
-
-.tblMadre tr td .clasificacion th:nth-child(1) {
-    width: 230px;
-}
-.tblMadre tr td .clasificacion th:nth-child(2) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(3) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(4) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(5) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(6) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(7) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(8) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(1) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(2) {
-    width: 200px;
-}
-.tblMadre tr td .clasificacion td:nth-child(3) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(4) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(5) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(6) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion td:nth-child(7) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(8) {
-    width: 30px;
-}
-.tblMadre tr td .clasificacion th:nth-child(9) {
-    width: 30px;
-}
-
-
 .imagen {
-    border-color: cornflowerblue;
-    border-width: 3px;
-    border-style: solid;
+    width: auto;
+    max-width: none;
+    height: auto;
+    border: 3px solid rgba(100, 149, 237, 0.3);
+    border-radius: 18px;
+    object-fit: cover;
 }
 
-#btnCasa {
-    float:left;
-    padding-top: 10px;
-    padding-left: 15px;
+#tblGoles,
+#tblPenaltis,
+#tblClasificacion {
+    margin-top: 12px;
 }
 
-#btnVolver {
-    float:right;
-    padding-top: 10px;
-    padding-right: 15px;
+#tblGoles table,
+#tblPenaltis table,
+#tblClasificacion table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 16px;
+    background: #f8fbff;
+}
+
+#tblGoles td,
+#tblPenaltis td,
+#tblClasificacion td {
+    padding: 14px 12px;
+    border-bottom: 1px solid rgba(15, 32, 67, 0.08);
+    color: #243a5e;
+}
+
+#tblGoles tr:last-child td,
+#tblPenaltis tr:last-child td,
+#tblClasificacion tr:last-child td {
+    border-bottom: none;
+}
+
+#tblGoles td.azul,
+#tblPenaltis td.azul,
+#tblClasificacion td.azul {
+    font-weight: 700;
+    font-size: 1rem;
+    background: rgba(100, 149, 237, 0.08);
+    color: #1f497d;
+}
+
+.col1gol {
+    width: 44px;
+    text-align: center;
+}
+
+.col2gol {
+    width: 58px;
+    text-align: center;
 }
 
 .centrado {
@@ -193,36 +306,45 @@ body {
     text-align: right;
 }
 
-.tabladerecha {
-    float: right;
-}
-
 .azul {
-    color: cornflowerblue;
-    font-weight: bolder;
+    color: #1f497d;
+    font-weight: 700;
 }
 
-.col1gol {
-    width: 30px;
+@media (max-width: 900px) {
+    .match-header {
+        grid-template-columns: 1fr;
+    }
+
+    .lineup-grid,
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
-.col2gol {
-    width: 50px;
+@media (max-width: 640px) {
+    .section-card {
+        margin: 0 12px 18px;
+        padding: 18px;
+    }
+
+    .icon-button {
+        width: 40px;
+        height: 40px;
+    }
 }
 
-.medio {
-    vertical-align: middle;
-}
-
-.listado {
-    padding-top: 20px;
-    width: 100%;
-}
-
-.grupochamp {
-    padding-top: 20px;
-    padding-bottom: 30px;
-    width: 100%;
+#btnCuadro {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ffffff;
+    color: #1f497d;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.85rem;
+    border-radius: 12px;
+    border: 1px solid rgba(100, 149, 237, 0.25);
+    cursor: pointer;
 }
 
 .escudo {
@@ -231,36 +353,7 @@ body {
     padding-bottom: 10px;
 }
 
-.tblCuadro1 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-
-
-.tblCuadro1 td{
-    padding-top: 10px;
-    width: 50%;
-}
-
-.tblCuadro2 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-
-.tblCuadro2 td{
-    padding-top: 10px;
-    width: 33%;
-}
-
-.enlace {
-    text-align: center;    
-    font-weight: bolder;
-    padding-top: 30px;
-}
-
-.enlace a{
-    text-decoration: none;    
-    color: cornflowerblue;
+.linkPartido {
+    text-decoration: none;
+    color: #1f497d; 
 }

@@ -2,31 +2,29 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title></title>
+    <title>Cuadro de Honor - Real Madrid</title>
     <link href="css/estilos.css" rel="stylesheet" type="text/css" />
-    <script src="js/cargarCuadro.js"></script>
+    <script src="js/cargarCuadro.js" defer></script>
 </head>
 
 <body>
     <div class="contenedor">
         <div class="contenido">
-            <span id="btnCasa"><a id="btnIndex"><img src="img/ico/casa.png" /></a></span>
-            <span id="btnVolver"><a id="btnAtras"><img src="img/ico/volver.png" /></a></span>
-            <div>
-                <table id="tblPrincipal">
-                    <tr>
-                        <td class="centrado azul">
-                            <h2><span id="titulo"></span></h2>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <table id="tblCampeones" class="tblCuadro2">                                
-                            </table>
-                        </td>                       
-                    </tr>
-                </table>
-            </div>
+            <header class="page-header">
+                <div class="nav-buttons">
+                    <a id="btnIndex" class="icon-button" title="Inicio"><img src="img/ico/casa.png" alt="Inicio" /></a>
+                    <a id="btnAtras" class="icon-button" title="Volver"><img src="img/ico/volver.png" alt="Volver" /></a>
+                </div>
+                <div class="score-card">
+                    <div class="score-value"><span id="titulo"></span></div>
+                </div>
+            </header>
+
+            <section class="section-card standings-section">
+                <div class="standings-content">
+                    <table id="tblCampeones" class="listado"></table>
+                </div>
+            </section>
         </div>
     </div>
 </body>
