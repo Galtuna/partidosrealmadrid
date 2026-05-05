@@ -1,0 +1,52 @@
+{
+    "titulo": "Temporada 2015/16 - LaLiga - Jornada 5",
+    "atras": "competicion.html?temporada=1516&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Bilbao", "nombre": "Estadio San Mamés", "imagen": "sanmames.jpg", "espectadores": "43.387"},
+    "fecha": "MIE 23/09/2015",
+    "hora": "21:00",
+    "arbitro": "Mateu Lahoz (colegio valenciano)",
+    "local": {"nombre": "Athletic Club", "escudo": "ath.png", "goles": 1, "golesp": 0, "entrenador": "Ernesto Valverde"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Rafa Benítez"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Iraizoz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "De Marcos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Etxeita", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Laporte", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Balenziaga", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "San José", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Beñat", "salida": "0", "cambio": "85'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Susaeta", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Merino", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Raúl García", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Aduriz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 17, "nombre": "Mikel Rico", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Ibai Gómez", "salida": "78'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Kike Sola", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Kovačić", "salida": "0", "cambio": "89'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "72'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 20, "nombre": "Jesé", "salida": "72'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Casemiro", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Lucas Vázquez", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "19'", "descripcion": "Error de San José cediendo atrás a su portero y <span class=\"azul\">Benzema</span> se adelanta y marca."},
+        {"gol": "1-1", "minuto": "67'", "descripcion": "Centro de Susaeta desde la derecha que remata de cabeza cruzado <span class=\"azul\">Merino</span>."},
+        {"gol": "1-2", "minuto": "70'", "descripcion": "Isco gana la espalda de Balenziaga y la pone al segundo palo donde <span class=\"azul\">Benzema</span> solo tiene que empujarla."}
+    ],
+    "penaltis": []
+}
