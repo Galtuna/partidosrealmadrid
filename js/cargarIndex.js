@@ -37,8 +37,6 @@ function htmlFromJSON(jsonData){
         botonIndex.href = 'index.html';
         botonAtras.href = 'index.html';
     }
-    let botonCuadro = document.getElementById('btnCuadro');
-    botonCuadro.href = jsonData.cuadro;
     cargarCompeticiones(jsonData.competiciones1, 'competiciones1');
     cargarCompeticiones(jsonData.competiciones2, 'competiciones2');
 }

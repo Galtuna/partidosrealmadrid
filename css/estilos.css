@@ -334,19 +334,6 @@ body {
     }
 }
 
-#btnCuadro {
-    display: inline-block;
-    padding: 10px 20px;
-    background: #ffffff;
-    color: #1f497d;
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 0.85rem;
-    border-radius: 12px;
-    border: 1px solid rgba(100, 149, 237, 0.25);
-    cursor: pointer;
-}
-
 .escudo {
     text-align: center;
     padding-top: 10px;

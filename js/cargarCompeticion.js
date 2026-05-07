@@ -37,14 +37,24 @@ function htmlFromJSON(jsonData){
     }
     let botonAtras = document.getElementById('btnAtras');
     botonAtras.href = jsonData.atras;
-    cargarEliminatorias(jsonData.eliminatorias, 'tblEliminatorias');
+    cargarEliminatorias(jsonData.eliminatorias, 'tblEliminatorias', false);
     cargarLiga(jsonData.liga);
     cargarPrevias(jsonData.previas);
 }
 
-function cargarEliminatorias(jsonData, idTabla) {
+function cargarEliminatorias(jsonData, idTabla, esPrevia) {
     let tblEliminatorias = document.getElementById(idTabla);    
     
+    if (esPrevia) {
+        // Agregar fila de separación            
+        let trc0 = document.createElement("tr");
+        let td0 = document.createElement("td");        
+        td0.colSpan = "2";
+        td0.innerHTML = "&nbsp;";
+        trc0.appendChild(td0);
+        tblEliminatorias.appendChild(trc0);
+    }
+
     if (jsonData.length > 0) {
         tblEliminatorias.classList.add("listado");
         for (var i = 0; i < jsonData.length; i++) {   
@@ -93,13 +103,10 @@ function cargarEliminatorias(jsonData, idTabla) {
             // Agregar fila de separación            
             let trc3 = document.createElement("tr");
             let td3 = document.createElement("td");
-            if (jsonData[i].unica) {
-                td3.colSpan = "2";
-            }
+            td3.colSpan = "2";
             td3.innerHTML = "&nbsp;";
             trc3.appendChild(td3);
-            tblEliminatorias.appendChild(trc3);
-            
+            tblEliminatorias.appendChild(trc3);            
         }
     }
 }
@@ -120,7 +127,7 @@ function cargarLiga(jsonData) {
 }
 
 function cargarPrevias(jsonData) {
-    cargarEliminatorias(jsonData, 'tblPrevias');
+    cargarEliminatorias(jsonData, 'tblPrevias', true);
 }
 
 function cargarJornadas(jsonData, idTabla) {
