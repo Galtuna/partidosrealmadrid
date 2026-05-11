@@ -68,7 +68,7 @@
             {"equipo": "Levante", "pj": 38, "pg": 8, "pe": 8, "pp": 22, "gf": 37, "gc": 70, "puntos": 32, "icono": "abajo.png"}
         ],
         "ascensos": ["Alavés", "Leganés", "Osasuna"],
-        "extra": "El <span class='azul'>Sevilla</span> se clasifica para la Champions League como ganador de la Europa League"
+        "extra": "El <span class='azul'>Sevilla</span> se clasifica para la Champions League como ganador de la Europa League."
     },
     "previas": []
 }

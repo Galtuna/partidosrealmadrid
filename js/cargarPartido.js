@@ -27,6 +27,9 @@ function htmlFromJSON(jsonData){
     cargarJugadores(jsonData.suplentesVisitante, 4);
     cargarGoles(jsonData);
     cargarPenaltis(jsonData);
+    if (jsonData.goles.length == 0 && jsonData.penaltis.length == 0) {
+        document.getElementById('sectionGoles').style.display = 'none';
+    }
 }
 
 function cargarDatosGenerales(jsonData) {

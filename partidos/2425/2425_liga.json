@@ -66,7 +66,7 @@
             {"equipo": "Valladolid", "pj": 38, "pg": 4, "pe": 4, "pp": 30, "gf": 26, "gc": 90, "puntos": 16, "icono": "abajo.png"}
         ],
         "ascensos": ["Levante", "Elche", "Oviedo"],
-        "extra": "El equipo en quinta posición se clasifica para la Champions League por rendimiento europeo de los clubes de la federación española"
+        "extra": "El equipo en quinta posición se clasifica para la Champions League por rendimiento europeo de los clubes de la federación española."
     },
     "previas": []
 }

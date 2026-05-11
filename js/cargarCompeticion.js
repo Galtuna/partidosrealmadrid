@@ -45,18 +45,18 @@ function htmlFromJSON(jsonData){
 function cargarEliminatorias(jsonData, idTabla, esPrevia) {
     let tblEliminatorias = document.getElementById(idTabla);    
     
-    if (esPrevia) {
-        // Agregar fila de separación            
-        let trc0 = document.createElement("tr");
-        let td0 = document.createElement("td");        
-        td0.colSpan = "2";
-        td0.innerHTML = "&nbsp;";
-        trc0.appendChild(td0);
-        tblEliminatorias.appendChild(trc0);
-    }
-
     if (jsonData.length > 0) {
         tblEliminatorias.classList.add("listado");
+        if (esPrevia) {
+            // Agregar fila de separación            
+            let trc0 = document.createElement("tr");
+            let td0 = document.createElement("td");        
+            td0.colSpan = "2";
+            td0.innerHTML = "&nbsp;";
+            trc0.appendChild(td0);
+            tblEliminatorias.appendChild(trc0);
+        }
+        
         for (var i = 0; i < jsonData.length; i++) {   
             let trc1 = document.createElement("tr");            
             let td1 = document.createElement("td");

@@ -44,7 +44,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "16'", "descripcion": "Dejada de Ronaldo en la frontal para <span class=\"azul\">Benzema</span> que dispara raso ajustado al palo."},
         {"gol": "1-1", "minuto": "45+1'", "descripcion": "Penalti de Pepe sobre André Gomes que transforma <span class=\"azul\">Parejo</span>."},
-        {"gol": "1-2", "minuto": "82'", "descripcion": "Falta lateral que bota Kroos y remata de cabeza <span class=\"azul\">Bale</span> XXXXXX."},
+        {"gol": "1-2", "minuto": "82'", "descripcion": "Falta lateral que bota Kroos y remata de cabeza <span class=\"azul\">Bale</span>."},
         {"gol": "2-2", "minuto": "83'", "descripcion": "Centro de De Paul que toca de cabeza Rodrigo Moreno y <span class=\"azul\">Alcácer</span>, también de cabeza, la manda a la red."}
     ],
     "penaltis": []

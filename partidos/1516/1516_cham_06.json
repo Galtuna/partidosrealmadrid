@@ -1,0 +1,57 @@
+{
+    "titulo": "Temporada 2015/16 - Champions League - Fase de Grupos - Jornada 6",
+    "atras": "competicion.html?temporada=1516&competicion=cham&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "60.663"},
+    "fecha": "MAR 08/12/2015",
+    "hora": "20:45",
+    "arbitro": "Daniele Orsato (Italia)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 8, "golesp": 0, "entrenador": "Rafa Benítez"},
+    "visitante": {"nombre": "Malmö FF", "escudo": "mlm.png", "goles": 0, "golesp": 0, "entrenador": "Åge Hareide"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Casilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Danilo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "53'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Casemiro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Kovačić", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 4, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 3, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "53'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Chéryshev", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Wiland", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Tinnerholm", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Árnason", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Carvalho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 13, "nombre": "Yotún", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Lewicki", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Adu", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Rakip", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Sana", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Berget", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Djurdjić", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 20, "nombre": "Rodić", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Mehmeti", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Kroon", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "12'", "descripcion": "Remate de Isco que salva sobre la línea Yotún pero <span class=\"azul\">Benzema</span> aprovecha el rechace."},
+        {"gol": "2-0", "minuto": "24'", "descripcion": "Centro de Ronaldo desde la derecha que cabecea <span class=\"azul\">Benzema</span> ganando el salto a Tinnerholm."},
+        {"gol": "3-0", "minuto": "39'", "descripcion": "Falta directa bastante escorada que lanza <span class=\"azul\">Ronaldo</span> y entra tras botar delante de Wiland."},
+        {"gol": "4-0", "minuto": "47'", "descripcion": "Disparo de Danilo dentro del área que golpea en Carvalho, y <span class=\"azul\">Ronaldo</span> aprovecha el balón suelto."},
+        {"gol": "5-0", "minuto": "50'", "descripcion": "Balón que mete Danilo en el área, <span class=\"azul\">Ronaldo</span> lo pelea entre dos defensas y dispara con fuerza."},
+        {"gol": "6-0", "minuto": "59'", "descripcion": "Isco remonta la línea de fondo tras un taconazo de Benzema y le sirve el gol en bandeja a <span class=\"azul\">Ronaldo</span>."},
+        {"gol": "7-0", "minuto": "70'", "descripcion": "<span class=\"azul\">Kovačić</span> aprovecha un balón suelto en el área tras un centro raso de Jesé."},
+        {"gol": "8-0", "minuto": "74'", "descripcion": "Kovačić roba muy arriba e Isco asiste a <span class=\"azul\">Benzema</span>, que recorta a Carvalho y marca."}
+    ],
+    "penaltis": []
+}
