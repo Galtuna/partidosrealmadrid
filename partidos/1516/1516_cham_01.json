@@ -5,7 +5,7 @@
     "fecha": "MAR 15/09/2015",
     "hora": "20:45",
     "arbitro": "Ivan Bebek (Croacia)",
-    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 4, "entrenador": "Rafa Benítez"},
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Rafa Benítez"},
     "visitante": {"nombre": "FK Shakhtar Donetsk", "escudo": "sha.png", "goles": 0, "golesp": 0, "entrenador": "Mircea Lucescu"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

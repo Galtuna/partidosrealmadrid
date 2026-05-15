@@ -47,7 +47,7 @@
     ],    
     "goles": [
         {"gol": "1-0", "minuto": "9'", "descripcion": "Falta directa desde la frontal que convierte <span class=\"azul\">Rashford</span> por el palo de Courtois."},
-        {"gol": "2-0", "minuto": "18'", "descripcion": "Fermín mete un balón al área y Dani Olmo la deja de espuela para la llegada y el remate de <span class=\"azul\">Ferrán Torres</span>."}
+        {"gol": "2-0", "minuto": "18'", "descripcion": "Fermín mete el balón en el área y Dani Olmo lo deja de espuela para la llegada y el remate de <span class=\"azul\">Ferrán Torres</span>."}
     ],
     "penaltis": []
 }
