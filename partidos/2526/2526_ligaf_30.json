@@ -1,12 +1,12 @@
 {
-    "titulo": "Temporada 2025/26 - Liga F - Jornada X",
+    "titulo": "Temporada 2025/26 - Liga F - Jornada 30",
     "atras": "competicion.html?temporada=2526&competicion=liga&categoria=f",
     "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "XXXXXX"},
-    "fecha": "XXX XX/XX/2026",
-    "hora": "XX:XX",
+    "fecha": "DOM 31/05/2026",
+    "hora": "12:00",
     "arbitro": "XX (XX)",
     "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Pau Quesada"},
-    "visitante": {"nombre": "XXXXXX", "escudo": "xxx.png", "goles": 0, "golesp": 0, "entrenador": "XXXXXX"},
+    "visitante": {"nombre": "Granada CF", "escudo": "gra.png", "goles": 0, "golesp": 0, "entrenador": "Irene Ferreras"},
     "titularesLocal": [
         {"dorsal": 1, "nombre": "Misa Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Sheila García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
