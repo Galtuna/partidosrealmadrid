@@ -1,0 +1,57 @@
+{
+    "titulo": "Temporada 2015/16 - LaLiga - Jornada 28",
+    "atras": "competicion.html?temporada=1516&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "68.467"},
+    "fecha": "SAB 05/03/2016",
+    "hora": "16:00",
+    "arbitro": "Gil Manzano (colegio extremeño)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 7, "golesp": 0, "entrenador": "Zinédine Zidane"},
+    "visitante": {"nombre": "RC Celta de Vigo", "escudo": "cel.png", "goles": 1, "golesp": 0, "entrenador": "Eduardo Berizzo"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Danilo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Casemiro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Kovačić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 4, "golpp": 0, "lesion": 0},
+        {"dorsal": 29, "nombre": "Borja Mayoral", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 11, "nombre": "Bale", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Rubén Blanco", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Otto", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Hugo Mallo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Sergi Gómez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Planas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Marcelo Díaz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Wass", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Pablo Hernández", "salida": "0", "cambio": "35'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 14, "nombre": "Orellana", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Nolito", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Aspas", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 6, "nombre": "Radoja", "salida": "35'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Guidetti", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Beauvue", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "41'", "descripcion": "Córner que bota Isco y remata de cabeza <span class=\"azul\">Pepe</span> en el punto de penalti."},
+        {"gol": "2-0", "minuto": "50'", "descripcion": "Tremendo zapatazo de <span class=\"azul\">Ronaldo</span> desde unos 25 metros."},
+        {"gol": "3-0", "minuto": "58'", "descripcion": "Falta directa que transforma <span class=\"azul\">Ronaldo</span> con un disparo que supera la barrera."},
+        {"gol": "3-1", "minuto": "62'", "descripcion": "Balón largo de Sergi Gómez para <span class=\"azul\">Aspas</span> que se planta ante Keylor Navas y le bate por encima."},
+        {"gol": "4-1", "minuto": "64'", "descripcion": "Lucas Vázquez abre en el área para Isco que le da el pase de la muerte a <span class=\"azul\">Ronaldo</span>."},
+        {"gol": "5-1", "minuto": "76'", "descripcion": "Córner que bota Jesé y remata de cabeza <span class=\"azul\">Ronaldo</span> entrando al primer palo."},
+        {"gol": "6-1", "minuto": "77'", "descripcion": "<span class=\"azul\">Jesé</span> roba nada más sacar de centro, llega al área, se hace hueco y dispara raso a la red."},
+        {"gol": "7-1", "minuto": "81'", "descripcion": "Disparo raso cruzado de <span class=\"azul\">Bale</span> desde la frontal directo a la base del palo."}
+    ],
+    "penaltis": []
+}

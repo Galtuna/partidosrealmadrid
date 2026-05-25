@@ -1,0 +1,55 @@
+{
+    "titulo": "Temporada 2015/16 - LaLiga - Jornada 33",
+    "atras": "competicion.html?temporada=1516&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Getafe (Madrid)", "nombre": "Coliseum Alfonso Pérez", "imagen": "coliseum.jpg", "espectadores": "11.401"},
+    "fecha": "SAB 16/04/2016",
+    "hora": "16:00",
+    "arbitro": "González González (colegio castellanoleonés)",
+    "local": {"nombre": "Getafe CF", "escudo": "get.png", "goles": 1, "golesp": 0, "entrenador": "Juan Eduardo Esnáider"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 5, "golesp": 0, "entrenador": "Zinédine Zidane"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Guaita", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Damián Suárez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Vigaray", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Vergini", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Pereira", "salida": "0", "cambio": "9'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 8, "nombre": "Lacen", "salida": "0", "cambio": "52'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Juan Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Pedro León", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Sarabia", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Šćepović", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Álvaro Vázquez", "salida": "0", "cambio": "62'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 11, "nombre": "Yoda", "salida": "9'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 32, "nombre": "Buendía", "salida": "52'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Moi Gómez", "salida": "62'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "52'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 6, "nombre": "Nacho", "salida": "52'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Lucas Vázquez", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "29'", "descripcion": "Centro de James con rosca desde el pico del área que remata <span class=\"azul\">Benzema</span> libre de marca."},
+        {"gol": "0-2", "minuto": "40'", "descripcion": "<span class=\"azul\">Isco</span> tira la pared con Benzema, se planta ante Guaita y le bate por bajo."},
+        {"gol": "0-3", "minuto": "50'", "descripcion": "Balón largo de Benzema para la carrera de <span class=\"azul\">Bale</span> que supera a Guaita de disparo raso cruzado."},
+        {"gol": "1-3", "minuto": "83'", "descripcion": "Disparo de <span class=\"azul\">Sarabia</span> desde la frontal que roza en Pepe y se vuelve imposible para Keylor Navas."},
+        {"gol": "1-4", "minuto": "88'", "descripcion": "Internada de Lucas Vázquez que centra para <span class=\"azul\">James</span> y este marca tras recortar a Vigaray."},
+        {"gol": "1-5", "minuto": "90+2'", "descripcion": "Pase filtrado de Isco a Jesé que solo delante de Guaita le regala el gol a <span class=\"azul\">Ronaldo</span>."}
+    ],
+    "penaltis": []
+}
