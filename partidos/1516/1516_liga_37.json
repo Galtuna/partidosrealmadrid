@@ -45,7 +45,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "26'", "descripcion": "<span class=\"azul\">Ronaldo</span> recibe en la frontal, se hace hueco y se saca un fuerte disparo raso que entra junto a la base del palo."},
-        {"gol": "2-0", "minuto": "42'", "descripcion": "Error de João Cancelo cortando hacia atrás un balón en el área que le cae a <span class=\"azul\">Benzema</span> y el francés no perdona."},
+        {"gol": "2-0", "minuto": "42'", "descripcion": "Error de João Cancelo cortando un balón en el área hacia <span class=\"azul\">Benzema</span> y el francés no perdona."},
         {"gol": "2-1", "minuto": "55'", "descripcion": "<span class=\"azul\">Rodrigo Moreno</span> aprovecha un mal despeje de Varane para fusilar a Kiko Casilla."},
         {"gol": "3-1", "minuto": "59'", "descripcion": "Pase al espacio de James para <span class=\"azul\">Ronaldo</span> que se planta ante Diego Alves y le bate por arriba."},
         {"gol": "3-2", "minuto": "81'", "descripcion": "Gran disparo con rosca de <span class=\"azul\">André Gomes</span> desde el pico del área que encuentra la escuadra contraria."}
