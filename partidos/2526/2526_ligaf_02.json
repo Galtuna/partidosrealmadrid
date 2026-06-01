@@ -4,7 +4,7 @@
     "estadio": {"ciudad": "Alcalá de Henares (Madrid)", "nombre": "Centro deportivo Wanda", "imagen": "cdwanda.jpg", "espectadores": "1.904"},
     "fecha": "VIE 05/09/2025",
     "hora": "20:00",
-    "arbitro": "Huerta de Aza (colegio canario)",
+    "arbitro": "Huerta de Aza (colegio tinerfeño)",
     "local": {"nombre": "Club Atlético de Madrid", "escudo": "atm2.png", "goles": 2, "golesp": 0, "entrenador": "Víctor Martín"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Pau Quesada"},
     "titularesLocal": [

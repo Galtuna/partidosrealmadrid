@@ -1,0 +1,57 @@
+{
+    "titulo": "Temporada 2016/17 - Copa del Rey - Dieciseisavos de Final - Ida",
+    "atras": "competicion.html?temporada=1617&competicion=copa&categoria=m",
+    "estadio": {"ciudad": "León", "nombre": "Estadio Reino de León", "imagen": "reinodeleon.jpg", "espectadores": "11.516"},
+    "fecha": "MIE 26/10/2016",
+    "hora": "21:00",
+    "arbitro": "Trujillo Suárez (colegio tinerfeño)",
+    "local": {"nombre": "Cultural y Deportiva Leonesa", "escudo": "cdl.png", "goles": 1, "golesp": 0, "entrenador": "Rubén de la Barrera"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 7, "golesp": 0, "entrenador": "Zinédine Zidane"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Palatsí", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Bastos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Forniés", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Zuiverloon", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 5, "nombre": "Garrido", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Mario Ortiz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Yeray González", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Colinas", "salida": "0", "cambio": "55'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Gallar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Antonio Martínez", "salida": "0", "cambio": "19'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 9, "nombre": "Toni Villa", "salida": "0", "cambio": "62'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 14, "nombre": "Jorge Ortí", "salida": "19'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Benja", "salida": "55'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Touré", "salida": "62'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Kiko Casilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Carvajal", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Danilo", "salida": "0", "cambio": "58'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Asensio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Morata", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 15, "nombre": "Coentrão", "salida": "58'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Mariano", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Kovačić", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "6'", "descripcion": "Falta lateral que bota Kroos, James toca de cabeza y <span class=\"azul\">Zuiverloon</span> mete el pie y marca en su portería."},
+        {"gol": "0-2", "minuto": "32'", "descripcion": "Lucas Vázquez se interna por la derecha y la pone en la frontal para que <span class=\"azul\">Asensio</span> controle y dispare."},
+        {"gol": "0-3", "minuto": "46'", "descripcion": "Pase filtrado de James para <span class=\"azul\">Morata</span> que dispara entre las piernas de Palatsí."},
+        {"gol": "0-4", "minuto": "53'", "descripcion": "Gran disparo con la zurda de <span class=\"azul\">Asensio</span> desde fuera del área que sorprende a Palatsí."},
+        {"gol": "0-5", "minuto": "55'", "descripcion": "James recupera muy arriba y centra con el exterior de la zurda para que <span class=\"azul\">Morata</span> remate muy solo."},
+        {"gol": "0-6", "minuto": "68'", "descripcion": "<span class=\"azul\">Nacho</span> remata con una espectacular volea de media chilena un centro de James."},
+        {"gol": "1-6", "minuto": "84'", "descripcion": "Centro muy pasado de Bastos, toca hacia atrás Forniés y <span class=\"azul\">Benja</span> remata cruzado de primeras."},
+        {"gol": "1-7", "minuto": "90+2'", "descripcion": "Centro de Lucas Vázquez desde la derecha que remata de cabeza <span class=\"azul\">Mariano</span>."}
+    ],
+    "penaltis": []
+}

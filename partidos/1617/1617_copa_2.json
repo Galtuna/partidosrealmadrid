@@ -1,0 +1,56 @@
+{
+    "titulo": "Temporada 2016/17 - Copa del Rey - Dieciseisavos de Final - Vuelta",
+    "atras": "competicion.html?temporada=1617&competicion=copa&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "47.656"},
+    "fecha": "MIE 30/11/2016",
+    "hora": "19:00",
+    "arbitro": "Melero López (colegio andaluz)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 6, "golesp": 0, "entrenador": "Zinédine Zidane"},
+    "visitante": {"nombre": "Cultural y Deportiva Leonesa", "escudo": "cdl.png", "goles": 1, "golesp": 0, "entrenador": "Rubén de la Barrera"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Kiko Casilla", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Carvajal", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Tejero", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Casemiro", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Ødegaard", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Asensio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Mariano", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 3, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 5, "nombre": "Varane", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 29, "nombre": "Enzo Zidane", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Rubén Yáñez", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Leandro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Bastos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Morgado", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 4, "nombre": "Garrido", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Víctor Díaz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Cristóbal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Yeray González", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Jorge Ortí", "salida": "0", "cambio": "81'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Gallar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Toni Villa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benja", "salida": "0", "cambio": "53'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 14, "nombre": "Zuiverloon", "salida": "53'", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 15, "nombre": "Al Ahrak", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Moreno", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "1'", "descripcion": "Error de Garrido al controlar un balón, Asensio se la lleva y le pone el gol en bandeja a <span class=\"azul\">Mariano</span>."},
+        {"gol": "2-0", "minuto": "23'", "descripcion": "Centro de Carvajal desde la derecha que remata de cabeza en el área pequeña <span class=\"azul\">James</span>."},
+        {"gol": "3-0", "minuto": "42'", "descripcion": "Balón que mete Carvajal desde su banda y <span class=\"azul\">Mariano</span> controla con el pecho y fusila a Leandro."},
+        {"gol": "3-1", "minuto": "45'", "descripcion": "<span class=\"azul\">Yeray González</span> empalma un balón rechazado con un tremendo zapatazo desde fuera del área."},
+        {"gol": "4-1", "minuto": "63'", "descripcion": "Mariano encuentra en la frontal a <span class=\"azul\">Enzo Zidane</span> que marca de disparo raso."},
+        {"gol": "5-1", "minuto": "87'", "descripcion": "Centro de Tejero desde la derecha que remata picado de cabeza <span class=\"azul\">Mariano</span> entrando completamente solo."},
+        {"gol": "6-1", "minuto": "90'", "descripcion": "Centro raso de Nacho desde la izquierda buscando el segundo palo y <span class=\"azul\">Morgado</span> marca al intentar despejar."}
+    ],
+    "penaltis": []
+}
