@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "44'", "descripcion": "Guidetti recibe solo ante Kiko Casilla, su disparo lo despeja el portero pero pega en <span class=\"azul\">Danilo</span> y entra en la portería."},
         {"gol": "1-1", "minuto": "62'", "descripcion": "Falta directa desde fuera del área que transforma <span class=\"azul\">Ronaldo</span> por el palo de Sergio Álvarez."},
-        {"gol": "2-1", "minuto": "85'", "descripcion": "Jozabed la deja atrás para el disparo de <span class=\"azul\">Wass</span> desde la frontal que entra ajustado a la base del palo."},
+        {"gol": "2-1", "minuto": "85'", "descripcion": "Jozabed toca atrás hacia la frontal para que <span class=\"azul\">Wass</span> dispare ajustado a la base del palo."},
         {"gol": "2-2", "minuto": "90'", "descripcion": "Córner que bota Kroos, Benzema prolonga en el primer palo y <span class=\"azul\">Lucas Vázquez</span> cabecea en el segundo."}
     ],
     "penaltis": []

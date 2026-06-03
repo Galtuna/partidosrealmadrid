@@ -45,7 +45,7 @@
             {"equipo": "Athletic", "pj": 30, "pg": 12, "pe": 8, "pp": 10, "gf": 35, "gc": 44, "puntos": 44},
             {"equipo": "Sevilla", "pj": 30, "pg": 12, "pe": 5, "pp": 13, "gf": 33, "gc": 46, "puntos": 41},
             {"equipo": "Madrid CCF", "pj": 30, "pg": 11, "pe": 4, "pp": 15, "gf": 41, "gc": 59, "puntos": 37},
-            {"equipo": "Badalona", "pj": 30, "pg": 10, "pe": 9, "pp": 11, "gf": 28, "gc": 46, "puntos": 36},
+            {"equipo": "Badalona", "pj": 30, "pg": 10, "pe": 9, "pp": 11, "gf": 28, "gc": 46, "puntos": "36 *"},
             {"equipo": "Espanyol", "pj": 30, "pg": 7, "pe": 10, "pp": 13, "gf": 28, "gc": 44, "puntos": 31},
             {"equipo": "Deportivo", "pj": 30, "pg": 8, "pe": 7, "pp": 14, "gf": 34, "gc": 54, "puntos": 31},
             {"equipo": "Eibar", "pj": 30, "pg": 8, "pe": 4, "pp": 18, "gf": 18, "gc": 47, "puntos": 28},
@@ -53,8 +53,8 @@
             {"equipo": "Alhama", "pj": 30, "pg": 3, "pe": 5, "pp": 22, "gf": 23, "gc": 78, "puntos": 14, "icono": "abajo.png"},
             {"equipo": "Levante", "pj": 30, "pg": 2, "pe": 3, "pp": 25, "gf": 18, "gc": 62, "puntos": 9, "icono": "abajo.png"}
         ],
-        "ascensos": ["Alavés", "-"],
-        "extra": "El FC Levante Badalona pasa a denominarse FC Badalona Women, y modifica su escudo.<br/>El Costa Adeje Tenerife pasa a integrarse en el CD Tenerife y adopta su escudo.<br/>El FC Badalona Women fue sancionado por el Comité de Disciplina de la RFEF con la retirada de 3 puntos por viajar sin médico de forma reiterada."
+        "ascensos": ["Alavés", "Valencia"],
+        "extra": "El FC Levante Badalona pasa a denominarse FC Badalona Women y modifica su escudo.<br/>El Costa Adeje Tenerife pasa a integrarse en el CD Tenerife y adopta su escudo.<br/><span class='azul'>* </span>El FC Badalona Women fue sancionado por el Comité de Disciplina de la RFEF con la retirada de 3 puntos por viajar sin médico de forma reiterada."
     },
     "previas": []
 }

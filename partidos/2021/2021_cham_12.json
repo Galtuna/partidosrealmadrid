@@ -21,7 +21,7 @@
         {"dorsal": 11, "nombre": "Werner", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
     ],
     "suplentesLocal": [
-        {"dorsal": 10, "nombre": "Pulisić", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Pulišić", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 24, "nombre": "Reece James", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 22, "nombre": "Ziyech", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Giroud", "salida": "90+4'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
@@ -47,7 +47,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "28'", "descripcion": "Havertz la pica ante Courtois, el balón da en el larguero y el rebote lo empuja <span class=\"azul\">Werner</span> de cabeza."},
-        {"gol": "2-0", "minuto": "85'", "descripcion": "Kanté recupera muy arriba y envía a Pulisić, que llega a línea de fondo y le da el pase de la muerte a <span class=\"azul\">Mount</span>."}
+        {"gol": "2-0", "minuto": "85'", "descripcion": "Kanté recupera muy arriba y envía a Pulišić, que llega a línea de fondo y le da el pase de la muerte a <span class=\"azul\">Mount</span>."}
     ],
     "penaltis": []
 }

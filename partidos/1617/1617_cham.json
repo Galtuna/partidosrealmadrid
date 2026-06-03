@@ -12,15 +12,15 @@
         "jornadas": [
             {"partido": "Real Madrid 2 - 1 Sporting Portugal", "enlace": "partido.html?cod=1617_cham_01"},
             {"partido": "Borussia Dortmund 2 - 2 Real Madrid", "enlace": "partido.html?cod=1617_cham_02"},
-            {"partido": "Real Madrid 5 - 1 Legia Varsovia", "enlace": "partido.html?cod=1617_cham_03"},
-            {"partido": "Legia Varsovia 3 - 3 Real Madrid", "enlace": "partido.html?cod=1617_cham_04"},
+            {"partido": "Real Madrid 5 - 1 Legia Warszawa", "enlace": "partido.html?cod=1617_cham_03"},
+            {"partido": "Legia Warszawa 3 - 3 Real Madrid", "enlace": "partido.html?cod=1617_cham_04"},
             {"partido": "Sporting Portugal 1 - 2 Real Madrid", "enlace": "partido.html?cod=1617_cham_05"},
             {"partido": "Real Madrid 2 - 2 Borussia Dortmund", "enlace": "partido.html?cod=1617_cham_06"}
         ],
         "clasificacion": [
             {"equipo": "Borussia Dortmund", "pj": 6, "pg": 4, "pe": 2, "pp": 0, "gf": 21, "gc": 9, "puntos": 14},
             {"equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 3, "pp": 0, "gf": 16, "gc": 10, "puntos": 12},
-            {"equipo": "Legia Varsovia", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 9, "gc": 24, "puntos": 4},
+            {"equipo": "Legia Warszawa", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 9, "gc": 24, "puntos": 4},
             {"equipo": "Sporting Portugal", "pj": 6, "pg": 1, "pe": 0, "pp": 5, "gf": 5, "gc": 8, "puntos": 3}
         ]
     },
