@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2016/17 - Champions League - Fase de Grupos - Jornada 4",
     "atras": "competicion.html?temporada=1617&competicion=cham&categoria=m",
-    "estadio": {"ciudad": "Varsovia (Polonia)", "nombre": "Estadio Mariscal Józef Piłsudski", "imagen": "ejerpolaco.jpg", "espectadores": "Sin"},
+    "estadio": {"ciudad": "Varsovia (Polonia)", "nombre": "Estadio del Ejército Polaco", "imagen": "ejerpolaco.jpg", "espectadores": "Sin"},
     "fecha": "MIE 02/11/2016",
     "hora": "20:45",
     "arbitro": "Pavel Královec (República Checa)",
@@ -45,7 +45,7 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "1'", "descripcion": "<span class=\"azul\">Bale</span> engancha de primeras un balón con la zurda desde fuera del área y lo envía a la escuadra de Malarz."},
-        {"gol": "0-2", "minuto": "35'", "descripcion": "Pase filtrado de Kovačić para Bale que cede para que <span class=\"azul\">Benzema</span> remate cómodamente por el palo corto."},
+        {"gol": "0-2", "minuto": "35'", "descripcion": "Pase filtrado de Kovačić hacia Bale que cede para que <span class=\"azul\">Benzema</span> remate cómodamente por el palo corto."},
         {"gol": "1-2", "minuto": "40'", "descripcion": "<span class=\"azul\">Odjidja-Ofoe</span> avanza hasta la frontal, nadie le encima y dispara con la zurda a la escuadra de Keylor Navas."},
         {"gol": "2-2", "minuto": "58'", "descripcion": "<span class=\"azul\">Radović</span> conecta un fuerte punterazo desde la frontal que pasa por debajo del cuerpo de Keylor Navas."},
         {"gol": "3-2", "minuto": "83'", "descripcion": "Disparo de <span class=\"azul\">Moulin</span> desde la corona del área que entra tras pegar en el palo."},
