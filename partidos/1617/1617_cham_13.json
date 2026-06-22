@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "20'", "descripcion": "Balón de Carvajal a la frontal para que <span class=\"azul\">Ronaldo</span> dispare raso cruzado a la base del poste."},
         {"gol": "1-1", "minuto": "27'", "descripcion": "<span class=\"azul\">Mandžukić</span> controla con el pecho de espaldas en el área y se inventa una parábola que supera a Keylor Navas."},
-        {"gol": "1-2", "minuto": "61'", "descripcion": "<span class=\"azul\">Casemiro</span> engancha un balón rechazado con un tremendo derechazo desde fuera del área"},
+        {"gol": "1-2", "minuto": "61'", "descripcion": "<span class=\"azul\">Casemiro</span> engancha un balón rechazado con un tremendo derechazo desde fuera del área."},
         {"gol": "1-3", "minuto": "64'", "descripcion": "Centro de Modrić desde la línea de fondo que remata <span class=\"azul\">Ronaldo</span> en el primer palo."},
         {"gol": "1-4", "minuto": "90'", "descripcion": "Marcelo supera a Lemina, remonta la línea de fondo y asiste a <span class=\"azul\">Asensio</span> que marca a placer."}
     ],

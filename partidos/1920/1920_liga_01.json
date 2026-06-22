@@ -47,7 +47,7 @@
         {"gol": "0-1", "minuto": "12'", "descripcion": "Bale encara desde el lateral del área, se va de su par y mete un balón que <span class=\"azul\">Benzema</span> solo tiene que empujar a la red."},
         {"gol": "0-2", "minuto": "61'", "descripcion": "Gran disparo de <span class=\"azul\">Kroos</span> desde fuera del área que pega en el larguero y entra en la portería."},
         {"gol": "0-3", "minuto": "80'", "descripcion": "Benzema recibe de espaldas en la frontal y habilita a <span class=\"azul\">Lucas Vázquez</span> que marca de tiro cruzado."},
-        {"gol": "1-3", "minuto": "90+1'", "descripcion": "Pape Cheick abre a <span class=\"azul\">Iker Losada</span> en el pico del área que dispara raso cruzado al palo largo."}
+        {"gol": "1-3", "minuto": "90+1'", "descripcion": "Pape Cheikh abre a <span class=\"azul\">Iker Losada</span> en el pico del área que dispara raso cruzado al palo largo."}
     ],
     "penaltis": []
 }

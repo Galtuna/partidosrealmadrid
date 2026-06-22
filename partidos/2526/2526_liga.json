@@ -65,7 +65,7 @@
             {"equipo": "Girona", "pj": 38, "pg": 9, "pe": 14, "pp": 15, "gf": 39, "gc": 55, "puntos": 41, "icono": "abajo.png"},
             {"equipo": "Oviedo", "pj": 38, "pg": 6, "pe": 11, "pp": 21, "gf": 26, "gc": 60, "puntos": 29, "icono": "abajo.png"}
         ],
-        "ascensos": ["Racing", "Deportivo", "-"],
+        "ascensos": ["Racing", "Deportivo", "Málaga"],
         "extra": "El equipo en quinta posición se clasifica para la Champions League por rendimiento europeo de los clubes de la federación española."
     },
     "previas": []
