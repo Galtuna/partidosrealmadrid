@@ -23,7 +23,54 @@
 
             <section class="section-card standings-section">
                 <div class="standings-content">
-                    <table class="listado">
+                    <!-- Buscador de partidos -->
+                    <div id="searchBox" style="margin-bottom:20px;">
+                        <div class="search-bar">
+                            <input class="search-input" type="text" id="searchQuery" placeholder="Buscar por equipo, jugador, ciudad, estadio, árbitro o entrenador" />
+                            <select id="searchField" class="search-select">
+                                <option value="equipo">Equipo</option>
+                                <option value="jugador">Jugador</option>
+                                <option value="ciudad">Ciudad</option>
+                                <option value="estadio">Estadio</option>
+                                <option value="arbitro">Árbitro</option>
+                                <option value="entrenador">Entrenador</option>
+                            </select>
+                            <select id="searchSeason" class="search-select">
+                                <option value="all">Todas las temporadas</option>
+                                <option value="2526">2025/26</option>
+                                <option value="2425">2024/25</option>
+                                <option value="2324">2023/24</option>
+                                <option value="2223">2022/23</option>
+                                <option value="2122">2021/22</option>
+                                <option value="2021">2020/21</option>
+                                <option value="1920">2019/20</option>
+                                <option value="1819">2018/19</option>
+                                <option value="1718">2017/18</option>
+                                <option value="1617">2016/17</option>
+                                <option value="1516">2015/16</option>
+                            </select>
+                            <button id="btnSearch" class="btn btn-primary">Buscar</button>
+                        </div>
+                    </div>
+
+                    <!-- Resultados ahora se muestran en modal -->
+                    <div id="searchResultsPlaceholder" style="display:none"></div>
+
+                    <!-- Modal de resultados -->
+                    <div id="searchModal" class="modal-overlay" role="dialog" aria-modal="true">
+                        <div class="modal" role="document">
+                            <div class="modal-header">
+                                <div class="modal-title" id="modalTitle">Resultados de búsqueda</div>
+                                <button class="modal-close" id="modalClose" aria-label="Cerrar">✕</button>
+                            </div>
+                            <div class="modal-body" id="modalBody">
+                                <!-- listado renderizado aquí -->
+                            </div>
+                            <div class="modal-pagination" id="modalPagination"></div>
+                        </div>
+                    </div>
+
+                    <table class="listado" id="seasonListTable">
                         <tr>
                             <td class="centrado">&nbsp;</td>
                             <td>&nbsp;</td>
@@ -104,6 +151,7 @@
             </section>
         </div>
     </div>
+    <script src="js/search.js"></script>
 </body>
 
 </html>
