@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2015/16 - LaLiga - Jornada 1",
     "atras": "competicion.html?temporada=1516&competicion=liga&categoria=m",
-    "estadio": {"ciudad": "Gijón (Asturias)", "nombre": "Estadio El Molinón - Enrique Castro 'Quini'", "imagen": "molinon.jpg", "espectadores": "28.105"},
+    "estadio": {"ciudad": "Gijón (Asturias)", "nombre": "Estadio El Molinón", "imagen": "molinon.jpg", "espectadores": "28.105"},
     "fecha": "DOM 23/08/2015",
     "hora": "20:30",
     "arbitro": "Estrada Fernández (colegio catalán)",
