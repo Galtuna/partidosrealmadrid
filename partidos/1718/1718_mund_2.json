@@ -1,0 +1,49 @@
+{
+    "titulo": "Temporada 2017/18 - Mundial de Clubes - Final",
+    "atras": "competicion.html?temporada=1718&competicion=mund&categoria=m",
+    "estadio": {"ciudad": "Abu Dabi (Emiratos Árabes Unidos)", "nombre": "Zayed Sports City Stadium", "imagen": "zayed.jpg", "espectadores": "41.094"},
+    "fecha": "SAB 16/12/2017",
+    "hora": "18:00",
+    "arbitro": "César Ramos (México)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Zinédine Zidane"},
+    "visitante": {"nombre": "Grêmio FBPA", "escudo": "gre.png", "goles": 0, "golesp": 0, "entrenador": "Renato Gaúcho"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Casemiro", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Isco", "salida": "0", "cambio": "73'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 17, "nombre": "Lucas Vázquez", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Marcelo Grohe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Edilson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Geromel", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Kannemann", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Bruno Cortês", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Michel Ferreira", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Jailson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Luan", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Ramiro Moschen", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Fernandinho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Lucas Barrios", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 9, "nombre": "Jael", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Everton", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Maicon", "salida": "84'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "53'", "descripcion": "Falta directa desde fuera del área que transforma <span class=\"azul\">Ronaldo</span> aprovechando que se abre la barrera."}
+    ],
+    "penaltis": []
+}
