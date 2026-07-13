@@ -27,7 +27,7 @@
     "titularesLocal": [
         {
             "dorsal": "1",
-            "nombre": "Kiko Casilla",
+            "nombre": "Casilla",
             "salida": "0",
             "cambio": "0",
             "amarilla": "0",
@@ -393,7 +393,7 @@
         {
             "gol": "0-2",
             "minuto": "73'",
-            "descripcion": "Pase interior de Modrić a <span class=\"azul\">Vinicius Jr.</span> que la pica ante la salida de Kiko Casilla."
+            "descripcion": "Pase interior de Modrić a <span class=\"azul\">Vinicius Jr.</span> que la pica ante la salida de Casilla."
         },
         {
             "gol": "1-2",

@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Copa del Rey - Cuartos de final",
     "atras": "competicion.html?temporada=2425&competicion=copa&categoria=m",
-    "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "11.709"},
+    "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Municipal de Butarque", "imagen": "butarque.jpg", "espectadores": "11.709"},
     "fecha": "MIE 05/02/2025",
     "hora": "21:00",
     "arbitro": "Alberola Rojas (colegio castellanomanchego)",

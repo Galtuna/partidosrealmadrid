@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2024/25 - Supercopa de España - Semifinal",
     "atras": "competicion.html?temporada=2425&competicion=sces&categoria=f",
-    "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Butarque", "imagen": "butarque.jpg", "espectadores": "2.000"},
+    "estadio": {"ciudad": "Leganés (Madrid)", "nombre": "Estadio Municipal de Butarque", "imagen": "butarque.jpg", "espectadores": "2.000"},
     "fecha": "JUE 23/01/2025",
     "hora": "19:00",
     "arbitro": "Planes Terol (colegio murciano)",

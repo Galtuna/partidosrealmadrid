@@ -26,7 +26,7 @@
         {"dorsal": 3, "nombre": "Lemos", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "titularesVisitante": [
-        {"dorsal": 13, "nombre": "Kiko Casilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 13, "nombre": "Casilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 2, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 5, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -45,9 +45,9 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "33'", "descripcion": "<span class=\"azul\">Asensio</span> empuja con la cabeza un rechace de Javi Varas tras una conducción y disparo de Nacho."},
-        {"gol": "1-1", "minuto": "38'", "descripcion": "<span class=\"azul\">Tana</span> recoge un balón rechazado en el área y supera a Kiko Casilla con un disparo raso."},
+        {"gol": "1-1", "minuto": "38'", "descripcion": "<span class=\"azul\">Tana</span> recoge un balón rechazado en el área y supera a Casilla con un disparo raso."},
         {"gol": "1-2", "minuto": "67'", "descripcion": "<span class=\"azul\">Benzema</span> aprovecha un rechace de Javi Varas tras un mano a mano errado por Ronaldo."},
-        {"gol": "2-2", "minuto": "85'", "descripcion": "Centro de Tana que baja con la cabeza Vicente Gómez para <span class=\"azul\">Araujo</span>, y este supera a Kiko Casilla y marca."}
+        {"gol": "2-2", "minuto": "85'", "descripcion": "Centro de Tana que baja con la cabeza Vicente Gómez para <span class=\"azul\">Araujo</span>, y este supera a Casilla y marca."}
     ],
     "penaltis": []
 }
