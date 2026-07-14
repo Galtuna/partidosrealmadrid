@@ -6,5 +6,6 @@
         {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=1920&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false},
         {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=1920&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": true}
     ],
-    "competiciones2": []
+    "competiciones2": [],
+    "extra": "Las competiciones fueron suspendidas entre el 10 de marzo y el 11 de junio debido a la pandemia de COVID-19. Se retomaron con los partidos jugándose a puerta cerrada, y permitiéndose cinco cambios en tres ventanas como máximo por equipo.<br/>A partir de esta temporada la Supercopa de España cambia de formato y pasa a jugarse en modo Final Four entre los dos primeros clasificados de LaLiga y los dos finalistas de la Copa del Rey, todo en una sede neutral."
 }

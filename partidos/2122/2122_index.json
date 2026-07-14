@@ -6,5 +6,6 @@
         {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=2122&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false},
         {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2122&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": true}
     ],
-    "competiciones2": []
+    "competiciones2": [],
+    "extra": "A partir de esta temporada se elimina la regla del valor doble para los goles marcados fuera de casa en caso de empate en una eliminatoria.<br/>Excepcionalmente, esta temporada se mantuvo la norma de permitir cinco cambios en tres ventanas como máximo por equipo."
 }

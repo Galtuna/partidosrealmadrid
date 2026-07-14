@@ -33,7 +33,8 @@
             {"equipo": "Benfica", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 4, "gc": 11, "puntos": 2},
             {"equipo": "PSG", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 4, "gc": 12, "puntos": 2},
             {"equipo": "St. Pölten", "pj": 6, "pg": 0, "pe": 1, "pp": 5, "gf": 3, "gc": 28, "puntos": 1}
-        ]
+        ],
+        "extra": "A partir de esta temporada cambia el formato de la Champions League Femenina, pasando a disputarse en un único grupo de 18 equipos, con 8 partidos para cada equipo ante rivales diferentes. Los 4 primeros clasificados pasan directamente a cuartos de final, mientras que los equipos clasificados entre el 5º y el 12º puesto disputan una eliminatoria previa a cuartos de final."
     },
     "previas": [
         {"nombre": "Fase clasificatoria 3", "unica": false, "partido1": "Eintracht Frankfurt 1 - 2 Real Madrid", "enlace1": "partido.html?cod=2526_chamf_01", "partido2": "Real Madrid 3 - 0 Eintracht Frankfurt", "enlace2": "partido.html?cod=2526_chamf_02"}

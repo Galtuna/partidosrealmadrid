@@ -55,7 +55,8 @@
             {"equipo": "Salzburg", "pj": 8, "pg": 1, "pe": 0, "pp": 7, "gf": 5, "gc": 27, "puntos": 3},
             {"equipo": "Slovan Bratislava", "pj": 8, "pg": 0, "pe": 0, "pp": 8, "gf": 7, "gc": 27, "puntos": 0},
             {"equipo": "Young Boys", "pj": 8, "pg": 0, "pe": 0, "pp": 8, "gf": 3, "gc": 24, "puntos": 0}
-        ]
+        ],
+        "extra": "A partir de esta temporada cambia el formato de la Champions League, pasando a disputarse en un único grupo de 36 equipos con 8 partidos para cada equipo ante rivales diferentes. Los 8 primeros clasificados pasan directamente a octavos de final, mientras que los equipos clasificados entre el 9º y el 24º puesto disputan una eliminatoria previa a octavos de final."
     },
     "previas": []
 }

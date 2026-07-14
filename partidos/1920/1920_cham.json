@@ -19,7 +19,8 @@
             {"equipo": "Real Madrid", "pj": 6, "pg": 3, "pe": 2, "pp": 1, "gf": 14, "gc": 8, "puntos": 11},
             {"equipo": "Brugge", "pj": 6, "pg": 0, "pe": 3, "pp": 3, "gf": 4, "gc": 12, "puntos": 3},
             {"equipo": "Galatasaray", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 1, "gc": 14, "puntos": 2}
-        ]
+        ],
+        "extra": "La ida de octavos de final fue la última ronda que se disputó con normalidad antes de la suspensión de la competición por la pandemia de COVID-19. La competición se reanudó el 7 de agosto y se disputaron las rondas restantes a puerta cerrada."
     },
     "previas": []
 }

@@ -39,6 +39,9 @@ function htmlFromJSON(jsonData){
     }
     cargarCompeticiones(jsonData.competiciones1, 'competiciones1');
     cargarCompeticiones(jsonData.competiciones2, 'competiciones2');
+    if (jsonData.extra) {
+        cargarExtra(jsonData.extra, 'extra');
+    }
 }
 
 function cargarCompeticiones(jsonData, tablaId){
@@ -69,4 +72,23 @@ function cargarCompeticiones(jsonData, tablaId){
         tblCompeticiones.appendChild(trc1);
         tblCompeticiones.appendChild(trc2);
     }    
+}
+
+function cargarExtra(extraData, tablaId) {
+    let tblContenedor = document.getElementById(tablaId);
+    let trContenedor = document.createElement("tr");
+    let tdContenedor = document.createElement("td");
+    tdContenedor.colSpan = "2";
+    tdContenedor.classList.add("listado");
+    tdContenedor.innerHTML = "&nbsp;";
+    trContenedor.appendChild(tdContenedor);
+    tblContenedor.appendChild(trContenedor);
+    let trContenedor2 = document.createElement("tr");
+    let tdContenedor2 = document.createElement("td");
+    tdContenedor2.colSpan = "2";
+    tdContenedor2.classList.add("listado");
+    tdContenedor2.classList.add("extra");
+    tdContenedor2.innerHTML = extraData;
+    trContenedor2.appendChild(tdContenedor2);
+    tblContenedor.appendChild(trContenedor2);
 }

@@ -311,6 +311,10 @@ body {
     font-weight: 700;
 }
 
+.extra {
+    color: #1f497d;
+}
+
 @media (max-width: 900px) {
     .match-header {
         grid-template-columns: 1fr;

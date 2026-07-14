@@ -6,5 +6,6 @@
         {"nombre": "Copa del Rey", "enlace": "competicion.html?temporada=2021&competicion=copa&categoria=m", "imagen": "coparey.jpg", "campeon": false},
         {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2021&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": false}
     ],
-    "competiciones2": []
+    "competiciones2": [],
+    "extra": "Las competiciones se disputaron a puerta cerrada debido a las restricciones vigentes por la pandemia de COVID-19.<br/>Excepcionalmente, esta temporada se mantuvo la norma de permitir cinco cambios en tres ventanas como máximo por equipo."
 }
