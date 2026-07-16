@@ -44,7 +44,7 @@
         {"dorsal": 15, "nombre": "Théo Hernández", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "1-0", "minuto": "27'", "descripcion": "Balón profundo a Trippier que centra de primeras desde la línea de fondo para el remate de <span class=\"azul\">Dele Alli</span>."},
+        {"gol": "1-0", "minuto": "27'", "descripcion": "Trippier recibe un balón profundo y centra de primeras desde la línea de fondo para el remate de <span class=\"azul\">Dele Alli</span>."},
         {"gol": "2-0", "minuto": "56'", "descripcion": "<span class=\"azul\">Dele Alli</span> recorta a Casemiro en la frontal, dispara y el balón entra tras ser desviado por Sergio Ramos."},
         {"gol": "3-0", "minuto": "65'", "descripcion": "Kane deja mano a mano a <span class=\"azul\">Eriksen</span> ante Casilla tras un contraataque del Tottenham, y el danés no perdona."},
         {"gol": "3-1", "minuto": "80'", "descripcion": "Marcelo salva un balón que se iba por línea de fondo, tocan Modrić y Borja Mayoral, y <span class=\"azul\">Ronaldo</span> fusila a Lloris."}

@@ -67,10 +67,8 @@ function cargarDatosGenerales(jsonData) {
     }
     let botonAtras = document.getElementById('btnAtras');
     botonAtras.href = jsonData.atras;
-    let ciudad = document.getElementById('ciudad');
-    ciudad.textContent = jsonData.estadio.ciudad;
     let estadio = document.getElementById('estadio');
-    estadio.textContent = jsonData.estadio.nombre;
+    estadio.textContent = jsonData.estadio.nombre + " · " + jsonData.estadio.ciudad;
     let imgEstadio = document.getElementById('imgEstadio');
     imgEstadio.src = 'img/est/' + jsonData.estadio.imagen;
     let espectadores = document.getElementById('espectadores');

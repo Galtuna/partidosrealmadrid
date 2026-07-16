@@ -47,8 +47,8 @@
         {"gol": "0-1", "minuto": "29'", "descripcion": "Korniienko entra en el área, atrae a los defensas y deja a su derecha a <span class=\"azul\">Tetê</span> que marca de disparo cruzado."},
         {"gol": "0-2", "minuto": "33'", "descripcion": "Rechazo de Courtois a disparo de Tetê, y <span class=\"azul\">Varane</span>, intentando evitar que llegue Dentinho, introduce el balón en su portería."},
         {"gol": "0-3", "minuto": "42'", "descripcion": "Contra que conduce Tetê, llega al área y la deja de tacón para la llegada de <span class=\"azul\">Solomon</span> que no perdona."},
-        {"gol": "1-3", "minuto": "54'", "descripcion": "Gran derechazo de <span class=\"azul\">Modrić</span> desde fuera del área que entra por toda la escuadra izquierda de Trubin."},
-        {"gol": "2-3", "minuto": "59'", "descripcion": "Presión y robo de <span class=\"azul\">Vinicius Jr.</span> a Marlos que le permite plantarse ante Trubin y batirlo por abajo."}
+        {"gol": "1-3", "minuto": "54'", "descripcion": "Gran derechazo de <span class=\"azul\">Modrić</span> desde fuera del área que entra por la escuadra izquierda de Trubin."},
+        {"gol": "2-3", "minuto": "59'", "descripcion": "Presión y robo de <span class=\"azul\">Vinicius Jr.</span> a Marlos que le permite plantarse ante Trubin y batirlo por bajo."}
     ],
     "penaltis": []
 }

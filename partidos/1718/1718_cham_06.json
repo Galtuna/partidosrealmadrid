@@ -48,7 +48,7 @@
         {"gol": "2-0", "minuto": "12'", "descripcion": "<span class=\"azul\">Ronaldo</span> recibe en el pico del área, se hace hueco y se saca un gran disparo a la escuadra del palo largo."},
         {"gol": "2-1", "minuto": "43'", "descripcion": "Centro de Schmelzer desde la izquierda que remata de cabeza <span class=\"azul\">Aubameyang</span> libre de marca."},
         {"gol": "2-2", "minuto": "49'", "descripcion": "Pase filtrado de Kagawa a <span class=\"azul\">Aubameyang</span> que a la segunda pica el balón por encima de Keylor Navas."},
-        {"gol": "3-2", "minuto": "81'", "descripcion": "Théo Hernández baja de cabeza un despeje de Bürki y <span class=\"azul\">Lucas Vázquez</span> lo empalma desde la frontal."}
+        {"gol": "3-2", "minuto": "81'", "descripcion": "Théo Hernández baja de cabeza un despeje de Bürki a la frontal, y <span class=\"azul\">Lucas Vázquez</span> lo empalma a la red."}
     ],
     "penaltis": []
 }
