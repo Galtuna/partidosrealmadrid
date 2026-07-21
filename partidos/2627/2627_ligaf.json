@@ -18,7 +18,7 @@
             {"partido": "Granada - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_12"},
             {"partido": "Real Madrid - Madrid CFF", "enlace": "partido.html?cod=2627_ligaf_13"},
             {"partido": "Alavés - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_14"},
-            {"partido": "Real Madrid - DUX Logroño", "enlace": "partido.html?cod=2627_ligaf_15"},
+            {"partido": "Real Madrid - Logroño", "enlace": "partido.html?cod=2627_ligaf_15"},
             {"partido": "Valencia - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_16"},
             {"partido": "Real Madrid - Real Sociedad", "enlace": "partido.html?cod=2627_ligaf_17"},
             {"partido": "Tenerife - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_18"},
@@ -28,7 +28,7 @@
             {"partido": "Eibar - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_22"},
             {"partido": "Badalona - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_23"},
             {"partido": "Real Madrid - Sevilla", "enlace": "partido.html?cod=2627_ligaf_24"},
-            {"partido": "DUX Logroño - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_25"},
+            {"partido": "Logroño - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_25"},
             {"partido": "Real Madrid - Deportivo", "enlace": "partido.html?cod=2627_ligaf_26"},
             {"partido": "Madrid CFF - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_27"},
             {"partido": "Real Madrid - Granada", "enlace": "partido.html?cod=2627_ligaf_28"},
@@ -49,12 +49,12 @@
             {"equipo": "Espanyol", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
             {"equipo": "Deportivo", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
             {"equipo": "Eibar", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
-            {"equipo": "DUX Logroño", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Logroño", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
             {"equipo": "Alavés", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0, "icono": "abajo.png"},
             {"equipo": "Valencia", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0, "icono": "abajo.png"}
         ],
         "ascensos": ["", ""],
-        "extra": ""
+        "extra": "El DUX Logroño pasa a denominarse Logroño United y modifica su escudo."
     },
     "previas": []
 }

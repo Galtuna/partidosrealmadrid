@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2014/15 - Copa del Rey",
+    "atras": "indexTemporada.html?temporada=1415&categoria=m",
+    "eliminatorias": [
+        {"nombre": "Octavos de final", "unica": false, "partido1": "Atlético Madrid 2 - 0 Real Madrid", "enlace1": "partido.html?cod=1415_copa_3", "partido2": "Real Madrid 2 - 2 Atlético Madrid", "enlace2": "partido.html?cod=1415_copa_4"},
+        {"nombre": "Dieciseisavos de final", "unica": false, "partido1": "Cornellà 1 - 4 Real Madrid", "enlace1": "partido.html?cod=1415_copa_1", "partido2": "Real Madrid 5 - 0 Cornellà", "enlace2": "partido.html?cod=1415_copa_2"}
+    ],
+    "liga": {},
+    "previas": []
+}

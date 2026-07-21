@@ -45,7 +45,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "10'", "descripcion": "<span class=\"azul\">Asensio</span> corta un balón, avanza hasta la frontal y la pone con la zurda pegada a la base del palo."},
-        {"gol": "1-1", "minuto": "18'", "descripcion": "Pase de Gayà a la espalda de Carvajal para Lato que centra desde la línea de fondo y <span class=\"azul\">Soler</span> remata."},
+        {"gol": "1-1", "minuto": "18'", "descripcion": "Pase de Gayà a la espalda de Carvajal para Lato, que centra desde la línea de fondo y <span class=\"azul\">Soler</span> remata."},
         {"gol": "1-2", "minuto": "77'", "descripcion": "Rodrigo Moreno recibe de espaldas en el área y la pone atrás para la llegada y el disparo de <span class=\"azul\">Kondogbia</span>."},
         {"gol": "2-2", "minuto": "83'", "descripcion": "Falta directa desde la frontal que transforma <span class=\"azul\">Asensio</span> disparando por fuera de la barrera."}
     ],

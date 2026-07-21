@@ -1,0 +1,27 @@
+{
+    "titulo": "Real Madrid - Temporada 2014/15 - Champions League",
+    "atras": "indexTemporada.html?temporada=1415&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Semifinal", "unica": false, "partido1": "Juventus 2 - 1 Real Madrid", "enlace1": "partido.html?cod=1415_cham_11", "partido2": "Real Madrid 1 - 1 Juventus", "enlace2": "partido.html?cod=1415_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Atlético Madrid 0 - 0 Real Madrid", "enlace1": "partido.html?cod=1415_cham_09", "partido2": "Real Madrid 1 - 0 Atlético Madrid", "enlace2": "partido.html?cod=1415_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Schalke 04 0 - 2 Real Madrid", "enlace1": "partido.html?cod=1415_cham_07", "partido2": "Real Madrid 3 - 4 Schalke 04", "enlace2": "partido.html?cod=1415_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo B",
+        "jornadas": [
+            {"partido": "Real Madrid 5 - 1 Basel", "enlace": "partido.html?cod=1415_cham_01"},
+            {"partido": "Ludogorets 1 - 2 Real Madrid", "enlace": "partido.html?cod=1415_cham_02"},
+            {"partido": "Liverpool 0 - 3 Real Madrid", "enlace": "partido.html?cod=1415_cham_03"},
+            {"partido": "Real Madrid 1 - 0 Liverpool", "enlace": "partido.html?cod=1415_cham_04"},
+            {"partido": "Basel 0 - 1 Real Madrid", "enlace": "partido.html?cod=1415_cham_05"},
+            {"partido": "Real Madrid 4 - 0 Ludogorets", "enlace": "partido.html?cod=1415_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 6, "pg": 6, "pe": 0, "pp": 0, "gf": 16, "gc": 2, "puntos": 18},
+            {"equipo": "Basel", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 7, "gc": 8, "puntos": 7},
+            {"equipo": "Liverpool", "pj": 6, "pg": 1, "pe": 2, "pp": 3, "gf": 5, "gc": 9, "puntos": 5},
+            {"equipo": "Ludogorets", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 5, "gc": 14, "puntos": 4}
+        ]
+    },
+    "previas": []
+}

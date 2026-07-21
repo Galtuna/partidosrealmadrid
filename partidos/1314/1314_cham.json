@@ -1,0 +1,28 @@
+{
+    "titulo": "Real Madrid - Temporada 2013/14 - Champions League",
+    "atras": "indexTemporada.html?temporada=1314&categoria=m",
+    "eliminatorias": [ 
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 4 - 1 Atlético Madrid", "enlace1": "partido.html?cod=1314_cham_13", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 1 - 0 Bayern München", "enlace1": "partido.html?cod=1314_cham_11", "partido2": "Bayern München 0 - 4 Real Madrid", "enlace2": "partido.html?cod=1314_cham_12"},
+            {"nombre": "Cuartos de final", "unica": false, "partido1": "Real Madrid 3 - 0 Borussia Dortmund", "enlace1": "partido.html?cod=1314_cham_09", "partido2": "Borussia Dortmund 2 - 0 Real Madrid", "enlace2": "partido.html?cod=1314_cham_10"},
+            {"nombre": "Octavos de final", "unica": false, "partido1": "Schalke 04 1 - 6 Real Madrid", "enlace1": "partido.html?cod=1314_cham_07", "partido2": "Real Madrid 3 - 1 Schalke 04", "enlace2": "partido.html?cod=1314_cham_08"}
+        ],
+    "liga": {
+        "grupo": "Fase de Grupos - Grupo B",
+        "jornadas": [
+            {"partido": "Galatasaray 1 - 6 Real Madrid", "enlace": "partido.html?cod=1314_cham_01"},
+            {"partido": "Real Madrid 4 - 0 København", "enlace": "partido.html?cod=1314_cham_02"},
+            {"partido": "Real Madrid 2 - 1 Juventus", "enlace": "partido.html?cod=1314_cham_03"},
+            {"partido": "Juventus 2 - 2 Real Madrid", "enlace": "partido.html?cod=1314_cham_04"},
+            {"partido": "Real Madrid 4 - 1 Galatasaray", "enlace": "partido.html?cod=1314_cham_05"},
+            {"partido": "København 0 - 2 Real Madrid", "enlace": "partido.html?cod=1314_cham_06"}
+        ],
+        "clasificacion": [
+            {"equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 1, "pp": 0, "gf": 20, "gc": 5, "puntos": 16},
+            {"equipo": "Galatasaray", "pj": 6, "pg": 2, "pe": 1, "pp": 3, "gf": 8, "gc": 14, "puntos": 7},
+            {"equipo": "Juventus", "pj": 6, "pg": 1, "pe": 3, "pp": 2, "gf": 9, "gc": 9, "puntos": 6},
+            {"equipo": "København", "pj": 6, "pg": 1, "pe": 1, "pp": 4, "gf": 4, "gc": 13, "puntos": 4}
+        ]
+    },
+    "previas": []
+}
