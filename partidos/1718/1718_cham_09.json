@@ -1,6 +1,6 @@
 {
     "titulo": "Temporada 2017/18 - Champions League - Cuartos de Final - Ida",
-    "atras": "competicion.html?temporada=1718&competicion=liga&categoria=m",
+    "atras": "competicion.html?temporada=1718&competicion=cham&categoria=m",
     "estadio": {"ciudad": "Turín (Italia)", "nombre": "Juventus Stadium", "imagen": "juventus.jpg", "espectadores": "40.849"},
     "fecha": "MAR 03/04/2018",
     "hora": "20:45",

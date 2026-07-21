@@ -45,7 +45,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "3'", "descripcion": "Centro de Müller desde la derecha que amortigua Tolisso para que <span class=\"azul\">Kimmich</span> remate a placer."},
         {"gol": "1-1", "minuto": "11'", "descripcion": "Centro de Marcelo desde la línea de fondo al segundo palo que cabecea <span class=\"azul\">Benzema</span> libre de marca."},
-        {"gol": "2-1", "minuto": "46'", "descripcion": "Pase atrás de Tolisso para Ulreich que no despeja el portero, y <span class=\"azul\">Benzema</span> solo tiene que empujarla."},
+        {"gol": "2-1", "minuto": "46'", "descripcion": "Pase atrás de Tolisso para Ulreich que se hace un lío, no despeja, y <span class=\"azul\">Benzema</span> solo tiene que empujarla."},
         {"gol": "2-2", "minuto": "63'", "descripcion": "Córner que remata <span class=\"azul\">James</span>, rechaza Varane, y el colombiano aprovecha el balón suelto."}
     ],
     "penaltis": []

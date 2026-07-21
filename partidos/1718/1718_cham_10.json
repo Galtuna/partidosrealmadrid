@@ -46,7 +46,7 @@
         {"gol": "0-1", "minuto": "2'", "descripcion": "Centro de Khedira desde el pico del área al segundo palo que remata de cabeza <span class=\"azul\">Mandžukić</span>."},
         {"gol": "0-2", "minuto": "37'", "descripcion": "Centro de Lichtsteiner desde la derecha al segundo palo que cabecea <span class=\"azul\">Mandžukić</span> ganando el salto a Carvajal."},
         {"gol": "0-3", "minuto": "61'", "descripcion": "Keylor Navas falla al intentar blocar un centro de Douglas Costa, y <span class=\"azul\">Matuidi</span> marca a placer."},
-        {"gol": "1-3", "minuto": "90+7''", "descripcion": "Penalti de Benatia sobre Lucas Vázquez que transforma <span class=\"azul\">Ronaldo</span>."}
+        {"gol": "1-3", "minuto": "90+7'", "descripcion": "Penalti de Benatia sobre Lucas Vázquez que transforma <span class=\"azul\">Ronaldo</span>."}
     ],
     "penaltis": []
 }

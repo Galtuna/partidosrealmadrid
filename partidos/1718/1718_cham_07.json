@@ -43,7 +43,7 @@
         {"dorsal": 23, "nombre": "Draxler", "salida": "84'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "33'", "descripcion": "Centro de Mbappé que Neymar cede hacia atrás de tacón, y <span class=\"azul\">Rabiot</span> remata entrando totalmente solo."},
+        {"gol": "0-1", "minuto": "33'", "descripcion": "Mbappé centra desde la derecha, Neymar cede hacia atrás de tacón, y <span class=\"azul\">Rabiot</span> remata entrando totalmente solo."},
         {"gol": "1-1", "minuto": "45'", "descripcion": "Penalti de Lo Celso sobre Kroos que transforma <span class=\"azul\">Ronaldo</span>."},
         {"gol": "2-1", "minuto": "83'", "descripcion": "<span class=\"azul\">Ronaldo</span> aprovecha un despeje muy blando de Aréola tras un centro de Asensio desde la línea de fondo."},
         {"gol": "3-1", "minuto": "86'", "descripcion": "Centro de Asensio que remata en el primer palo <span class=\"azul\">Marcelo</span> y el balón entra tras tocar en Marquinhos."}
