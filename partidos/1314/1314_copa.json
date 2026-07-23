@@ -2,8 +2,8 @@
     "titulo": "Real Madrid - Temporada 2013/14 - Copa del Rey",
     "atras": "indexTemporada.html?temporada=1314&categoria=m",
     "eliminatorias": [
-        {"nombre": "Final", "unica": true, "partido1": "Barcelona 1 - 2 Real Madrid", "enlace1": "partido.html?cod=1314_copa_5", "partido2": "", "enlace2": ""},
-        {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 3 - 0 Atlético Madrid", "enlace1": "partido.html?cod=1314_copa_5", "partido2": "Atlético Madrid 0 - 2 Real Madrid", "enlace2": "partido.html?cod=1314_copa_6"},
+        {"nombre": "Final", "unica": true, "partido1": "Barcelona 1 - 2 Real Madrid", "enlace1": "partido.html?cod=1314_copa_9", "partido2": "", "enlace2": ""},
+        {"nombre": "Semifinal", "unica": false, "partido1": "Real Madrid 3 - 0 Atlético Madrid", "enlace1": "partido.html?cod=1314_copa_7", "partido2": "Atlético Madrid 0 - 2 Real Madrid", "enlace2": "partido.html?cod=1314_copa_8"},
         {"nombre": "Cuartos de final", "unica": false, "partido1": "Espanyol 0 - 1 Real Madrid", "enlace1": "partido.html?cod=1314_copa_5", "partido2": "Real Madrid 1 - 0 Espanyol", "enlace2": "partido.html?cod=1314_copa_6"},
         {"nombre": "Octavos de final", "unica": false, "partido1": "Real Madrid 2 - 0 Osasuna", "enlace1": "partido.html?cod=1314_copa_3", "partido2": "Osasuna 0 - 2 Real Madrid", "enlace2": "partido.html?cod=1314_copa_4"},
         {"nombre": "Dieciseisavos de final", "unica": false, "partido1": "Olímpic de Xàtiva 0 - 0 Real Madrid", "enlace1": "partido.html?cod=1314_copa_1", "partido2": "Real Madrid 2 - 0 Olímpic de Xàtiva", "enlace2": "partido.html?cod=1314_copa_2"}
