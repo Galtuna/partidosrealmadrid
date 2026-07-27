@@ -1,0 +1,10 @@
+{
+    "titulo": "Real Madrid - Temporada 2022/23 - Mundial de Clubes",
+    "atras": "indexTemporada.html?temporada=2223&categoria=m",
+    "eliminatorias": [
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 5 - 3 Al-Hilal", "enlace1": "partido.html?cod=2223_intc_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Al-Ahly 1 - 4 Real Madrid", "enlace1": "partido.html?cod=2223_intc_1", "partido2": "", "enlace2": ""}
+        ],
+    "liga": {},
+    "previas": []
+}

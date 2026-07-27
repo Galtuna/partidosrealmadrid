@@ -26,9 +26,93 @@ body {
     position: relative;
 }
 
+.competitions-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 16px 24px 20px;
+    background: #f4f7fb;
+}
+
+.competition-dropdown {
+    position: relative;
+    min-width: 160px;
+    flex: 1 1 180px;
+}
+
+.dropbtn {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 12px 16px;
+    border-radius: 14px;
+    border: 1px solid rgba(15, 32, 67, 0.12);
+    background: #ffffff;
+    color: #1f497d;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: left;
+}
+
+.dropbtn::after {
+    content: "▼";
+    font-size: 0.75rem;
+    color: #1f497d;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 20;    
+    left: 0;
+    right: 0;
+    max-height: 320px;
+    overflow-y: auto;
+    background: #ffffff;
+    border: 1px solid rgba(15, 32, 67, 0.12);
+    border-radius: 14px;
+    box-shadow: 0 18px 32px rgba(15, 32, 67, 0.12);
+}
+
+.dropdown-content a {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 14px;
+    color: #0f2043;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(15, 32, 67, 0.06);
+    white-space: nowrap;
+    gap: 8px;
+}
+
+.dropdown-content a img {
+    margin-left: auto;
+    height: 16px;
+    width: auto;
+}
+
+.dropdown-content a:last-child {
+    border-bottom: none;
+}
+
+.dropdown-content a:hover {
+    background: rgba(31, 73, 125, 0.08);
+}
+
+.competition-dropdown:hover .dropdown-content,
+.competition-dropdown:focus-within .dropdown-content {
+    display: block;
+}
+
 .nav-buttons {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     gap: 12px;
     margin-bottom: 18px;
@@ -84,11 +168,42 @@ body {
 .score-card {
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
-    padding: 22px 12px;
+    gap: 8px;
+    padding: 22px 18px;
     background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(227,242,255,0.95));
     border-radius: 24px;
     border: 1px solid rgba(100, 149, 237, 0.25);
+}
+
+.page-header > .score-card {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.page-header > .score-card .score-card-text {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.page-header > .score-card .icon-button {
+    margin: 0;
+}
+
+@media (max-width: 640px) {
+    .page-header > .score-card {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .page-header > .score-card .icon-button {
+        align-self: flex-end;
+        margin-top: 12px;
+    }
 }
 
 .match-title {

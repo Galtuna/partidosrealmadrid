@@ -48,7 +48,7 @@
     ],
     "goles": [
         {"gol": "0-1", "minuto": "18'", "descripcion": "Pase interior de Dani García al desmarque de <span class=\"azul\">Raúl García</span> que supera por bajo a Courtois."},
-        {"gol": "0-2", "minuto": "38'", "descripcion": "Penalti de Lucas Vázquez a Íñigo García que transforma <span class=\"azul\">Raúl García</span>."},
+        {"gol": "0-2", "minuto": "38'", "descripcion": "Penalti de Lucas Vázquez a Íñigo Martínez que transforma <span class=\"azul\">Raúl García</span>."},
         {"gol": "1-2", "minuto": "73'", "descripcion": "Centro de Valverde al segundo palo para que Casemiro la devuelva de cabeza al área pequeña y <span class=\"azul\">Benzema</span> empuje a la red."}
     ],
     "penaltis": []

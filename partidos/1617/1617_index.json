@@ -7,6 +7,6 @@
     ],
     "competiciones2": [
         {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=1617&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true},
-        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=1617&competicion=mund&categoria=m", "imagen": "intercont.jpg", "campeon": true}
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=1617&competicion=intc&categoria=m", "imagen": "intercont.jpg", "campeon": true}
     ]
 }

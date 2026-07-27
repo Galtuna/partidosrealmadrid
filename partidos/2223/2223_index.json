@@ -7,8 +7,8 @@
     ],
     "competiciones2": [
         {"nombre": "Supercopa de España", "enlace": "competicion.html?temporada=2223&competicion=sces&categoria=m", "imagen": "supercopaesp.jpg", "campeon": false},
-        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=2223&competicion=mund&categoria=m", "imagen": "intercont.jpg", "campeon": true},
-        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=2223&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true}
+        {"nombre": "Supercopa de Europa", "enlace": "competicion.html?temporada=2223&competicion=sceu&categoria=m", "imagen": "supercopaeur.jpg", "campeon": true},
+        {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=2223&competicion=intc&categoria=m", "imagen": "intercont.jpg", "campeon": true}
     ],
     "extra": "A partir de esta temporada la IFAB aprueba que la norma de los cinco cambios en tres ventanas como máximo por equipo se mantenga de manera permanente."
 }
