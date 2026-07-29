@@ -1,0 +1,54 @@
+{
+    "titulo": "Temporada 2014/15 - Copa del Rey - Dieciseisavos de Final - Ida",
+    "atras": "competicion.html?temporada=1415&competicion=copa&categoria=m",
+    "estadio": {"ciudad": "Cornellá de Llobregat (Barcelona)", "nombre": "Power8 Stadium", "imagen": "rcde.jpg", "espectadores": "28.895"},
+    "fecha": "MIE 29/10/2014",
+    "hora": "20:00",
+    "arbitro": "Jaime Latre (colegio aragonés)",
+    "local": {"nombre": "UE Cornellà", "escudo": "uec.png", "goles": 1, "golesp": 0, "entrenador": "Jordi Roger"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Segovia", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Joel Marín", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Pelegrí", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Dani Martí", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Tobella", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "David García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sergio Gómez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Xemi", "salida": "0", "cambio": "71'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Josele", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Pep Caballé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Óscar Muñoz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 12, "nombre": "Tapia", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Gallar", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Gaudioso", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Illarramendi", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Khedira", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},        
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Chicharito", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Medrán", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Raúl de Tomás", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "10'", "descripcion": "Córner que bota James y remata de cabeza  <span class=\"azul\">Varane</span> entrando en carrera."},
+        {"gol": "1-1", "minuto": "20'", "descripcion": "Josele toca hacia la frontal para <span class=\"azul\">Óscar Muñoz</span> que se gira ante Arbeloa y fusila a Keylor Navas."},
+        {"gol": "1-2", "minuto": "36'", "descripcion": "Nuevo córner que bota Isco y remata de cabeza <span class=\"azul\">Varane</span> anticipándose a Segovia."},
+        {"gol": "1-3", "minuto": "53'", "descripcion": "<span class=\"azul\">Chicharito</span> pelea un balón rechazado en la frontal y dispara raso cruzado ajustado al palo."},
+        {"gol": "1-4", "minuto": "75'", "descripcion": "<span class=\"azul\">Marcelo</span> aprovecha un rechace de Segovia tras un disparo raso de Isco."}
+    ],
+    "penaltis": []
+}

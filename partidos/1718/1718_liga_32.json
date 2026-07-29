@@ -44,7 +44,7 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "29'", "descripcion": "Falta directa desde la corona del área que transforma <span class=\"azul\">Isco</span> superando la barrera."},
-        {"gol": "0-2", "minuto": "63'", "descripcion": "Pérdida en salida del Málaga que termina con un pase filtrado de Benzema a Isco , y este le regala el gol a <span class=\"azul\">Casemiro</span>."},
+        {"gol": "0-2", "minuto": "63'", "descripcion": "Pérdida en salida del Málaga que termina con un pase filtrado de Benzema a Isco, y este le regala el gol a <span class=\"azul\">Casemiro</span>."},
         {"gol": "1-2", "minuto": "90+3'", "descripcion": "Ricca centra desde la izquierda, Vallejo falla al intentar despejar y <span class=\"azul\">Diego Rolán</span> se aprovecha para marcar."}
     ],
     "penaltis": []
