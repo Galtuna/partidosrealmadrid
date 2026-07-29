@@ -41,7 +41,7 @@
     "suplentesVisitante": [
         {"dorsal": 24, "nombre": "Jonás Gutiérrez", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 16, "nombre": "Luisinho", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 9, "nombre": "Riera", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+        {"dorsal": 9, "nombre": "Oriol Riera", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
         {"gol": "1-0", "minuto": "15'", "descripcion": "<span class=\"azul\">Benzema</span> desvía un remate de Sergio Ramos que había cazado un balón rechazado en un córner."},

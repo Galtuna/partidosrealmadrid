@@ -1,0 +1,51 @@
+{
+    "titulo": "Temporada 2013/14 - Copa del Rey - Dieciseisavos de Final - Vuelta",
+    "atras": "competicion.html?temporada=1314&competicion=copa&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "68.000"},
+    "fecha": "MIE 18/12/2013",
+    "hora": "21:30",
+    "arbitro": "Teixeira Vitienes (colegio cántabro)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "visitante": {"nombre": "CD Olímpic de Xàtiva", "escudo": "xat.png", "goles": 0, "golesp": 0, "entrenador": "Toni Aparicio"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "76'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Casemiro", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Illarramendi", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Di María", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Morata", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 14, "nombre": "Xabi Alonso", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Francis", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Alcázar", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Pepín", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Mendoza", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Peris", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Samu Martínez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Rifaterra", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Nájera", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Belda", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Marenyà", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Pau Franch", "salida": "0", "cambio": "70'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 14, "nombre": "Vaquero", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Mosquera", "salida": "70'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Revert", "salida": "84'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "15'", "descripcion": "Balón profundo de Di María para Jesé que controla y asiste para la llegada y el remate de <span class=\"azul\">Illarramendi</span>."},
+        {"gol": "2-0", "minuto": "28'", "descripcion": "Penalti por mano de Alcázar que transforma <span class=\"azul\">Di María</span>."}
+    ],
+    "penaltis": []
+}

@@ -2,8 +2,8 @@
     "titulo": "Real Madrid - Temporada 2014/15 - Mundial de Clubes",
     "atras": "indexTemporada.html?temporada=1415&categoria=m",
     "eliminatorias": [
-            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 0 San Lorenzo", "enlace1": "partido.html?cod=1415_mund_2", "partido2": "", "enlace2": ""},
-            {"nombre": "Semifinal", "unica": true, "partido1": "Cruz Azul 0 - 4 Real Madrid", "enlace1": "partido.html?cod=1415_mund_1", "partido2": "", "enlace2": ""}
+            {"nombre": "Final", "unica": true, "partido1": "Real Madrid 2 - 0 San Lorenzo", "enlace1": "partido.html?cod=1415_intc_2", "partido2": "", "enlace2": ""},
+            {"nombre": "Semifinal", "unica": true, "partido1": "Cruz Azul 0 - 4 Real Madrid", "enlace1": "partido.html?cod=1415_intc_1", "partido2": "", "enlace2": ""}
         ],
     "liga": {},
     "previas": []

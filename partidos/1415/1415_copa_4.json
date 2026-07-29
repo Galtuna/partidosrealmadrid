@@ -43,7 +43,7 @@
         {"dorsal": 11, "nombre": "Raúl Jiménez", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "1'", "descripcion": "Griezmann desborda a Pepe a campo abierto y la pone al segundo palo para el remate cómodo de <span class=\"azul\">Fernando Torres</span>."},
+        {"gol": "0-1", "minuto": "1'", "descripcion": "Griezmann desborda a Pepe a campo abierto y la pone al segundo palo para el remate de <span class=\"azul\">Fernando Torres</span>."},
         {"gol": "1-1", "minuto": "20'", "descripcion": "Falta lateral que bota Kroos y cabecea <span class=\"azul\">Sergio Ramos</span> aprovechando el fallo en la salida de Oblak."},
         {"gol": "1-2", "minuto": "46'", "descripcion": "Griezmann corta un balón largo en salida de Sergio Ramos y asiste a <span class=\"azul\">Fernando Torres</span> que no perdona."},
         {"gol": "2-2", "minuto": "54'", "descripcion": "Pase al espacio de Marcelo para Bale que gana línea de fondo y su centro lo remata de cabeza <span class=\"azul\">Ronaldo</span>."}

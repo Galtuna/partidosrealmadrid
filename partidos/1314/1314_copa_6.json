@@ -1,0 +1,50 @@
+{
+    "titulo": "Temporada 2013/14 - Copa del Rey - Cuartos de Final - Vuelta",
+    "atras": "competicion.html?temporada=1314&competicion=copa&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "54.500"},
+    "fecha": "MAR 28/01/2014",
+    "hora": "21:00",
+    "arbitro": "Teixeira Vitienes (colegio cántabro)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "visitante": {"nombre": "RCD Espanyol de Barcelona", "escudo": "esp.png", "goles": 0, "golesp": 0, "entrenador": "Javier Aguirre"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Nacho", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Coentrão", "salida": "0", "cambio": "73'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 14, "nombre": "Xabi Alonso", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Illarramendi", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "81'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Di María", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 3, "nombre": "Pepe", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Morata", "salida": "81'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Casemiro", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 13, "nombre": "Casilla", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Raúl Rodríguez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sidnei", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Héctor Moreno", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Capdevila", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Víctor Sánchez", "salida": "0", "cambio": "0", "amarilla": "78'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Abraham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Álex Fernández", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Pizzi", "salida": "0", "cambio": "0", "amarilla": "66'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Torje", "salida": "0", "cambio": "0", "amarilla": "46'", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Sergio García", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 24, "nombre": "Jhon Córdoba", "salida": "46'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Stuani", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "David López", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "7'", "descripcion": "Balón largo de Xabi Alonso para <span class=\"azul\">Jesé</span> que gana la espalda de Capdevila y no falla ante Casilla."}
+    ],
+    "penaltis": []
+}
