@@ -1,0 +1,56 @@
+{
+    "titulo": "Temporada 2026/27 - LaLiga - Jornada 2",
+    "atras": "competicion.html?temporada=2627&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Cornellá de Llobregat (Barcelona)", "nombre": "RCDE Stadium", "imagen": "rcde.jpg", "espectadores": "33.304"},
+    "fecha": "SAB 22/08/2026",
+    "hora": "21:30",
+    "arbitro": "Sánchez Martínez (colegio murciano)",
+    "local": {"nombre": "RCD Espanyol de Barcelona", "escudo": "esp.png", "goles": 1, "golesp": 0, "entrenador": "Manolo González"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 2, "golesp": 0, "entrenador": "José Mourinho"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Dmitrović", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "El Hilali", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Riedel", "salida": "0", "cambio": "66'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Unai Núñez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Hinojo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Urko González", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Edu Expósito", "salida": "0", "cambio": "88'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Calatrava", "salida": "0", "cambio": "66'", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Dolan", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 28, "nombre": "Javi Hernández", "salida": "0", "cambio": "75'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Roberto", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 16, "nombre": "Drkušić", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Rafa Bauzà", "salida": "66'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Pol Lozano", "salida": "75'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Pere Milla", "salida": "75'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Jofre", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Dumfries", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Konaté", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Huijsen", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Carreras", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Valverde", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Bernardo Silva", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "80'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Vinicius Jr.", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 17, "nombre": "Cucurella", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Diomande", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Alexander-Arnold", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Carlos Espí", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "9'", "descripcion": "Falta lateral que bota Arda Güler y remata de cabeza <span class=\"azul\">Bellingham</span>."},
+        {"gol": "1-1", "minuto": "30'", "descripcion": "Javi Hernández encara a Dumfries y la pone al punto de penalti donde remata <span class=\"azul\">Calatrava</span> libre de marca."},
+        {"gol": "1-2", "minuto": "90'", "descripcion": "<span class=\"azul\">Carlos Espí</span> se lleva un balón suelto en el área tras una internada de Mbappé y marca a placer."}
+    ],
+    "penaltis": []
+}

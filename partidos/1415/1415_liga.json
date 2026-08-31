@@ -66,7 +66,7 @@
             {"equipo": "Córdoba", "pj": 38, "pg": 3, "pe": 11, "pp": 24, "gf": 22, "gc": 68, "puntos": 20, "icono": "abajo.png"}
         ],
         "ascensos": ["Betis", "Sporting Gijón", "Las Palmas"],
-        "extra": "El <span class='azul'>Sevilla</span> se clasifica para la Champions League como ganador de la Europa League.<br/>El Elche fue descendido administrativamente por incumplimiento de los requisitos económico-financieros de la LFP.<br/><span class='azul'>* </span>Al Almería se le redujeron 3 puntos debido al incumplimiento del pago de un fichaje"
+        "extra": "El <span class='azul'>Sevilla</span> se clasifica para la Champions League como ganador de la Europa League.<br/>El <span class='azul'>Elche</span> fue descendido administrativamente por el Juez de Disciplina Social de la LFP debido a reiterados incumplimientos económicos y deudas con la Agencia Tributaria. Su plaza fue ocupada por el <span class='azul'>Eibar</span>.<br/><span class='azul'>* </span>Al <span class='azul'>Almería</span> se le redujeron 3 puntos debido al incumplimiento del pago de un fichaje."
     },
     "previas": []
 }

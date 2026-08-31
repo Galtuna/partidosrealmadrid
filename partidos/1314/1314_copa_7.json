@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "17'", "descripcion": "Disparo de <span class=\"azul\">Pepe</span> desde fuera del área que desvía Insúa y se vuelve imposible para Courtois."},
         {"gol": "2-0", "minuto": "57'", "descripcion": "Gran pase de Di María al desmarque de <span class=\"azul\">Jesé</span> que toca con la puntera para batir a Courtois."},
-        {"gol": "3-0", "minuto": "73'", "descripcion": "<span class=\"azul\">Di María</span> engancha un balón rebotado desde fuera del área que entra tras tocar en Miranda."}
+        {"gol": "3-0", "minuto": "73'", "descripcion": "<span class=\"azul\">Di María</span> engancha desde fuera del área un balón rebotado que entra tras tocar en Miranda."}
     ],
     "penaltis": []
 }

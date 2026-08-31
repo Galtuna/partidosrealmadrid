@@ -11,5 +11,5 @@
         {"nombre": "Copa Intercontinental", "enlace": "competicion.html?temporada=2425&competicion=intc&categoria=m", "imagen": "intercont.jpg", "campeon": true},
         {"nombre": "Mundial de Clubes", "enlace": "competicion.html?temporada=2425&competicion=mund&categoria=m", "imagen": "mundialclub.jpg", "campeon": false}
     ],
-    "extra": "En esta temporada nace el nuevo Mundial de Clubes de la FIFA, a disputar cada cuatro años entre 32 equipos de todo el mundo.<br/>El antiguo mundial de clubes se sigue disputando anualmente recuperando la denominación de Copa Intercontinental."
+    "extra": "En esta temporada nace el nuevo <span class='azul'>Mundial de Clubes de la FIFA</span>, a disputar cada cuatro años entre 32 equipos de todo el mundo.<br/>El antiguo mundial de clubes se sigue disputando anualmente recuperando la denominación de <span class='azul'>Copa Intercontinental</span>."
 }

@@ -54,7 +54,7 @@
             {"equipo": "Levante", "pj": 30, "pg": 2, "pe": 3, "pp": 25, "gf": 18, "gc": 62, "puntos": 9, "icono": "abajo.png"}
         ],
         "ascensos": ["Alavés", "Valencia"],
-        "extra": "El FC Levante Badalona pasa a denominarse FC Badalona Women y modifica su escudo.<br/>El Costa Adeje Tenerife pasa a integrarse en el CD Tenerife y adopta su escudo.<br/><span class='azul'>* </span>El FC Badalona Women fue sancionado por el Comité de Disciplina de la RFEF con la retirada de 3 puntos por viajar sin médico de forma reiterada."
+        "extra": "El <span class='azul'>FC Levante Badalona</span> pasa a denominarse <span class='azul'>FC Badalona Women</span> y modifica su escudo.<br/>El <span class='azul'>Costa Adeje Tenerife</span> pasa a integrarse en el <span class='azul'>CD Tenerife</span> y adopta su escudo.<br/><span class='azul'>* </span>El <span class='azul'>FC Badalona Women</span> fue sancionado por el Comité de Disciplina de la RFEF con la retirada de 3 puntos por viajar sin médico de forma reiterada."
     },
     "previas": []
 }
