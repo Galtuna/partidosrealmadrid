@@ -399,7 +399,7 @@
         {
             "gol": "0-1",
             "minuto": "73'",
-            "descripcion": "Conducción de Bernardo Silva desde la media punta y la pone a <span class=\"azul\">Mahrez</span> que remata de primeras al palo corto."
+            "descripcion": "Bernardo Silva conduce desde la media punta y abre a <span class=\"azul\">Mahrez</span> que remata de primeras al palo corto."
         },
         {
             "gol": "1-1",
@@ -414,7 +414,7 @@
         {
             "gol": "3-1",
             "minuto": "95'",
-            "descripcion": "Penalti de Rúben Dias que derriba dentro del área a <span class=\"azul\">Benzema</span>, y él mismo se encarga de transformar."
+            "descripcion": "Penalti de Rúben Dias sobre <span class=\"azul\">Benzema</span> que él mismo se encarga de transformar."
         }
     ],
     "penaltis": []

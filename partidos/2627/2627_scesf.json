@@ -1,7 +1,9 @@
 {
     "titulo": "Real Madrid Femenino - Temporada 2026/27 - Supercopa de España",
     "atras": "indexTemporada.html?temporada=2627&categoria=f",
-    "eliminatorias": [],
+    "eliminatorias": [
+        {"nombre": "Semifinal", "unica": true, "partido1": "Real Madrid - Atlético Madrid", "enlace1": "partido.html?cod=2627_scesf_1", "partido2": "", "enlace2": ""}
+    ],
     "liga": {},
     "previas": []
 }

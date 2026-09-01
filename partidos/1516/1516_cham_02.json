@@ -44,7 +44,7 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "29'", "descripcion": "Isco controla un balón largo, deja mano a mano a <span class=\"azul\">Ronaldo</span> con Wiland, y el portugués no falla."},
-        {"gol": "0-2", "minuto": "90'", "descripcion": "Carvajal profundiza en el área para Lucas Vázquez, que le da el pase de la muerte a <span class=\"azul\">Ronaldo</span>."}
+        {"gol": "0-2", "minuto": "90'", "descripcion": "Carvajal profundiza en el área para Lucas Vázquez que le da el pase de la muerte a <span class=\"azul\">Ronaldo</span>."}
     ],
     "penaltis": []
 }
