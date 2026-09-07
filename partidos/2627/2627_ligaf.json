@@ -5,7 +5,7 @@
     "liga": {
         "jornadas": [
             {"partido": "Real Madrid 3 - 2 Atlético Madrid", "enlace": "partido.html?cod=2627_ligaf_01"},
-            {"partido": "Real Madrid - Eibar", "enlace": "partido.html?cod=2627_ligaf_02"},
+            {"partido": "Real Madrid 0 - 0 Eibar", "enlace": "partido.html?cod=2627_ligaf_02"},
             {"partido": "Deportivo - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_03"},
             {"partido": "Real Madrid - Valencia", "enlace": "partido.html?cod=2627_ligaf_04"},
             {"partido": "Real Sociedad - Real Madrid", "enlace": "partido.html?cod=2627_ligaf_05"},
@@ -36,22 +36,22 @@
             {"partido": "Real Madrid - Alavés", "enlace": "partido.html?cod=2627_ligaf_30"}
         ],
         "clasificacion": [
-            {"equipo": "Barcelona", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 5, "gc": 0, "puntos": 3, "icono": "champ.png"},
-            {"equipo": "Athletic", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 3, "gc": 1, "puntos": 3, "icono": "champ.png"},
-            {"equipo": "Madrid CCF", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 3, "gc": 1, "puntos": 3, "icono": "champ.png"},
-            {"equipo": "Alavés", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 2, "gc": 0, "puntos": 3},
-            {"equipo": "Logroño United", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 2, "gc": 0, "puntos": 3},
-            {"equipo": "Real Madrid", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 3, "gc": 2, "puntos": 3},
-            {"equipo": "Sevilla", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 1, "gc": 0, "puntos": 3},
-            {"equipo": "Eibar", "pj": 1, "pg": 1, "pe": 0, "pp": 0, "gf": 1, "gc": 0, "puntos": 3},
-            {"equipo": "Atlético Madrid", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 2, "gc": 3, "puntos": 0},
-            {"equipo": "Deportivo", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 1, "puntos": 0},
-            {"equipo": "Espanyol", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 1, "puntos": 0},
+            {"equipo": "Barcelona", "pj": 2, "pg": 2, "pe": 0, "pp": 0, "gf": 9, "gc": 0, "puntos": 6, "icono": "champ.png"},
+            {"equipo": "Madrid CCF", "pj": 2, "pg": 2, "pe": 0, "pp": 0, "gf": 6, "gc": 2, "puntos": 6, "icono": "champ.png"},
+            {"equipo": "Athletic", "pj": 2, "pg": 2, "pe": 0, "pp": 0, "gf": 4, "gc": 1, "puntos": 6, "icono": "champ.png"},
+            {"equipo": "Real Madrid", "pj": 2, "pg": 1, "pe": 1, "pp": 0, "gf": 3, "gc": 2, "puntos": 4},
+            {"equipo": "Eibar", "pj": 2, "pg": 1, "pe": 1, "pp": 0, "gf": 1, "gc": 0, "puntos": 4},
+            {"equipo": "Alavés", "pj": 2, "pg": 1, "pe": 0, "pp": 1, "gf": 2, "gc": 1, "puntos": 3},
+            {"equipo": "Logroño United", "pj": 2, "pg": 1, "pe": 0, "pp": 1, "gf": 2, "gc": 1, "puntos": 3},
+            {"equipo": "Atlético Madrid", "pj": 2, "pg": 1, "pe": 0, "pp": 1, "gf": 3, "gc": 3, "puntos": 3},
+            {"equipo": "Badalona", "pj": 2, "pg": 1, "pe": 0, "pp": 1, "gf": 2, "gc": 3, "puntos": 3},
+            {"equipo": "Sevilla", "pj": 2, "pg": 1, "pe": 0, "pp": 1, "gf": 1, "gc": 4, "puntos": 3},
+            {"equipo": "Deportivo", "pj": 2, "pg": 0, "pe": 1, "pp": 1, "gf": 0, "gc": 1, "puntos": 1},
+            {"equipo": "Tenerife", "pj": 2, "pg": 0, "pe": 1, "pp": 1, "gf": 0, "gc": 5, "puntos": 1},
             {"equipo": "Granada", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 1, "gc": 3, "puntos": 0},
-            {"equipo": "Badalona", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 1, "gc": 3, "puntos": 0},
-            {"equipo": "Valencia", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 2, "puntos": 0},
-            {"equipo": "Real Sociedad", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 2, "puntos": 0, "icono": "abajo.png"},
-            {"equipo": "Tenerife", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 5, "puntos": 0, "icono": "abajo.png"}
+            {"equipo": "Real Sociedad", "pj": 1, "pg": 0, "pe": 0, "pp": 1, "gf": 0, "gc": 2, "puntos": 0},
+            {"equipo": "Espanyol", "pj": 2, "pg": 0, "pe": 0, "pp": 2, "gf": 0, "gc": 2, "puntos": 0, "icono": "abajo.png"},
+            {"equipo": "Valencia", "pj": 2, "pg": 0, "pe": 0, "pp": 2, "gf": 1, "gc": 5, "puntos": 0, "icono": "abajo.png"}
         ],
         "ascensos": ["", ""],
         "extra": "El <span class='azul'>DUX Logroño</span> pasa a denominarse <span class='azul'>Logroño United</span> y modifica su escudo."

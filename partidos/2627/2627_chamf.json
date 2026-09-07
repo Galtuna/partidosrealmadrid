@@ -2,7 +2,37 @@
     "titulo": "Real Madrid Femenino - Temporada 2026/27 - Women's Champions League",
     "atras": "indexTemporada.html?temporada=2627&categoria=f",
     "eliminatorias": [],
-    "liga": {},
+    "liga": {
+        "grupo": "Fase de Liga",
+        "jornadas": [
+            {"partido": "Real Madrid - PSG", "enlace": "partido.html?cod=2627_chamf_03"},
+            {"partido": "Manchester City - Real Madrid", "enlace": "partido.html?cod=2627_chamf_04"},
+            {"partido": "Bayern München - Real Madrid", "enlace": "partido.html?cod=2627_chamf_05"},
+            {"partido": "Real Madrid - Paris FC", "enlace": "partido.html?cod=2627_chamf_06"},
+            {"partido": "Real Madrid - Internazionale", "enlace": "partido.html?cod=2627_chamf_07"},
+            {"partido": "Roma - Real Madrid", "enlace": "partido.html?cod=2627_chamf_08"}
+        ],
+        "clasificacion": [
+            {"equipo": "Barcelona", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Olympique Lyon", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Chelsea", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Bayern München", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Arsenal", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "PSG", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Real Madrid", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Juventus", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Häcken", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Roma", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Benfica", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Paris FC", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Manchester City", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "OH Leuven", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Køge", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Austria Wien", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Internazionale", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0},
+            {"equipo": "Servette", "pj": 0, "pg": 0, "pe": 0, "pp": 0, "gf": 0, "gc": 0, "puntos": 0}
+        ]
+    },
     "previas": [
         {"nombre": "Fase clasificatoria 3", "unica": false, "partido1": "Ajax 0 - 2 Real Madrid", "enlace1": "partido.html?cod=2627_chamf_01", "partido2": "Real Madrid 2 - 1 Ajax", "enlace2": "partido.html?cod=2627_chamf_02"}
     ]
