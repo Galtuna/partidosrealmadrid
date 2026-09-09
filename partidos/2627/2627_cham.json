@@ -5,7 +5,7 @@
     "liga": {
         "grupo": "Fase de Liga",
         "jornadas": [
-            {"partido": "Real Madrid - Internazionale", "enlace": "partido.html?cod=2526_cham_01"},
+            {"partido": "Real Madrid 2 - 1 Internazionale", "enlace": "partido.html?cod=2526_cham_01"},
             {"partido": "Roma - Real Madrid", "enlace": "partido.html?cod=2526_cham_02"},
             {"partido": "Real Madrid - RB Leipzig", "enlace": "partido.html?cod=2526_cham_03"},
             {"partido": "AEK Atenas - Real Madrid", "enlace": "partido.html?cod=2526_cham_04"},

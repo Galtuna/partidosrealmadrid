@@ -1,0 +1,51 @@
+{
+    "titulo": "Temporada 2014/15 - Champions League - Semifinal - Ida",
+    "atras": "competicion.html?temporada=1415&competicion=cham&categoria=m",
+    "estadio": {"ciudad": "Turín (Italia)", "nombre": "Juventus Stadium", "imagen": "juventus.jpg", "espectadores": "41.011"},
+    "fecha": "MAR 05/05/2015",
+    "hora": "20:45",
+    "arbitro": "Martin Atkinson (Inglaterra)",
+    "local": {"nombre": "Juventus FC", "escudo": "juv.png", "goles": 2, "golesp": 0, "entrenador": "Massimiliano Allegri"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Buffon", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Lichtsteiner", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Bonucci", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Chiellini", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 33, "nombre": "Evra", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Pirlo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Marchisio", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Sturaro", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Arturo Vidal", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Tévez", "salida": "0", "cambio": "86'", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Morata", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 15, "nombre": "Barzagli", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Fernando Llorente", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 37, "nombre": "Pereyra", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "86'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 14, "nombre": "Chicharito", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "86'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "8'", "descripcion": "<span class=\"azul\">Morata</span> empuja un rechace de Casillas tras un disparo raso cruzado de Tévez."},
+        {"gol": "1-1", "minuto": "27'", "descripcion": "James tira la pared con Carvajal y centra al segundo palo para que <span class=\"azul\">Ronaldo</span> marque de cabeza a placer."},
+        {"gol": "2-1", "minuto": "58'", "descripcion": "Penalti de Carvajal sobre <span class=\"azul\">Tévez</span> que él mismo se encarga de transformar."}
+    ],
+    "penaltis": []
+}
