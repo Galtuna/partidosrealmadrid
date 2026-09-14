@@ -43,7 +43,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "23'", "descripcion": "Penalti de Chiellini sobre James que transforma <span class=\"azul\">Ronaldo</span>."},
-        {"gol": "1-1", "minuto": "57'", "descripcion": "Balón que cuelga al área Arturo Vidal, Pogba la baja de cabeza y <span class=\"azul\">Morata</span> controla y fusila a Casillas."}
+        {"gol": "1-1", "minuto": "57'", "descripcion": "Balón que cuelga al área Arturo Vidal, Pogba lo baja de cabeza y <span class=\"azul\">Morata</span> controla y fusila a Casillas."}
     ],
     "penaltis": []
 }
