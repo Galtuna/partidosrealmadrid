@@ -45,7 +45,7 @@
         ],
         "clasificacion": [
             {"equipo": "Barcelona", "pj": 5, "pg": 5, "pe": 0, "pp": 0, "gf": 21, "gc": 4, "puntos": 15, "icono": "champ.png"},
-            {"equipo": "Real Madrid", "pj": 5, "pg": 4, "pe": 0, "pp": 1, "gf": 14, "gc": 4, "puntos": 12, "icono": "champ.png"},
+            {"equipo": "Real Madrid", "pj": 6, "pg": 5, "pe": 0, "pp": 1, "gf": 17, "gc": 6, "puntos": 15, "icono": "champ.png"},
             {"equipo": "Real Betis", "pj": 5, "pg": 4, "pe": 0, "pp": 1, "gf": 7, "gc": 6, "puntos": 12, "icono": "champ.png"},
             {"equipo": "Alavés", "pj": 5, "pg": 3, "pe": 1, "pp": 1, "gf": 11, "gc": 5, "puntos": 10, "icono": "champ.png"},
             {"equipo": "Atlético Madrid", "pj": 5, "pg": 3, "pe": 1, "pp": 1, "gf": 10, "gc": 6, "puntos": 10, "icono": "eurle.png"},
@@ -62,7 +62,7 @@
             {"equipo": "Rayo Vallecano", "pj": 5, "pg": 1, "pe": 1, "pp": 3, "gf": 8, "gc": 14, "puntos": 4},
             {"equipo": "Málaga", "pj": 5, "pg": 0, "pe": 3, "pp": 2, "gf": 2, "gc": 8, "puntos": 3},
             {"equipo": "Villarreal", "pj": 5, "pg": 0, "pe": 2, "pp": 3, "gf": 7, "gc": 10, "puntos": 2, "icono": "abajo.png"},
-            {"equipo": "Elche", "pj": 5, "pg": 0, "pe": 2, "pp": 3, "gf": 6, "gc": 13, "puntos": 2, "icono": "abajo.png"},
+            {"equipo": "Elche", "pj": 6, "pg": 0, "pe": 2, "pp": 4, "gf": 8, "gc": 16, "puntos": 2, "icono": "abajo.png"},
             {"equipo": "Valencia", "pj": 5, "pg": 0, "pe": 1, "pp": 4, "gf": 1, "gc": 10, "puntos": 1, "icono": "abajo.png"}
         ],
         "ascensos": ["", "", ""],
