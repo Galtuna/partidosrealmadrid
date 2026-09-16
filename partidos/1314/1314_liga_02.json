@@ -1,5 +1,5 @@
 {
-    "titulo": "Temporada 2013/14 - LaLiga - Jornada X",
+    "titulo": "Temporada 2013/14 - LaLiga - Jornada 2",
     "atras": "competicion.html?temporada=1314&competicion=liga&categoria=m",
     "estadio": {"ciudad": "Granada", "nombre": "Estadio Nuevo Los Cármenes", "imagen": "carmenes.jpg", "espectadores": "16.626"},
     "fecha": "LUN 26/08/2013",
@@ -44,7 +44,7 @@
         {"dorsal": 15, "nombre": "Carvajal", "salida": "89'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "10'", "descripcion": "Centro de Di María al segundo palo para Ronaldos que falla en el control, pero <span class=\"azul\">Benzema</span> aprovecha el balón suelto."}
+        {"gol": "0-1", "minuto": "10'", "descripcion": "Centro de Di María al segundo palo para Ronaldo que falla en el control, pero <span class=\"azul\">Benzema</span> aprovecha el balón suelto."}
     ],
     "penaltis": []
 }

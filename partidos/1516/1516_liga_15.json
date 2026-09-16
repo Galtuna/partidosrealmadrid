@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2015/16 - LaLiga - Jornada 15",
     "atras": "competicion.html?temporada=1516&competicion=liga&categoria=m",
-    "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Estadio de la Cerámica", "imagen": "ceramica.jpg", "espectadores": "20.468"},
+    "estadio": {"ciudad": "Villarreal (Castellón)", "nombre": "Estadio El Madrigal", "imagen": "ceramica.jpg", "espectadores": "20.468"},
     "fecha": "DOM 13/12/2015",
     "hora": "20:30",
     "arbitro": "Undiano Mallenco (colegio navarro)",
@@ -15,7 +15,7 @@
         {"dorsal": 11, "nombre": "Jaume Costa", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 14, "nombre": "Trigueros", "salida": "0", "cambio": "90+2'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 21, "nombre": "Bruno Soriano", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 8, "nombre": "Dos Santos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Jonathan dos Santos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 18, "nombre": "Denis Suárez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 17, "nombre": "Bakambu", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Soldado", "salida": "0", "cambio": "83'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}

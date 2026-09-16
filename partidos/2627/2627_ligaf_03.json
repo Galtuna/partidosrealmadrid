@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2026/27 - Liga F - Jornada 3",
     "atras": "competicion.html?temporada=2627&competicion=liga&categoria=f",
-    "estadio": {"ciudad": "La Coruña", "nombre": "Estadio Municipal de Riazor", "imagen": "riazor.jpg", "espectadores": "XXXXXX"},
+    "estadio": {"ciudad": "La Coruña", "nombre": "Estadio Municipal de Riazor", "imagen": "riazor.jpg", "espectadores": "1.266"},
     "fecha": "VIE 11/09/2026",
     "hora": "20:45",
     "arbitro": "Peláez Arnillas (colegio castellanoleonés)",
@@ -47,7 +47,7 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "31'", "descripcion": "<span class=\"azul\">Linda</span> conduce desde la derecha, llega a la frontal y dispara con rosca a la escuadra."},
-        {"gol": "0-2", "minuto": "39'", "descripcion": "Córner que bota Andreia y remata con la zurda <span class=\"azul\">Andersson</span> en el primer palo libre de marca."}
+        {"gol": "0-2", "minuto": "39'", "descripcion": "Córner que bota Andreia y remata con la zurda <span class=\"azul\">Andersson</span> libre de marca en el primer palo."}
     ],
     "penaltis": []
 }
