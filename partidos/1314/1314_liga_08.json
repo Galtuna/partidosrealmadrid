@@ -1,0 +1,54 @@
+{
+    "titulo": "Temporada 2013/14 - LaLiga - Jornada 8",
+    "atras": "competicion.html?temporada=1314&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Valencia", "nombre": "Estadio Ciudad de Valencia", "imagen": "ciuvalencia.jpg", "espectadores": "24.102"},
+    "fecha": "SAB 05/10/2013",
+    "hora": "20:00",
+    "arbitro": "González González (colegio castellanoleonés)",
+    "local": {"nombre": "Levante UD", "escudo": "lev.png", "goles": 2, "golesp": 0, "entrenador": "Joaquín Caparrós"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Keylor Navas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Pedro López", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Héctor Rodas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "David Navarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Juanfran", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Simão Mate", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Pape Diop", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Xumetra", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Rubén García", "salida": "0", "cambio": "87'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Ivanschitz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Baba Diawara", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 8, "nombre": "El Zhar", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "David Barral", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Sergio Pinto", "salida": "87'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 25, "nombre": "Diego López", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Coentrão", "salida": "0", "cambio": "59'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Khedira", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Di María", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "78'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "59'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Morata", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "78'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "57'", "descripcion": "Balón colgado de Xumetra a la espalda de la defensa que remata de primeras <span class=\"azul\">Baba Diawara</span>."},
+        {"gol": "1-1", "minuto": "60'", "descripcion": "Córner que bota Di María al segundo palo donde entra a rematar <span class=\"azul\">Sergio Ramos</span>."},
+        {"gol": "2-1", "minuto": "85'", "descripcion": "<span class=\"azul\">El Zhar</span> recoge un rechace a su propio remate, caracolea en el área y termina disparando a la media vuelta."},
+        {"gol": "2-2", "minuto": "89'", "descripcion": "Varane encuentra a <span class=\"azul\">Morata</span> en el punto de penalti y este controla y dispara raso a la red."},
+        {"gol": "2-3", "minuto": "90+4'", "descripcion": "Disparo de <span class=\"azul\">Ronaldo</span> desde el pico del área que toca en Juanfran y entra tras pegar en el palo."}
+    ],
+    "penaltis": []
+}

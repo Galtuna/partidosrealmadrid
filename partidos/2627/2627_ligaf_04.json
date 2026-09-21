@@ -1,0 +1,56 @@
+{
+    "titulo": "Temporada 2026/27 - Liga F - Jornada 4",
+    "atras": "competicion.html?temporada=2627&competicion=liga&categoria=f",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Alfredo di Stéfano", "imagen": "distefano.jpg", "espectadores": "902"},
+    "fecha": "SAB 19/09/2026",
+    "hora": "20:30",
+    "arbitro": "Gallastegui Pérez (colegio vasco)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "Pau Quesada"},
+    "visitante": {"nombre": "Valencia CF", "escudo": "val.png", "goles": 1, "golesp": 0, "entrenador": "Mikel Crespo"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Merle Frohms", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 26, "nombre": "Claudia de la Cuerda", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Maëlle Lakrar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Bella Andersson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 29, "nombre": "Noelia Llamas", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 31, "nombre": "Oihane San Martín", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Elisa Senß", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Arianna Caruso", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Lotte Keukelaar", "salida": "0", "cambio": "46'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Lineth Beerensteyn", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Felicia Schröder", "salida": "0", "cambio": "56'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 47, "nombre": "Candela Rodríguez", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Andreia Jacinto", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "56'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Athenea del Castillo", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Janou Levels", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 25, "nombre": "Alice Pinguet", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Lena Pérez", "salida": "0", "cambio": "79'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Sara Tamarit", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Nazaret Martín", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Camila Sáez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Pauleta Sancho", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Gema Climent", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Carol Marín", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Salomé Prat", "salida": "0", "cambio": "63'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Marta Mascarell", "salida": "0", "cambio": "63'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Rébecca Elloh", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 19, "nombre": "Lucía Moral", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Danielle Marcano", "salida": "63'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Débora García", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Uju Mbadi", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "26'", "descripcion": "<span class=\"azul\">Senß</span> controla en la frontal y dispara con la zurda lejos del alcance de Pinguet."},
+        {"gol": "2-0", "minuto": "31'", "descripcion": "Andersson sube hasta el pico del área y la pone al segundo palo donde <span class=\"azul\">Schröder</span> solo tiene que empujarla."},
+        {"gol": "2-1", "minuto": "69'", "descripcion": "Córner que bota Tamarit y remata de cabeza picado <span class=\"azul\">Marcano</span> en el primer palo."},
+        {"gol": "3-1", "minuto": "90+4'", "descripcion": "Disparo raso de <span class=\"azul\">Athenea</span> desde fuera del área que entra tras pegar en el palo."}
+    ],
+    "penaltis": []
+}

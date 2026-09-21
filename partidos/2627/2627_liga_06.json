@@ -52,7 +52,7 @@
         {"gol": "0-2", "minuto": "33'", "descripcion": "Valverde lanza para la carrera de Diomande que centra al área para que remate <span class=\"azul\">Mbappé</span>."},
         {"gol": "1-2", "minuto": "71'", "descripcion": "Cepeda desborda a Alexander-Arnold, gana línea de fondo y centra para que <span class=\"azul\">Osorio</span> remate de cabeza."},
         {"gol": "2-2", "minuto": "83'", "descripcion": "<span class=\"azul\">Fer Niño</span> recibe de Josan en el área y dispara raso ajustado a la base del palo largo."},
-        {"gol": "2-3", "minuto": "90+1''", "descripcion": "Balón profundo de Bellingham para Mbappé que se planta ante Dituro y le regala el gol a <span class=\"azul\">Carlos Espí</span>."}
+        {"gol": "2-3", "minuto": "90+1'", "descripcion": "Balón profundo de Bellingham para Mbappé que se planta ante Dituro y le regala el gol a <span class=\"azul\">Carlos Espí</span>."}
     ],
     "penaltis": []
 }

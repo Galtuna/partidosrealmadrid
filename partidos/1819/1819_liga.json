@@ -67,7 +67,7 @@
             {"equipo": "Huesca", "pj": 38, "pg": 7, "pe": 12, "pp": 19, "gf": 43, "gc": 65, "puntos": 33, "icono": "abajo.png"},
             {"equipo": "Rayo Vallecano", "pj": 38, "pg": 8, "pe": 8, "pp": 22, "gf": 41, "gc": 70, "puntos": 32, "icono": "abajo.png"}
         ],
-        "ascensos": ["Huesca", "Cádiz", "Elche"],
+        "ascensos": ["Osasuna", "Granada", "Mallorca"],
         "extra": ""
     },
     "previas": []
