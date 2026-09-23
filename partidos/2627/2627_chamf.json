@@ -5,7 +5,7 @@
     "liga": {
         "grupo": "Fase de Liga",
         "jornadas": [
-            {"partido": "Real Madrid - PSG", "enlace": "partido.html?cod=2627_chamf_03"},
+            {"partido": "Real Madrid 1 - 1 PSG", "enlace": "partido.html?cod=2627_chamf_03"},
             {"partido": "Manchester City - Real Madrid", "enlace": "partido.html?cod=2627_chamf_04"},
             {"partido": "Bayern München - Real Madrid", "enlace": "partido.html?cod=2627_chamf_05"},
             {"partido": "Real Madrid - Paris FC", "enlace": "partido.html?cod=2627_chamf_06"},
