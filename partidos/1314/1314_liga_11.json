@@ -44,11 +44,11 @@
         {"dorsal": 19, "nombre": "Reyes", "salida": "83'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "13'", "descripcion": "Benzema encuentra a <span class=\"azul\">Bale</span> desamrcado en el área y este la pone con la zurda en la escuadra de Beto."},
+        {"gol": "1-0", "minuto": "13'", "descripcion": "Benzema encuentra a <span class=\"azul\">Bale</span> desmarcado en el área y este la pone con la zurda en la escuadra de Beto."},
         {"gol": "2-0", "minuto": "27'", "descripcion": "Falta directa desde fuera del área que lanza <span class=\"azul\">Bale</span> y el balón entra tras ser desviado por la barrera."},
         {"gol": "3-0", "minuto": "32'", "descripcion": "Penalti de Fernando Navarro sobre Isco que transforma <span class=\"azul\">Ronaldo</span>."},
         {"gol": "3-1", "minuto": "38'", "descripcion": "Penalti de Sergio Ramos sobre Figueiras que transforma <span class=\"azul\">Rakitić</span>."},
-        {"gol": "3-2", "minuto": "40'", "descripcion": "Arrancada de Vitolo hasta la línea de fondo y su centro se lo lleva Jairo que le regala el gol a <span class=\"azul\">Bacca</span>."},
+        {"gol": "3-2", "minuto": "40'", "descripcion": "Internada de Vitolo hasta la línea de fondo y su centro se lo lleva Jairo que le regala el gol a <span class=\"azul\">Bacca</span>."},
         {"gol": "4-2", "minuto": "52'", "descripcion": "Ronaldo abre para Bale que llega hasta el área y la pone para que <span class=\"azul\">Benzema</span> controle y defina con calma."},
         {"gol": "5-2", "minuto": "60'", "descripcion": "Bale desborda por la derecha y su centro lo remata de primeras <span class=\"azul\">Ronaldo</span>."},
         {"gol": "5-3", "minuto": "63'", "descripcion": "Gran zurdazo de <span class=\"azul\">Rakitić</span> desde el pico del área directo a la escuadra contraria de Diego López."},

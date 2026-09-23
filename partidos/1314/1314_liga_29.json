@@ -49,7 +49,7 @@
         {"gol": "2-2", "minuto": "42'", "descripcion": "<span class=\"azul\">Messi</span> recoge un balón rechazado en el área y dispara raso ajustado al palo."},
         {"gol": "3-2", "minuto": "55'", "descripcion": "Penalti de Dani Alves sobre <span class=\"azul\">Ronaldo</span> que él mismo se encarga de transformar."},
         {"gol": "3-3", "minuto": "65'", "descripcion": "Penalti y expulsión de Sergio Ramos sobre Neymar que transforma <span class=\"azul\">Messi</span>."},
-        {"gol": "3-4", "minuto": "84'", "descripcion": "Penalti de Xabi Alonso sobre Iniesta que transfomra <span class=\"azul\">Messi</span>."}
+        {"gol": "3-4", "minuto": "84'", "descripcion": "Penalti de Xabi Alonso sobre Iniesta que vuelve a transformar <span class=\"azul\">Messi</span>."}
     ],
     "penaltis": []
 }
