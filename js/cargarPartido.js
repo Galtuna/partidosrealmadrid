@@ -132,7 +132,7 @@ function cargarJugadores(jsonDataJugadores, tabla){
             td2.innerHTML += " <img src='img/ico/lesion.png'></img>";
         }
         if (jsonDataJugadores[i].lesion != "0" && jsonDataJugadores[i].lesion != "1") {
-            td2.innerHTML += " <img src='img/ico/lesion.png'></img>" + jsonDataJugadores[i].lesion;
+            td2.innerHTML += " <img src='img/ico/lesion.png'></img> " + jsonDataJugadores[i].lesion;
         }
         tr.appendChild(td2);
         tblJugadores.appendChild(tr);

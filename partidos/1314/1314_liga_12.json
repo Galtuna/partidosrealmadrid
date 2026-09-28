@@ -44,7 +44,7 @@
         {"dorsal": 17, "nombre": "Arbeloa", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "2'", "descripcion": "<span class=\"azul\">Ronaldo</span> supera a Gálvez con un caño y supera a Rubén con un disparo raso cruzado."},
+        {"gol": "0-1", "minuto": "2'", "descripcion": "<span class=\"azul\">Ronaldo</span> supera a Gálvez con un caño y bate a a Rubén con un disparo raso cruzado."},
         {"gol": "0-2", "minuto": "30'", "descripcion": "Centro de Bale que remata de cabeza <span class=\"azul\">Benzema</span> libre de marca entre los dos centrales."},
         {"gol": "0-3", "minuto": "49'", "descripcion": "Bale desborda a Arbilla, se planta ante Rubén y le pone el gol en bandeja a <span class=\"azul\">Ronaldo</span>."},
         {"gol": "1-3", "minuto": "53'", "descripcion": "Penalti de Pepe sobre <span class=\"azul\">Jonathan Viera</span> que él mismo se encarga de transformar."},
