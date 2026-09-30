@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2016/17 - Copa del Rey - Cuartos de Final - Vuelta",
     "atras": "competicion.html?temporada=1617&competicion=copa&categoria=m",
-    "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio ABANCA Balaídos", "imagen": "balaidos.jpg", "espectadores": "23.491"},
+    "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio de Balaídos", "imagen": "balaidos.jpg", "espectadores": "23.491"},
     "fecha": "MIE 25/01/2017",
     "hora": "21:15",
     "arbitro": "Sánchez Martínez (colegio murciano)",

@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2017/18 - LaLiga - Jornada 18",
     "atras": "competicion.html?temporada=1718&competicion=liga&categoria=m",
-    "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio ABANCA Balaídos", "imagen": "balaidos.jpg", "espectadores": "20.872"},
+    "estadio": {"ciudad": "Vigo (Pontevedra)", "nombre": "Estadio de Balaídos", "imagen": "balaidos.jpg", "espectadores": "20.872"},
     "fecha": "DOM 07/01/2018",
     "hora": "20:45",
     "arbitro": "Jaime Latre (colegio aragonés)",
