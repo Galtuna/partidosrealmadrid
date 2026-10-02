@@ -44,7 +44,7 @@
         {"dorsal": 29, "nombre": "Santi Mina", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "1-0", "minuto": "67'", "descripcion": "Carvajal gana línea de fondo y su centro le cae en el segundo palo a Jesé que controla y le regala el gol a <span class=\"azul\">Benzema</span>."},
+        {"gol": "1-0", "minuto": "67'", "descripcion": "Centro de Carvajal que le cae en el segundo palo a Jesé, que controla y le regala el gol a <span class=\"azul\">Benzema</span>."},
         {"gol": "2-0", "minuto": "82'", "descripcion": "Centro de Carvajal al que no llegan ni Benzema ni Yoel, y <span class=\"azul\">Ronaldo</span> llega por detrás y marca a puerta vacía."},
         {"gol": "3-0", "minuto": "90+3'", "descripcion": "Bale supera a Otto, remonta la línea de fondo y la pone en el primer palo para el remate de <span class=\"azul\">Ronaldo</span>."}
     ],

@@ -44,7 +44,7 @@
         {"dorsal": 19, "nombre": "Barragán", "salida": "90+5'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "goles": [
-        {"gol": "0-1", "minuto": "44'", "descripcion": "Córner que bota Parejo y remata de cabeza <span class=\"azul\">Mathieu</span> totalmente solo en el área pequeña."},
+        {"gol": "0-1", "minuto": "44'", "descripcion": "Córner que bota Parejo y remata de cabeza <span class=\"azul\">Mathieu</span> ganando la posición a Varane en el área pequeña."},
         {"gol": "1-1", "minuto": "59'", "descripcion": "Centro de Di María al segundo palo que toca de cabeza Ronaldo para que remate <span class=\"azul\">Sergio Ramos</span>."},
         {"gol": "1-2", "minuto": "65'", "descripcion": "Balón que pone Feghouli desde el lateral del área para la llegada y el remate cruzado de <span class=\"azul\">Parejo</span>."},
         {"gol": "2-2", "minuto": "90+2'", "descripcion": "Centro de Di María desde el lateral del área que remata <span class=\"azul\">Ronaldo</span> de forma espectacular con la espuela."}

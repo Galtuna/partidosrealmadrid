@@ -46,7 +46,7 @@
     "goles": [
         {"gol": "1-0", "minuto": "64'", "descripcion": "Pase filtrado de Benzema para <span class=\"azul\">Bale</span> que supera a Casilla con un tiro raso cruzado."},
         {"gol": "2-0", "minuto": "86'", "descripcion": "Sergio Ramos conduce al contragolpe, abre para Di María que pisa área y le da el pase de la muerte a <span class=\"azul\">Morata</span>."},
-        {"gol": "2-1", "minuto": "90'", "descripcion": "Sergio García rompe la línea defensiva, entra en el área y le pone el gol en bandeja a <span class=\"azul\">Pizzi</span>."},
+        {"gol": "2-1", "minuto": "90'", "descripcion": "Sergio García supera a Arbeloa rompiendo la línea defensiva, y le pone el gol en bandeja a <span class=\"azul\">Pizzi</span>."},
         {"gol": "3-1", "minuto": "90+1'", "descripcion": "Pase profundo para Di María que se queda mano a mano con Casilla y le regala el gol a <span class=\"azul\">Morata</span>."}
     ],
     "penaltis": []
