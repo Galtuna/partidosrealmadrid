@@ -5,7 +5,7 @@
     "fecha": "JUE 01/10/2026",
     "hora": "21:00",
     "arbitro": "Silvia Gasperotti (Italia)",
-    "local": {"nombre": "Manchester City FC", "escudo": "mci.png", "goles": 1, "golesp": 0, "entrenador": "Andrée Jeglertz"},
+    "local": {"nombre": "Manchester City FC", "escudo": "mci2.png", "goles": 1, "golesp": 0, "entrenador": "Andrée Jeglertz"},
     "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Pau Quesada"},
     "titularesLocal": [
         {"dorsal": 31, "nombre": "Ayaka Yamashita", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
@@ -36,11 +36,11 @@
         {"dorsal": 17, "nombre": "Andreia Jacinto", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 24, "nombre": "Arianna Caruso", "salida": "0", "cambio": "68'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "84'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 12, "nombre": "Felicia Schröder", "salida": "0", "cambio": "64'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
     "suplentesVisitante": [
-        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 7, "nombre": "Lotte Keukelaar", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 11, "nombre": "Lineth Beerensteyn", "salida": "64'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 15, "nombre": "Irune Dorado", "salida": "68'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},

@@ -1,0 +1,60 @@
+{
+    "titulo": "Temporada 2026/27 - Liga F - Jornada 6",
+    "atras": "competicion.html?temporada=2627&competicion=liga&categoria=f",
+    "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Camp Nou", "imagen": "campnou.jpg", "espectadores": "40.533"},
+    "fecha": "DOM 04/10/2026",
+    "hora": "19:00",
+    "arbitro": "Planes Terol (colegio murciano)",
+    "local": {"nombre": "FC Barcelona", "escudo": "fcb.png", "goles": 7, "golesp": 0, "entrenador": "Pere Romeu"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 0, "entrenador": "Pau Quesada"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Cata Coll", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Aïcha Cámara", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Irene Paredes", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Renee van Asten", "salida": "0", "cambio": "69'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Esmee Brugts", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Patri Guijarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Clara Serrajordi", "salida": "0", "cambio": "79'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sydney Schertenleib", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Caroline Graham Hansen", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Claudia Pina", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 4, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Ewa Pajor", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 7, "nombre": "Kerolin Nicoli", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Aitana Bonmatí", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Martina Fernández", "salida": "69'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Carla Julià", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 27, "nombre": "Rosalía Domínguez", "salida": "79'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Merle Frohms", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Eva Navarro", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Maëlle Lakrar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Bella Andersson", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Silvia Cristóbal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Elisa Senß", "salida": "0", "cambio": "74'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Andreia Jacinto", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Arianna Caruso", "salida": "0", "cambio": "57'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Athenea del Castillo", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Linda Caicedo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Felicia Schröder", "salida": "0", "cambio": "65'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 16, "nombre": "Filippa Angeldahl", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Irune Dorado", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Sara Däbritz", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Lineth Beerensteyn", "salida": "65'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "María Méndez", "salida": "74'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "4'", "descripcion": "<span class=\"azul\">Pina</span> pelea un balón en el área, se mete entre varias defensas y define con la zurda lejos del alcance de Frohms."},
+        {"gol": "2-0", "minuto": "28'", "descripcion": "<span class=\"azul\">Pina</span> aprovecha un balón suelto en el área tras un disparo de Pajor rechazado por Andersson."},
+        {"gol": "3-0", "minuto": "32'", "descripcion": "<span class=\"azul\">Pina</span> tira la pared con Guijarro, rompe la línea defensiva y fusila a Frohms por el palo corto."},
+        {"gol": "4-0", "minuto": "33'", "descripcion": "<span class=\"azul\">Graham</span> tira la pared con Pajor, recorta a Lakrar y bate por bajo a Frohms en su salida."},
+        {"gol": "5-0", "minuto": "45'", "descripcion": "De nuevo <span class=\"azul\">Pina</span> hace la pared con Pajor, gana el balón ante Lakrar y supera a Frohms con un remate raso."},
+        {"gol": "6-0", "minuto": "55'", "descripcion": "Balón largo a la espalda de la defensa para Graham, que llega al área y le regala el gol a <span class=\"azul\">Pajor</span>."},
+        {"gol": "7-0", "minuto": "88'", "descripcion": "Tremendo disparo de <span class=\"azul\">Schertenleib</span> desde fuera del área que va directo a la escuadra de Frohms."}
+    ],
+    "penaltis": []
+}
