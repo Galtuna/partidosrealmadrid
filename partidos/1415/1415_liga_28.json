@@ -1,0 +1,52 @@
+{
+    "titulo": "Temporada 2014/15 - LaLiga - Jornada 28",
+    "atras": "competicion.html?temporada=1415&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Camp Nou", "imagen": "campnou.jpg", "espectadores": "98.760"},
+    "fecha": "DOM 22/03/2015",
+    "hora": "21:00",
+    "arbitro": "Mateu Lahoz (colegio valenciano)",
+    "local": {"nombre": "FC Barcelona", "escudo": "fcb.png", "goles": 2, "golesp": 0, "entrenador": "Luis Enrique Martínez"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 1, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Bravo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Dani Alves", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Piqué", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Mathieu", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Jordi Alba", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Mascherano", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Rakitić", "salida": "0", "cambio": "76'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Iniesta", "salida": "0", "cambio": "80'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Messi", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Neymar", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Luis Suárez", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 5, "nombre": "Busquets", "salida": "76'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Xavi", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Rafinha", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "73'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Modrić", "salida": "0", "cambio": "88'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "80'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 2, "nombre": "Varane", "salida": "73'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "80'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Lucas Silva", "salida": "88'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "1-0", "minuto": "19'", "descripcion": "Falta lateral que bota Messi y remata de cabeza <span class=\"azul\">Mathieu</span> ganando la posición a Sergio Ramos."},
+        {"gol": "1-1", "minuto": "31'", "descripcion": "Pase filtrado de Modrić para Benzema que cede de espuela para la llegada y el remate de <span class=\"azul\">Ronaldo</span>."},
+        {"gol": "2-1", "minuto": "56'", "descripcion": "Balon largo de Dani Alves para <span class=\"azul\">Luis Suárez</span> que controla y bate a Casillas de tiro raso cruzado."}
+    ],
+    "penaltis": []
+}

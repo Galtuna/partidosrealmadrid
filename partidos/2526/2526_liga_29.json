@@ -43,7 +43,7 @@
     "suplentesVisitante": [
         {"dorsal": 2, "nombre": "Giménez", "salida": "46'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 23, "nombre": "Nico González", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
-        {"dorsal": 16, "nombre": "Molina", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Nahuel Molina", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
         {"dorsal": 9, "nombre": "Sørloth", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 10, "nombre": "Álex Baena", "salida": "71'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],
@@ -51,7 +51,7 @@
         {"gol": "0-1", "minuto": "33'", "descripcion": "Ruggeri mete el balón en el área donde Giuliano Simeone asiste con la espuela a <span class=\"azul\">Lookman</span> que no falla."},
         {"gol": "1-1", "minuto": "52'", "descripcion": "Penalti de Hancko sobre Brahim que transforma <span class=\"azul\">Vinicius Jr.</span>"},
         {"gol": "2-1", "minuto": "55'", "descripcion": "Giménez va muy blando a despejar en su área, <span class=\"azul\">Valverde</span> se la lleva y la cruza ante Musso."},
-        {"gol": "2-2", "minuto": "66'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Molina</span> desde fuera del área que va directo a la escuadra contraria."},
+        {"gol": "2-2", "minuto": "66'", "descripcion": "Tremendo derechazo de <span class=\"azul\">Nahuel Molina</span> desde fuera del área que va directo a la escuadra contraria."},
         {"gol": "3-2", "minuto": "72'", "descripcion": "Alexander-Arnold conduce por su banda y abre a la izquierda donde <span class=\"azul\">Vinicius Jr.</span> controla y dispara ajustado al palo."}
     ],
     "penaltis": []

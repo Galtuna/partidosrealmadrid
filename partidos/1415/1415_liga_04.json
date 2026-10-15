@@ -53,7 +53,7 @@
         {"gol": "1-6", "minuto": "78'", "descripcion": "James le roba el balón a Diakité en su propia frontal y asiste a <span class=\"azul\">Ronaldo</span> que no perdona."},
         {"gol": "2-6", "minuto": "84'", "descripcion": "Centro de Cuenca que remata de cabeza <span class=\"azul\">Toché</span> ajustado al palo de Casillas."},
         {"gol": "2-7", "minuto": "88'", "descripcion": "Gran zurdazo de <span class=\"azul\">Chicharito</span> desde el pico del área que se cuela por la escuadra del palo corto."},
-        {"gol": "2-8", "minuto": "90+2'", "descripcion": "Disparo de <span class=\"azul\">Chicharito</span> desde fuera del área que toca en Sidei y se vuelve imposible para Lux."}
+        {"gol": "2-8", "minuto": "90+2'", "descripcion": "Disparo de <span class=\"azul\">Chicharito</span> desde fuera del área que toca en Sidnei y se vuelve imposible para Lux."}
     ],
     "penaltis": []
 }
