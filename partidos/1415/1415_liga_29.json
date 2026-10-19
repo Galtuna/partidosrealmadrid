@@ -1,0 +1,59 @@
+{
+    "titulo": "Temporada 2014/15 - LaLiga - Jornada 29",
+    "atras": "competicion.html?temporada=1415&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Madrid", "nombre": "Estadio Santiago Bernabéu", "imagen": "bernabeu.jpg", "espectadores": "71.863"},
+    "fecha": "DOM 05/04/2015",
+    "hora": "12:00",
+    "arbitro": "Gil Manzano (colegio extremeño)",
+    "local": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 9, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "visitante": {"nombre": "Granada CF", "escudo": "gra.png", "goles": 1, "golesp": 0, "entrenador": "Abel Resino"},
+    "titularesLocal": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Arbeloa", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Sergio Ramos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Modrić", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "James", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 5, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 24, "nombre": "Illarramendi", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Jesé", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Chicharito", "salida": "61'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Olazábal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Foulquier", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Babin", "salida": "0", "cambio": "61'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Mainz", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 1, "lesion": 0},
+        {"dorsal": 20, "nombre": "Juankar", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Fran Rico", "salida": "0", "cambio": "57'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Iturra", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Rochina", "salida": "0", "cambio": "53'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Rober Ibáñez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Candelas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "El-Arabi", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 10, "nombre": "Piti", "salida": "53'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Israfilov", "salida": "57'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Murillo", "salida": "61'", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "goles": [
+        {"gol": "1-0", "minuto": "25'", "descripcion": "Pase profundo de Kroos para <span class=\"azul\">Bale</span> que regatea a Olazábal y marca a placer."},
+        {"gol": "2-0", "minuto": "30'", "descripcion": "James abre en el área para <span class=\"azul\">Ronaldo</span> que dispara cruzado al palo largo."},
+        {"gol": "3-0", "minuto": "36'", "descripcion": "<span class=\"azul\">Ronaldo</span> empalma un flojo rechace de Olazábal tras un centro de Marcelo desde la línea de fondo."},
+        {"gol": "4-0", "minuto": "38'", "descripcion": "Tremendo zapatazo de <span class=\"azul\">Ronaldo</span> desde el pico del área que dobla las manos de Olazábal."},
+        {"gol": "5-0", "minuto": "52'", "descripcion": "Córner que bota James al segundo palo donde <span class=\"azul\">Benzema</span> controla con el pecho y fusila a Olazábal."},
+        {"gol": "6-0", "minuto": "54'", "descripcion": "Balón largo de Marcelo a la espalda de la defensa para Bale que controla y le regala el gol a <span class=\"azul\">Ronaldo</span>."},
+        {"gol": "7-0", "minuto": "56'", "descripcion": "Pase atrás de Arbeloa desde la línea de fondo para <span class=\"azul\">Benzema</span> que recorta a Babin y dispara al palo corto."},
+        {"gol": "7-1", "minuto": "74'", "descripcion": "Pase en profundidad de El-Arabi para <span class=\"azul\">Rober Ibáñez</span> que no perdona en el mano a mano ante Casillas."},
+        {"gol": "8-1", "minuto": "83'", "descripcion": "Modrić gana la línea de fondo y su centro lo introduce <span class=\"azul\">Mainz</span> en su propia portería."},
+        {"gol": "9-1", "minuto": "89'", "descripcion": "Falta lateral que bota Modrić y remata de cabeza <span class=\"azul\">Ronaldo</span> entrando al segundo palo."}
+    ],
+    "penaltis": []
+}

@@ -45,7 +45,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "18'", "descripcion": "Remate de Ronaldo que salva Ramis bajo palos, David Navarro despeja de cabeza y <span class=\"azul\">Bale</span> engancha el balón suelto."},
-        {"gol": "2-0", "minuto": "40'", "descripcion": "Balón que pone atrás Carvajal desde la línea de fondo para el disparo cruzado de Ronaldo que <span class=\"azul\">Bale</span> desvía a la red."}
+        {"gol": "2-0", "minuto": "40'", "descripcion": "Carvajal la pone atrás desde la línea de fondo para el disparo cruzado de Ronaldo que <span class=\"azul\">Bale</span> desvía a la red."}
     ],
     "penaltis": []
 }
