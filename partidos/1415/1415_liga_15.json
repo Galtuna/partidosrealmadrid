@@ -1,0 +1,52 @@
+{
+    "titulo": "Temporada 2014/15 - LaLiga - Jornada 15",
+    "atras": "competicion.html?temporada=1415&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Almería", "nombre": "Estadio de los Juegos Mediterráneos", "imagen": "juegosmedit.jpg", "espectadores": "13.950"},
+    "fecha": "VIE 12/12/2014",
+    "hora": "20:45",
+    "arbitro": "Álvarez Izquierdo (colegio catalán)",
+    "local": {"nombre": "UD Almería", "escudo": "alm.png", "goles": 1, "golesp": 0, "entrenador": "Miguel Rivera"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 4, "golesp": 0, "entrenador": "Carlo Ancelotti"},
+    "titularesLocal": [
+        {"dorsal": 25, "nombre": "Rubén Martínez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Míchel Macedo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Ximo Navarro", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Trujillo", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Fran Vélez", "salida": "0", "cambio": "82'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 22, "nombre": "Thomas Partey", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Verza", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Fernando Soriano", "salida": "0", "cambio": "67'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Édgar Méndez", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Dubarbier", "salida": "0", "cambio": "59'", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Hemed", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 19, "nombre": "Zongo", "salida": "59'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Wellington Silva", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Corona", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Casillas", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Carvajal", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Varane", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Pepe", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Marcelo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Illarramendi", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Kroos", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Isco", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 11, "nombre": "Bale", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Ronaldo", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 2, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Benzema", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 5, "nombre": "Coentrão", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "34'", "descripcion": "<span class=\"azul\">Isco</span> recibe escorado en el área, se abre hueco hacia su derecha y dispara con rosca al palo largo."},
+        {"gol": "1-1", "minuto": "39'", "descripcion": "Rechace de Varane que engancha <span class=\"azul\">Verza</span> desde fuera del área con un misil muy ajustado al palo de Casillas."},
+        {"gol": "1-2", "minuto": "42'", "descripcion": "Centro de Kroos desde la derecha que remata de cabeza cruzado <span class=\"azul\">Bale</span> en el primer palo."},
+        {"gol": "1-3", "minuto": "81'", "descripcion": "Pase filtrado de <span class=\"azul\">Ronaldo</span> para Benzema que ante la salida del portero le regala el gol al portugués."},
+        {"gol": "1-4", "minuto": "88'", "descripcion": "Internada de Carvajal hasta la línea de fondo y su pase atrás lo remata <span class=\"azul\">Ronaldo</span> por el palo corto."}
+    ],
+    "penaltis": []
+}

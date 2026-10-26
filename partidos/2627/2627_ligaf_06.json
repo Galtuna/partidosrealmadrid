@@ -1,7 +1,7 @@
 {
     "titulo": "Temporada 2026/27 - Liga F - Jornada 6",
     "atras": "competicion.html?temporada=2627&competicion=liga&categoria=f",
-    "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Camp Nou", "imagen": "campnou.jpg", "espectadores": "40.533"},
+    "estadio": {"ciudad": "Barcelona", "nombre": "Estadio Spotify Camp Nou", "imagen": "campnou.jpg", "espectadores": "40.533"},
     "fecha": "DOM 04/10/2026",
     "hora": "19:00",
     "arbitro": "Planes Terol (colegio murciano)",

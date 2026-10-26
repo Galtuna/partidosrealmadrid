@@ -45,7 +45,7 @@
     ],
     "goles": [
         {"gol": "1-0", "minuto": "24'", "descripcion": "Falta lateral que bota Ronaldo al segundo palo donde remata <span class=\"azul\">Sergio Ramos</span> en posible fuera de juego."},
-        {"gol": "2-0", "minuto": "69'", "descripcion": "Doble pared de <span class=\"azul\">James</span> con Isco y con Ronaldo que culmina con un zurdazo a la escuadra desde la frontal."},
+        {"gol": "2-0", "minuto": "69'", "descripcion": "<span class=\"azul\">James</span> tira una doble pared con Isco y Ronaldo, y culmina con un zurdazo a la escuadra desde la frontal."},
         {"gol": "2-1", "minuto": "71'", "descripcion": "Rosales roba el balón a Marcelo y su centro lo remata de cabeza <span class=\"azul\">Juanmi</span> completamente solo."},
         {"gol": "3-1", "minuto": "90+2'", "descripcion": "Chicharito se interna por la derecha, supera a Angeleri y le pone el gol en bandeja a <span class=\"azul\">Ronaldo</span>."}
     ],

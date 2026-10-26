@@ -1,7 +1,7 @@
 // Cliente JS para buscar en los JSON de partidos
 // Busca por equipo, jugador, ciudad, estadio, árbitro o entrenador
 
-const SEASONS = ['2627','2526','2425','2324','2223','2122','2021','1920','1819','1718','1617','1516','1415','1314'];
+const SEASONS = ['2026/27','2025/26','2024/25','2023/24','2022/23','2021/22','2020/21','2019/20','2018/19','2017/18','2016/17','2015/16','2014/15','2013/14'];
 const RESULTS_PER_PAGE = 10;
 
 function pad(n){ return n.toString().padStart(2,'0'); }
