@@ -103,7 +103,7 @@ function buildMenuFromData() {
         seasonsForItem.forEach((season) => {
             const enlace = document.createElement("a");
             enlace.href = `${item.page}${item.query.replace("{season}", season).replace("{category}", category)}`;
-            enlace.textContent = season;
+            enlace.textContent = `20${season.slice(0, 2)}/${season.slice(2)}`;
 
             if (championsForCategory.has(season)) {
                 const icon = document.createElement("img");

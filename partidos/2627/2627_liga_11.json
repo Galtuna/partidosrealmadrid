@@ -1,0 +1,54 @@
+{
+    "titulo": "Temporada 2026/27 - LaLiga - Jornada 11",
+    "atras": "competicion.html?temporada=2627&competicion=liga&categoria=m",
+    "estadio": {"ciudad": "Santander", "nombre": "Campos de Sport de El Sardinero", "imagen": "sardinero.jpg", "espectadores": "22.892"},
+    "fecha": "DOM 01/11/2026",
+    "hora": "16:15",
+    "arbitro": "Munuera Montero (colegio andaluz)",
+    "local": {"nombre": "Real Racing Club de Santander", "escudo": "rac.png", "goles": 0, "golesp": 0, "entrenador": "José Alberto López"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 3, "entrenador": "José Mourinho"},
+    "titularesLocal": [
+        {"dorsal": 13, "nombre": "Agirrezabala", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 2, "nombre": "Mantilla", "salida": "0", "cambio": "29'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
+        {"dorsal": 5, "nombre": "Pablo Ramón", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 24, "nombre": "Belocian", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 3, "nombre": "Aarón Martín", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 23, "nombre": "Iván Martín", "salida": "0", "cambio": "82'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 18, "nombre": "Prati", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Canales", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 19, "nombre": "Iker Luque ", "salida": "0", "cambio": "0", "amarilla": "1", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Íñigo Vicente", "salida": "0", "cambio": "82'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 21, "nombre": "Zabiri", "salida": "0", "cambio": "60'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesLocal": [
+        {"dorsal": 22, "nombre": "Pedro Felipe", "salida": "29'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Sainz-Maza", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Pablo García", "salida": "60'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 8, "nombre": "Almeida", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 7, "nombre": "Guliashvili", "salida": "82'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],
+    "titularesVisitante": [
+        {"dorsal": 1, "nombre": "Courtois", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 12, "nombre": "Alexander-Arnold", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 16, "nombre": "Konaté", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 4, "nombre": "Huijsen", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 17, "nombre": "Cucurella", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 14, "nombre": "Tchouaméni", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 20, "nombre": "Bernardo Silva", "salida": "0", "cambio": "77'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 15, "nombre": "Arda Güler", "salida": "0", "cambio": "67'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 5, "nombre": "Bellingham", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 25, "nombre": "Diomande", "salida": "0", "cambio": "85'", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0},
+        {"dorsal": 10, "nombre": "Mbappé", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 1, "golpp": 0, "lesion": 0}
+    ],
+    "suplentesVisitante": [
+        {"dorsal": 21, "nombre": "Brahim", "salida": "67'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 6, "nombre": "Camavinga", "salida": "77'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
+        {"dorsal": 9, "nombre": "Endrick", "salida": "85'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
+    ],    
+    "goles": [
+        {"gol": "0-1", "minuto": "11'", "descripcion": "Penalti de Prati sobre <span class=\"azul\">Mbappé</span> que él mismo se encarga de transformar."},
+        {"gol": "0-2", "minuto": "21'", "descripcion": "Gran pase profundo de Arda Güler para <span class=\"azul\">Bellingham</span> que se anticipa a Agirrezabala y marca a puerta vacía."},
+        {"gol": "0-3", "minuto": "36'", "descripcion": "<span class=\"azul\">Diomande</span> empalma con un tremendo derechazo desde la frontal un despeje de Zabiri a la salida de un córner."}
+    ],
+    "penaltis": []
+}
