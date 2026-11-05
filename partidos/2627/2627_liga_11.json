@@ -6,7 +6,7 @@
     "hora": "16:15",
     "arbitro": "Munuera Montero (colegio andaluz)",
     "local": {"nombre": "Real Racing Club de Santander", "escudo": "rac.png", "goles": 0, "golesp": 0, "entrenador": "José Alberto López"},
-    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 0, "golesp": 3, "entrenador": "José Mourinho"},
+    "visitante": {"nombre": "Real Madrid CF", "escudo": "rma.png", "goles": 3, "golesp": 0, "entrenador": "José Mourinho"},
     "titularesLocal": [
         {"dorsal": 13, "nombre": "Agirrezabala", "salida": "0", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0},
         {"dorsal": 2, "nombre": "Mantilla", "salida": "0", "cambio": "29'", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 1},
@@ -48,7 +48,7 @@
     "goles": [
         {"gol": "0-1", "minuto": "11'", "descripcion": "Penalti de Prati sobre <span class=\"azul\">Mbappé</span> que él mismo se encarga de transformar."},
         {"gol": "0-2", "minuto": "21'", "descripcion": "Gran pase profundo de Arda Güler para <span class=\"azul\">Bellingham</span> que se anticipa a Agirrezabala y marca a puerta vacía."},
-        {"gol": "0-3", "minuto": "36'", "descripcion": "<span class=\"azul\">Diomande</span> empalma con un tremendo derechazo desde la frontal un despeje de Zabiri a la salida de un córner."}
+        {"gol": "0-3", "minuto": "36'", "descripcion": "Despeje de Zabiri a la salida de un córner que empalma <span class=\"azul\">Diomande</span> con un tremendo derechazo desde la frontal."}
     ],
     "penaltis": []
 }

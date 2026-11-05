@@ -49,8 +49,8 @@
     ],    
     "goles": [
         {"gol": "0-1", "minuto": "12'", "descripcion": "<span class=\"azul\">Schröder</span> aprovecha un flojo rechace de Sullastres a la salida de un córner botado por Däbritz."},
-        {"gol": "1-1", "minuto": "32'", "descripcion": "<span class=\"azul\">Barrios</span> desborda a Noe por la izquierda, llega a la frontal y se saca un gran disparo cruzado imposible para Frohms."},
-        {"gol": "1-2", "minuto": "86'", "descripcion": "Balón suelto que engancha <span class=\"azul\">Caruso</span> desde la frontal con un potente derechazo."},
+        {"gol": "1-1", "minuto": "32'", "descripcion": "<span class=\"azul\">Barrios</span> desborda a Noe, llega a la frontal y se saca un gran disparo cruzado imposible para Frohms."},
+        {"gol": "1-2", "minuto": "86'", "descripcion": "Balón suelto tras un rechace defensivo que engancha <span class=\"azul\">Caruso</span> con un potente derechazo desde la frontal."},
         {"gol": "1-3", "minuto": "88'", "descripcion": "Pase profundo de Levels para <span class=\"azul\">Beerensteyn</span> que gana el duelo con Morcillo y marca de disparo raso cruzado."}
     ],
     "penaltis": []
