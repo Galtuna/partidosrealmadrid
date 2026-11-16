@@ -48,9 +48,9 @@
         {"dorsal": 19, "nombre": "Carlos Espí", "salida": "90+1'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "28'", "descripcion": "Falta que lanza Mbappé contra la barrera pero <span class=\"azul\">Valverde</span> recoge el rechace y engatilla un disparo raso cruzado."},
+        {"gol": "0-1", "minuto": "28'", "descripcion": "Falta que lanza Mbappé contra la barrera, <span class=\"azul\">Valverde</span> recoge el rechace y engatilla un disparo raso cruzado."},
         {"gol": "0-2", "minuto": "36'", "descripcion": "Bellingham supera a Pepelu, gana línea de fondo y centra para que <span class=\"azul\">Arda Güler</span> remate en el segundo palo."},
-        {"gol": "0-3", "minuto": "75'", "descripcion": "Arda Güler gana un pelotazo de Courtois ante Pepelu y asiste para <span class=\"azul\">Mbappé</span> que regatea a Dimitrievski y anota."}
+        {"gol": "0-3", "minuto": "75'", "descripcion": "Arda Güler gana un pelotazo de Courtois ante Pepelu y asiste a <span class=\"azul\">Mbappé</span> que regatea a Dimitrievski y anota."}
     ],
     "penaltis": []
 }

@@ -43,7 +43,7 @@
         {"dorsal": 30, "nombre": "Mastantuono", "salida": "90'", "cambio": "0", "amarilla": "0", "roja": "0", "gol": 0, "golpp": 0, "lesion": 0}
     ],    
     "goles": [
-        {"gol": "0-1", "minuto": "1'", "descripcion": "Error de Neuer dando un pase en salida que aprovecha <span class=\"azul\">Arda Güler</span> para macar desde lejos."},
+        {"gol": "0-1", "minuto": "1'", "descripcion": "Error de Neuer dando un pase en salida que aprovecha <span class=\"azul\">Arda Güler</span> para marcar desde lejos."},
         {"gol": "1-1", "minuto": "6'", "descripcion": "Córner que bota Kimmich y remata de cabeza <span class=\"azul\">Pavlović</span> en línea de gol."},
         {"gol": "1-2", "minuto": "29'", "descripcion": "Falta directa que convierte <span class=\"azul\">Arda Güler</span> con un gran tiro que supera la barrera."},
         {"gol": "2-2", "minuto": "38'", "descripcion": "Upamecano filtra en el área para <span class=\"azul\">Kane</span> que controla y remata lejos del alcance de Lunin."},
