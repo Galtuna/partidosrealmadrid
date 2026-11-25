@@ -41,17 +41,17 @@
             {"equipo": "Atlético Madrid", "pj": 12, "pg": 8, "pe": 1, "pp": 3, "gf": 27, "gc": 14, "puntos": 25, "icono": "champ.png"},
             {"equipo": "Madrid CCF", "pj": 12, "pg": 6, "pe": 2, "pp": 4, "gf": 21, "gc": 24, "puntos": 20},
             {"equipo": "Athletic", "pj": 12, "pg": 5, "pe": 4, "pp": 3, "gf": 17, "gc": 18, "puntos": 19},
+            {"equipo": "Espanyol", "pj": 12, "pg": 5, "pe": 3, "pp": 4, "gf": 17, "gc": 14, "puntos": 18},
             {"equipo": "Tenerife", "pj": 11, "pg": 5, "pe": 2, "pp": 4, "gf": 17, "gc": 18, "puntos": 17},
             {"equipo": "Logroño United", "pj": 12, "pg": 5, "pe": 1, "pp": 6, "gf": 17, "gc": 17, "puntos": 16},
             {"equipo": "Real Sociedad", "pj": 12, "pg": 4, "pe": 4, "pp": 4, "gf": 15, "gc": 19, "puntos": 16},
-            {"equipo": "Espanyol", "pj": 11, "pg": 4, "pe": 3, "pp": 4, "gf": 15, "gc": 14, "puntos": 15},
             {"equipo": "Deportivo", "pj": 12, "pg": 3, "pe": 3, "pp": 6, "gf": 13, "gc": 16, "puntos": 12},
             {"equipo": "Eibar", "pj": 12, "pg": 3, "pe": 3, "pp": 6, "gf": 12, "gc": 18, "puntos": 12},
             {"equipo": "Badalona", "pj": 12, "pg": 3, "pe": 3, "pp": 6, "gf": 14, "gc": 24, "puntos": 12},
             {"equipo": "Granada", "pj": 12, "pg": 3, "pe": 3, "pp": 6, "gf": 10, "gc": 21, "puntos": 12},
             {"equipo": "Alavés", "pj": 11, "pg": 3, "pe": 2, "pp": 6, "gf": 9, "gc": 17, "puntos": 11},
             {"equipo": "Sevilla", "pj": 12, "pg": 2, "pe": 4, "pp": 6, "gf": 12, "gc": 19, "puntos": 10, "icono": "abajo.png"},
-            {"equipo": "Valencia", "pj": 11, "pg": 2, "pe": 1, "pp": 8, "gf": 8, "gc": 19, "puntos": 7, "icono": "abajo.png"}
+            {"equipo": "Valencia", "pj": 12, "pg": 2, "pe": 1, "pp": 9, "gf": 8, "gc": 21, "puntos": 7, "icono": "abajo.png"}
         ],
         "ascensos": ["", ""],
         "extra": "El <span class='azul'>DUX Logroño</span> pasa a denominarse <span class='azul'>Logroño United</span> y modifica su escudo."
